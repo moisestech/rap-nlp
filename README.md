@@ -3,9 +3,11 @@ Rhythm and Poetry UI powered by natural language processing and react.
 
 **Front-End** 🎨
 - React.JS
+- Node.JS
 
 **Back-End** ⚙
 - Flask
+- NLTK
 - Word2Vec
 
 
@@ -18,7 +20,7 @@ Rhythm and Poetry UI powered by natural language processing and react.
 **Create Mode:**
 - Users can create a batch of phrases.
 - Users can link phrases from other batches.
-- Users can tag batch, phrases, and words.
+- Users can tag a batch, phrases, and words.
 
 **Play Mode:**
 - Users can shuffle batch orders.
