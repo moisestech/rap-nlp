@@ -30,6 +30,20 @@ Rhythm and Poetry UI powered by natural language processing and react.
 
 ------------------------------------------------------------------------------------
 
-Interface UI/UX Flow Examples Coming Soon!
+**UX Request**
+- Scroll session batches
+- Shuffle batch phrases
+- Suggest similar batches
+
+**UI Demos**
+Interface UI Flow Examples Coming Soon!
+
+
+------------------------------------------------------------------------------------
+
+
+
+
+
 
 
