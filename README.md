@@ -3,9 +3,11 @@ Rhythm and Poetry UI powered by natural language processing and react.
 
 **Front-End** 🎨
 - React.JS
-- Node.JS
+- Styled Components
 
 **Back-End** ⚙
+- Node.JS
+- GraphQL
 - Flask
 - NLTK
 - Word2Vec
@@ -40,6 +42,10 @@ Interface UI Flow Examples Coming Soon!
 
 
 ------------------------------------------------------------------------------------
+
+**GraphQL Schema**
+
+[graphqleditor.com ](graphqleditor.com)
 
 
 
