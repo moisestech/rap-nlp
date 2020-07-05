@@ -38,7 +38,9 @@ Rhythm and Poetry UI powered by natural language processing and react.
 - Suggest similar batches
 
 **UI Demos**
-Interface UI Flow Examples Coming Soon!
+Interface UI Flow Examples — More Coming Soon!
+
+![rap-nlp Batch ui](https://raw.githubusercontent.com/Moises404/rapbot/master/rapbot.png)
 
 
 ------------------------------------------------------------------------------------
