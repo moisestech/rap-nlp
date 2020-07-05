@@ -44,8 +44,8 @@ Interface UI Flow Examples Coming Soon!
 ------------------------------------------------------------------------------------
 
 **GraphQL Schema**
-
-[graphqleditor.com ](graphqleditor.com)
+![rap-nlp schema V1](https://raw.githubusercontent.com/moisestech/rap-nlp/master/public/assets/qraphql-schema-flow-v1.png)
+Made with [graphqleditor.com ](graphqleditor.com)
 
 
 
