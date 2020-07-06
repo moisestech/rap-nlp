@@ -1,0 +1,455 @@
+{
+  "filename": "happy_wordbank",
+  "title": "Happy Wordbank 2017",
+  "documentId": "happy_wordbank",
+  "phrases": [
+    {
+      "phrase": "",
+      "phraseToParse": "amused",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "beaming",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "blissful",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "blithe",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "buoyant",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "carefree",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "cheerful",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "cheery",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "chipper",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "chirpy",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "content",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "contented",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "delighted",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "ebullient",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "ecstatic",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "elated",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "enraptured",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "euphoric",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "exhilarated",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "exultant",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "funny",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "glad",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "gleeful",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "gratified",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "grinning",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "happy",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "in a good mood",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "in good spirits",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "in seventh heaven",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "invigorated",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "jocular",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "jolly",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "jovial",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "joyful",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "joyous",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "jubilant",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "lighthearted",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "merry",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "mirthful",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "never been better",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "on cloud nine",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "on top of the world",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "optomistic",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "overjoyed",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "over the moon",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "pleased",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "radiant",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "rapturous",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "satisfied",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "smiling",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "sunny",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "thrilled",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "tickled pink",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "untroubled",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "upbeat",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "walking on air",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    }
+  ]
+}

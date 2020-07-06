@@ -1,0 +1,196 @@
+{
+  "filename": "technology_lyrics",
+  "title": "Technology Lyrics",
+  "documentId": "technology_lyrics",
+  "website": "",
+  "phrases": [{
+    "phrase": "",
+    "phraseToParse": "I’m like Sprint and Motorola, No service, out of your range",
+    "imgData": {
+      "url": "nelly.png"
+    },
+    "metaData": {
+      "artist": "Nelly"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "I don’t do too much blogging I just run the town, I don’t do too much jogging",
+    "imgData": {
+      "url": "drake.png"
+    },
+    "metaData": {
+      "artist": "Drake"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "I used to be a baller but now I’m Bill Gaten",
+    "imgData": {
+      "url": "lil_wayne.png"
+    },
+    "metaData": {
+      "artist": "Lil Wayne"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "Super Nintendo Sega Genesis When I was dead broke man I couldn’t picture this",
+    "imgData": {
+      "url": "biggie.png"
+    },
+    "metaData": {
+      "artist": "Biggie Smalls"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "Out the country but the BlueBerry still connect",
+    "imgData": {
+      "url": "kanye_2.png"
+    },
+    "metaData": {
+      "artist": "Kanye West"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "Emails on iPads don't answer when phone rings",
+    "imgData": {
+      "url": "dannybrown.png"
+    },
+    "metaData": {
+      "artist": "Danny Brown"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "Her poker Facebook, I'd already read it",
+    "imgData": {
+      "url": "kid_cudi.png"
+    },
+    "metaData": {
+      "artist": "Kid Cudi"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "Give her that iPhone 4 FaceTime",
+    "imgData": {
+      "url": "fabolous.png"
+    },
+    "metaData": {
+      "artist": "Fabolous"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "I'm the Higgs Boson And though my style freakish I could still break your body down to five pieces like I did Voltron",
+    "imgData": {
+      "url": "chance_the_rapper.png"
+    },
+    "metaData": {
+      "artist": "Chance the rapper"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "I don't know nothing 'bout iChat I work in this iPhone they need an app called iTrap",
+    "imgData": {
+      "url": "two_chainz_2.png"
+    },
+    "metaData": {
+      "artist": "2 Chainz"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "If God had a iPod I'd be on his playlist",
+    "imgData": {
+      "url": "kanye.png"
+    },
+    "metaData": {
+      "artist": "Kanye West"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "This is anti-auto-tune death of the ringtone This ain't for iTunes this ain't for sing alongs",
+    "imgData": {
+      "url": "jay_z_2.png"
+    },
+    "metaData": {
+      "artist": "Jay-Z"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "In the summer a peacoat My iPhone is jailbroke",
+    "imgData": {
+      "url": "e-40.png"
+    },
+    "metaData": {
+      "artist": "E-40"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "Attached to your girl like a .jpeg",
+    "imgData": {
+      "url": "jeezy.png"
+    },
+    "metaData": {
+      "artist": "Jeezy"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "Canal Streeting my style, like you internet sharing my files",
+    "imgData": {
+      "url": "clipse.png"
+    },
+    "metaData": {
+      "artist": "Clipse"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "Frank Sinatra on my Sonos",
+    "imgData": {
+      "url": "jay_z_2.png"
+    },
+    "metaData": {
+      "artist": "Jay-Z"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "Fuck hashtags and retweets 140 characters in these streets",
+    "imgData": {
+      "url": "jay_z.png"
+    },
+    "metaData": {
+      "artist": "Jay-Z"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "And why god's phone die everytime that I call on him If his son had a Twitter wonder if I would follow him",
+    "imgData": {
+      "url": "chance_the_rapper.png"
+    },
+    "metaData": {
+      "artist": "Chance the rapper"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "Love us or not, the Mark Zuckerbergs of the Block",
+    "imgData": {
+      "url": "raekwon.png"
+    },
+    "metaData": {
+      "artist": "Raekwon"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "“Put the cellphone down for a while in the night there is something wild",
+    "imgData": {
+      "url": "arcade_fire.png"
+    },
+    "metaData": {
+      "artist": "Arcade Fire"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "Would skip you like a spacebar, but I much rather delete",
+    "imgData": {
+      "url": "two_chainz.png"
+    },
+    "metaData": {
+      "artist": "2 Chainz"
+    }
+  }]
+}

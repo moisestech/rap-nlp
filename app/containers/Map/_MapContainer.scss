@@ -1,0 +1,344 @@
+.Map {
+  @include display(flex);
+  @include justify-content(center);
+  @include align-items(center);
+  @include flex-direction(column);
+  height: 100%;
+  min-width: 100vw;
+  p {
+    width: 50%;
+  }
+}
+
+.Video-wrapper {
+  @include display(flex);
+  @include align-items(center);
+  @include justify-content(center);
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 0;
+  width: 100vw;
+  // height: calc(100vh - #{$NAV_HEIGHT}});
+  height: 100vh;
+  overflow: hidden;
+  // mix-blend-mode: overlay;
+  pointer-events: none;
+
+  & > .Video {
+    position: absolute;
+    width:  250% !important;
+    height: 250% !important;
+  }
+}
+
+.BlendMode {
+  @include display(flex);
+  @include align-items(center);
+  @include justify-content(center);
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 5;
+  width: 100vw;
+  height: calc(100vh - #{$NAV_HEIGHT}});
+  overflow: hidden;
+  background: cyan;
+  mix-blend-mode: saturation;
+}
+
+.Renderer {
+  @include display(flex);
+  @include align-items(center);
+  @include justify-content(flex-end);
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 0;
+  width: 100vw;
+  height: calc(100vh - #{$NAV_HEIGHT}});
+  overflow: hidden;
+  pointer-events: none;
+  // mix-blend-mode: difference;
+  z-index: 100;
+
+  @media (max-width: 1000px) {
+    width: 100%;
+    @include justify-content(center);
+  }
+}
+
+.Render-layer {
+  position: absolute;
+  padding-right: 20px;
+  height: 100vh;
+  width: 100vw;
+  @include flex(1);
+  @include align-items(center);
+  @include justify-content(space-between);
+  @include display(flex);
+  background: transparent;
+  // background: rgba(255, 255, 255, 1);
+  // mix-blend-mode: overlay;
+}
+
+.Render-info {
+  @include flex-direction(column);
+  width: 35%;
+  padding-left: 50px;
+  @include align-items(center);
+}
+
+.Render-image {
+  width: 25%;
+}
+
+.Render-text {
+  font-size: 8em;
+}
+.Render-subtext {
+  font-size: 1.8em;
+}
+
+.Render-keytext {
+  color: magenta;
+}
+.Render-keyvalue {
+  color: cyan;
+}
+
+.Background-wrapper {
+  position: absolute;
+  z-index: 0;
+  width: 100vw;
+  // height: calc(100vh - #{$NAV_HEIGHT}});
+  height: 100%;
+  @include display(flex);
+  @include align-items(center);
+  @include justify-content(center);
+  opacity: 0.85;
+  background: white;
+  // background: url('../images/giphy-1.gif');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.Background {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  overflow: hidden;
+  z-index: 0;
+
+  img {
+    display: block;
+    position: absolute;
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: cubic-bezier(0.140, 0.345, 0.640, 0.840);
+  }
+}
+
+.img-big { animation-name: bigZoom; }
+.img-small { animation-name: smallZoom; }
+
+@keyframes bigZoom {
+  0% { transform: perspective(200px) translate3d( 0, 0, 0); }
+  100% { transform: perspective(200px) translate3d( -18px, 69px, 500px); }
+}
+
+@keyframes smallZoom {
+  from {
+    transform: perspective(200px) translate3d( 0px, -520px, -1300px);
+    opacity: 0;
+  }
+  to {
+    transform: perspective(200px) translate3d( 0, 0, 0);
+    opacity: 1;
+  }
+
+}
+
+$bg-url: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAIAAACRXR/mAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAIGNIUk0AAHolAACAgwAA+f8AAIDpAAB1MAAA6mAAADqYAAAXb5JfxUYAAABnSURBVHja7M5RDYAwDEXRDgmvEocnlrQS2SwUFST9uEfBGWs9c97nbGtDcquqiKhOImLs/UpuzVzWEi1atGjRokWLFi1atGjRokWLFi1atGjRokWLFi1af7Ukz8xWp8z8AAAA//8DAJ4LoEAAlL1nAAAAAElFTkSuQmCC";
+$bg-width: 50px;
+$bg-height: 50px;
+
+/* Animations */
+@-webkit-keyframes bg-scrolling-reverse {
+  100% { background-position: $bg-width $bg-height; }
+}
+@-moz-keyframes    bg-scrolling-reverse {
+  100% { background-position: $bg-width $bg-height; }
+}
+@-o-keyframes      bg-scrolling-reverse {
+  100% { background-position: $bg-width $bg-height; }
+}
+@keyframes         bg-scrolling-reverse {
+  100% { background-position: $bg-width $bg-height; }
+}
+
+@-webkit-keyframes bg-scrolling {
+  0% { background-position: $bg-width $bg-height; }
+}
+@-moz-keyframes    bg-scrolling {
+  0% { background-position: $bg-width $bg-height; }
+}
+@-o-keyframes      bg-scrolling {
+  0% { background-position: $bg-width $bg-height; }
+}
+@keyframes         bg-scrolling {
+  0% { background-position: $bg-width $bg-height; }
+}
+
+/* Main styles */
+.Background-infinite-grid {
+  width: 100vw;
+  height: 100vh;
+  z-index: 0;
+
+  color: #999;
+  font: 400 16px/1.5 exo, ubuntu, "segoe ui", helvetica, arial, sans-serif;
+  text-align: center;
+  /* img size is 50x50 */
+  background: url($bg-url) repeat 0 0;
+
+  -webkit-animation: bg-scrolling-reverse .92s infinite; /* Safari 4+ */
+  -moz-animation:    bg-scrolling-reverse .92s infinite; /* Fx 5+ */
+  -o-animation:      bg-scrolling-reverse .92s infinite; /* Opera 12+ */
+  animation:         bg-scrolling-reverse .92s infinite; /* IE 10+ */
+  -webkit-animation-timing-function: linear;
+  -moz-animation-timing-function:    linear;
+  -o-animation-timing-function:      linear;
+  animation-timing-function:         linear;
+}
+
+
+.diamonds {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  opacity: 0;
+  background-color: #fff;
+  background-image: repeating-linear-gradient(135deg, transparent, #000 25%), repeating-linear-gradient(225deg, transparent, #000 25%), repeating-linear-gradient(90deg, transparent, magenta 25%), repeating-linear-gradient(45deg, transparent, magenta 25%), repeating-linear-gradient(260deg, transparent, #000 25%), repeating-linear-gradient(0deg, #000, #000 25%);
+  background-size: 50% 50%;
+  -webkit-animation: diamonds 4s 6s both infinite alternate;
+  /* Safari 4+ */
+
+  -moz-animation: diamonds 4s 6s both infinite alternate;
+  /* Fx 5+ */
+
+  -o-animation: diamonds 4s 6s both infinite alternate;
+  /* Opera 12+ */
+
+  animation: diamonds 4s 6s both infinite alternate;
+  /* IE 10+, Fx 29+ */
+}
+
+.concentric-circles {
+  z-index: 10;
+  position: absolute;
+  opacity: 0;
+  width: 100%;
+  height: 100%;
+  background: repeating-radial-gradient( circle at 0 0, transparent, magenta 3%), repeating-radial-gradient( circle at top right, transparent, gold 3%);
+  -webkit-animation: diamonds 6s infinite both alternate;
+  /* Safari 4+ */
+
+  -moz-animation: diamonds 6s infinite both alternate;
+  /* Fx 5+ */
+
+  -o-animation: diamonds 6s infinite both alternate;
+  /* Opera 12+ */
+
+  animation: diamonds 6s infinite both alternate;
+  /* IE 10+, Fx 29+ */
+}
+
+.pattern {
+  position: absolute;
+  opacity: 0;
+  width: 100%;
+  height: 100%;
+  background-color: #fff;
+  background-image: repeating-linear-gradient(225deg, transparent, #000 25%), repeating-linear-gradient(45deg, transparent, lime 25%);
+  background-size: 100% 100%;
+  -webkit-animation: diamonds 8s 2s infinite both alternate;
+  /* Safari 4+ */
+
+  -moz-animation: diamonds 8s 2s infinite both alternate;
+  /* Fx 5+ */
+
+  -o-animation: diamonds 8s 2s infinite both alternate;
+  /* Opera 12+ */
+
+  animation: diamonds 8s 2s infinite both alternate;
+  /* IE 10+, Fx 29+ */
+}
+
+.cube {
+  position: absolute;
+  z-index: 9;
+  width: 100%;
+  opacity: 0;
+  height: 100%;
+  background-color: #556;
+  background-image: linear-gradient(30deg, lime 12%, transparent 12.5%, transparent 87%, lime 87.5%, lime), linear-gradient(150deg, lime 12%, transparent 12.5%, transparent 87%, lime 87.5%, lime), linear-gradient(30deg, lime 12%, transparent 12.5%, transparent 87%, lime 87.5%, lime), linear-gradient(150deg, lime 12%, transparent 12.5%, transparent 87%, lime 87.5%, lime);
+  background-size: 80px 140px;
+  background-position: 0 0, 0 0, 40px 70px, 40px 70px, 0 0, 40px 70px;
+  -webkit-animation: cube 10s 10s infinite both alternate;
+  /* Safari 4+ */
+
+  -moz-animation: cube 10s 10s infinite both alternate;
+  /* Fx 5+ */
+
+  -o-animation: cube 10s 10s infinite both alternate;
+  /* Opera 12+ */
+
+  animation: cube 10s 10s infinite both alternate;
+  /* IE 10+, Fx 29+ */
+}
+
+@-webkit-keyframes diamonds {
+  to {
+    opacity: 1;
+  }
+}
+
+@-moz-keyframes diamonds {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@-o-keyframes diamonds {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes diamonds {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+

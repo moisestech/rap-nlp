@@ -1,0 +1,862 @@
+{
+  "phrases"Id"": [
+  {
+    "id": 126235,
+    "syllableCount": 1,
+    "word": 'Gold',
+    "vowelsound": ['oʊ']
+  },
+  {
+    "id": 2351,
+    "syllableCount": 1,
+    "word": 'Bold',
+    "vowelsound": ['oʊ']
+  },
+  {
+    "id": 3086456,
+    "syllableCount": 1,
+    "word": 'Park',
+    "vowelsound": ['ɑ']
+  },
+  {
+    "id": 42356,
+    "syllableCount": 1,
+    "word": 'Cloud',
+    "vowelsound": ['aʊ']
+  },
+  {
+    "id": 557845,
+    "syllableCount": 1,
+    "word": 'Bit',
+    "vowelsound": ['ɪ']
+  },
+  {
+    "id": 62365736,
+    "syllableCount": 1,
+    "word": 'World',
+    "vowelsound": ['ɜ']
+  },
+  {
+    "id": 7346,
+    "syllableCount": 1,
+    "word": 'W"id"e',
+    "vowelsound": ['aɪ']
+  },
+  {
+    "id": 8909678,
+    "syllableCount": 1,
+    "word": 'Life',
+    "vowelsound": ['aɪ']
+  },
+  {
+    "id": 2369,
+    "syllableCount": 2,
+    "word": 'Giga',
+    "vowelsound": ['aɪ', 'æ']
+  },
+  {
+    "id": 1235460,
+    "syllableCount": 2,
+    "word": 'Cloud 9',
+    "vowelsound": ['aʊ', 'aɪ']
+  },
+  {
+    "id": 189751,
+    "syllableCount": 2,
+    "word": 'Sequence',
+    "vowelsound": ['i', 'ə']
+  },
+  {
+    "id": 1231232,
+    "syllableCount": 2,
+    "word": 'Net Art',
+    "vowelsound": ['ɛ', 'ɑ']
+  },
+  {
+    "id": 1,
+    "syllableCount": 1,
+    "word": 'Gold',
+    "vowelsound": ['oʊ']
+  },
+  {
+    "id": 2,
+    "syllableCount": 1,
+    "word": 'Bold',
+    "vowelsound": ['oʊ']
+  },
+  {
+    "id": 3,
+    "syllableCount": 1,
+    "word": 'Park',
+    "vowelsound": ['ɑ']
+  },
+  {
+    "id": 4,
+    "syllableCount": 1,
+    "word": 'Cloud',
+    "vowelsound": ['aʊ']
+  },
+  {
+    "id": 5,
+    "syllableCount": 1,
+    "word": 'Bit',
+    "vowelsound": ['ɪ']
+  },
+  {
+    "id": 6,
+    "syllableCount": 1,
+    "word": 'World',
+    "vowelsound": ['ɜ']
+  },
+  {
+    "id": 7,
+    "syllableCount": 1,
+    "word": 'W"id"e',
+    "vowelsound": ['aɪ']
+  },
+  {
+    "id": 8,
+    "syllableCount": 1,
+    "word": 'Life',
+    "vowelsound": ['aɪ']
+  },
+  {
+    "id": 9,
+    "syllableCount": 2,
+    "word": 'Giga',
+    "vowelsound": ['aɪ', 'æ']
+  },
+  {
+    "id": 10,
+    "syllableCount": 2,
+    "word": 'Cloud 9',
+    "vowelsound": ['aʊ', 'aɪ']
+  },
+  {
+    "id": 11,
+    "syllableCount": 2,
+    "word": 'Sequence',
+    "vowelsound": ['i', 'ə']
+  },
+  {
+    "id": 12,
+    "syllableCount": 2,
+    "word": 'Net Art',
+    "vowelsound": ['ɛ', 'ɑ']
+  },
+  {
+    "id": 13,
+    "syllableCount": 2,
+    "word": 'Money',
+    "vowelsound": ['æ', 'i']
+  },
+  {
+    "id": 14,
+    "syllableCount": 2,
+    "word": 'Local',
+    "vowelsound": ['oʊ', 'ə']
+  },
+  {
+    "id": 15,
+    "syllableCount": 2,
+    "word": 'Beta',
+    "vowelsound": ['eɪ', 'ə']
+  },
+  {
+    "id": 16,
+    "syllableCount": 2,
+    "word": 'Rhythmic',
+    "vowelsound": ['ɪ', 'ɪ']
+  },
+  {
+    "id": 17,
+    "syllableCount": 2,
+    "word": 'Algo',
+    "vowelsound": ['æ', 'ə']
+  },
+  {
+    "id": 18,
+    "syllableCount": 2,
+    "word": 'Ounces',
+    "vowelsound": ['aʊ', 'ə']
+  },
+  {
+    "id": 19,
+    "syllableCount": 1,
+    "word": 'Web',
+    "vowelsound": ['ɛ']
+  },
+  {
+    "id": 20,
+    "syllableCount": 1,
+    "word": 'Code',
+    "vowelsound": ['oʊ']
+  },
+  {
+    "id": 21,
+    "syllableCount": 1,
+    "word": 'Death',
+    "vowelsound": ['ɛ']
+  },
+  {
+    "id": 22,
+    "syllableCount": 1,
+    "word": 'Self',
+    "vowelsound": ['ɛ']
+  },
+  {
+    "id": 23,
+    "syllableCount": 1,
+    "word": 'Dream',
+    "vowelsound": ['i']
+  },
+  {
+    "id": 24,
+    "syllableCount": 1,
+    "word": 'You',
+    "vowelsound": ['u']
+  },
+  {
+    "id": 25,
+    "syllableCount": 1,
+    "word": 'Can',
+    "vowelsound": ['æ']
+  },
+  {
+    "id": 26,
+    "syllableCount": 1,
+    "word": 'Feel',
+    "vowelsound": ['i']
+  },
+  {
+    "id": 27,
+    "syllableCount": 1,
+    "word": 'Lit',
+    "vowelsound": ['ɪ']
+  },
+  {
+    "id": 28,
+    "syllableCount": 1,
+    "word": 'Dope',
+    "vowelsound": ['oʊ']
+  },
+  {
+    "id": 29,
+    "syllableCount": 1,
+    "word": 'It',
+    "vowelsound": ['ɪ']
+  },
+  {
+    "id": 30,
+    "syllableCount": 1,
+    "word": 'Hug',
+    "vowelsound": ['ʌ']
+  },
+  {
+    "id": 31,
+    "syllableCount": 1,
+    "word": 'Apps',
+    "vowelsound": ['æ']
+  },
+  {
+    "id": 32,
+    "syllableCount": 1,
+    "word": 'Light',
+    "vowelsound": ['aɪ']
+  },
+  {
+    "id": 33,
+    "syllableCount": 1,
+    "word": 'Child',
+    "vowelsound": ['aɪ']
+  },
+  {
+    "id": 34,
+    "syllableCount": 1,
+    "word": 'Squad',
+    "vowelsound": ['ɑ']
+  },
+  {
+    "id": 35,
+    "syllableCount": 1,
+    "word": 'Stick',
+    "vowelsound": ['ɪ']
+  },
+  {
+    "id": 36,
+    "syllableCount": 1,
+    "word": 'Wave',
+    "vowelsound": ['eɪ']
+  },
+  {
+    "id": 37,
+    "syllableCount": 1,
+    "word": 'Deep',
+    "vowelsound": ['i']
+  },
+  {
+    "id": 38,
+    "syllableCount": 1,
+    "word": 'Game',
+    "vowelsound": ['eɪ']
+  },
+  {
+    "id": 39,
+    "syllableCount": 1,
+    "word": 'Work',
+    "vowelsound": ['ɜ']
+  },
+  {
+    "id": 40,
+    "syllableCount": 1,
+    "word": 'Bars',
+    "vowelsound": ['ɑ']
+  },
+  {
+    "id": 41,
+    "syllableCount": 1,
+    "word": 'Dough',
+    "vowelsound": ['oʊ']
+  },
+  {
+    "id": 42,
+    "syllableCount": 1,
+    "word": 'Killed',
+    "vowelsound": ['ɪ']
+  },
+  {
+    "id": 43,
+    "syllableCount": 1,
+    "word": 'Pills',
+    "vowelsound": ['ɪ']
+  },
+  {
+    "id": 44,
+    "syllableCount": 1,
+    "word": 'Cheap',
+    "vowelsound": ['i']
+  },
+  {
+    "id": 45,
+    "syllableCount": 1,
+    "word": 'Peace',
+    "vowelsound": ['i']
+  },
+  {
+    "id": 44123,
+    "syllableCount": 1,
+    "word": 'Let',
+    "vowelsound": ['ɛ']
+  },
+  {
+    "id": 41235,
+    "syllableCount": 1,
+    "word": 'Bang',
+    "vowelsound": ['æ']
+  },
+  {
+    "id": 46,
+    "syllableCount": 1,
+    "word": 'True',
+    "vowelsound": ['u']
+  },
+  {
+    "id": 47,
+    "syllableCount": 1,
+    "word": 'Art',
+    "vowelsound": ['ɑ']
+  },
+  {
+    "id": 48,
+    "syllableCount": 1,
+    "word": 'New',
+    "vowelsound": ['u']
+  },
+  {
+    "id": 49,
+    "syllableCount": 1,
+    "word": 'Now',
+    "vowelsound": ['aʊ']
+  },
+  {
+    "id": 50,
+    "syllableCount": 1,
+    "word": 'War',
+    "vowelsound": ['ɔ']
+  },
+  {
+    "id": 51,
+    "syllableCount": 1,
+    "word": 'Room',
+    "vowelsound": ['u']
+  },
+  {
+    "id": 52,
+    "syllableCount": 1,
+    "word": 'Down',
+    "vowelsound": ['aʊ']
+  },
+  {
+    "id": 53,
+    "syllableCount": 1,
+    "word": 'Soul',
+    "vowelsound": ['oʊ']
+  },
+  {
+    "id": 54,
+    "syllableCount": 1,
+    "word": 'Stress',
+    "vowelsound": ['ɛ']
+  },
+  {
+    "id": 55,
+    "syllableCount": 1,
+    "word": 'Meme',
+    "vowelsound": ['i']
+  },
+  {
+    "id": 56,
+    "syllableCount": 1,
+    "word": 'Take',
+    "vowelsound": ['eɪ']
+  },
+  {
+    "id": 57,
+    "syllableCount": 1,
+    "word": 'Day',
+    "vowelsound": ['eɪ']
+  },
+  {
+    "id": 58,
+    "syllableCount": 1,
+    "word": 'Off',
+    "vowelsound": ['ɔ']
+  },
+  {
+    "id": 59,
+    "syllableCount": 1,
+    "word": 'Pa"id"',
+    "vowelsound": ['eɪ']
+  },
+  {
+    "id": 60,
+    "syllableCount": 2,
+    "word": 'Peta',
+    "vowelsound": ['ɛ', 'ə']
+  },
+  {
+    "id": 61,
+    "syllableCount": 2,
+    "word": 'Secret',
+    "vowelsound": ['i', 'ə']
+  },
+  {
+    "id": 62,
+    "syllableCount": 2,
+    "word": 'Omni',
+    "vowelsound": ['ɑ', 'i']
+  },
+  {
+    "id": 64,
+    "syllableCount": 2,
+    "word": 'Anti',
+    "vowelsound": ['æ', 'i']
+  },
+  {
+    "id": 65,
+    "syllableCount": 2,
+    "word": 'Loco',
+    "vowelsound": ['oʊ', 'oʊ']
+  },
+  {
+    "id": 66,
+    "syllableCount": 2,
+    "word": 'Present',
+    "vowelsound": ['ɛ', 'ə']
+  },
+  {
+    "id": 67,
+    "syllableCount": 2,
+    "word": 'Future',
+    "vowelsound": ['u', 'ə']
+  },
+  {
+    "id": 68,
+    "syllableCount": 2,
+    "word": 'Desktop',
+    "vowelsound": ['ɛ', 'ɑ']
+  },
+  {
+    "id": 69,
+    "syllableCount": 2,
+    "word": 'Implies',
+    "vowelsound": ['ɪ', 'aɪ']
+  },
+  {
+    "id": 70,
+    "syllableCount": 2,
+    "word": 'Other',
+    "vowelsound": ['ʌ', 'ə']
+  },
+  {
+    "id": 72,
+    "syllableCount": 2,
+    "word": 'Yolo',
+    "vowelsound": ['oʊ', 'oʊ']
+  },
+  {
+    "id": 73,
+    "syllableCount": 2,
+    "word": 'Dying',
+    "vowelsound": ['a', 'i']
+  },
+  {
+    "id": 74,
+    "syllableCount": 2,
+    "word": 'Dodo',
+    "vowelsound": ['oʊ', 'oʊ']
+  },
+  {
+    "id": 75,
+    "syllableCount": 2,
+    "word": 'Valley',
+    "vowelsound": ['æ', 'i']
+  },
+  {
+    "id": 76,
+    "syllableCount": 2,
+    "word": 'Pretend',
+    "vowelsound": ['i', 'ɛ']
+  },
+  {
+    "id": 77,
+    "syllableCount": 2,
+    "word": 'Matters',
+    "vowelsound": ['æ', 'ə']
+  },
+  {
+    "id": 78,
+    "syllableCount": 2,
+    "word": 'Market',
+    "vowelsound": ['ɑ', 'ə']
+  },
+  {
+    "id": 79,
+    "syllableCount": 2,
+    "word": 'Evil',
+    "vowelsound": ['i', 'ə']
+  },
+  {
+    "id": 80,
+    "syllableCount": 2,
+    "word": 'Angel',
+    "vowelsound": ['eɪ', 'ə']
+  },
+  {
+    "id": 81,
+    "syllableCount": 2,
+    "word": 'Puppys',
+    "vowelsound": ['ʌ', 'i']
+  },
+  {
+    "id": 82,
+    "syllableCount": 2,
+    "word": 'Yourself',
+    "vowelsound": ['ə', 'ɛ']
+ },
+ {
+    "id": 83,
+    "syllableCount": 3,
+    "word": 'Visual',
+    "vowelsound": ['ɪ', 'ə', 'ə']
+ },
+ {
+    "id": 84,
+    "syllableCount": 3,
+    "word": 'Component',
+    "vowelsound": ['ə', 'oʊ', 'ə']
+ },
+ {
+    "id": 85,
+    "syllableCount": 3,
+    "word": 'Organic',
+    "vowelsound": ['ɔ', 'æ', 'ɪ']
+ },
+ {
+    "id": 86,
+    "syllableCount": 3,
+    "word": 'Sequences',
+    "vowelsound": ['i', 'ə', 'ə']
+ },
+ {
+    "id": 87,
+    "syllableCount": 3,
+    "word": 'Radio',
+    "vowelsound": ['eɪ', 'i', 'oʊ']
+ },
+ {
+    "id": 88,
+    "syllableCount": 3,
+    "word": 'Virtual',
+    "vowelsound": ['ɜ', 'u', 'ə']
+ },
+ {
+    "id": 89,
+    "syllableCount": 3,
+    "word": 'Stranger',
+    "vowelsound": ['e', 'ɪ', 'ə']
+ },
+ {
+    "id": 90,
+    "syllableCount": 3,
+    "word": 'Monument',
+    "vowelsound": ['ɑ', 'u', 'ə']
+ },
+ {
+    "id": 91,
+    "syllableCount": 3,
+    "word": 'Silicon',
+    "vowelsound": ['ɪ', 'ə', 'ə']
+ },
+ {
+    "id": 92,
+    "syllableCount": 3,
+    "word": 'Honestly',
+    "vowelsound": ['ɑ', 'ə', 'i']
+ },
+ {
+    "id": 93,
+    "syllableCount": 3,
+    "word": 'Expressing',
+    "vowelsound": ['ɪ', 'ɛ', 'ɪ']
+ },
+ {
+    "id": 94,
+    "syllableCount": 3,
+    "word": 'Memory',
+    "vowelsound": ['ɛ', 'ə', 'i']
+ },
+ {
+    "id": 95,
+    "syllableCount": 3,
+    "word": 'Acrobats',
+    "vowelsound": ['æ', 'ə', 'æ']
+ },
+ {
+    "id": 96,
+    "syllableCount": 3,
+    "word": 'Serial',
+    "vowelsound": ['ɪ', 'i', 'ə']
+ },
+ {
+    "id": 97,
+    "syllableCount": 3,
+    "word": 'Industry',
+    "vowelsound": ['ɪ', 'ə', 'i']
+ },
+ {
+    "id": 98,
+    "syllableCount": 3,
+    "word": 'Exiting',
+    "vowelsound": ['ɛ', 'ɪ', 'ɪ']
+ },
+ {
+    "id": 99,
+    "syllableCount": 3,
+    "word": 'Poetic',
+    "vowelsound": ['oʊ', 'ɛ', 'ɪ']
+ },
+ {
+    "id": 100,
+    "syllableCount": 3,
+    "word": 'Fabricate',
+    "vowelsound": ['æ', 'ə', 'ɪ']
+ },
+ {
+    "id": 101,
+    "syllableCount": 3,
+    "word": 'Character',
+    "vowelsound": ['æ', 'ə', 'ə']
+ },
+ {
+    "id": 102,
+    "syllableCount": 3,
+    "word": 'Generators',
+    "vowelsound": ['ɛ', 'ə', 'eɪ', 'ə']
+ },
+ {
+    "id": 103,
+    "syllableCount": 3,
+    "word": 'Theory',
+    "vowelsound": ['ɪ', 'i']
+ },
+ {
+    "id": 104,
+    "syllableCount": 3,
+    "word": 'Immortal',
+    "vowelsound": ['ɪ', 'ɔ', 'ə']
+ },
+ {
+    "id": 105,
+    "syllableCount": 3,
+    "word": 'Infinite',
+    "vowelsound": ['ɪ', 'ə', 'ə']
+ },
+ {
+    "id": 106,
+    "syllableCount": 3,
+    "word": 'Energy',
+    "vowelsound": ['ɛ', 'ə', 'i']
+ },
+ {
+    "id": 107,
+    "syllableCount": 3,
+    "word": 'Effective',
+    "vowelsound": ['ɪ', 'ɛ', 'ɪ']
+ },
+ {
+    "id": 108,
+    "syllableCount": 3,
+    "word": 'Powerful',
+    "vowelsound": ['a', 'ʊə', 'ə']
+ },
+ {
+    "id": 109,
+    "syllableCount": 3,
+    "word": 'Alchemist',
+    "vowelsound": ['æ', 'ə', 'ɪ']
+ },
+ {
+    "id": 110,
+    "syllableCount": 3,
+    "word": 'Mystery',
+    "vowelsound": ['ɪ', 'ə', 'i']
+ },
+ {
+    "id": 111,
+    "syllableCount": 3,
+    "word": 'Nemesis',
+    "vowelsound": ['ɛ', 'ə', 'ɪ']
+ },
+ {
+    "id": 112,
+    "syllableCount": 3,
+    "word": 'Injecting',
+    "vowelsound": ['ɪ', 'ɛ', 'ɪ']
+ },
+ {
+    "id": 113,
+    "syllableCount": 3,
+    "word": 'Universe',
+    "vowelsound": ['u', 'ə', 'ɜ']
+ },
+ {
+    "id": 114,
+    "syllableCount": 3,
+    "word": 'Powerful',
+    "vowelsound": ['aʊ', 'ə', 'ə']
+ },
+ {
+    "id": 115,
+    "syllableCount": 3,
+    "word": 'Creative',
+    "vowelsound": ['i', 'eɪ', 'ɪ']
+ },
+ {
+    "id": 116,
+    "syllableCount": 3,
+    "word": 'Religion',
+    "vowelsound": ['ɪ', 'ɪ', 'ə']
+ },
+ {
+    "id": 117,
+    "syllableCount": 3,
+    "word": 'Untethered',
+    "vowelsound": ['ʌ', 'ɛ', 'ə']
+ },
+ {
+    "id": 118,
+    "syllableCount": 2,
+    "word": 'Schizo',
+    "vowelsound": ['ɪ', 'ə']
+ },
+ {
+    "id": 119,
+    "syllableCount": 3,
+    "word": 'Memetic',
+    "vowelsound": ['ɪ', 'ɛ', 'ɪ']
+ },
+ {
+    "id": 129,
+    "syllableCount": 3,
+    "word": 'United',
+    "vowelsound": ['u', 'aɪ', 'ə']
+ },
+ {
+    "id": 133,
+    "syllableCount": 4,
+    "word": 'Conceptual',
+    "vowelsound": ['ə', 'ɛ', 'u', 'ə']
+ },
+ {
+    "id": 134,
+    "syllableCount": 4,
+    "word": 'Distributor',
+    "vowelsound": ['ɪ', 'ɪ', 'ə', 'ə']
+ },
+ {
+    "id": 135,
+    "syllableCount": 4,
+    "word": 'Telepathy',
+    "vowelsound": ['ə', 'ɛ', 'ə', 'i']
+ },
+ {
+    "id": 136,
+    "syllableCount": 4,
+    "word": 'yoga',
+    "vowelsound": ['oʊ', 'ə']
+ },
+ {
+    "id": 137,
+    "syllableCount": 4,
+    "word": '"Id"entity',
+    "vowelsound": ['aɪ', 'ɛ', 'ə', 'i']
+ },
+ {
+    "id": 138,
+    "syllableCount": 5,
+    "word": 'Capitalism',
+    "vowelsound": ['a', 'ə', 'i', 'ə']
+ },
+ {
+    "id": 139,
+    "syllableCount": 5,
+    "word": 'Theoretical',
+    "vowelsound": ['iə', 'ɛ', 'ɪ', 'ə']
+ },
+ {
+    "id": 140,
+    "syllableCount": 5,
+    "word": "Spiritual",
+    "vowelsound": ['ɪ', 'ɪ', 'ə', 'ə']
+ },
+ {
+    "id": 130,
+    "syllableCount": 4,
+    "word": "Economy",
+    "vowelsound": ['i', 'ɒ', 'ə', 'i']
+ },
+ {
+    "id": 131,
+    "syllableCount": 4,
+    "word": "Intelligence",
+    "vowelsound": ['ɪ', 'ɛ', 'ɪ', 'ə']
+  },
+  {
+    "id": 132,
+    "syllableCount": 4,
+    "word": "Fabricators",
+    "vowelsound": ['æ', 'ɪ', 'e', 'ə']
+  }
+]
+}

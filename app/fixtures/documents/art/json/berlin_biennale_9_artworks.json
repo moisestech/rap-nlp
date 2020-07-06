@@ -1,0 +1,385 @@
+{
+  "filename": "berlin_biennale_9_artworks",
+  "title": "Berlin Biennale 9 Artworks",
+  "documentId": "berlin_biennale_9_artworks",
+  "website": "",
+  "phrases": [{
+    "phrase": "",
+    "phraseToParse": "Blind Wiki Unveiling the Unseen A citizen network project involving participants with vision loss",
+    "imgData": {
+      "url": "BB9_Antoni-Abad-Blind-Wiki_030616__20150603_0027.jpg"
+    },
+    "metaData": {
+      "artist": "Antoni Abad"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "Homeland",
+    "imgData": {
+      "url": "bb9_halil-altindere_homeland_IMG_3996-1024x768.jpg"
+    },
+    "metaData": {
+      "artist": "Halil Altindere"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "How to DISappear in America",
+    "imgData": {
+      "url": "BB9_Ei-Arakawa-Performance_020616__20150604_0149.jpg"
+    },
+    "metaData": {
+      "artist": "Ei Arakawa"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "Passage",
+    "imgData": {
+      "url": "BB9_atelier_de_balto_02-1024x683.jpg"
+    },
+    "metaData": {
+      "artist": "atelier le balto"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "An Intelligence Agency for the People",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {
+      "artist": "Armen Avanessian/Alexander Martos"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "ARCHITECTURE",
+    "imgData": {
+      "url": "BB9_ayr_01-1024x575.jpg"
+    },
+    "metaData": {
+      "artist": "åyr"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "I AM A PROBLEM",
+    "imgData": {
+      "url": "BB9_Wiill_Benedict_01-1024x683.jpg"
+    },
+    "metaData": {
+      "artist": "Will Benedict"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "Monument Left and Right",
+    "imgData": {
+      "url": "BB9_Julien_Ceccaldi_01-1024x910.jpg"
+    },
+    "metaData": {
+      "artist": "Julien Ceccaldi"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "Level Five",
+    "imgData": {
+      "url": "condon_52-1.jpg"
+    },
+    "metaData": {
+      "artist": "Brody Condon"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "Nguni Arts International",
+    "imgData": {
+      "url": "BB9_Cuss_Group_01-1024x683.jpg"
+    },
+    "metaData": {
+      "artist": "CUSS Group"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "Sauna",
+    "imgData": {
+      "url": "Sauna-1024x516.png"
+    },
+    "metaData": {
+      "artist": "Kathleen Daniel"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "MINT",
+    "imgData": {
+      "url": "BB9_Debora_Delmar_02-1024x651.jpg"
+    },
+    "metaData": {
+      "artist": "Debora Delmar Corp."
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "Blockchain Visionaries",
+    "imgData": {
+      "url": "BB9_Simon_Denny_03.jpg"
+    },
+    "metaData": {
+      "artist": "Simon Denny with Linda Kantchev"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "What the Heart Wants",
+    "imgData": {
+      "url": "BB9_Cecile_B_Evans_01-1024x659.jpg"
+    },
+    "metaData": {
+      "artist": "Cécile B. Evans"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "Everything needs its own absence",
+    "imgData": {
+      "url": "BB9_Nicolas_Fernandez__02-1024x674.jpg"
+    },
+    "metaData": {
+      "artist": "Nicolás Fernández"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "As yet untitled sculptural theater",
+    "imgData": {
+      "url": "BB9_Lizzie_Fitch_Ryan_Trecartin_04-1024x605.jpg"
+    },
+    "metaData": {
+      "artist": "Lizzie Fitch/Ryan Trecartin"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "The Happy Museum",
+    "imgData": {
+      "url": "BB9_Simon_Fujiwara_01-1024x457.jpg"
+    },
+    "metaData": {
+      "artist": "Simon Fujiwara"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "Positive Pathways",
+    "imgData": {
+      "url": "BB9_GCC_installation_view_01-1.jpg"
+    },
+    "metaData": {
+      "artist": "GCC"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "Sunrise",
+    "imgData": {
+      "url": "BB9_GUAN_Xiao_03-1024x683.jpg"
+    },
+    "metaData": {
+      "artist": "GUAN Xiao"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "Untitled interiors",
+    "imgData": {
+      "url": "BB9_Calla_Henkel_Max_Pitegoff_02-1024x683-1.jpg"
+    },
+    "metaData": {
+      "artist": "Calla Henkel/Max Pitegoff"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "Office of Unreplied Emails",
+    "imgData": {
+      "url": "BB9_Camille_Henrot_01-1.jpg"
+    },
+    "metaData": {
+      "artist": "Camille Henrot"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "Army of Love",
+    "imgData": {
+      "url": "BB9_Alexa_Karolinski_Ingo_Nierman_02-1024x679.jpg"
+    },
+    "metaData": {
+      "artist": "Alexa Karolinski/Ingo Niermann"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "Sunset at the pimple mountains",
+    "imgData": {
+      "url": "BB9_Kartenrecht_01.jpg"
+    },
+    "metaData": {
+      "artist": "Kartenrecht"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "Crying Games",
+    "imgData": {
+      "url": "BB9_Josh_Kline_08-1024x683.jpg"
+    },
+    "metaData": {
+      "artist": "Josh Kline"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "Nik Kosmas",
+    "imgData": {
+      "url": "BB9_Nik_Kosmas_03-1.jpg"
+    },
+    "metaData": {
+      "artist": "Power Rack"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "Expansion Curves fire worship purple horns",
+    "imgData": {
+      "url": "BB9_Katja_Novitskova__01-1024x686.jpg"
+    },
+    "metaData": {
+      "artist": "Katja Novitskova"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "Autonomy Cube",
+    "imgData": {
+      "url": "Autonomy_Cube.jpg"
+    },
+    "metaData": {
+      "artist": "Trevor Paglen/Jacob Appelbaum"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "Ewaipanoma Rihanna",
+    "imgData": {
+      "url": "BB9_Juan_Sebastian_Pealez_01.jpg"
+    },
+    "metaData": {
+      "artist": "Juan Sebastián Peláez"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "Howdy",
+    "imgData": {
+      "url": "BB9_Adrian_Piper_01.jpg"
+    },
+    "metaData": {
+      "artist": "Adrian Piper"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "Signals",
+    "imgData": {
+      "url": "BB9_Alexandra_Pirici_09-1024x683.jpg"
+    },
+    "metaData": {
+      "artist": "Alexandra Pirici"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "Josephine Pryde",
+    "imgData": {
+      "url": "BB9_Josephine_Pryde_05-1.jpg"
+    },
+    "metaData": {
+      "artist": "The New Media Express"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "Puppies Puppies",
+    "imgData": {
+      "url": "BB9_Puppies_Puppies_01-1.jpg"
+    },
+    "metaData": {
+      "artist": "Untitled Purell"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "View of Pariser Platz",
+    "imgData": {
+      "url": "BB9_Jon_Rafman_07-1024x683.jpg"
+    },
+    "metaData": {
+      "artist": "Jon Rafman"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "A Reflected Landscape",
+    "imgData": {
+      "url": "BB9_Timur_Si_Qin_01-1024x683.jpg"
+    },
+    "metaData": {
+      "artist": "Timur Si Qin"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "Schwarze Pumpe Three",
+    "imgData": {
+      "url": "BB9_Lucie_Stahl_03-1024x708.jpg"
+    },
+    "metaData": {
+      "artist": "Lucie Stahl"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "The Tower",
+    "imgData": {
+      "url": "BB9_Hito_Steyerl_05-1024x683.jpg"
+    },
+    "metaData": {
+      "artist": "Hito Steyerl"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "PERSONAL UNIFORMS",
+    "imgData": {
+      "url": "BB9_TELFAR_01-1024x693.jpg"
+    },
+    "metaData": {
+      "artist": "TELFAR"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "New Eelam",
+    "imgData": {
+      "url": "BB9_Christopher_Kulendran_Thomas_09-1024x683.jpg"
+    },
+    "metaData": {
+      "artist": "Christopher Kulendran Thomas"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "Duilian",
+    "imgData": {
+      "url": "BB9_Wu_Tsang_01-1024x628.jpg"
+    },
+    "metaData": {
+      "artist": "Wu Tsang"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "Transit Mode",
+    "imgData": {
+      "url": "BB9_Anna_Uddenberg_10-1024x683.jpg"
+    },
+    "metaData": {
+      "artist": "Anna Uddenberg"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "PRIVILEGE",
+    "imgData": {
+      "url": "BB9_Amalia_Ulman_01-1024x764.jpg"
+    },
+    "metaData": {
+      "artist": "Amalia Ulman"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "Anne de Vries",
+    "imgData": {
+      "url": "BB9_Anne_de_Vries_01-1024x788.jpg"
+    },
+    "metaData": {
+      "artist": "Oblivion"
+    }
+  }]
+}

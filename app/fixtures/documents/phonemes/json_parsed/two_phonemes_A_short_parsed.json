@@ -1,0 +1,6083 @@
+{
+  "title": "Two Phonemes A Short",
+  "phrases": {
+    "two_phonemes_A_short-0": {
+      "phraseId": "two_phonemes_A_short-0",
+      "phrase": "Backstab",
+      "parsedPhrase": "Backstab",
+      "phrasePhonemes": "b-ae-k-s-t-ae-b",
+      "phrasePhonemesArray": [
+        "b",
+        "ae",
+        "k",
+        "s",
+        "t",
+        "ae",
+        "b"
+      ],
+      "phraseVowelsArray": [
+        {
+          "vowelPhoneme": "ae",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        },
+        {
+          "vowelPhoneme": "ae",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        }
+      ],
+      "phraseWordCount": 1,
+      "phrasePhonemeCount": 2,
+      "phraseLastPhoneme": {
+        "vowelPhoneme": "ae",
+        "vowelSound": "short",
+        "vowelLetter": "A"
+      },
+      "phraseWords": [
+        {
+          "wordId": "two_phonemes_A_short-0-0",
+          "word": "Backstab",
+          "wordPhoneme": "b-ae-k-s-t-ae-b",
+          "wordPhonemesArray": [
+            "b",
+            "ae",
+            "k",
+            "s",
+            "t",
+            "ae",
+            "b"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ae",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            },
+            {
+              "vowelPhoneme": "ae",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 2,
+          "wordPosTag": {
+            "posTag": "nnp",
+            "posName": "Proper noun, singular"
+          },
+          "wordStresses": "1/0",
+          "documentId": "two_phonemes_A_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        }
+      ],
+      "documentId": "two_phonemes_A_short",
+      "phraseCategory": {
+        "phraseCategory1Id": "phraseCategory1",
+        "phraseCategory2Id": "phraseCategory2"
+      },
+      "phraseMetaData": {},
+      "phraseImgData": {
+        "url": ""
+      }
+    },
+    "two_phonemes_A_short-1": {
+      "phraseId": "two_phonemes_A_short-1",
+      "phrase": "Blast at",
+      "parsedPhrase": "Blast at",
+      "phrasePhonemes": "b-l-ae-s-t ae-t",
+      "phrasePhonemesArray": [
+        "b",
+        "l",
+        "ae",
+        "s",
+        "t",
+        "ae",
+        "t"
+      ],
+      "phraseVowelsArray": [
+        {
+          "vowelPhoneme": "ae",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        },
+        {
+          "vowelPhoneme": "ae",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        }
+      ],
+      "phraseWordCount": 2,
+      "phrasePhonemeCount": 2,
+      "phraseLastPhoneme": {
+        "vowelPhoneme": "ae",
+        "vowelSound": "short",
+        "vowelLetter": "A"
+      },
+      "phraseWords": [
+        {
+          "wordId": "two_phonemes_A_short-1-0",
+          "word": "Blast",
+          "wordPhoneme": "b-l-ae-s-t",
+          "wordPhonemesArray": [
+            "b",
+            "l",
+            "ae",
+            "s",
+            "t"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ae",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "nnp",
+            "posName": "Proper noun, singular"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_A_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        },
+        {
+          "wordId": "two_phonemes_A_short-1-1",
+          "word": "at",
+          "wordPhoneme": "ae-t",
+          "wordPhonemesArray": [
+            "ae",
+            "t"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ae",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "in",
+            "posName": "Preposition or subordinating conjunction"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_A_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        }
+      ],
+      "documentId": "two_phonemes_A_short",
+      "phraseCategory": {
+        "phraseCategory1Id": "phraseCategory1",
+        "phraseCategory2Id": "phraseCategory2"
+      },
+      "phraseMetaData": {},
+      "phraseImgData": {
+        "url": ""
+      }
+    },
+    "two_phonemes_A_short-2": {
+      "phraseId": "two_phonemes_A_short-2",
+      "phrase": "Fast track",
+      "parsedPhrase": "Fast track",
+      "phrasePhonemes": "f-ae-s-t t-r-ae-k",
+      "phrasePhonemesArray": [
+        "f",
+        "ae",
+        "s",
+        "t",
+        "t",
+        "r",
+        "ae",
+        "k"
+      ],
+      "phraseVowelsArray": [
+        {
+          "vowelPhoneme": "ae",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        },
+        {
+          "vowelPhoneme": "ae",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        }
+      ],
+      "phraseWordCount": 2,
+      "phrasePhonemeCount": 2,
+      "phraseLastPhoneme": {
+        "vowelPhoneme": "ae",
+        "vowelSound": "short",
+        "vowelLetter": "A"
+      },
+      "phraseWords": [
+        {
+          "wordId": "two_phonemes_A_short-2-0",
+          "word": "Fast",
+          "wordPhoneme": "f-ae-s-t",
+          "wordPhonemesArray": [
+            "f",
+            "ae",
+            "s",
+            "t"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ae",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "rb",
+            "posName": "Adverb"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_A_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        },
+        {
+          "wordId": "two_phonemes_A_short-2-1",
+          "word": "track",
+          "wordPhoneme": "t-r-ae-k",
+          "wordPhonemesArray": [
+            "t",
+            "r",
+            "ae",
+            "k"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ae",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "nn",
+            "posName": "Noun, singular or mass"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_A_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        }
+      ],
+      "documentId": "two_phonemes_A_short",
+      "phraseCategory": {
+        "phraseCategory1Id": "phraseCategory1",
+        "phraseCategory2Id": "phraseCategory2"
+      },
+      "phraseMetaData": {},
+      "phraseImgData": {
+        "url": ""
+      }
+    },
+    "two_phonemes_A_short-3": {
+      "phraseId": "two_phonemes_A_short-3",
+      "phrase": "Gasp at",
+      "parsedPhrase": "Gasp at",
+      "phrasePhonemes": "g-ae-s-p ae-t",
+      "phrasePhonemesArray": [
+        "g",
+        "ae",
+        "s",
+        "p",
+        "ae",
+        "t"
+      ],
+      "phraseVowelsArray": [
+        {
+          "vowelPhoneme": "ae",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        },
+        {
+          "vowelPhoneme": "ae",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        }
+      ],
+      "phraseWordCount": 2,
+      "phrasePhonemeCount": 2,
+      "phraseLastPhoneme": {
+        "vowelPhoneme": "ae",
+        "vowelSound": "short",
+        "vowelLetter": "A"
+      },
+      "phraseWords": [
+        {
+          "wordId": "two_phonemes_A_short-3-0",
+          "word": "Gasp",
+          "wordPhoneme": "g-ae-s-p",
+          "wordPhonemesArray": [
+            "g",
+            "ae",
+            "s",
+            "p"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ae",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "nnp",
+            "posName": "Proper noun, singular"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_A_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        },
+        {
+          "wordId": "two_phonemes_A_short-3-1",
+          "word": "at",
+          "wordPhoneme": "ae-t",
+          "wordPhonemesArray": [
+            "ae",
+            "t"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ae",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "in",
+            "posName": "Preposition or subordinating conjunction"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_A_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        }
+      ],
+      "documentId": "two_phonemes_A_short",
+      "phraseCategory": {
+        "phraseCategory1Id": "phraseCategory1",
+        "phraseCategory2Id": "phraseCategory2"
+      },
+      "phraseMetaData": {},
+      "phraseImgData": {
+        "url": ""
+      }
+    },
+    "two_phonemes_A_short-4": {
+      "phraseId": "two_phonemes_A_short-4",
+      "phrase": "Grasp that",
+      "parsedPhrase": "Grasp that",
+      "phrasePhonemes": "g-r-ae-s-p dh-ae-t",
+      "phrasePhonemesArray": [
+        "g",
+        "r",
+        "ae",
+        "s",
+        "p",
+        "dh",
+        "ae",
+        "t"
+      ],
+      "phraseVowelsArray": [
+        {
+          "vowelPhoneme": "ae",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        },
+        {
+          "vowelPhoneme": "ae",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        }
+      ],
+      "phraseWordCount": 2,
+      "phrasePhonemeCount": 2,
+      "phraseLastPhoneme": {
+        "vowelPhoneme": "ae",
+        "vowelSound": "short",
+        "vowelLetter": "A"
+      },
+      "phraseWords": [
+        {
+          "wordId": "two_phonemes_A_short-4-0",
+          "word": "Grasp",
+          "wordPhoneme": "g-r-ae-s-p",
+          "wordPhonemesArray": [
+            "g",
+            "r",
+            "ae",
+            "s",
+            "p"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ae",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "vb",
+            "posName": "Verb, base form"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_A_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        },
+        {
+          "wordId": "two_phonemes_A_short-4-1",
+          "word": "that",
+          "wordPhoneme": "dh-ae-t",
+          "wordPhonemesArray": [
+            "dh",
+            "ae",
+            "t"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ae",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "in",
+            "posName": "Preposition or subordinating conjunction"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_A_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        }
+      ],
+      "documentId": "two_phonemes_A_short",
+      "phraseCategory": {
+        "phraseCategory1Id": "phraseCategory1",
+        "phraseCategory2Id": "phraseCategory2"
+      },
+      "phraseMetaData": {},
+      "phraseImgData": {
+        "url": ""
+      }
+    },
+    "two_phonemes_A_short-5": {
+      "phraseId": "two_phonemes_A_short-5",
+      "phrase": "Lack that",
+      "parsedPhrase": "Lack that",
+      "phrasePhonemes": "l-ae-k dh-ae-t",
+      "phrasePhonemesArray": [
+        "l",
+        "ae",
+        "k",
+        "dh",
+        "ae",
+        "t"
+      ],
+      "phraseVowelsArray": [
+        {
+          "vowelPhoneme": "ae",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        },
+        {
+          "vowelPhoneme": "ae",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        }
+      ],
+      "phraseWordCount": 2,
+      "phrasePhonemeCount": 2,
+      "phraseLastPhoneme": {
+        "vowelPhoneme": "ae",
+        "vowelSound": "short",
+        "vowelLetter": "A"
+      },
+      "phraseWords": [
+        {
+          "wordId": "two_phonemes_A_short-5-0",
+          "word": "Lack",
+          "wordPhoneme": "l-ae-k",
+          "wordPhonemesArray": [
+            "l",
+            "ae",
+            "k"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ae",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "nnp",
+            "posName": "Proper noun, singular"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_A_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        },
+        {
+          "wordId": "two_phonemes_A_short-5-1",
+          "word": "that",
+          "wordPhoneme": "dh-ae-t",
+          "wordPhonemesArray": [
+            "dh",
+            "ae",
+            "t"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ae",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "in",
+            "posName": "Preposition or subordinating conjunction"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_A_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        }
+      ],
+      "documentId": "two_phonemes_A_short",
+      "phraseCategory": {
+        "phraseCategory1Id": "phraseCategory1",
+        "phraseCategory2Id": "phraseCategory2"
+      },
+      "phraseMetaData": {},
+      "phraseImgData": {
+        "url": ""
+      }
+    },
+    "two_phonemes_A_short-6": {
+      "phraseId": "two_phonemes_A_short-6",
+      "phrase": "Last track",
+      "parsedPhrase": "Last track",
+      "phrasePhonemes": "l-ae-s-t t-r-ae-k",
+      "phrasePhonemesArray": [
+        "l",
+        "ae",
+        "s",
+        "t",
+        "t",
+        "r",
+        "ae",
+        "k"
+      ],
+      "phraseVowelsArray": [
+        {
+          "vowelPhoneme": "ae",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        },
+        {
+          "vowelPhoneme": "ae",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        }
+      ],
+      "phraseWordCount": 2,
+      "phrasePhonemeCount": 2,
+      "phraseLastPhoneme": {
+        "vowelPhoneme": "ae",
+        "vowelSound": "short",
+        "vowelLetter": "A"
+      },
+      "phraseWords": [
+        {
+          "wordId": "two_phonemes_A_short-6-0",
+          "word": "Last",
+          "wordPhoneme": "l-ae-s-t",
+          "wordPhonemesArray": [
+            "l",
+            "ae",
+            "s",
+            "t"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ae",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "jj",
+            "posName": "Adjective"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_A_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        },
+        {
+          "wordId": "two_phonemes_A_short-6-1",
+          "word": "track",
+          "wordPhoneme": "t-r-ae-k",
+          "wordPhonemesArray": [
+            "t",
+            "r",
+            "ae",
+            "k"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ae",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "nn",
+            "posName": "Noun, singular or mass"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_A_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        }
+      ],
+      "documentId": "two_phonemes_A_short",
+      "phraseCategory": {
+        "phraseCategory1Id": "phraseCategory1",
+        "phraseCategory2Id": "phraseCategory2"
+      },
+      "phraseMetaData": {},
+      "phraseImgData": {
+        "url": ""
+      }
+    },
+    "two_phonemes_A_short-7": {
+      "phraseId": "two_phonemes_A_short-7",
+      "phrase": "Nab that",
+      "parsedPhrase": "Nab that",
+      "phrasePhonemes": "n-ae-b dh-ae-t",
+      "phrasePhonemesArray": [
+        "n",
+        "ae",
+        "b",
+        "dh",
+        "ae",
+        "t"
+      ],
+      "phraseVowelsArray": [
+        {
+          "vowelPhoneme": "ae",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        },
+        {
+          "vowelPhoneme": "ae",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        }
+      ],
+      "phraseWordCount": 2,
+      "phrasePhonemeCount": 2,
+      "phraseLastPhoneme": {
+        "vowelPhoneme": "ae",
+        "vowelSound": "short",
+        "vowelLetter": "A"
+      },
+      "phraseWords": [
+        {
+          "wordId": "two_phonemes_A_short-7-0",
+          "word": "Nab",
+          "wordPhoneme": "n-ae-b",
+          "wordPhonemesArray": [
+            "n",
+            "ae",
+            "b"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ae",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "vb",
+            "posName": "Verb, base form"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_A_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        },
+        {
+          "wordId": "two_phonemes_A_short-7-1",
+          "word": "that",
+          "wordPhoneme": "dh-ae-t",
+          "wordPhonemesArray": [
+            "dh",
+            "ae",
+            "t"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ae",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "in",
+            "posName": "Preposition or subordinating conjunction"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_A_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        }
+      ],
+      "documentId": "two_phonemes_A_short",
+      "phraseCategory": {
+        "phraseCategory1Id": "phraseCategory1",
+        "phraseCategory2Id": "phraseCategory2"
+      },
+      "phraseMetaData": {},
+      "phraseImgData": {
+        "url": ""
+      }
+    },
+    "two_phonemes_A_short-8": {
+      "phraseId": "two_phonemes_A_short-8",
+      "phrase": "Pass back",
+      "parsedPhrase": "Pass back",
+      "phrasePhonemes": "p-ae-s b-ae-k",
+      "phrasePhonemesArray": [
+        "p",
+        "ae",
+        "s",
+        "b",
+        "ae",
+        "k"
+      ],
+      "phraseVowelsArray": [
+        {
+          "vowelPhoneme": "ae",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        },
+        {
+          "vowelPhoneme": "ae",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        }
+      ],
+      "phraseWordCount": 2,
+      "phrasePhonemeCount": 2,
+      "phraseLastPhoneme": {
+        "vowelPhoneme": "ae",
+        "vowelSound": "short",
+        "vowelLetter": "A"
+      },
+      "phraseWords": [
+        {
+          "wordId": "two_phonemes_A_short-8-0",
+          "word": "Pass",
+          "wordPhoneme": "p-ae-s",
+          "wordPhonemesArray": [
+            "p",
+            "ae",
+            "s"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ae",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "vb",
+            "posName": "Verb, base form"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_A_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        },
+        {
+          "wordId": "two_phonemes_A_short-8-1",
+          "word": "back",
+          "wordPhoneme": "b-ae-k",
+          "wordPhonemesArray": [
+            "b",
+            "ae",
+            "k"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ae",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "rb",
+            "posName": "Adverb"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_A_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        }
+      ],
+      "documentId": "two_phonemes_A_short",
+      "phraseCategory": {
+        "phraseCategory1Id": "phraseCategory1",
+        "phraseCategory2Id": "phraseCategory2"
+      },
+      "phraseMetaData": {},
+      "phraseImgData": {
+        "url": ""
+      }
+    },
+    "two_phonemes_A_short-9": {
+      "phraseId": "two_phonemes_A_short-9",
+      "phrase": "Passed that",
+      "parsedPhrase": "Passed that",
+      "phrasePhonemes": "p-ae-s-t dh-ae-t",
+      "phrasePhonemesArray": [
+        "p",
+        "ae",
+        "s",
+        "t",
+        "dh",
+        "ae",
+        "t"
+      ],
+      "phraseVowelsArray": [
+        {
+          "vowelPhoneme": "ae",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        },
+        {
+          "vowelPhoneme": "ae",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        }
+      ],
+      "phraseWordCount": 2,
+      "phrasePhonemeCount": 2,
+      "phraseLastPhoneme": {
+        "vowelPhoneme": "ae",
+        "vowelSound": "short",
+        "vowelLetter": "A"
+      },
+      "phraseWords": [
+        {
+          "wordId": "two_phonemes_A_short-9-0",
+          "word": "Passed",
+          "wordPhoneme": "p-ae-s-t",
+          "wordPhonemesArray": [
+            "p",
+            "ae",
+            "s",
+            "t"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ae",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "vbn",
+            "posName": "Verb, past participle"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_A_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        },
+        {
+          "wordId": "two_phonemes_A_short-9-1",
+          "word": "that",
+          "wordPhoneme": "dh-ae-t",
+          "wordPhonemesArray": [
+            "dh",
+            "ae",
+            "t"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ae",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "in",
+            "posName": "Preposition or subordinating conjunction"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_A_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        }
+      ],
+      "documentId": "two_phonemes_A_short",
+      "phraseCategory": {
+        "phraseCategory1Id": "phraseCategory1",
+        "phraseCategory2Id": "phraseCategory2"
+      },
+      "phraseMetaData": {},
+      "phraseImgData": {
+        "url": ""
+      }
+    },
+    "two_phonemes_A_short-10": {
+      "phraseId": "two_phonemes_A_short-10",
+      "phrase": "That's rap",
+      "parsedPhrase": "Thats rap",
+      "phrasePhonemes": "th-ae-t-s r-ae-p",
+      "phrasePhonemesArray": [
+        "th",
+        "ae",
+        "t",
+        "s",
+        "r",
+        "ae",
+        "p"
+      ],
+      "phraseVowelsArray": [
+        {
+          "vowelPhoneme": "ae",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        },
+        {
+          "vowelPhoneme": "ae",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        }
+      ],
+      "phraseWordCount": 2,
+      "phrasePhonemeCount": 2,
+      "phraseLastPhoneme": {
+        "vowelPhoneme": "ae",
+        "vowelSound": "short",
+        "vowelLetter": "A"
+      },
+      "phraseWords": [
+        {
+          "wordId": "two_phonemes_A_short-10-0",
+          "word": "Thats",
+          "wordPhoneme": "th-ae-t-s",
+          "wordPhonemesArray": [
+            "th",
+            "ae",
+            "t",
+            "s"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ae",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "nnps",
+            "posName": "Proper noun, plural"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_A_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        },
+        {
+          "wordId": "two_phonemes_A_short-10-1",
+          "word": "rap",
+          "wordPhoneme": "r-ae-p",
+          "wordPhonemesArray": [
+            "r",
+            "ae",
+            "p"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ae",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "nn",
+            "posName": "Noun, singular or mass"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_A_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        }
+      ],
+      "documentId": "two_phonemes_A_short",
+      "phraseCategory": {
+        "phraseCategory1Id": "phraseCategory1",
+        "phraseCategory2Id": "phraseCategory2"
+      },
+      "phraseMetaData": {},
+      "phraseImgData": {
+        "url": ""
+      }
+    },
+    "two_phonemes_A_short-11": {
+      "phraseId": "two_phonemes_A_short-11",
+      "phrase": "That's that",
+      "parsedPhrase": "Thats that",
+      "phrasePhonemes": "th-ae-t-s dh-ae-t",
+      "phrasePhonemesArray": [
+        "th",
+        "ae",
+        "t",
+        "s",
+        "dh",
+        "ae",
+        "t"
+      ],
+      "phraseVowelsArray": [
+        {
+          "vowelPhoneme": "ae",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        },
+        {
+          "vowelPhoneme": "ae",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        }
+      ],
+      "phraseWordCount": 2,
+      "phrasePhonemeCount": 2,
+      "phraseLastPhoneme": {
+        "vowelPhoneme": "ae",
+        "vowelSound": "short",
+        "vowelLetter": "A"
+      },
+      "phraseWords": [
+        {
+          "wordId": "two_phonemes_A_short-11-0",
+          "word": "Thats",
+          "wordPhoneme": "th-ae-t-s",
+          "wordPhonemesArray": [
+            "th",
+            "ae",
+            "t",
+            "s"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ae",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "nnps",
+            "posName": "Proper noun, plural"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_A_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        },
+        {
+          "wordId": "two_phonemes_A_short-11-1",
+          "word": "that",
+          "wordPhoneme": "dh-ae-t",
+          "wordPhonemesArray": [
+            "dh",
+            "ae",
+            "t"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ae",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "in",
+            "posName": "Preposition or subordinating conjunction"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_A_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        }
+      ],
+      "documentId": "two_phonemes_A_short",
+      "phraseCategory": {
+        "phraseCategory1Id": "phraseCategory1",
+        "phraseCategory2Id": "phraseCategory2"
+      },
+      "phraseMetaData": {},
+      "phraseImgData": {
+        "url": ""
+      }
+    },
+    "two_phonemes_A_short-12": {
+      "phraseId": "two_phonemes_A_short-12",
+      "phrase": "Back track",
+      "parsedPhrase": "Back track",
+      "phrasePhonemes": "b-ae-k t-r-ae-k",
+      "phrasePhonemesArray": [
+        "b",
+        "ae",
+        "k",
+        "t",
+        "r",
+        "ae",
+        "k"
+      ],
+      "phraseVowelsArray": [
+        {
+          "vowelPhoneme": "ae",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        },
+        {
+          "vowelPhoneme": "ae",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        }
+      ],
+      "phraseWordCount": 2,
+      "phrasePhonemeCount": 2,
+      "phraseLastPhoneme": {
+        "vowelPhoneme": "ae",
+        "vowelSound": "short",
+        "vowelLetter": "A"
+      },
+      "phraseWords": [
+        {
+          "wordId": "two_phonemes_A_short-12-0",
+          "word": "Back",
+          "wordPhoneme": "b-ae-k",
+          "wordPhonemesArray": [
+            "b",
+            "ae",
+            "k"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ae",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "rb",
+            "posName": "Adverb"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_A_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        },
+        {
+          "wordId": "two_phonemes_A_short-12-1",
+          "word": "track",
+          "wordPhoneme": "t-r-ae-k",
+          "wordPhonemesArray": [
+            "t",
+            "r",
+            "ae",
+            "k"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ae",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "nn",
+            "posName": "Noun, singular or mass"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_A_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        }
+      ],
+      "documentId": "two_phonemes_A_short",
+      "phraseCategory": {
+        "phraseCategory1Id": "phraseCategory1",
+        "phraseCategory2Id": "phraseCategory2"
+      },
+      "phraseMetaData": {},
+      "phraseImgData": {
+        "url": ""
+      }
+    },
+    "two_phonemes_A_short-13": {
+      "phraseId": "two_phonemes_A_short-13",
+      "phrase": "Back pack",
+      "parsedPhrase": "Back pack",
+      "phrasePhonemes": "b-ae-k p-ae-k",
+      "phrasePhonemesArray": [
+        "b",
+        "ae",
+        "k",
+        "p",
+        "ae",
+        "k"
+      ],
+      "phraseVowelsArray": [
+        {
+          "vowelPhoneme": "ae",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        },
+        {
+          "vowelPhoneme": "ae",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        }
+      ],
+      "phraseWordCount": 2,
+      "phrasePhonemeCount": 2,
+      "phraseLastPhoneme": {
+        "vowelPhoneme": "ae",
+        "vowelSound": "short",
+        "vowelLetter": "A"
+      },
+      "phraseWords": [
+        {
+          "wordId": "two_phonemes_A_short-13-0",
+          "word": "Back",
+          "wordPhoneme": "b-ae-k",
+          "wordPhonemesArray": [
+            "b",
+            "ae",
+            "k"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ae",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "rb",
+            "posName": "Adverb"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_A_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        },
+        {
+          "wordId": "two_phonemes_A_short-13-1",
+          "word": "pack",
+          "wordPhoneme": "p-ae-k",
+          "wordPhonemesArray": [
+            "p",
+            "ae",
+            "k"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ae",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "nn",
+            "posName": "Noun, singular or mass"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_A_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        }
+      ],
+      "documentId": "two_phonemes_A_short",
+      "phraseCategory": {
+        "phraseCategory1Id": "phraseCategory1",
+        "phraseCategory2Id": "phraseCategory2"
+      },
+      "phraseMetaData": {},
+      "phraseImgData": {
+        "url": ""
+      }
+    },
+    "two_phonemes_A_short-14": {
+      "phraseId": "two_phonemes_A_short-14",
+      "phrase": "Bad act",
+      "parsedPhrase": "Bad act",
+      "phrasePhonemes": "b-ae-d ae-k-t",
+      "phrasePhonemesArray": [
+        "b",
+        "ae",
+        "d",
+        "ae",
+        "k",
+        "t"
+      ],
+      "phraseVowelsArray": [
+        {
+          "vowelPhoneme": "ae",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        },
+        {
+          "vowelPhoneme": "ae",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        }
+      ],
+      "phraseWordCount": 2,
+      "phrasePhonemeCount": 2,
+      "phraseLastPhoneme": {
+        "vowelPhoneme": "ae",
+        "vowelSound": "short",
+        "vowelLetter": "A"
+      },
+      "phraseWords": [
+        {
+          "wordId": "two_phonemes_A_short-14-0",
+          "word": "Bad",
+          "wordPhoneme": "b-ae-d",
+          "wordPhonemesArray": [
+            "b",
+            "ae",
+            "d"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ae",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "jj",
+            "posName": "Adjective"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_A_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        },
+        {
+          "wordId": "two_phonemes_A_short-14-1",
+          "word": "act",
+          "wordPhoneme": "ae-k-t",
+          "wordPhonemesArray": [
+            "ae",
+            "k",
+            "t"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ae",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "nn",
+            "posName": "Noun, singular or mass"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_A_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        }
+      ],
+      "documentId": "two_phonemes_A_short",
+      "phraseCategory": {
+        "phraseCategory1Id": "phraseCategory1",
+        "phraseCategory2Id": "phraseCategory2"
+      },
+      "phraseMetaData": {},
+      "phraseImgData": {
+        "url": ""
+      }
+    },
+    "two_phonemes_A_short-15": {
+      "phraseId": "two_phonemes_A_short-15",
+      "phrase": "Lack that",
+      "parsedPhrase": "Lack that",
+      "phrasePhonemes": "l-ae-k dh-ae-t",
+      "phrasePhonemesArray": [
+        "l",
+        "ae",
+        "k",
+        "dh",
+        "ae",
+        "t"
+      ],
+      "phraseVowelsArray": [
+        {
+          "vowelPhoneme": "ae",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        },
+        {
+          "vowelPhoneme": "ae",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        }
+      ],
+      "phraseWordCount": 2,
+      "phrasePhonemeCount": 2,
+      "phraseLastPhoneme": {
+        "vowelPhoneme": "ae",
+        "vowelSound": "short",
+        "vowelLetter": "A"
+      },
+      "phraseWords": [
+        {
+          "wordId": "two_phonemes_A_short-15-0",
+          "word": "Lack",
+          "wordPhoneme": "l-ae-k",
+          "wordPhonemesArray": [
+            "l",
+            "ae",
+            "k"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ae",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "nnp",
+            "posName": "Proper noun, singular"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_A_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        },
+        {
+          "wordId": "two_phonemes_A_short-15-1",
+          "word": "that",
+          "wordPhoneme": "dh-ae-t",
+          "wordPhonemesArray": [
+            "dh",
+            "ae",
+            "t"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ae",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "in",
+            "posName": "Preposition or subordinating conjunction"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_A_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        }
+      ],
+      "documentId": "two_phonemes_A_short",
+      "phraseCategory": {
+        "phraseCategory1Id": "phraseCategory1",
+        "phraseCategory2Id": "phraseCategory2"
+      },
+      "phraseMetaData": {},
+      "phraseImgData": {
+        "url": ""
+      }
+    },
+    "two_phonemes_A_short-16": {
+      "phraseId": "two_phonemes_A_short-16",
+      "phrase": "Rat pack",
+      "parsedPhrase": "Rat pack",
+      "phrasePhonemes": "r-ae-t p-ae-k",
+      "phrasePhonemesArray": [
+        "r",
+        "ae",
+        "t",
+        "p",
+        "ae",
+        "k"
+      ],
+      "phraseVowelsArray": [
+        {
+          "vowelPhoneme": "ae",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        },
+        {
+          "vowelPhoneme": "ae",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        }
+      ],
+      "phraseWordCount": 2,
+      "phrasePhonemeCount": 2,
+      "phraseLastPhoneme": {
+        "vowelPhoneme": "ae",
+        "vowelSound": "short",
+        "vowelLetter": "A"
+      },
+      "phraseWords": [
+        {
+          "wordId": "two_phonemes_A_short-16-0",
+          "word": "Rat",
+          "wordPhoneme": "r-ae-t",
+          "wordPhonemesArray": [
+            "r",
+            "ae",
+            "t"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ae",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "nnp",
+            "posName": "Proper noun, singular"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_A_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        },
+        {
+          "wordId": "two_phonemes_A_short-16-1",
+          "word": "pack",
+          "wordPhoneme": "p-ae-k",
+          "wordPhonemesArray": [
+            "p",
+            "ae",
+            "k"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ae",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "nn",
+            "posName": "Noun, singular or mass"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_A_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        }
+      ],
+      "documentId": "two_phonemes_A_short",
+      "phraseCategory": {
+        "phraseCategory1Id": "phraseCategory1",
+        "phraseCategory2Id": "phraseCategory2"
+      },
+      "phraseMetaData": {},
+      "phraseImgData": {
+        "url": ""
+      }
+    },
+    "two_phonemes_A_short-17": {
+      "phraseId": "two_phonemes_A_short-17",
+      "phrase": "Sad fact",
+      "parsedPhrase": "Sad fact",
+      "phrasePhonemes": "s-ae-d f-ae-k-t",
+      "phrasePhonemesArray": [
+        "s",
+        "ae",
+        "d",
+        "f",
+        "ae",
+        "k",
+        "t"
+      ],
+      "phraseVowelsArray": [
+        {
+          "vowelPhoneme": "ae",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        },
+        {
+          "vowelPhoneme": "ae",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        }
+      ],
+      "phraseWordCount": 2,
+      "phrasePhonemeCount": 2,
+      "phraseLastPhoneme": {
+        "vowelPhoneme": "ae",
+        "vowelSound": "short",
+        "vowelLetter": "A"
+      },
+      "phraseWords": [
+        {
+          "wordId": "two_phonemes_A_short-17-0",
+          "word": "Sad",
+          "wordPhoneme": "s-ae-d",
+          "wordPhonemesArray": [
+            "s",
+            "ae",
+            "d"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ae",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "jj",
+            "posName": "Adjective"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_A_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        },
+        {
+          "wordId": "two_phonemes_A_short-17-1",
+          "word": "fact",
+          "wordPhoneme": "f-ae-k-t",
+          "wordPhonemesArray": [
+            "f",
+            "ae",
+            "k",
+            "t"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ae",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "nn",
+            "posName": "Noun, singular or mass"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_A_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        }
+      ],
+      "documentId": "two_phonemes_A_short",
+      "phraseCategory": {
+        "phraseCategory1Id": "phraseCategory1",
+        "phraseCategory2Id": "phraseCategory2"
+      },
+      "phraseMetaData": {},
+      "phraseImgData": {
+        "url": ""
+      }
+    },
+    "two_phonemes_A_short-18": {
+      "phraseId": "two_phonemes_A_short-18",
+      "phrase": "Sat back",
+      "parsedPhrase": "Sat back",
+      "phrasePhonemes": "s-ae-t b-ae-k",
+      "phrasePhonemesArray": [
+        "s",
+        "ae",
+        "t",
+        "b",
+        "ae",
+        "k"
+      ],
+      "phraseVowelsArray": [
+        {
+          "vowelPhoneme": "ae",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        },
+        {
+          "vowelPhoneme": "ae",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        }
+      ],
+      "phraseWordCount": 2,
+      "phrasePhonemeCount": 2,
+      "phraseLastPhoneme": {
+        "vowelPhoneme": "ae",
+        "vowelSound": "short",
+        "vowelLetter": "A"
+      },
+      "phraseWords": [
+        {
+          "wordId": "two_phonemes_A_short-18-0",
+          "word": "Sat",
+          "wordPhoneme": "s-ae-t",
+          "wordPhonemesArray": [
+            "s",
+            "ae",
+            "t"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ae",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "vbd",
+            "posName": "Verb, past tense"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_A_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        },
+        {
+          "wordId": "two_phonemes_A_short-18-1",
+          "word": "back",
+          "wordPhoneme": "b-ae-k",
+          "wordPhonemesArray": [
+            "b",
+            "ae",
+            "k"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ae",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "rb",
+            "posName": "Adverb"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_A_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        }
+      ],
+      "documentId": "two_phonemes_A_short",
+      "phraseCategory": {
+        "phraseCategory1Id": "phraseCategory1",
+        "phraseCategory2Id": "phraseCategory2"
+      },
+      "phraseMetaData": {},
+      "phraseImgData": {
+        "url": ""
+      }
+    },
+    "two_phonemes_A_short-19": {
+      "phraseId": "two_phonemes_A_short-19",
+      "phrase": "That's that",
+      "parsedPhrase": "Thats that",
+      "phrasePhonemes": "th-ae-t-s dh-ae-t",
+      "phrasePhonemesArray": [
+        "th",
+        "ae",
+        "t",
+        "s",
+        "dh",
+        "ae",
+        "t"
+      ],
+      "phraseVowelsArray": [
+        {
+          "vowelPhoneme": "ae",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        },
+        {
+          "vowelPhoneme": "ae",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        }
+      ],
+      "phraseWordCount": 2,
+      "phrasePhonemeCount": 2,
+      "phraseLastPhoneme": {
+        "vowelPhoneme": "ae",
+        "vowelSound": "short",
+        "vowelLetter": "A"
+      },
+      "phraseWords": [
+        {
+          "wordId": "two_phonemes_A_short-19-0",
+          "word": "Thats",
+          "wordPhoneme": "th-ae-t-s",
+          "wordPhonemesArray": [
+            "th",
+            "ae",
+            "t",
+            "s"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ae",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "nnps",
+            "posName": "Proper noun, plural"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_A_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        },
+        {
+          "wordId": "two_phonemes_A_short-19-1",
+          "word": "that",
+          "wordPhoneme": "dh-ae-t",
+          "wordPhonemesArray": [
+            "dh",
+            "ae",
+            "t"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ae",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "in",
+            "posName": "Preposition or subordinating conjunction"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_A_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        }
+      ],
+      "documentId": "two_phonemes_A_short",
+      "phraseCategory": {
+        "phraseCategory1Id": "phraseCategory1",
+        "phraseCategory2Id": "phraseCategory2"
+      },
+      "phraseMetaData": {},
+      "phraseImgData": {
+        "url": ""
+      }
+    },
+    "two_phonemes_A_short-20": {
+      "phraseId": "two_phonemes_A_short-20",
+      "phrase": "That's whack",
+      "parsedPhrase": "Thats whack",
+      "phrasePhonemes": "th-ae-t-s w-ae-k",
+      "phrasePhonemesArray": [
+        "th",
+        "ae",
+        "t",
+        "s",
+        "w",
+        "ae",
+        "k"
+      ],
+      "phraseVowelsArray": [
+        {
+          "vowelPhoneme": "ae",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        },
+        {
+          "vowelPhoneme": "ae",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        }
+      ],
+      "phraseWordCount": 2,
+      "phrasePhonemeCount": 2,
+      "phraseLastPhoneme": {
+        "vowelPhoneme": "ae",
+        "vowelSound": "short",
+        "vowelLetter": "A"
+      },
+      "phraseWords": [
+        {
+          "wordId": "two_phonemes_A_short-20-0",
+          "word": "Thats",
+          "wordPhoneme": "th-ae-t-s",
+          "wordPhonemesArray": [
+            "th",
+            "ae",
+            "t",
+            "s"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ae",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "nnps",
+            "posName": "Proper noun, plural"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_A_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        },
+        {
+          "wordId": "two_phonemes_A_short-20-1",
+          "word": "whack",
+          "wordPhoneme": "w-ae-k",
+          "wordPhonemesArray": [
+            "w",
+            "ae",
+            "k"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ae",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "vb",
+            "posName": "Verb, base form"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_A_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        }
+      ],
+      "documentId": "two_phonemes_A_short",
+      "phraseCategory": {
+        "phraseCategory1Id": "phraseCategory1",
+        "phraseCategory2Id": "phraseCategory2"
+      },
+      "phraseMetaData": {},
+      "phraseImgData": {
+        "url": ""
+      }
+    },
+    "two_phonemes_A_short-21": {
+      "phraseId": "two_phonemes_A_short-21",
+      "phrase": "Bare hands",
+      "parsedPhrase": "Bare hands",
+      "phrasePhonemes": "b-eh-r hh-ae-n-d-z",
+      "phrasePhonemesArray": [
+        "b",
+        "eh",
+        "r",
+        "hh",
+        "ae",
+        "n",
+        "d",
+        "z"
+      ],
+      "phraseVowelsArray": [
+        {
+          "vowelPhoneme": "eh",
+          "vowelSound": "short",
+          "vowelLetter": "E"
+        },
+        {
+          "vowelPhoneme": "ae",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        }
+      ],
+      "phraseWordCount": 2,
+      "phrasePhonemeCount": 2,
+      "phraseLastPhoneme": {
+        "vowelPhoneme": "ae",
+        "vowelSound": "short",
+        "vowelLetter": "A"
+      },
+      "phraseWords": [
+        {
+          "wordId": "two_phonemes_A_short-21-0",
+          "word": "Bare",
+          "wordPhoneme": "b-eh-r",
+          "wordPhonemesArray": [
+            "b",
+            "eh",
+            "r"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "eh",
+              "vowelSound": "short",
+              "vowelLetter": "E"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "jj",
+            "posName": "Adjective"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_A_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        },
+        {
+          "wordId": "two_phonemes_A_short-21-1",
+          "word": "hands",
+          "wordPhoneme": "hh-ae-n-d-z",
+          "wordPhonemesArray": [
+            "hh",
+            "ae",
+            "n",
+            "d",
+            "z"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ae",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "nns",
+            "posName": "Noun, plural"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_A_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        }
+      ],
+      "documentId": "two_phonemes_A_short",
+      "phraseCategory": {
+        "phraseCategory1Id": "phraseCategory1",
+        "phraseCategory2Id": "phraseCategory2"
+      },
+      "phraseMetaData": {},
+      "phraseImgData": {
+        "url": ""
+      }
+    },
+    "two_phonemes_A_short-22": {
+      "phraseId": "two_phonemes_A_short-22",
+      "phrase": "Fair chance",
+      "parsedPhrase": "Fair chance",
+      "phrasePhonemes": "f-eh-r ch-ae-n-s",
+      "phrasePhonemesArray": [
+        "f",
+        "eh",
+        "r",
+        "ch",
+        "ae",
+        "n",
+        "s"
+      ],
+      "phraseVowelsArray": [
+        {
+          "vowelPhoneme": "eh",
+          "vowelSound": "short",
+          "vowelLetter": "E"
+        },
+        {
+          "vowelPhoneme": "ae",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        }
+      ],
+      "phraseWordCount": 2,
+      "phrasePhonemeCount": 2,
+      "phraseLastPhoneme": {
+        "vowelPhoneme": "ae",
+        "vowelSound": "short",
+        "vowelLetter": "A"
+      },
+      "phraseWords": [
+        {
+          "wordId": "two_phonemes_A_short-22-0",
+          "word": "Fair",
+          "wordPhoneme": "f-eh-r",
+          "wordPhonemesArray": [
+            "f",
+            "eh",
+            "r"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "eh",
+              "vowelSound": "short",
+              "vowelLetter": "E"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "jj",
+            "posName": "Adjective"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_A_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        },
+        {
+          "wordId": "two_phonemes_A_short-22-1",
+          "word": "chance",
+          "wordPhoneme": "ch-ae-n-s",
+          "wordPhonemesArray": [
+            "ch",
+            "ae",
+            "n",
+            "s"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ae",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "nn",
+            "posName": "Noun, singular or mass"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_A_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        }
+      ],
+      "documentId": "two_phonemes_A_short",
+      "phraseCategory": {
+        "phraseCategory1Id": "phraseCategory1",
+        "phraseCategory2Id": "phraseCategory2"
+      },
+      "phraseMetaData": {},
+      "phraseImgData": {
+        "url": ""
+      }
+    },
+    "two_phonemes_A_short-23": {
+      "phraseId": "two_phonemes_A_short-23",
+      "phrase": "Hair bands",
+      "parsedPhrase": "Hair bands",
+      "phrasePhonemes": "hh-eh-r b-ae-n-d-z",
+      "phrasePhonemesArray": [
+        "hh",
+        "eh",
+        "r",
+        "b",
+        "ae",
+        "n",
+        "d",
+        "z"
+      ],
+      "phraseVowelsArray": [
+        {
+          "vowelPhoneme": "eh",
+          "vowelSound": "short",
+          "vowelLetter": "E"
+        },
+        {
+          "vowelPhoneme": "ae",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        }
+      ],
+      "phraseWordCount": 2,
+      "phrasePhonemeCount": 2,
+      "phraseLastPhoneme": {
+        "vowelPhoneme": "ae",
+        "vowelSound": "short",
+        "vowelLetter": "A"
+      },
+      "phraseWords": [
+        {
+          "wordId": "two_phonemes_A_short-23-0",
+          "word": "Hair",
+          "wordPhoneme": "hh-eh-r",
+          "wordPhonemesArray": [
+            "hh",
+            "eh",
+            "r"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "eh",
+              "vowelSound": "short",
+              "vowelLetter": "E"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "nnp",
+            "posName": "Proper noun, singular"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_A_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        },
+        {
+          "wordId": "two_phonemes_A_short-23-1",
+          "word": "bands",
+          "wordPhoneme": "b-ae-n-d-z",
+          "wordPhonemesArray": [
+            "b",
+            "ae",
+            "n",
+            "d",
+            "z"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ae",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "nns",
+            "posName": "Noun, plural"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_A_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        }
+      ],
+      "documentId": "two_phonemes_A_short",
+      "phraseCategory": {
+        "phraseCategory1Id": "phraseCategory1",
+        "phraseCategory2Id": "phraseCategory2"
+      },
+      "phraseMetaData": {},
+      "phraseImgData": {
+        "url": ""
+      }
+    },
+    "two_phonemes_A_short-24": {
+      "phraseId": "two_phonemes_A_short-24",
+      "phrase": "Hair strands",
+      "parsedPhrase": "Hair strands",
+      "phrasePhonemes": "hh-eh-r s-t-r-ae-n-d-z",
+      "phrasePhonemesArray": [
+        "hh",
+        "eh",
+        "r",
+        "s",
+        "t",
+        "r",
+        "ae",
+        "n",
+        "d",
+        "z"
+      ],
+      "phraseVowelsArray": [
+        {
+          "vowelPhoneme": "eh",
+          "vowelSound": "short",
+          "vowelLetter": "E"
+        },
+        {
+          "vowelPhoneme": "ae",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        }
+      ],
+      "phraseWordCount": 2,
+      "phrasePhonemeCount": 2,
+      "phraseLastPhoneme": {
+        "vowelPhoneme": "ae",
+        "vowelSound": "short",
+        "vowelLetter": "A"
+      },
+      "phraseWords": [
+        {
+          "wordId": "two_phonemes_A_short-24-0",
+          "word": "Hair",
+          "wordPhoneme": "hh-eh-r",
+          "wordPhonemesArray": [
+            "hh",
+            "eh",
+            "r"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "eh",
+              "vowelSound": "short",
+              "vowelLetter": "E"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "nnp",
+            "posName": "Proper noun, singular"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_A_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        },
+        {
+          "wordId": "two_phonemes_A_short-24-1",
+          "word": "strands",
+          "wordPhoneme": "s-t-r-ae-n-d-z",
+          "wordPhonemesArray": [
+            "s",
+            "t",
+            "r",
+            "ae",
+            "n",
+            "d",
+            "z"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ae",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "nns",
+            "posName": "Noun, plural"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_A_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        }
+      ],
+      "documentId": "two_phonemes_A_short",
+      "phraseCategory": {
+        "phraseCategory1Id": "phraseCategory1",
+        "phraseCategory2Id": "phraseCategory2"
+      },
+      "phraseMetaData": {},
+      "phraseImgData": {
+        "url": ""
+      }
+    },
+    "two_phonemes_A_short-25": {
+      "phraseId": "two_phonemes_A_short-25",
+      "phrase": "Make plans",
+      "parsedPhrase": "Make plans",
+      "phrasePhonemes": "m-ey-k p-l-ae-n-z",
+      "phrasePhonemesArray": [
+        "m",
+        "ey",
+        "k",
+        "p",
+        "l",
+        "ae",
+        "n",
+        "z"
+      ],
+      "phraseVowelsArray": [
+        {
+          "vowelPhoneme": "ey",
+          "vowelSound": "long",
+          "vowelLetter": "A"
+        },
+        {
+          "vowelPhoneme": "ae",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        }
+      ],
+      "phraseWordCount": 2,
+      "phrasePhonemeCount": 2,
+      "phraseLastPhoneme": {
+        "vowelPhoneme": "ae",
+        "vowelSound": "short",
+        "vowelLetter": "A"
+      },
+      "phraseWords": [
+        {
+          "wordId": "two_phonemes_A_short-25-0",
+          "word": "Make",
+          "wordPhoneme": "m-ey-k",
+          "wordPhonemesArray": [
+            "m",
+            "ey",
+            "k"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ey",
+              "vowelSound": "long",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "vb",
+            "posName": "Verb, base form"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_A_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        },
+        {
+          "wordId": "two_phonemes_A_short-25-1",
+          "word": "plans",
+          "wordPhoneme": "p-l-ae-n-z",
+          "wordPhonemesArray": [
+            "p",
+            "l",
+            "ae",
+            "n",
+            "z"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ae",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "nns",
+            "posName": "Noun, plural"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_A_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        }
+      ],
+      "documentId": "two_phonemes_A_short",
+      "phraseCategory": {
+        "phraseCategory1Id": "phraseCategory1",
+        "phraseCategory2Id": "phraseCategory2"
+      },
+      "phraseMetaData": {},
+      "phraseImgData": {
+        "url": ""
+      }
+    },
+    "two_phonemes_A_short-26": {
+      "phraseId": "two_phonemes_A_short-26",
+      "phrase": "Square dance",
+      "parsedPhrase": "Square dance",
+      "phrasePhonemes": "s-k-w-eh-r d-ae-n-s",
+      "phrasePhonemesArray": [
+        "s",
+        "k",
+        "w",
+        "eh",
+        "r",
+        "d",
+        "ae",
+        "n",
+        "s"
+      ],
+      "phraseVowelsArray": [
+        {
+          "vowelPhoneme": "eh",
+          "vowelSound": "short",
+          "vowelLetter": "E"
+        },
+        {
+          "vowelPhoneme": "ae",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        }
+      ],
+      "phraseWordCount": 2,
+      "phrasePhonemeCount": 2,
+      "phraseLastPhoneme": {
+        "vowelPhoneme": "ae",
+        "vowelSound": "short",
+        "vowelLetter": "A"
+      },
+      "phraseWords": [
+        {
+          "wordId": "two_phonemes_A_short-26-0",
+          "word": "Square",
+          "wordPhoneme": "s-k-w-eh-r",
+          "wordPhonemesArray": [
+            "s",
+            "k",
+            "w",
+            "eh",
+            "r"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "eh",
+              "vowelSound": "short",
+              "vowelLetter": "E"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "nnp",
+            "posName": "Proper noun, singular"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_A_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        },
+        {
+          "wordId": "two_phonemes_A_short-26-1",
+          "word": "dance",
+          "wordPhoneme": "d-ae-n-s",
+          "wordPhonemesArray": [
+            "d",
+            "ae",
+            "n",
+            "s"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ae",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "nn",
+            "posName": "Noun, singular or mass"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_A_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        }
+      ],
+      "documentId": "two_phonemes_A_short",
+      "phraseCategory": {
+        "phraseCategory1Id": "phraseCategory1",
+        "phraseCategory2Id": "phraseCategory2"
+      },
+      "phraseMetaData": {},
+      "phraseImgData": {
+        "url": ""
+      }
+    },
+    "two_phonemes_A_short-27": {
+      "phraseId": "two_phonemes_A_short-27",
+      "phrase": "Stare trance",
+      "parsedPhrase": "Stare trance",
+      "phrasePhonemes": "s-t-eh-r t-r-ae-n-s",
+      "phrasePhonemesArray": [
+        "s",
+        "t",
+        "eh",
+        "r",
+        "t",
+        "r",
+        "ae",
+        "n",
+        "s"
+      ],
+      "phraseVowelsArray": [
+        {
+          "vowelPhoneme": "eh",
+          "vowelSound": "short",
+          "vowelLetter": "E"
+        },
+        {
+          "vowelPhoneme": "ae",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        }
+      ],
+      "phraseWordCount": 2,
+      "phrasePhonemeCount": 2,
+      "phraseLastPhoneme": {
+        "vowelPhoneme": "ae",
+        "vowelSound": "short",
+        "vowelLetter": "A"
+      },
+      "phraseWords": [
+        {
+          "wordId": "two_phonemes_A_short-27-0",
+          "word": "Stare",
+          "wordPhoneme": "s-t-eh-r",
+          "wordPhonemesArray": [
+            "s",
+            "t",
+            "eh",
+            "r"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "eh",
+              "vowelSound": "short",
+              "vowelLetter": "E"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "vb",
+            "posName": "Verb, base form"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_A_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        },
+        {
+          "wordId": "two_phonemes_A_short-27-1",
+          "word": "trance",
+          "wordPhoneme": "t-r-ae-n-s",
+          "wordPhonemesArray": [
+            "t",
+            "r",
+            "ae",
+            "n",
+            "s"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ae",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "nn",
+            "posName": "Noun, singular or mass"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_A_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        }
+      ],
+      "documentId": "two_phonemes_A_short",
+      "phraseCategory": {
+        "phraseCategory1Id": "phraseCategory1",
+        "phraseCategory2Id": "phraseCategory2"
+      },
+      "phraseMetaData": {},
+      "phraseImgData": {
+        "url": ""
+      }
+    },
+    "two_phonemes_A_short-28": {
+      "phraseId": "two_phonemes_A_short-28",
+      "phrase": "Take stance",
+      "parsedPhrase": "Take stance",
+      "phrasePhonemes": "t-ey-k s-t-ae-n-s",
+      "phrasePhonemesArray": [
+        "t",
+        "ey",
+        "k",
+        "s",
+        "t",
+        "ae",
+        "n",
+        "s"
+      ],
+      "phraseVowelsArray": [
+        {
+          "vowelPhoneme": "ey",
+          "vowelSound": "long",
+          "vowelLetter": "A"
+        },
+        {
+          "vowelPhoneme": "ae",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        }
+      ],
+      "phraseWordCount": 2,
+      "phrasePhonemeCount": 2,
+      "phraseLastPhoneme": {
+        "vowelPhoneme": "ae",
+        "vowelSound": "short",
+        "vowelLetter": "A"
+      },
+      "phraseWords": [
+        {
+          "wordId": "two_phonemes_A_short-28-0",
+          "word": "Take",
+          "wordPhoneme": "t-ey-k",
+          "wordPhonemesArray": [
+            "t",
+            "ey",
+            "k"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ey",
+              "vowelSound": "long",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "vb",
+            "posName": "Verb, base form"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_A_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        },
+        {
+          "wordId": "two_phonemes_A_short-28-1",
+          "word": "stance",
+          "wordPhoneme": "s-t-ae-n-s",
+          "wordPhonemesArray": [
+            "s",
+            "t",
+            "ae",
+            "n",
+            "s"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ae",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "nn",
+            "posName": "Noun, singular or mass"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_A_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        }
+      ],
+      "documentId": "two_phonemes_A_short",
+      "phraseCategory": {
+        "phraseCategory1Id": "phraseCategory1",
+        "phraseCategory2Id": "phraseCategory2"
+      },
+      "phraseMetaData": {},
+      "phraseImgData": {
+        "url": ""
+      }
+    },
+    "two_phonemes_A_short-29": {
+      "phraseId": "two_phonemes_A_short-29",
+      "phrase": "Their fans",
+      "parsedPhrase": "Their fans",
+      "phrasePhonemes": "dh-eh-r f-ae-n-z",
+      "phrasePhonemesArray": [
+        "dh",
+        "eh",
+        "r",
+        "f",
+        "ae",
+        "n",
+        "z"
+      ],
+      "phraseVowelsArray": [
+        {
+          "vowelPhoneme": "eh",
+          "vowelSound": "short",
+          "vowelLetter": "E"
+        },
+        {
+          "vowelPhoneme": "ae",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        }
+      ],
+      "phraseWordCount": 2,
+      "phrasePhonemeCount": 2,
+      "phraseLastPhoneme": {
+        "vowelPhoneme": "ae",
+        "vowelSound": "short",
+        "vowelLetter": "A"
+      },
+      "phraseWords": [
+        {
+          "wordId": "two_phonemes_A_short-29-0",
+          "word": "Their",
+          "wordPhoneme": "dh-eh-r",
+          "wordPhonemesArray": [
+            "dh",
+            "eh",
+            "r"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "eh",
+              "vowelSound": "short",
+              "vowelLetter": "E"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "prp$",
+            "posName": "Possessive pronoun"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_A_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        },
+        {
+          "wordId": "two_phonemes_A_short-29-1",
+          "word": "fans",
+          "wordPhoneme": "f-ae-n-z",
+          "wordPhonemesArray": [
+            "f",
+            "ae",
+            "n",
+            "z"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ae",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "nns",
+            "posName": "Noun, plural"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_A_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        }
+      ],
+      "documentId": "two_phonemes_A_short",
+      "phraseCategory": {
+        "phraseCategory1Id": "phraseCategory1",
+        "phraseCategory2Id": "phraseCategory2"
+      },
+      "phraseMetaData": {},
+      "phraseImgData": {
+        "url": ""
+      }
+    },
+    "two_phonemes_A_short-30": {
+      "phraseId": "two_phonemes_A_short-30",
+      "phrase": "Their plans",
+      "parsedPhrase": "Their plans",
+      "phrasePhonemes": "dh-eh-r p-l-ae-n-z",
+      "phrasePhonemesArray": [
+        "dh",
+        "eh",
+        "r",
+        "p",
+        "l",
+        "ae",
+        "n",
+        "z"
+      ],
+      "phraseVowelsArray": [
+        {
+          "vowelPhoneme": "eh",
+          "vowelSound": "short",
+          "vowelLetter": "E"
+        },
+        {
+          "vowelPhoneme": "ae",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        }
+      ],
+      "phraseWordCount": 2,
+      "phrasePhonemeCount": 2,
+      "phraseLastPhoneme": {
+        "vowelPhoneme": "ae",
+        "vowelSound": "short",
+        "vowelLetter": "A"
+      },
+      "phraseWords": [
+        {
+          "wordId": "two_phonemes_A_short-30-0",
+          "word": "Their",
+          "wordPhoneme": "dh-eh-r",
+          "wordPhonemesArray": [
+            "dh",
+            "eh",
+            "r"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "eh",
+              "vowelSound": "short",
+              "vowelLetter": "E"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "prp$",
+            "posName": "Possessive pronoun"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_A_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        },
+        {
+          "wordId": "two_phonemes_A_short-30-1",
+          "word": "plans",
+          "wordPhoneme": "p-l-ae-n-z",
+          "wordPhonemesArray": [
+            "p",
+            "l",
+            "ae",
+            "n",
+            "z"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ae",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "nns",
+            "posName": "Noun, plural"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_A_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        }
+      ],
+      "documentId": "two_phonemes_A_short",
+      "phraseCategory": {
+        "phraseCategory1Id": "phraseCategory1",
+        "phraseCategory2Id": "phraseCategory2"
+      },
+      "phraseMetaData": {},
+      "phraseImgData": {
+        "url": ""
+      }
+    },
+    "two_phonemes_A_short-31": {
+      "phraseId": "two_phonemes_A_short-31",
+      "phrase": "Bark back",
+      "parsedPhrase": "Bark back",
+      "phrasePhonemes": "b-aa-r-k b-ae-k",
+      "phrasePhonemesArray": [
+        "b",
+        "aa",
+        "r",
+        "k",
+        "b",
+        "ae",
+        "k"
+      ],
+      "phraseVowelsArray": [
+        {
+          "vowelPhoneme": "aa",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        },
+        {
+          "vowelPhoneme": "ae",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        }
+      ],
+      "phraseWordCount": 2,
+      "phrasePhonemeCount": 2,
+      "phraseLastPhoneme": {
+        "vowelPhoneme": "ae",
+        "vowelSound": "short",
+        "vowelLetter": "A"
+      },
+      "phraseWords": [
+        {
+          "wordId": "two_phonemes_A_short-31-0",
+          "word": "Bark",
+          "wordPhoneme": "b-aa-r-k",
+          "wordPhonemesArray": [
+            "b",
+            "aa",
+            "r",
+            "k"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "aa",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "nnp",
+            "posName": "Proper noun, singular"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_A_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        },
+        {
+          "wordId": "two_phonemes_A_short-31-1",
+          "word": "back",
+          "wordPhoneme": "b-ae-k",
+          "wordPhonemesArray": [
+            "b",
+            "ae",
+            "k"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ae",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "rb",
+            "posName": "Adverb"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_A_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        }
+      ],
+      "documentId": "two_phonemes_A_short",
+      "phraseCategory": {
+        "phraseCategory1Id": "phraseCategory1",
+        "phraseCategory2Id": "phraseCategory2"
+      },
+      "phraseMetaData": {},
+      "phraseImgData": {
+        "url": ""
+      }
+    },
+    "two_phonemes_A_short-32": {
+      "phraseId": "two_phonemes_A_short-32",
+      "phrase": "Arch back",
+      "parsedPhrase": "Arch back",
+      "phrasePhonemes": "aa-r-ch b-ae-k",
+      "phrasePhonemesArray": [
+        "aa",
+        "r",
+        "ch",
+        "b",
+        "ae",
+        "k"
+      ],
+      "phraseVowelsArray": [
+        {
+          "vowelPhoneme": "aa",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        },
+        {
+          "vowelPhoneme": "ae",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        }
+      ],
+      "phraseWordCount": 2,
+      "phrasePhonemeCount": 2,
+      "phraseLastPhoneme": {
+        "vowelPhoneme": "ae",
+        "vowelSound": "short",
+        "vowelLetter": "A"
+      },
+      "phraseWords": [
+        {
+          "wordId": "two_phonemes_A_short-32-0",
+          "word": "Arch",
+          "wordPhoneme": "aa-r-ch",
+          "wordPhonemesArray": [
+            "aa",
+            "r",
+            "ch"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "aa",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "nnp",
+            "posName": "Proper noun, singular"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_A_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        },
+        {
+          "wordId": "two_phonemes_A_short-32-1",
+          "word": "back",
+          "wordPhoneme": "b-ae-k",
+          "wordPhonemesArray": [
+            "b",
+            "ae",
+            "k"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ae",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "rb",
+            "posName": "Adverb"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_A_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        }
+      ],
+      "documentId": "two_phonemes_A_short",
+      "phraseCategory": {
+        "phraseCategory1Id": "phraseCategory1",
+        "phraseCategory2Id": "phraseCategory2"
+      },
+      "phraseMetaData": {},
+      "phraseImgData": {
+        "url": ""
+      }
+    },
+    "two_phonemes_A_short-33": {
+      "phraseId": "two_phonemes_A_short-33",
+      "phrase": "Art stack",
+      "parsedPhrase": "Art stack",
+      "phrasePhonemes": "aa-r-t s-t-ae-k",
+      "phrasePhonemesArray": [
+        "aa",
+        "r",
+        "t",
+        "s",
+        "t",
+        "ae",
+        "k"
+      ],
+      "phraseVowelsArray": [
+        {
+          "vowelPhoneme": "aa",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        },
+        {
+          "vowelPhoneme": "ae",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        }
+      ],
+      "phraseWordCount": 2,
+      "phrasePhonemeCount": 2,
+      "phraseLastPhoneme": {
+        "vowelPhoneme": "ae",
+        "vowelSound": "short",
+        "vowelLetter": "A"
+      },
+      "phraseWords": [
+        {
+          "wordId": "two_phonemes_A_short-33-0",
+          "word": "Art",
+          "wordPhoneme": "aa-r-t",
+          "wordPhonemesArray": [
+            "aa",
+            "r",
+            "t"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "aa",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "nnp",
+            "posName": "Proper noun, singular"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_A_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        },
+        {
+          "wordId": "two_phonemes_A_short-33-1",
+          "word": "stack",
+          "wordPhoneme": "s-t-ae-k",
+          "wordPhonemesArray": [
+            "s",
+            "t",
+            "ae",
+            "k"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ae",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "nn",
+            "posName": "Noun, singular or mass"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_A_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        }
+      ],
+      "documentId": "two_phonemes_A_short",
+      "phraseCategory": {
+        "phraseCategory1Id": "phraseCategory1",
+        "phraseCategory2Id": "phraseCategory2"
+      },
+      "phraseMetaData": {},
+      "phraseImgData": {
+        "url": ""
+      }
+    },
+    "two_phonemes_A_short-34": {
+      "phraseId": "two_phonemes_A_short-34",
+      "phrase": "Dart back",
+      "parsedPhrase": "Dart back",
+      "phrasePhonemes": "d-aa-r-t b-ae-k",
+      "phrasePhonemesArray": [
+        "d",
+        "aa",
+        "r",
+        "t",
+        "b",
+        "ae",
+        "k"
+      ],
+      "phraseVowelsArray": [
+        {
+          "vowelPhoneme": "aa",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        },
+        {
+          "vowelPhoneme": "ae",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        }
+      ],
+      "phraseWordCount": 2,
+      "phrasePhonemeCount": 2,
+      "phraseLastPhoneme": {
+        "vowelPhoneme": "ae",
+        "vowelSound": "short",
+        "vowelLetter": "A"
+      },
+      "phraseWords": [
+        {
+          "wordId": "two_phonemes_A_short-34-0",
+          "word": "Dart",
+          "wordPhoneme": "d-aa-r-t",
+          "wordPhonemesArray": [
+            "d",
+            "aa",
+            "r",
+            "t"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "aa",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "nnp",
+            "posName": "Proper noun, singular"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_A_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        },
+        {
+          "wordId": "two_phonemes_A_short-34-1",
+          "word": "back",
+          "wordPhoneme": "b-ae-k",
+          "wordPhonemesArray": [
+            "b",
+            "ae",
+            "k"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ae",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "rb",
+            "posName": "Adverb"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_A_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        }
+      ],
+      "documentId": "two_phonemes_A_short",
+      "phraseCategory": {
+        "phraseCategory1Id": "phraseCategory1",
+        "phraseCategory2Id": "phraseCategory2"
+      },
+      "phraseMetaData": {},
+      "phraseImgData": {
+        "url": ""
+      }
+    },
+    "two_phonemes_A_short-35": {
+      "phraseId": "two_phonemes_A_short-35",
+      "phrase": "Far back",
+      "parsedPhrase": "Far back",
+      "phrasePhonemes": "f-aa-r b-ae-k",
+      "phrasePhonemesArray": [
+        "f",
+        "aa",
+        "r",
+        "b",
+        "ae",
+        "k"
+      ],
+      "phraseVowelsArray": [
+        {
+          "vowelPhoneme": "aa",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        },
+        {
+          "vowelPhoneme": "ae",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        }
+      ],
+      "phraseWordCount": 2,
+      "phrasePhonemeCount": 2,
+      "phraseLastPhoneme": {
+        "vowelPhoneme": "ae",
+        "vowelSound": "short",
+        "vowelLetter": "A"
+      },
+      "phraseWords": [
+        {
+          "wordId": "two_phonemes_A_short-35-0",
+          "word": "Far",
+          "wordPhoneme": "f-aa-r",
+          "wordPhonemesArray": [
+            "f",
+            "aa",
+            "r"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "aa",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "rb",
+            "posName": "Adverb"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_A_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        },
+        {
+          "wordId": "two_phonemes_A_short-35-1",
+          "word": "back",
+          "wordPhoneme": "b-ae-k",
+          "wordPhonemesArray": [
+            "b",
+            "ae",
+            "k"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ae",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "rb",
+            "posName": "Adverb"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_A_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        }
+      ],
+      "documentId": "two_phonemes_A_short",
+      "phraseCategory": {
+        "phraseCategory1Id": "phraseCategory1",
+        "phraseCategory2Id": "phraseCategory2"
+      },
+      "phraseMetaData": {},
+      "phraseImgData": {
+        "url": ""
+      }
+    },
+    "two_phonemes_A_short-36": {
+      "phraseId": "two_phonemes_A_short-36",
+      "phrase": "Hard rap",
+      "parsedPhrase": "Hard rap",
+      "phrasePhonemes": "hh-aa-r-d r-ae-p",
+      "phrasePhonemesArray": [
+        "hh",
+        "aa",
+        "r",
+        "d",
+        "r",
+        "ae",
+        "p"
+      ],
+      "phraseVowelsArray": [
+        {
+          "vowelPhoneme": "aa",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        },
+        {
+          "vowelPhoneme": "ae",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        }
+      ],
+      "phraseWordCount": 2,
+      "phrasePhonemeCount": 2,
+      "phraseLastPhoneme": {
+        "vowelPhoneme": "ae",
+        "vowelSound": "short",
+        "vowelLetter": "A"
+      },
+      "phraseWords": [
+        {
+          "wordId": "two_phonemes_A_short-36-0",
+          "word": "Hard",
+          "wordPhoneme": "hh-aa-r-d",
+          "wordPhonemesArray": [
+            "hh",
+            "aa",
+            "r",
+            "d"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "aa",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "jj",
+            "posName": "Adjective"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_A_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        },
+        {
+          "wordId": "two_phonemes_A_short-36-1",
+          "word": "rap",
+          "wordPhoneme": "r-ae-p",
+          "wordPhonemesArray": [
+            "r",
+            "ae",
+            "p"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ae",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "nn",
+            "posName": "Noun, singular or mass"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_A_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        }
+      ],
+      "documentId": "two_phonemes_A_short",
+      "phraseCategory": {
+        "phraseCategory1Id": "phraseCategory1",
+        "phraseCategory2Id": "phraseCategory2"
+      },
+      "phraseMetaData": {},
+      "phraseImgData": {
+        "url": ""
+      }
+    },
+    "two_phonemes_A_short-37": {
+      "phraseId": "two_phonemes_A_short-37",
+      "phrase": "Part black",
+      "parsedPhrase": "Part black",
+      "phrasePhonemes": "p-aa-r-t b-l-ae-k",
+      "phrasePhonemesArray": [
+        "p",
+        "aa",
+        "r",
+        "t",
+        "b",
+        "l",
+        "ae",
+        "k"
+      ],
+      "phraseVowelsArray": [
+        {
+          "vowelPhoneme": "aa",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        },
+        {
+          "vowelPhoneme": "ae",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        }
+      ],
+      "phraseWordCount": 2,
+      "phrasePhonemeCount": 2,
+      "phraseLastPhoneme": {
+        "vowelPhoneme": "ae",
+        "vowelSound": "short",
+        "vowelLetter": "A"
+      },
+      "phraseWords": [
+        {
+          "wordId": "two_phonemes_A_short-37-0",
+          "word": "Part",
+          "wordPhoneme": "p-aa-r-t",
+          "wordPhonemesArray": [
+            "p",
+            "aa",
+            "r",
+            "t"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "aa",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "nnp",
+            "posName": "Proper noun, singular"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_A_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        },
+        {
+          "wordId": "two_phonemes_A_short-37-1",
+          "word": "black",
+          "wordPhoneme": "b-l-ae-k",
+          "wordPhonemesArray": [
+            "b",
+            "l",
+            "ae",
+            "k"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ae",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "jj",
+            "posName": "Adjective"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_A_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        }
+      ],
+      "documentId": "two_phonemes_A_short",
+      "phraseCategory": {
+        "phraseCategory1Id": "phraseCategory1",
+        "phraseCategory2Id": "phraseCategory2"
+      },
+      "phraseMetaData": {},
+      "phraseImgData": {
+        "url": ""
+      }
+    },
+    "two_phonemes_A_short-38": {
+      "phraseId": "two_phonemes_A_short-38",
+      "phrase": "Sarcastic",
+      "parsedPhrase": "Sarcastic",
+      "phrasePhonemes": "s-aa-r-k-ae-s-t-ih-k",
+      "phrasePhonemesArray": [
+        "s",
+        "aa",
+        "r",
+        "k",
+        "ae",
+        "s",
+        "t",
+        "ih",
+        "k"
+      ],
+      "phraseVowelsArray": [
+        {
+          "vowelPhoneme": "aa",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        },
+        {
+          "vowelPhoneme": "ae",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        },
+        {
+          "vowelPhoneme": "ih",
+          "vowelSound": "long",
+          "vowelLetter": "E"
+        }
+      ],
+      "phraseWordCount": 1,
+      "phrasePhonemeCount": 3,
+      "phraseLastPhoneme": {
+        "vowelPhoneme": "ih",
+        "vowelSound": "long",
+        "vowelLetter": "E"
+      },
+      "phraseWords": [
+        {
+          "wordId": "two_phonemes_A_short-38-0",
+          "word": "Sarcastic",
+          "wordPhoneme": "s-aa-r-k-ae-s-t-ih-k",
+          "wordPhonemesArray": [
+            "s",
+            "aa",
+            "r",
+            "k",
+            "ae",
+            "s",
+            "t",
+            "ih",
+            "k"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "aa",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            },
+            {
+              "vowelPhoneme": "ae",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            },
+            {
+              "vowelPhoneme": "ih",
+              "vowelSound": "long",
+              "vowelLetter": "E"
+            }
+          ],
+          "wordPhonemeCount": 3,
+          "wordPosTag": {
+            "posTag": "jj",
+            "posName": "Adjective"
+          },
+          "wordStresses": "0/1/0",
+          "documentId": "two_phonemes_A_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        }
+      ],
+      "documentId": "two_phonemes_A_short",
+      "phraseCategory": {
+        "phraseCategory1Id": "phraseCategory1",
+        "phraseCategory2Id": "phraseCategory2"
+      },
+      "phraseMetaData": {},
+      "phraseImgData": {
+        "url": ""
+      }
+    },
+    "two_phonemes_A_short-39": {
+      "phraseId": "two_phonemes_A_short-39",
+      "phrase": "Start clapping",
+      "parsedPhrase": "Start clapping",
+      "phrasePhonemes": "s-t-aa-r-t k-l-ae-p-ih-ng",
+      "phrasePhonemesArray": [
+        "s",
+        "t",
+        "aa",
+        "r",
+        "t",
+        "k",
+        "l",
+        "ae",
+        "p",
+        "ih",
+        "ng"
+      ],
+      "phraseVowelsArray": [
+        {
+          "vowelPhoneme": "aa",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        },
+        {
+          "vowelPhoneme": "ae",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        },
+        {
+          "vowelPhoneme": "ih",
+          "vowelSound": "long",
+          "vowelLetter": "E"
+        }
+      ],
+      "phraseWordCount": 2,
+      "phrasePhonemeCount": 3,
+      "phraseLastPhoneme": {
+        "vowelPhoneme": "ih",
+        "vowelSound": "long",
+        "vowelLetter": "E"
+      },
+      "phraseWords": [
+        {
+          "wordId": "two_phonemes_A_short-39-0",
+          "word": "Start",
+          "wordPhoneme": "s-t-aa-r-t",
+          "wordPhonemesArray": [
+            "s",
+            "t",
+            "aa",
+            "r",
+            "t"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "aa",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "vb",
+            "posName": "Verb, base form"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_A_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        },
+        {
+          "wordId": "two_phonemes_A_short-39-1",
+          "word": "clapping",
+          "wordPhoneme": "k-l-ae-p-ih-ng",
+          "wordPhonemesArray": [
+            "k",
+            "l",
+            "ae",
+            "p",
+            "ih",
+            "ng"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ae",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            },
+            {
+              "vowelPhoneme": "ih",
+              "vowelSound": "long",
+              "vowelLetter": "E"
+            }
+          ],
+          "wordPhonemeCount": 2,
+          "wordPosTag": {
+            "posTag": "vbg",
+            "posName": "Verb, gerund or present participle"
+          },
+          "wordStresses": "1/0",
+          "documentId": "two_phonemes_A_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        }
+      ],
+      "documentId": "two_phonemes_A_short",
+      "phraseCategory": {
+        "phraseCategory1Id": "phraseCategory1",
+        "phraseCategory2Id": "phraseCategory2"
+      },
+      "phraseMetaData": {},
+      "phraseImgData": {
+        "url": ""
+      }
+    },
+    "two_phonemes_A_short-40": {
+      "phraseId": "two_phonemes_A_short-40",
+      "phrase": "Start that",
+      "parsedPhrase": "Start that",
+      "phrasePhonemes": "s-t-aa-r-t dh-ae-t",
+      "phrasePhonemesArray": [
+        "s",
+        "t",
+        "aa",
+        "r",
+        "t",
+        "dh",
+        "ae",
+        "t"
+      ],
+      "phraseVowelsArray": [
+        {
+          "vowelPhoneme": "aa",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        },
+        {
+          "vowelPhoneme": "ae",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        }
+      ],
+      "phraseWordCount": 2,
+      "phrasePhonemeCount": 2,
+      "phraseLastPhoneme": {
+        "vowelPhoneme": "ae",
+        "vowelSound": "short",
+        "vowelLetter": "A"
+      },
+      "phraseWords": [
+        {
+          "wordId": "two_phonemes_A_short-40-0",
+          "word": "Start",
+          "wordPhoneme": "s-t-aa-r-t",
+          "wordPhonemesArray": [
+            "s",
+            "t",
+            "aa",
+            "r",
+            "t"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "aa",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "vb",
+            "posName": "Verb, base form"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_A_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        },
+        {
+          "wordId": "two_phonemes_A_short-40-1",
+          "word": "that",
+          "wordPhoneme": "dh-ae-t",
+          "wordPhonemesArray": [
+            "dh",
+            "ae",
+            "t"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ae",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "in",
+            "posName": "Preposition or subordinating conjunction"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_A_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        }
+      ],
+      "documentId": "two_phonemes_A_short",
+      "phraseCategory": {
+        "phraseCategory1Id": "phraseCategory1",
+        "phraseCategory2Id": "phraseCategory2"
+      },
+      "phraseMetaData": {},
+      "phraseImgData": {
+        "url": ""
+      }
+    },
+    "two_phonemes_A_short-41": {
+      "phraseId": "two_phonemes_A_short-41",
+      "phrase": "Bite back",
+      "parsedPhrase": "Bite back",
+      "phrasePhonemes": "b-ay-t b-ae-k",
+      "phrasePhonemesArray": [
+        "b",
+        "ay",
+        "t",
+        "b",
+        "ae",
+        "k"
+      ],
+      "phraseVowelsArray": [
+        {
+          "vowelPhoneme": "ay",
+          "vowelSound": "long",
+          "vowelLetter": "I"
+        },
+        {
+          "vowelPhoneme": "ae",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        }
+      ],
+      "phraseWordCount": 2,
+      "phrasePhonemeCount": 2,
+      "phraseLastPhoneme": {
+        "vowelPhoneme": "ae",
+        "vowelSound": "short",
+        "vowelLetter": "A"
+      },
+      "phraseWords": [
+        {
+          "wordId": "two_phonemes_A_short-41-0",
+          "word": "Bite",
+          "wordPhoneme": "b-ay-t",
+          "wordPhonemesArray": [
+            "b",
+            "ay",
+            "t"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ay",
+              "vowelSound": "long",
+              "vowelLetter": "I"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "vb",
+            "posName": "Verb, base form"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_A_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        },
+        {
+          "wordId": "two_phonemes_A_short-41-1",
+          "word": "back",
+          "wordPhoneme": "b-ae-k",
+          "wordPhonemesArray": [
+            "b",
+            "ae",
+            "k"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ae",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "rb",
+            "posName": "Adverb"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_A_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        }
+      ],
+      "documentId": "two_phonemes_A_short",
+      "phraseCategory": {
+        "phraseCategory1Id": "phraseCategory1",
+        "phraseCategory2Id": "phraseCategory2"
+      },
+      "phraseMetaData": {},
+      "phraseImgData": {
+        "url": ""
+      }
+    },
+    "two_phonemes_A_short-42": {
+      "phraseId": "two_phonemes_A_short-42",
+      "phrase": "Buy that",
+      "parsedPhrase": "Buy that",
+      "phrasePhonemes": "b-ay dh-ae-t",
+      "phrasePhonemesArray": [
+        "b",
+        "ay",
+        "dh",
+        "ae",
+        "t"
+      ],
+      "phraseVowelsArray": [
+        {
+          "vowelPhoneme": "ay",
+          "vowelSound": "long",
+          "vowelLetter": "I"
+        },
+        {
+          "vowelPhoneme": "ae",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        }
+      ],
+      "phraseWordCount": 2,
+      "phrasePhonemeCount": 2,
+      "phraseLastPhoneme": {
+        "vowelPhoneme": "ae",
+        "vowelSound": "short",
+        "vowelLetter": "A"
+      },
+      "phraseWords": [
+        {
+          "wordId": "two_phonemes_A_short-42-0",
+          "word": "Buy",
+          "wordPhoneme": "b-ay",
+          "wordPhonemesArray": [
+            "b",
+            "ay"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ay",
+              "vowelSound": "long",
+              "vowelLetter": "I"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "vb",
+            "posName": "Verb, base form"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_A_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        },
+        {
+          "wordId": "two_phonemes_A_short-42-1",
+          "word": "that",
+          "wordPhoneme": "dh-ae-t",
+          "wordPhonemesArray": [
+            "dh",
+            "ae",
+            "t"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ae",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "in",
+            "posName": "Preposition or subordinating conjunction"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_A_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        }
+      ],
+      "documentId": "two_phonemes_A_short",
+      "phraseCategory": {
+        "phraseCategory1Id": "phraseCategory1",
+        "phraseCategory2Id": "phraseCategory2"
+      },
+      "phraseMetaData": {},
+      "phraseImgData": {
+        "url": ""
+      }
+    },
+    "two_phonemes_A_short-43": {
+      "phraseId": "two_phonemes_A_short-43",
+      "phrase": "Write raps",
+      "parsedPhrase": "Write raps",
+      "phrasePhonemes": "r-ay-t r-ae-p-s",
+      "phrasePhonemesArray": [
+        "r",
+        "ay",
+        "t",
+        "r",
+        "ae",
+        "p",
+        "s"
+      ],
+      "phraseVowelsArray": [
+        {
+          "vowelPhoneme": "ay",
+          "vowelSound": "long",
+          "vowelLetter": "I"
+        },
+        {
+          "vowelPhoneme": "ae",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        }
+      ],
+      "phraseWordCount": 2,
+      "phrasePhonemeCount": 2,
+      "phraseLastPhoneme": {
+        "vowelPhoneme": "ae",
+        "vowelSound": "short",
+        "vowelLetter": "A"
+      },
+      "phraseWords": [
+        {
+          "wordId": "two_phonemes_A_short-43-0",
+          "word": "Write",
+          "wordPhoneme": "r-ay-t",
+          "wordPhonemesArray": [
+            "r",
+            "ay",
+            "t"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ay",
+              "vowelSound": "long",
+              "vowelLetter": "I"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "vb",
+            "posName": "Verb, base form"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_A_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        },
+        {
+          "wordId": "two_phonemes_A_short-43-1",
+          "word": "raps",
+          "wordPhoneme": "r-ae-p-s",
+          "wordPhonemesArray": [
+            "r",
+            "ae",
+            "p",
+            "s"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ae",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "nns",
+            "posName": "Noun, plural"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_A_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        }
+      ],
+      "documentId": "two_phonemes_A_short",
+      "phraseCategory": {
+        "phraseCategory1Id": "phraseCategory1",
+        "phraseCategory2Id": "phraseCategory2"
+      },
+      "phraseMetaData": {},
+      "phraseImgData": {
+        "url": ""
+      }
+    },
+    "two_phonemes_A_short-44": {
+      "phraseId": "two_phonemes_A_short-44",
+      "phrase": "Type that",
+      "parsedPhrase": "Type that",
+      "phrasePhonemes": "t-ay-p dh-ae-t",
+      "phrasePhonemesArray": [
+        "t",
+        "ay",
+        "p",
+        "dh",
+        "ae",
+        "t"
+      ],
+      "phraseVowelsArray": [
+        {
+          "vowelPhoneme": "ay",
+          "vowelSound": "long",
+          "vowelLetter": "I"
+        },
+        {
+          "vowelPhoneme": "ae",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        }
+      ],
+      "phraseWordCount": 2,
+      "phrasePhonemeCount": 2,
+      "phraseLastPhoneme": {
+        "vowelPhoneme": "ae",
+        "vowelSound": "short",
+        "vowelLetter": "A"
+      },
+      "phraseWords": [
+        {
+          "wordId": "two_phonemes_A_short-44-0",
+          "word": "Type",
+          "wordPhoneme": "t-ay-p",
+          "wordPhonemesArray": [
+            "t",
+            "ay",
+            "p"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ay",
+              "vowelSound": "long",
+              "vowelLetter": "I"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "nnp",
+            "posName": "Proper noun, singular"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_A_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        },
+        {
+          "wordId": "two_phonemes_A_short-44-1",
+          "word": "that",
+          "wordPhoneme": "dh-ae-t",
+          "wordPhonemesArray": [
+            "dh",
+            "ae",
+            "t"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ae",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "in",
+            "posName": "Preposition or subordinating conjunction"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_A_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        }
+      ],
+      "documentId": "two_phonemes_A_short",
+      "phraseCategory": {
+        "phraseCategory1Id": "phraseCategory1",
+        "phraseCategory2Id": "phraseCategory2"
+      },
+      "phraseMetaData": {},
+      "phraseImgData": {
+        "url": ""
+      }
+    },
+    "two_phonemes_A_short-45": {
+      "phraseId": "two_phonemes_A_short-45",
+      "phrase": "Tight track",
+      "parsedPhrase": "Tight track",
+      "phrasePhonemes": "t-ay-t t-r-ae-k",
+      "phrasePhonemesArray": [
+        "t",
+        "ay",
+        "t",
+        "t",
+        "r",
+        "ae",
+        "k"
+      ],
+      "phraseVowelsArray": [
+        {
+          "vowelPhoneme": "ay",
+          "vowelSound": "long",
+          "vowelLetter": "I"
+        },
+        {
+          "vowelPhoneme": "ae",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        }
+      ],
+      "phraseWordCount": 2,
+      "phrasePhonemeCount": 2,
+      "phraseLastPhoneme": {
+        "vowelPhoneme": "ae",
+        "vowelSound": "short",
+        "vowelLetter": "A"
+      },
+      "phraseWords": [
+        {
+          "wordId": "two_phonemes_A_short-45-0",
+          "word": "Tight",
+          "wordPhoneme": "t-ay-t",
+          "wordPhonemesArray": [
+            "t",
+            "ay",
+            "t"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ay",
+              "vowelSound": "long",
+              "vowelLetter": "I"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "jj",
+            "posName": "Adjective"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_A_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        },
+        {
+          "wordId": "two_phonemes_A_short-45-1",
+          "word": "track",
+          "wordPhoneme": "t-r-ae-k",
+          "wordPhonemesArray": [
+            "t",
+            "r",
+            "ae",
+            "k"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ae",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "nn",
+            "posName": "Noun, singular or mass"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_A_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        }
+      ],
+      "documentId": "two_phonemes_A_short",
+      "phraseCategory": {
+        "phraseCategory1Id": "phraseCategory1",
+        "phraseCategory2Id": "phraseCategory2"
+      },
+      "phraseMetaData": {},
+      "phraseImgData": {
+        "url": ""
+      }
+    },
+    "two_phonemes_A_short-46": {
+      "phraseId": "two_phonemes_A_short-46",
+      "phrase": "Fight that",
+      "parsedPhrase": "Fight that",
+      "phrasePhonemes": "f-ay-t dh-ae-t",
+      "phrasePhonemesArray": [
+        "f",
+        "ay",
+        "t",
+        "dh",
+        "ae",
+        "t"
+      ],
+      "phraseVowelsArray": [
+        {
+          "vowelPhoneme": "ay",
+          "vowelSound": "long",
+          "vowelLetter": "I"
+        },
+        {
+          "vowelPhoneme": "ae",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        }
+      ],
+      "phraseWordCount": 2,
+      "phrasePhonemeCount": 2,
+      "phraseLastPhoneme": {
+        "vowelPhoneme": "ae",
+        "vowelSound": "short",
+        "vowelLetter": "A"
+      },
+      "phraseWords": [
+        {
+          "wordId": "two_phonemes_A_short-46-0",
+          "word": "Fight",
+          "wordPhoneme": "f-ay-t",
+          "wordPhonemesArray": [
+            "f",
+            "ay",
+            "t"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ay",
+              "vowelSound": "long",
+              "vowelLetter": "I"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "nnp",
+            "posName": "Proper noun, singular"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_A_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        },
+        {
+          "wordId": "two_phonemes_A_short-46-1",
+          "word": "that",
+          "wordPhoneme": "dh-ae-t",
+          "wordPhonemesArray": [
+            "dh",
+            "ae",
+            "t"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ae",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "in",
+            "posName": "Preposition or subordinating conjunction"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_A_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        }
+      ],
+      "documentId": "two_phonemes_A_short",
+      "phraseCategory": {
+        "phraseCategory1Id": "phraseCategory1",
+        "phraseCategory2Id": "phraseCategory2"
+      },
+      "phraseMetaData": {},
+      "phraseImgData": {
+        "url": ""
+      }
+    },
+    "two_phonemes_A_short-47": {
+      "phraseId": "two_phonemes_A_short-47",
+      "phrase": "Like that",
+      "parsedPhrase": "Like that",
+      "phrasePhonemes": "l-ay-k dh-ae-t",
+      "phrasePhonemesArray": [
+        "l",
+        "ay",
+        "k",
+        "dh",
+        "ae",
+        "t"
+      ],
+      "phraseVowelsArray": [
+        {
+          "vowelPhoneme": "ay",
+          "vowelSound": "long",
+          "vowelLetter": "I"
+        },
+        {
+          "vowelPhoneme": "ae",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        }
+      ],
+      "phraseWordCount": 2,
+      "phrasePhonemeCount": 2,
+      "phraseLastPhoneme": {
+        "vowelPhoneme": "ae",
+        "vowelSound": "short",
+        "vowelLetter": "A"
+      },
+      "phraseWords": [
+        {
+          "wordId": "two_phonemes_A_short-47-0",
+          "word": "Like",
+          "wordPhoneme": "l-ay-k",
+          "wordPhonemesArray": [
+            "l",
+            "ay",
+            "k"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ay",
+              "vowelSound": "long",
+              "vowelLetter": "I"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "in",
+            "posName": "Preposition or subordinating conjunction"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_A_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        },
+        {
+          "wordId": "two_phonemes_A_short-47-1",
+          "word": "that",
+          "wordPhoneme": "dh-ae-t",
+          "wordPhonemesArray": [
+            "dh",
+            "ae",
+            "t"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ae",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "in",
+            "posName": "Preposition or subordinating conjunction"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_A_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        }
+      ],
+      "documentId": "two_phonemes_A_short",
+      "phraseCategory": {
+        "phraseCategory1Id": "phraseCategory1",
+        "phraseCategory2Id": "phraseCategory2"
+      },
+      "phraseMetaData": {},
+      "phraseImgData": {
+        "url": ""
+      }
+    },
+    "two_phonemes_A_short-48": {
+      "phraseId": "two_phonemes_A_short-48",
+      "phrase": "Nightcap",
+      "parsedPhrase": "Nightcap",
+      "phrasePhonemes": "n-ay-t-k-ae-p",
+      "phrasePhonemesArray": [
+        "n",
+        "ay",
+        "t",
+        "k",
+        "ae",
+        "p"
+      ],
+      "phraseVowelsArray": [
+        {
+          "vowelPhoneme": "ay",
+          "vowelSound": "long",
+          "vowelLetter": "I"
+        },
+        {
+          "vowelPhoneme": "ae",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        }
+      ],
+      "phraseWordCount": 1,
+      "phrasePhonemeCount": 2,
+      "phraseLastPhoneme": {
+        "vowelPhoneme": "ae",
+        "vowelSound": "short",
+        "vowelLetter": "A"
+      },
+      "phraseWords": [
+        {
+          "wordId": "two_phonemes_A_short-48-0",
+          "word": "Nightcap",
+          "wordPhoneme": "n-ay-t-k-ae-p",
+          "wordPhonemesArray": [
+            "n",
+            "ay",
+            "t",
+            "k",
+            "ae",
+            "p"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ay",
+              "vowelSound": "long",
+              "vowelLetter": "I"
+            },
+            {
+              "vowelPhoneme": "ae",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 2,
+          "wordPosTag": {
+            "posTag": "nnp",
+            "posName": "Proper noun, singular"
+          },
+          "wordStresses": "1/1",
+          "documentId": "two_phonemes_A_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        }
+      ],
+      "documentId": "two_phonemes_A_short",
+      "phraseCategory": {
+        "phraseCategory1Id": "phraseCategory1",
+        "phraseCategory2Id": "phraseCategory2"
+      },
+      "phraseMetaData": {},
+      "phraseImgData": {
+        "url": ""
+      }
+    },
+    "two_phonemes_A_short-49": {
+      "phraseId": "two_phonemes_A_short-49",
+      "phrase": "Ride that",
+      "parsedPhrase": "Ride that",
+      "phrasePhonemes": "r-ay-d dh-ae-t",
+      "phrasePhonemesArray": [
+        "r",
+        "ay",
+        "d",
+        "dh",
+        "ae",
+        "t"
+      ],
+      "phraseVowelsArray": [
+        {
+          "vowelPhoneme": "ay",
+          "vowelSound": "long",
+          "vowelLetter": "I"
+        },
+        {
+          "vowelPhoneme": "ae",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        }
+      ],
+      "phraseWordCount": 2,
+      "phrasePhonemeCount": 2,
+      "phraseLastPhoneme": {
+        "vowelPhoneme": "ae",
+        "vowelSound": "short",
+        "vowelLetter": "A"
+      },
+      "phraseWords": [
+        {
+          "wordId": "two_phonemes_A_short-49-0",
+          "word": "Ride",
+          "wordPhoneme": "r-ay-d",
+          "wordPhonemesArray": [
+            "r",
+            "ay",
+            "d"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ay",
+              "vowelSound": "long",
+              "vowelLetter": "I"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "vb",
+            "posName": "Verb, base form"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_A_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        },
+        {
+          "wordId": "two_phonemes_A_short-49-1",
+          "word": "that",
+          "wordPhoneme": "dh-ae-t",
+          "wordPhonemesArray": [
+            "dh",
+            "ae",
+            "t"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ae",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "in",
+            "posName": "Preposition or subordinating conjunction"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_A_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        }
+      ],
+      "documentId": "two_phonemes_A_short",
+      "phraseCategory": {
+        "phraseCategory1Id": "phraseCategory1",
+        "phraseCategory2Id": "phraseCategory2"
+      },
+      "phraseMetaData": {},
+      "phraseImgData": {
+        "url": ""
+      }
+    },
+    "two_phonemes_A_short-50": {
+      "phraseId": "two_phonemes_A_short-50",
+      "phrase": "Right track",
+      "parsedPhrase": "Right track",
+      "phrasePhonemes": "r-ay-t t-r-ae-k",
+      "phrasePhonemesArray": [
+        "r",
+        "ay",
+        "t",
+        "t",
+        "r",
+        "ae",
+        "k"
+      ],
+      "phraseVowelsArray": [
+        {
+          "vowelPhoneme": "ay",
+          "vowelSound": "long",
+          "vowelLetter": "I"
+        },
+        {
+          "vowelPhoneme": "ae",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        }
+      ],
+      "phraseWordCount": 2,
+      "phrasePhonemeCount": 2,
+      "phraseLastPhoneme": {
+        "vowelPhoneme": "ae",
+        "vowelSound": "short",
+        "vowelLetter": "A"
+      },
+      "phraseWords": [
+        {
+          "wordId": "two_phonemes_A_short-50-0",
+          "word": "Right",
+          "wordPhoneme": "r-ay-t",
+          "wordPhonemesArray": [
+            "r",
+            "ay",
+            "t"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ay",
+              "vowelSound": "long",
+              "vowelLetter": "I"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "nnp",
+            "posName": "Proper noun, singular"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_A_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        },
+        {
+          "wordId": "two_phonemes_A_short-50-1",
+          "word": "track",
+          "wordPhoneme": "t-r-ae-k",
+          "wordPhonemesArray": [
+            "t",
+            "r",
+            "ae",
+            "k"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ae",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "nn",
+            "posName": "Noun, singular or mass"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_A_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        }
+      ],
+      "documentId": "two_phonemes_A_short",
+      "phraseCategory": {
+        "phraseCategory1Id": "phraseCategory1",
+        "phraseCategory2Id": "phraseCategory2"
+      },
+      "phraseMetaData": {},
+      "phraseImgData": {
+        "url": ""
+      }
+    },
+    "two_phonemes_A_short-51": {
+      "phraseId": "two_phonemes_A_short-51",
+      "phrase": "Wide gap",
+      "parsedPhrase": "Wide gap",
+      "phrasePhonemes": "w-ay-d g-ae-p",
+      "phrasePhonemesArray": [
+        "w",
+        "ay",
+        "d",
+        "g",
+        "ae",
+        "p"
+      ],
+      "phraseVowelsArray": [
+        {
+          "vowelPhoneme": "ay",
+          "vowelSound": "long",
+          "vowelLetter": "I"
+        },
+        {
+          "vowelPhoneme": "ae",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        }
+      ],
+      "phraseWordCount": 2,
+      "phrasePhonemeCount": 2,
+      "phraseLastPhoneme": {
+        "vowelPhoneme": "ae",
+        "vowelSound": "short",
+        "vowelLetter": "A"
+      },
+      "phraseWords": [
+        {
+          "wordId": "two_phonemes_A_short-51-0",
+          "word": "Wide",
+          "wordPhoneme": "w-ay-d",
+          "wordPhonemesArray": [
+            "w",
+            "ay",
+            "d"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ay",
+              "vowelSound": "long",
+              "vowelLetter": "I"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "jj",
+            "posName": "Adjective"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_A_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        },
+        {
+          "wordId": "two_phonemes_A_short-51-1",
+          "word": "gap",
+          "wordPhoneme": "g-ae-p",
+          "wordPhonemesArray": [
+            "g",
+            "ae",
+            "p"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ae",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "nn",
+            "posName": "Noun, singular or mass"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_A_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        }
+      ],
+      "documentId": "two_phonemes_A_short",
+      "phraseCategory": {
+        "phraseCategory1Id": "phraseCategory1",
+        "phraseCategory2Id": "phraseCategory2"
+      },
+      "phraseMetaData": {},
+      "phraseImgData": {
+        "url": ""
+      }
+    },
+    "two_phonemes_A_short-52": {
+      "phraseId": "two_phonemes_A_short-52",
+      "phrase": "Write that",
+      "parsedPhrase": "Write that",
+      "phrasePhonemes": "r-ay-t dh-ae-t",
+      "phrasePhonemesArray": [
+        "r",
+        "ay",
+        "t",
+        "dh",
+        "ae",
+        "t"
+      ],
+      "phraseVowelsArray": [
+        {
+          "vowelPhoneme": "ay",
+          "vowelSound": "long",
+          "vowelLetter": "I"
+        },
+        {
+          "vowelPhoneme": "ae",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        }
+      ],
+      "phraseWordCount": 2,
+      "phrasePhonemeCount": 2,
+      "phraseLastPhoneme": {
+        "vowelPhoneme": "ae",
+        "vowelSound": "short",
+        "vowelLetter": "A"
+      },
+      "phraseWords": [
+        {
+          "wordId": "two_phonemes_A_short-52-0",
+          "word": "Write",
+          "wordPhoneme": "r-ay-t",
+          "wordPhonemesArray": [
+            "r",
+            "ay",
+            "t"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ay",
+              "vowelSound": "long",
+              "vowelLetter": "I"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "vb",
+            "posName": "Verb, base form"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_A_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        },
+        {
+          "wordId": "two_phonemes_A_short-52-1",
+          "word": "that",
+          "wordPhoneme": "dh-ae-t",
+          "wordPhonemesArray": [
+            "dh",
+            "ae",
+            "t"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ae",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "in",
+            "posName": "Preposition or subordinating conjunction"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_A_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        }
+      ],
+      "documentId": "two_phonemes_A_short",
+      "phraseCategory": {
+        "phraseCategory1Id": "phraseCategory1",
+        "phraseCategory2Id": "phraseCategory2"
+      },
+      "phraseMetaData": {},
+      "phraseImgData": {
+        "url": ""
+      }
+    },
+    "two_phonemes_A_short-53": {
+      "phraseId": "two_phonemes_A_short-53",
+      "phrase": "Brainwashed",
+      "parsedPhrase": "Brainwashed",
+      "phrasePhonemes": "b-r-ey-n-w-aa-sh-t",
+      "phrasePhonemesArray": [
+        "b",
+        "r",
+        "ey",
+        "n",
+        "w",
+        "aa",
+        "sh",
+        "t"
+      ],
+      "phraseVowelsArray": [
+        {
+          "vowelPhoneme": "ey",
+          "vowelSound": "long",
+          "vowelLetter": "A"
+        },
+        {
+          "vowelPhoneme": "aa",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        }
+      ],
+      "phraseWordCount": 1,
+      "phrasePhonemeCount": 2,
+      "phraseLastPhoneme": {
+        "vowelPhoneme": "aa",
+        "vowelSound": "short",
+        "vowelLetter": "A"
+      },
+      "phraseWords": [
+        {
+          "wordId": "two_phonemes_A_short-53-0",
+          "word": "Brainwashed",
+          "wordPhoneme": "b-r-ey-n-w-aa-sh-t",
+          "wordPhonemesArray": [
+            "b",
+            "r",
+            "ey",
+            "n",
+            "w",
+            "aa",
+            "sh",
+            "t"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ey",
+              "vowelSound": "long",
+              "vowelLetter": "A"
+            },
+            {
+              "vowelPhoneme": "aa",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 2,
+          "wordPosTag": {
+            "posTag": "vbn",
+            "posName": "Verb, past participle"
+          },
+          "wordStresses": "1/0",
+          "documentId": "two_phonemes_A_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        }
+      ],
+      "documentId": "two_phonemes_A_short",
+      "phraseCategory": {
+        "phraseCategory1Id": "phraseCategory1",
+        "phraseCategory2Id": "phraseCategory2"
+      },
+      "phraseMetaData": {},
+      "phraseImgData": {
+        "url": ""
+      }
+    },
+    "two_phonemes_A_short-54": {
+      "phraseId": "two_phonemes_A_short-54",
+      "phrase": "Chains locked",
+      "parsedPhrase": "Chains locked",
+      "phrasePhonemes": "ch-ey-n-z l-aa-k-t",
+      "phrasePhonemesArray": [
+        "ch",
+        "ey",
+        "n",
+        "z",
+        "l",
+        "aa",
+        "k",
+        "t"
+      ],
+      "phraseVowelsArray": [
+        {
+          "vowelPhoneme": "ey",
+          "vowelSound": "long",
+          "vowelLetter": "A"
+        },
+        {
+          "vowelPhoneme": "aa",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        }
+      ],
+      "phraseWordCount": 2,
+      "phrasePhonemeCount": 2,
+      "phraseLastPhoneme": {
+        "vowelPhoneme": "aa",
+        "vowelSound": "short",
+        "vowelLetter": "A"
+      },
+      "phraseWords": [
+        {
+          "wordId": "two_phonemes_A_short-54-0",
+          "word": "Chains",
+          "wordPhoneme": "ch-ey-n-z",
+          "wordPhonemesArray": [
+            "ch",
+            "ey",
+            "n",
+            "z"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ey",
+              "vowelSound": "long",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "nnps",
+            "posName": "Proper noun, plural"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_A_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        },
+        {
+          "wordId": "two_phonemes_A_short-54-1",
+          "word": "locked",
+          "wordPhoneme": "l-aa-k-t",
+          "wordPhonemesArray": [
+            "l",
+            "aa",
+            "k",
+            "t"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "aa",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "vbn",
+            "posName": "Verb, past participle"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_A_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        }
+      ],
+      "documentId": "two_phonemes_A_short",
+      "phraseCategory": {
+        "phraseCategory1Id": "phraseCategory1",
+        "phraseCategory2Id": "phraseCategory2"
+      },
+      "phraseMetaData": {},
+      "phraseImgData": {
+        "url": ""
+      }
+    },
+    "two_phonemes_A_short-55": {
+      "phraseId": "two_phonemes_A_short-55",
+      "phrase": "Fame costs",
+      "parsedPhrase": "Fame costs",
+      "phrasePhonemes": "f-ey-m k-aa-s-t-s",
+      "phrasePhonemesArray": [
+        "f",
+        "ey",
+        "m",
+        "k",
+        "aa",
+        "s",
+        "t",
+        "s"
+      ],
+      "phraseVowelsArray": [
+        {
+          "vowelPhoneme": "ey",
+          "vowelSound": "long",
+          "vowelLetter": "A"
+        },
+        {
+          "vowelPhoneme": "aa",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        }
+      ],
+      "phraseWordCount": 2,
+      "phrasePhonemeCount": 2,
+      "phraseLastPhoneme": {
+        "vowelPhoneme": "aa",
+        "vowelSound": "short",
+        "vowelLetter": "A"
+      },
+      "phraseWords": [
+        {
+          "wordId": "two_phonemes_A_short-55-0",
+          "word": "Fame",
+          "wordPhoneme": "f-ey-m",
+          "wordPhonemesArray": [
+            "f",
+            "ey",
+            "m"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ey",
+              "vowelSound": "long",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "nnp",
+            "posName": "Proper noun, singular"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_A_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        },
+        {
+          "wordId": "two_phonemes_A_short-55-1",
+          "word": "costs",
+          "wordPhoneme": "k-aa-s-t-s",
+          "wordPhonemesArray": [
+            "k",
+            "aa",
+            "s",
+            "t",
+            "s"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "aa",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "nns",
+            "posName": "Noun, plural"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_A_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        }
+      ],
+      "documentId": "two_phonemes_A_short",
+      "phraseCategory": {
+        "phraseCategory1Id": "phraseCategory1",
+        "phraseCategory2Id": "phraseCategory2"
+      },
+      "phraseMetaData": {},
+      "phraseImgData": {
+        "url": ""
+      }
+    },
+    "two_phonemes_A_short-56": {
+      "phraseId": "two_phonemes_A_short-56",
+      "phrase": "Game's lost",
+      "parsedPhrase": "Games lost",
+      "phrasePhonemes": "g-ey-m-z l-ao-s-t",
+      "phrasePhonemesArray": [
+        "g",
+        "ey",
+        "m",
+        "z",
+        "l",
+        "ao",
+        "s",
+        "t"
+      ],
+      "phraseVowelsArray": [
+        {
+          "vowelPhoneme": "ey",
+          "vowelSound": "long",
+          "vowelLetter": "A"
+        },
+        {
+          "vowelPhoneme": "ao",
+          "vowelSound": "short",
+          "vowelLetter": "O"
+        }
+      ],
+      "phraseWordCount": 2,
+      "phrasePhonemeCount": 2,
+      "phraseLastPhoneme": {
+        "vowelPhoneme": "ao",
+        "vowelSound": "short",
+        "vowelLetter": "O"
+      },
+      "phraseWords": [
+        {
+          "wordId": "two_phonemes_A_short-56-0",
+          "word": "Games",
+          "wordPhoneme": "g-ey-m-z",
+          "wordPhonemesArray": [
+            "g",
+            "ey",
+            "m",
+            "z"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ey",
+              "vowelSound": "long",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "nnps",
+            "posName": "Proper noun, plural"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_A_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        },
+        {
+          "wordId": "two_phonemes_A_short-56-1",
+          "word": "lost",
+          "wordPhoneme": "l-ao-s-t",
+          "wordPhonemesArray": [
+            "l",
+            "ao",
+            "s",
+            "t"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ao",
+              "vowelSound": "short",
+              "vowelLetter": "O"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "vbd",
+            "posName": "Verb, past tense"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_A_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        }
+      ],
+      "documentId": "two_phonemes_A_short",
+      "phraseCategory": {
+        "phraseCategory1Id": "phraseCategory1",
+        "phraseCategory2Id": "phraseCategory2"
+      },
+      "phraseMetaData": {},
+      "phraseImgData": {
+        "url": ""
+      }
+    },
+    "two_phonemes_A_short-57": {
+      "phraseId": "two_phonemes_A_short-57",
+      "phrase": "Paint tossed",
+      "parsedPhrase": "Paint tossed",
+      "phrasePhonemes": "p-ey-n-t t-ao-s-t",
+      "phrasePhonemesArray": [
+        "p",
+        "ey",
+        "n",
+        "t",
+        "t",
+        "ao",
+        "s",
+        "t"
+      ],
+      "phraseVowelsArray": [
+        {
+          "vowelPhoneme": "ey",
+          "vowelSound": "long",
+          "vowelLetter": "A"
+        },
+        {
+          "vowelPhoneme": "ao",
+          "vowelSound": "short",
+          "vowelLetter": "O"
+        }
+      ],
+      "phraseWordCount": 2,
+      "phrasePhonemeCount": 2,
+      "phraseLastPhoneme": {
+        "vowelPhoneme": "ao",
+        "vowelSound": "short",
+        "vowelLetter": "O"
+      },
+      "phraseWords": [
+        {
+          "wordId": "two_phonemes_A_short-57-0",
+          "word": "Paint",
+          "wordPhoneme": "p-ey-n-t",
+          "wordPhonemesArray": [
+            "p",
+            "ey",
+            "n",
+            "t"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ey",
+              "vowelSound": "long",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "nnp",
+            "posName": "Proper noun, singular"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_A_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        },
+        {
+          "wordId": "two_phonemes_A_short-57-1",
+          "word": "tossed",
+          "wordPhoneme": "t-ao-s-t",
+          "wordPhonemesArray": [
+            "t",
+            "ao",
+            "s",
+            "t"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ao",
+              "vowelSound": "short",
+              "vowelLetter": "O"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "vbd",
+            "posName": "Verb, past tense"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_A_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        }
+      ],
+      "documentId": "two_phonemes_A_short",
+      "phraseCategory": {
+        "phraseCategory1Id": "phraseCategory1",
+        "phraseCategory2Id": "phraseCategory2"
+      },
+      "phraseMetaData": {},
+      "phraseImgData": {
+        "url": ""
+      }
+    },
+    "two_phonemes_A_short-58": {
+      "phraseId": "two_phonemes_A_short-58",
+      "phrase": "Same cost",
+      "parsedPhrase": "Same cost",
+      "phrasePhonemes": "s-ey-m k-aa-s-t",
+      "phrasePhonemesArray": [
+        "s",
+        "ey",
+        "m",
+        "k",
+        "aa",
+        "s",
+        "t"
+      ],
+      "phraseVowelsArray": [
+        {
+          "vowelPhoneme": "ey",
+          "vowelSound": "long",
+          "vowelLetter": "A"
+        },
+        {
+          "vowelPhoneme": "aa",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        }
+      ],
+      "phraseWordCount": 2,
+      "phrasePhonemeCount": 2,
+      "phraseLastPhoneme": {
+        "vowelPhoneme": "aa",
+        "vowelSound": "short",
+        "vowelLetter": "A"
+      },
+      "phraseWords": [
+        {
+          "wordId": "two_phonemes_A_short-58-0",
+          "word": "Same",
+          "wordPhoneme": "s-ey-m",
+          "wordPhonemesArray": [
+            "s",
+            "ey",
+            "m"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ey",
+              "vowelSound": "long",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "jj",
+            "posName": "Adjective"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_A_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        },
+        {
+          "wordId": "two_phonemes_A_short-58-1",
+          "word": "cost",
+          "wordPhoneme": "k-aa-s-t",
+          "wordPhonemesArray": [
+            "k",
+            "aa",
+            "s",
+            "t"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "aa",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "nn",
+            "posName": "Noun, singular or mass"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_A_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        }
+      ],
+      "documentId": "two_phonemes_A_short",
+      "phraseCategory": {
+        "phraseCategory1Id": "phraseCategory1",
+        "phraseCategory2Id": "phraseCategory2"
+      },
+      "phraseMetaData": {},
+      "phraseImgData": {
+        "url": ""
+      }
+    },
+    "two_phonemes_A_short-59": {
+      "phraseId": "two_phonemes_A_short-59",
+      "phrase": "Trains cross",
+      "parsedPhrase": "Trains cross",
+      "phrasePhonemes": "t-r-ey-n-z k-r-ao-s",
+      "phrasePhonemesArray": [
+        "t",
+        "r",
+        "ey",
+        "n",
+        "z",
+        "k",
+        "r",
+        "ao",
+        "s"
+      ],
+      "phraseVowelsArray": [
+        {
+          "vowelPhoneme": "ey",
+          "vowelSound": "long",
+          "vowelLetter": "A"
+        },
+        {
+          "vowelPhoneme": "ao",
+          "vowelSound": "short",
+          "vowelLetter": "O"
+        }
+      ],
+      "phraseWordCount": 2,
+      "phrasePhonemeCount": 2,
+      "phraseLastPhoneme": {
+        "vowelPhoneme": "ao",
+        "vowelSound": "short",
+        "vowelLetter": "O"
+      },
+      "phraseWords": [
+        {
+          "wordId": "two_phonemes_A_short-59-0",
+          "word": "Trains",
+          "wordPhoneme": "t-r-ey-n-z",
+          "wordPhonemesArray": [
+            "t",
+            "r",
+            "ey",
+            "n",
+            "z"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ey",
+              "vowelSound": "long",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "nnps",
+            "posName": "Proper noun, plural"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_A_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        },
+        {
+          "wordId": "two_phonemes_A_short-59-1",
+          "word": "cross",
+          "wordPhoneme": "k-r-ao-s",
+          "wordPhonemesArray": [
+            "k",
+            "r",
+            "ao",
+            "s"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ao",
+              "vowelSound": "short",
+              "vowelLetter": "O"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "vb",
+            "posName": "Verb, base form"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_A_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        }
+      ],
+      "documentId": "two_phonemes_A_short",
+      "phraseCategory": {
+        "phraseCategory1Id": "phraseCategory1",
+        "phraseCategory2Id": "phraseCategory2"
+      },
+      "phraseMetaData": {},
+      "phraseImgData": {
+        "url": ""
+      }
+    }
+  }
+}

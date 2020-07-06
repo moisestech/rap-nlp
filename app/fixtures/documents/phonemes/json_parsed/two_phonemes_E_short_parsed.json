@@ -1,0 +1,705 @@
+{
+  "title": "Two Phonemes E Short",
+  "phrases": {
+    "two_phonemes_E_short-0": {
+      "phraseId": "two_phonemes_E_short-0",
+      "phrase": "Blank check",
+      "parsedPhrase": "Blank check",
+      "phrasePhonemes": "b-l-ae-ng-k ch-eh-k",
+      "phrasePhonemesArray": [
+        "b",
+        "l",
+        "ae",
+        "ng",
+        "k",
+        "ch",
+        "eh",
+        "k"
+      ],
+      "phraseVowelsArray": [
+        {
+          "vowelPhoneme": "ae",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        },
+        {
+          "vowelPhoneme": "eh",
+          "vowelSound": "short",
+          "vowelLetter": "E"
+        }
+      ],
+      "phraseWordCount": 2,
+      "phrasePhonemeCount": 2,
+      "phraseLastPhoneme": {
+        "vowelPhoneme": "eh",
+        "vowelSound": "short",
+        "vowelLetter": "E"
+      },
+      "phraseWords": [
+        {
+          "wordId": "two_phonemes_E_short-0-0",
+          "word": "Blank",
+          "wordPhoneme": "b-l-ae-ng-k",
+          "wordPhonemesArray": [
+            "b",
+            "l",
+            "ae",
+            "ng",
+            "k"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ae",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "jj",
+            "posName": "Adjective"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_E_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        },
+        {
+          "wordId": "two_phonemes_E_short-0-1",
+          "word": "check",
+          "wordPhoneme": "ch-eh-k",
+          "wordPhonemesArray": [
+            "ch",
+            "eh",
+            "k"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "eh",
+              "vowelSound": "short",
+              "vowelLetter": "E"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "nn",
+            "posName": "Noun, singular or mass"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_E_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        }
+      ],
+      "documentId": "two_phonemes_E_short",
+      "phraseCategory": {
+        "phraseCategory1Id": "phraseCategory1",
+        "phraseCategory2Id": "phraseCategory2"
+      },
+      "phraseMetaData": {},
+      "phraseImgData": {
+        "url": ""
+      }
+    },
+    "two_phonemes_E_short-1": {
+      "phraseId": "two_phonemes_E_short-1",
+      "phrase": "Band set",
+      "parsedPhrase": "Band set",
+      "phrasePhonemes": "b-ae-n-d s-eh-t",
+      "phrasePhonemesArray": [
+        "b",
+        "ae",
+        "n",
+        "d",
+        "s",
+        "eh",
+        "t"
+      ],
+      "phraseVowelsArray": [
+        {
+          "vowelPhoneme": "ae",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        },
+        {
+          "vowelPhoneme": "eh",
+          "vowelSound": "short",
+          "vowelLetter": "E"
+        }
+      ],
+      "phraseWordCount": 2,
+      "phrasePhonemeCount": 2,
+      "phraseLastPhoneme": {
+        "vowelPhoneme": "eh",
+        "vowelSound": "short",
+        "vowelLetter": "E"
+      },
+      "phraseWords": [
+        {
+          "wordId": "two_phonemes_E_short-1-0",
+          "word": "Band",
+          "wordPhoneme": "b-ae-n-d",
+          "wordPhonemesArray": [
+            "b",
+            "ae",
+            "n",
+            "d"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ae",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "nnp",
+            "posName": "Proper noun, singular"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_E_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        },
+        {
+          "wordId": "two_phonemes_E_short-1-1",
+          "word": "set",
+          "wordPhoneme": "s-eh-t",
+          "wordPhonemesArray": [
+            "s",
+            "eh",
+            "t"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "eh",
+              "vowelSound": "short",
+              "vowelLetter": "E"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "vbn",
+            "posName": "Verb, past participle"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_E_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        }
+      ],
+      "documentId": "two_phonemes_E_short",
+      "phraseCategory": {
+        "phraseCategory1Id": "phraseCategory1",
+        "phraseCategory2Id": "phraseCategory2"
+      },
+      "phraseMetaData": {},
+      "phraseImgData": {
+        "url": ""
+      }
+    },
+    "two_phonemes_E_short-2": {
+      "phraseId": "two_phonemes_E_short-2",
+      "phrase": "Bank debt",
+      "parsedPhrase": "Bank debt",
+      "phrasePhonemes": "b-ae-ng-k d-eh-t",
+      "phrasePhonemesArray": [
+        "b",
+        "ae",
+        "ng",
+        "k",
+        "d",
+        "eh",
+        "t"
+      ],
+      "phraseVowelsArray": [
+        {
+          "vowelPhoneme": "ae",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        },
+        {
+          "vowelPhoneme": "eh",
+          "vowelSound": "short",
+          "vowelLetter": "E"
+        }
+      ],
+      "phraseWordCount": 2,
+      "phrasePhonemeCount": 2,
+      "phraseLastPhoneme": {
+        "vowelPhoneme": "eh",
+        "vowelSound": "short",
+        "vowelLetter": "E"
+      },
+      "phraseWords": [
+        {
+          "wordId": "two_phonemes_E_short-2-0",
+          "word": "Bank",
+          "wordPhoneme": "b-ae-ng-k",
+          "wordPhonemesArray": [
+            "b",
+            "ae",
+            "ng",
+            "k"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ae",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "nnp",
+            "posName": "Proper noun, singular"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_E_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        },
+        {
+          "wordId": "two_phonemes_E_short-2-1",
+          "word": "debt",
+          "wordPhoneme": "d-eh-t",
+          "wordPhonemesArray": [
+            "d",
+            "eh",
+            "t"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "eh",
+              "vowelSound": "short",
+              "vowelLetter": "E"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "nn",
+            "posName": "Noun, singular or mass"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_E_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        }
+      ],
+      "documentId": "two_phonemes_E_short",
+      "phraseCategory": {
+        "phraseCategory1Id": "phraseCategory1",
+        "phraseCategory2Id": "phraseCategory2"
+      },
+      "phraseMetaData": {},
+      "phraseImgData": {
+        "url": ""
+      }
+    },
+    "two_phonemes_E_short-3": {
+      "phraseId": "two_phonemes_E_short-3",
+      "phrase": "Can't get",
+      "parsedPhrase": "Cant get",
+      "phrasePhonemes": "k-ae-n-t g-eh-t",
+      "phrasePhonemesArray": [
+        "k",
+        "ae",
+        "n",
+        "t",
+        "g",
+        "eh",
+        "t"
+      ],
+      "phraseVowelsArray": [
+        {
+          "vowelPhoneme": "ae",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        },
+        {
+          "vowelPhoneme": "eh",
+          "vowelSound": "short",
+          "vowelLetter": "E"
+        }
+      ],
+      "phraseWordCount": 2,
+      "phrasePhonemeCount": 2,
+      "phraseLastPhoneme": {
+        "vowelPhoneme": "eh",
+        "vowelSound": "short",
+        "vowelLetter": "E"
+      },
+      "phraseWords": [
+        {
+          "wordId": "two_phonemes_E_short-3-0",
+          "word": "Cant",
+          "wordPhoneme": "k-ae-n-t",
+          "wordPhonemesArray": [
+            "k",
+            "ae",
+            "n",
+            "t"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ae",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "nnp",
+            "posName": "Proper noun, singular"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_E_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        },
+        {
+          "wordId": "two_phonemes_E_short-3-1",
+          "word": "get",
+          "wordPhoneme": "g-eh-t",
+          "wordPhonemesArray": [
+            "g",
+            "eh",
+            "t"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "eh",
+              "vowelSound": "short",
+              "vowelLetter": "E"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "vb",
+            "posName": "Verb, base form"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_E_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        }
+      ],
+      "documentId": "two_phonemes_E_short",
+      "phraseCategory": {
+        "phraseCategory1Id": "phraseCategory1",
+        "phraseCategory2Id": "phraseCategory2"
+      },
+      "phraseMetaData": {},
+      "phraseImgData": {
+        "url": ""
+      }
+    },
+    "two_phonemes_E_short-4": {
+      "phraseId": "two_phonemes_E_short-4",
+      "phrase": "Grand theft",
+      "parsedPhrase": "Grand theft",
+      "phrasePhonemes": "g-r-ae-n-d th-eh-f-t",
+      "phrasePhonemesArray": [
+        "g",
+        "r",
+        "ae",
+        "n",
+        "d",
+        "th",
+        "eh",
+        "f",
+        "t"
+      ],
+      "phraseVowelsArray": [
+        {
+          "vowelPhoneme": "ae",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        },
+        {
+          "vowelPhoneme": "eh",
+          "vowelSound": "short",
+          "vowelLetter": "E"
+        }
+      ],
+      "phraseWordCount": 2,
+      "phrasePhonemeCount": 2,
+      "phraseLastPhoneme": {
+        "vowelPhoneme": "eh",
+        "vowelSound": "short",
+        "vowelLetter": "E"
+      },
+      "phraseWords": [
+        {
+          "wordId": "two_phonemes_E_short-4-0",
+          "word": "Grand",
+          "wordPhoneme": "g-r-ae-n-d",
+          "wordPhonemesArray": [
+            "g",
+            "r",
+            "ae",
+            "n",
+            "d"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ae",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "jj",
+            "posName": "Adjective"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_E_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        },
+        {
+          "wordId": "two_phonemes_E_short-4-1",
+          "word": "theft",
+          "wordPhoneme": "th-eh-f-t",
+          "wordPhonemesArray": [
+            "th",
+            "eh",
+            "f",
+            "t"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "eh",
+              "vowelSound": "short",
+              "vowelLetter": "E"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "nn",
+            "posName": "Noun, singular or mass"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_E_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        }
+      ],
+      "documentId": "two_phonemes_E_short",
+      "phraseCategory": {
+        "phraseCategory1Id": "phraseCategory1",
+        "phraseCategory2Id": "phraseCategory2"
+      },
+      "phraseMetaData": {},
+      "phraseImgData": {
+        "url": ""
+      }
+    },
+    "two_phonemes_E_short-5": {
+      "phraseId": "two_phonemes_E_short-5",
+      "phrase": "Handset",
+      "parsedPhrase": "Handset",
+      "phrasePhonemes": "hh-ae-n-d-s-eh-t",
+      "phrasePhonemesArray": [
+        "hh",
+        "ae",
+        "n",
+        "d",
+        "s",
+        "eh",
+        "t"
+      ],
+      "phraseVowelsArray": [
+        {
+          "vowelPhoneme": "ae",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        },
+        {
+          "vowelPhoneme": "eh",
+          "vowelSound": "short",
+          "vowelLetter": "E"
+        }
+      ],
+      "phraseWordCount": 1,
+      "phrasePhonemeCount": 2,
+      "phraseLastPhoneme": {
+        "vowelPhoneme": "eh",
+        "vowelSound": "short",
+        "vowelLetter": "E"
+      },
+      "phraseWords": [
+        {
+          "wordId": "two_phonemes_E_short-5-0",
+          "word": "Handset",
+          "wordPhoneme": "hh-ae-n-d-s-eh-t",
+          "wordPhonemesArray": [
+            "hh",
+            "ae",
+            "n",
+            "d",
+            "s",
+            "eh",
+            "t"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ae",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            },
+            {
+              "vowelPhoneme": "eh",
+              "vowelSound": "short",
+              "vowelLetter": "E"
+            }
+          ],
+          "wordPhonemeCount": 2,
+          "wordPosTag": {
+            "posTag": "nnp",
+            "posName": "Proper noun, singular"
+          },
+          "wordStresses": "1/0",
+          "documentId": "two_phonemes_E_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        }
+      ],
+      "documentId": "two_phonemes_E_short",
+      "phraseCategory": {
+        "phraseCategory1Id": "phraseCategory1",
+        "phraseCategory2Id": "phraseCategory2"
+      },
+      "phraseMetaData": {},
+      "phraseImgData": {
+        "url": ""
+      }
+    },
+    "two_phonemes_E_short-6": {
+      "phraseId": "two_phonemes_E_short-6",
+      "phrase": "Tram wreck",
+      "parsedPhrase": "Tram wreck",
+      "phrasePhonemes": "t-r-ae-m r-eh-k",
+      "phrasePhonemesArray": [
+        "t",
+        "r",
+        "ae",
+        "m",
+        "r",
+        "eh",
+        "k"
+      ],
+      "phraseVowelsArray": [
+        {
+          "vowelPhoneme": "ae",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        },
+        {
+          "vowelPhoneme": "eh",
+          "vowelSound": "short",
+          "vowelLetter": "E"
+        }
+      ],
+      "phraseWordCount": 2,
+      "phrasePhonemeCount": 2,
+      "phraseLastPhoneme": {
+        "vowelPhoneme": "eh",
+        "vowelSound": "short",
+        "vowelLetter": "E"
+      },
+      "phraseWords": [
+        {
+          "wordId": "two_phonemes_E_short-6-0",
+          "word": "Tram",
+          "wordPhoneme": "t-r-ae-m",
+          "wordPhonemesArray": [
+            "t",
+            "r",
+            "ae",
+            "m"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ae",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "nnp",
+            "posName": "Proper noun, singular"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_E_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        },
+        {
+          "wordId": "two_phonemes_E_short-6-1",
+          "word": "wreck",
+          "wordPhoneme": "r-eh-k",
+          "wordPhonemesArray": [
+            "r",
+            "eh",
+            "k"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "eh",
+              "vowelSound": "short",
+              "vowelLetter": "E"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "nn",
+            "posName": "Noun, singular or mass"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_E_short",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        }
+      ],
+      "documentId": "two_phonemes_E_short",
+      "phraseCategory": {
+        "phraseCategory1Id": "phraseCategory1",
+        "phraseCategory2Id": "phraseCategory2"
+      },
+      "phraseMetaData": {},
+      "phraseImgData": {
+        "url": ""
+      }
+    }
+  }
+}

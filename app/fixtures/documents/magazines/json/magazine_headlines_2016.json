@@ -1,0 +1,169 @@
+{
+  "filename": "top_magazine_headlines_2016",
+  "title": "Top Magazine Headlines 2016",
+  "documentId": "top_magazine_headlines_2016",
+  "website": "",
+  "phrases": [{
+    "phrase": "",
+    "phraseToParse": "seven women who rule hulu",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {
+      "link": "",
+      "magazine": "wired"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "This Sunday Hosting the Emmys Jimmy Kimmel live the MC",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {
+      "link": "",
+      "magazine": "people"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "repair your skin through tiny injuries call it microneeding",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {
+      "link": "",
+      "magazine": "womens health"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "NFL sunday, get your mind and body ready for game day",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {
+      "link": "",
+      "magazine": "mens health"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "the shows you can't believe have never won an emmy",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {
+      "link": "",
+      "magazine": "entertainment"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "hear tangerine dreams's spooky cover of stranger things",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {
+      "link": "",
+      "magazine": "rolling stone"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "update the new tesla autopilot update",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {
+      "link": "",
+      "magazine": "popular science"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "dispelling that islam and fashion are incompatible",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {
+      "link": "",
+      "magazine": "the new yorker"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "gucci renaissance man",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {
+      "link": "",
+      "magazine": "the new yorker"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "gucci renaissance man",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {
+      "link": "",
+      "magazine": "the new yorker"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "gucci renaissance man",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {
+      "link": "",
+      "magazine": "the new yorker"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "technology could be the liberty",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {
+      "link": "",
+      "magazine": "the new yorker"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "inevitable actions of a person of conscience",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {
+      "link": "",
+      "magazine": "the new yorker"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "nuclear lessons for trump and clinton",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {
+      "link": "",
+      "magazine": "the new yorker"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "welcome to the rare metal age",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {
+      "link": "",
+      "verse": "china be leading it, holding the future of energy",
+      "magazine": "popular science"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "Just ate the First Ever Crisper",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {
+      "link": "",
+      "verse": "Healing my genes through modified meals",
+      "magazine": "popular science"
+    }
+  }]
+}

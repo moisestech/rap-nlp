@@ -1,0 +1,12 @@
+{
+	"name": "transitive_verb",
+	"list": [
+		"command",
+		"view",
+		"lead",
+		"pull",
+		"love",
+		"desire",
+		"fight"
+	]
+}

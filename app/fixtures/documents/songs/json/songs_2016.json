@@ -1,0 +1,286 @@
+{
+  "filename": "songs_2016",
+  "title": "Songs 2016",
+  "documentId": "songs_2016",
+  "phrases": [{
+    "phrase": "",
+    "phraseToParse": "Ivy",
+    "imgData": {
+      "url": "ivy.jpeg"
+    },
+    "metaData": {
+      "artist": "Frank Ocean",
+      "album": ""
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "Black Beatles",
+    "imgData": {
+      "url": "Black_Beatles.jpg"
+    },
+    "metaData": {
+      "artist": "Rae Sremmurd",
+      "album": ""
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "Powerball",
+    "imgData": {
+      "url": "Powerball.jpeg"
+    },
+    "metaData": {
+      "artist": "Topaz Jones",
+      "album": ""
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "Let Me Be Me",
+    "imgData": {
+      "url": "Let_Me_Be_Me.jpg"
+    },
+    "metaData": {
+      "artist": "Nite Funk",
+      "album": ""
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "Shut Up Kiss Me",
+    "imgData": {
+      "url": "Shut_Up_Kiss_Me.jpg"
+    },
+    "metaData": {
+      "artist": "Angel Olsen",
+      "album": ""
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "First Day Out Tha Feds",
+    "imgData": {
+      "url": "First_Day_Out_Tha_Feds.jpg"
+    },
+    "metaData": {
+      "artist": "Gucci Mane",
+      "album": ""
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "Never Going To Die",
+    "imgData": {
+      "url": "Never_Going_To_Die.jpg"
+    },
+    "metaData": {
+      "artist": "CC Dust",
+      "album": ""
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "True Love Waits",
+    "imgData": {
+      "url": "true_Love_Waits.jpg"
+    },
+    "metaData": {
+      "artist": "Radiohead",
+      "album": ""
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "Radio Silence",
+    "imgData": {
+      "url": "Radio_Silence.jpg"
+    },
+    "metaData": {
+      "artist": "James Blake",
+      "album": ""
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "Photobooth",
+    "imgData": {
+      "url": "Photobooth.jpg"
+    },
+    "metaData": {
+      "artist": "Joey Purp",
+      "album": ""
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "Burn The Witch",
+    "imgData": {
+      "url": "Burn_The_Witch.jpg"
+    },
+    "metaData": {
+      "artist": "Radiohead",
+      "album": ""
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "Feel No Ways",
+    "imgData": {
+      "url": "Feel_No_Ways.jpg"
+    },
+    "metaData": {
+      "artist": "Drake",
+      "album": ""
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "Hold Up",
+    "imgData": {
+      "url": "Hold_Up.jpg"
+    },
+    "metaData": {
+      "artist": "Beyonce",
+      "album": ""
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "Nuh Skylarking",
+    "imgData": {
+      "url": "Nuh_Skylarking.jpg"
+    },
+    "metaData": {
+      "artist": "Keznamdi",
+      "album": ""
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "Drone Bomb Me",
+    "imgData": {
+      "url": "Drone_Bomb_Me.jpg"
+    },
+    "metaData": {
+      "artist": "Anohni",
+      "album": ""
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "The Big Big Beat",
+    "imgData": {
+      "url": "The_Big_Big_Beat.jpg"
+    },
+    "metaData": {
+      "artist": "Azelia Banks",
+      "album": ""
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "Ultralight Beam",
+    "imgData": {
+      "url": "Ultralight_Beam.jpg"
+    },
+    "metaData": {
+      "artist": "Kanye West",
+      "album": ""
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "I have been to the mountain",
+    "imgData": {
+      "url": "I_have_been_to_the_mountain.jpg"
+    },
+    "metaData": {
+      "artist": "Kevin Morby",
+      "album": ""
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "Qwazars",
+    "imgData": {
+      "url": "Qwazars.jpg"
+    },
+    "metaData": {
+      "artist": "Mr Fingers",
+      "album": ""
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "Formation",
+    "imgData": {
+      "url": "Formation.jpg"
+    },
+    "metaData": {
+      "artist": "Beyonce",
+      "album": ""
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "Two Phones",
+    "imgData": {
+      "url": "Two_Phones.jpg"
+    },
+    "metaData": {
+      "artist": "Kevin Gates",
+      "album": ""
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "Work",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {
+      "artist": "Rihanna",
+      "album": ""
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "No More Parties in LA",
+    "imgData": {
+      "url": "No_More_Parties_in_LA.jpg"
+    },
+    "metaData": {
+      "artist": "Kanye West",
+      "album": ""
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "Trill Friends",
+    "imgData": {
+      "url": "Trill_Friends.png"
+    },
+    "metaData": {
+      "artist": "Erykah Badu",
+      "album": ""
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "Come Down",
+    "imgData": {
+      "url": "Come_Down.jpg"
+    },
+    "metaData": {
+      "artist": "Anderson .Paak",
+      "album": ""
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "Porches",
+    "imgData": {
+      "url": "Porches.jpg"
+    },
+    "metaData": {
+      "artist": "Be Apart",
+      "album": ""
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "Real Friends",
+    "imgData": {
+      "url": "Real_Friends.png"
+    },
+    "metaData": {
+      "artist": "Kanye West",
+      "album": "The Life of Pablo"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "Dollar Days",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {
+      "artist": "David Bowie",
+      "album": "Black Star"
+    }
+  }]
+}

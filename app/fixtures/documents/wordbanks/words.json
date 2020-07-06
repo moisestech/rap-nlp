@@ -1,0 +1,244 @@
+{
+  "a" : {
+    "title": "A Words",
+    "document": [
+      "art",
+      "all",
+      "arc"
+    ]
+  },
+  "e" : {
+    "title": "E Words",
+    "document": [
+      "evil",
+      "ether",
+      "either",
+      "enter"
+    ]
+  },
+  "i" : {
+    "title": "I Words",
+    "document": [
+      "intel",
+      "ill",
+      "island",
+      "iPod",
+      "i"
+    ]
+  },
+  "o" : {
+    "title": "O Words",
+    "document": [
+      "oculus",
+      "other",
+      "object"
+    ]
+  },
+  "u" : {
+    "title": "U Words",
+    "document": [
+      "unshift",
+      "unite",
+      "uno"
+    ]
+  },
+  "q" : {
+    "title": "Q Words",
+    "document": [
+      "quit",
+      "quasi",
+      "quarks"
+    ]
+  },
+  "w" : {
+    "title": "W Words",
+    "document": [
+      "window",
+      "warn",
+      "world",
+      "will"
+    ]
+  },
+  "r" : {
+    "title": "R Words",
+    "document": [
+      "reverse",
+      "regex",
+      "run",
+      "roll",
+      "rent",
+      "rhyme",
+      "rhithim",
+      "reason"
+    ]
+  },
+  "t" : {
+    "title": "T Words",
+    "document": [
+      "tempo",
+      "trend",
+      "tron",
+      "train",
+      "time"
+    ]
+  },
+  "y" : {
+    "title": "Y Words",
+    "document": [
+      "yoyo",
+      // "yoshimitsu",
+      "yoshi",
+      "yo",
+      "ying",
+      "yang"
+    ]
+  },
+  "p" : {
+    "title": "P Words",
+    "document": [
+      "proto",
+      "pop",
+      // "private",
+      "push",
+      "parse",
+      "present"
+    ]
+  },
+  "s" : {
+    "title": "S Words",
+    "document": [
+      "shift",
+      "short",
+      "splice",
+      "static",
+      "string"
+    ]
+  },
+  "d" : {
+    "title": "D Words",
+    "document": [
+      // "document",
+      "double",
+      "deed",
+      "dose",
+      "drone"
+    ]
+  },
+  "f" : {
+    "title": "F Words",
+    "document": [
+      // "function",
+      "float",
+      "for",
+      // "forever",
+      "forecast"
+    ]
+  },
+  "g" : {
+    "title": "G Words",
+    "document": [
+      "get",
+      "guest",
+      "govern",
+      "gold",
+      "gamble"
+    ]
+  },
+  "h" : {
+    "title": "H Words",
+    "document": [
+      "hell",
+      "hire",
+      "honest",
+      // "hindsight",
+      "hero",
+      "holy"
+    ]
+  },
+  "j" : {
+    "title": "J Words",
+    "document": [
+      "jet",
+      "jack",
+      "jab",
+      "jumbo",
+      "jam"
+    ]
+  },
+  "k" : {
+    "title": "K Words",
+    "document": [
+      "kill",
+      "know",
+      "koolaid",
+      // "komodo"
+    ]
+  },
+  "l" : {
+    "title": "L Words",
+    "document": [
+      "long",
+      "log",
+      "linux"
+    ]
+  },
+  "z" : {
+    "title": "Z Words",
+    "document": [
+      "zeus",
+      "zorro",
+      "zoo"
+    ]
+  },
+  "x" : {
+    "title": "X Words",
+    "document": [
+      "xeno",
+      "x"
+    ]
+  },
+  "c" : {
+    "title": "C Words",
+    "document": [
+      "console",
+      "class",
+      "char"
+    ]
+  },
+  "v" : {
+    "title": "V Words",
+    "document": [
+      "var",
+      "void"
+    ]
+  },
+  "b" : {
+    "title": "B Words",
+    "document": [
+      "byte",
+      "bit",
+      "boolean",
+      "bool"
+    ]
+  },
+  "n" : {
+    "title": "N Words",
+    "document": [
+      "native",
+      "nan",
+      "nano",
+      "not",
+      "neither",
+      "never",
+      "nill",
+      "non"
+    ]
+  },
+  "m" : {
+    "title": "M Words",
+    "document": [
+      "map",
+      "math"
+    ]
+  }
+}

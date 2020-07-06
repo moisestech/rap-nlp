@@ -1,0 +1,284 @@
+{
+  "filename": "trending_acronyms_2016",
+  "title": "Trending Acronyms 2016",
+  "documentId": "trending_acronyms_2016",
+  "website": "http://www.makeuseof.com/tag/30-trendy-internet-acronyms-slang-need-know-fit/",
+  "phrases": [{
+    "phrase": "",
+    "phraseToParse": "Ask Me Anything",
+    "imgData": {
+      "url": "ama.gif"
+    },
+    "metaData": {
+      "acronym": "AMA"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "Before Anyone Else",
+    "imgData": {
+      "url": "bae.png"
+    },
+    "metaData": {
+      "acronym": "Bae"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "Does Anyone Else?",
+    "imgData": {
+      "url": "dae.jpg"
+    },
+    "metaData": {
+      "acronym": "DAE"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "Dafuq",
+    "imgData": {
+      "url": "dafuq.jpg"
+    },
+    "metaData": {
+      "acronym": "(What) the f***?"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "Direct Message",
+    "imgData": {
+      "url": "dm.png"
+    },
+    "metaData": {
+      "acronym": "DM"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "Explain Like I’m 5",
+    "imgData": {
+      "url": "eli5.jpg"
+    },
+    "metaData": {
+      "acronym": "ELI5"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "Facepalm",
+    "imgData": {
+      "url": "facepalm.png"
+    },
+    "metaData": {}
+  }, {
+    "phrase": "",
+    "phraseToParse": "Fuck My Life",
+    "imgData": {
+      "url": "fml.png"
+    },
+    "metaData": {
+      "acronym": "FML"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "Fixed That For You",
+    "imgData": {
+      "url": "ftfy.jpg"
+    },
+    "metaData": {
+      "acronym": "FTFY"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "Headdesk",
+    "imgData": {
+      "url": "headdesk.gif"
+    },
+    "metaData": {
+      "acronym": "Supreme frustration"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "How I Felt When",
+    "imgData": {
+      "url": "hifw.png"
+    },
+    "metaData": {
+      "acronym": "HIFW"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "In Case You Missed It",
+    "imgData": {
+      "url": "icymi.JPG"
+    },
+    "metaData": {
+      "acronym": "ICYMI"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "I Don’t Give A Fuck",
+    "imgData": {
+      "url": "idgaf.png"
+    },
+    "metaData": {
+      "acronym": "IDGAF"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "In My Humblest Opinion",
+    "imgData": {
+      "url": "imho.png"
+    },
+    "metaData": {
+      "acronym": "IMHO"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "In Real Life",
+    "imgData": {
+      "url": "irl.jpg"
+    },
+    "metaData": {
+      "acronym": "IRL"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "Just So You Know",
+    "imgData": {
+      "url": "jsyk.jpg"
+    },
+    "metaData": {
+      "acronym": "JSYK"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "Lulz",
+    "imgData": {
+      "url": "lulz.png"
+    },
+    "metaData": {
+      "acronym": "For kicks"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "My Face When",
+    "imgData": {
+      "url": "mfw.jpg"
+    },
+    "metaData": {
+      "acronym": "MFW"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "My Reaction When",
+    "imgData": {
+      "url": "mrw.png"
+    },
+    "metaData": {
+      "acronym": "MRW"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "Me In Real Life",
+    "imgData": {
+      "url": "mirl.jpg"
+    },
+    "metaData": {
+      "acronym": "MIRL"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "Not Safe For Work",
+    "imgData": {
+      "url": "nsfw.png"
+    },
+    "metaData": {
+      "acronym": "NSFW"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "Not Safe For Life",
+    "imgData": {
+      "url": "nsfl.gif"
+    },
+    "metaData": {
+      "acronym": "NSFL"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "Parents Are Watching",
+    "imgData": {
+      "url": "paw.png"
+    },
+    "metaData": {
+      "acronym": "PAW"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "Shaking My Head",
+    "imgData": {
+      "url": "smh.gif"
+    },
+    "metaData": {
+      "acronym": "SMH"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "Throwback Thursday",
+    "imgData": {
+      "url": "tbt.png"
+    },
+    "metaData": {
+      "acronym": "TBT"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "Today I Learned",
+    "imgData": {
+      "url": "til.jpg"
+    },
+    "metaData": {
+      "acronym": "TIL"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "Too Long Didn’t Read",
+    "imgData": {
+      "url": "tldr.jpg"
+    },
+    "metaData": {
+      "acronym": "TL;DR"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "Your Mileage May Vary",
+    "imgData": {
+      "url": "ymmv.gif"
+    },
+    "metaData": {
+      "acronym": "YMMV"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "You Only Live Once",
+    "imgData": {
+      "url": "yolo.jpg"
+    },
+    "metaData": {
+      "acronym": "YOLO"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "You Always Live Again",
+    "imgData": {
+      "url": "yala.jpg"
+    },
+    "metaData": {
+      "acronym": "YALA"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "The Shruggie",
+    "imgData": {
+      "url": "the_shruggie.jpg"
+    },
+    "metaData": {
+      "acronym": "kaomoji"
+    }
+  }]
+}
