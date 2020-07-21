@@ -8,7 +8,8 @@ Rhythm and Poetry UI powered by natural language processing and react.
 **Back-End** ⚙
 - Node.JS
 - GraphQL
-- [https://github.com/NaturalNode/natural](NaturalNode)
+- Relay
+- [NaturalNode](https://github.com/NaturalNode/natural)
 
 **Alternative Back-End** ⚙
 - Flask
