@@ -1,4 +1,30 @@
 import React from 'react'
+import PropTypes from 'prop-types'
+
+function PhonemeNav ({selectedPhonemeTag, phonemeColor, onUpdatePhonemeTag}) {
+  const phonemeTags = ['All','AH', 'EH', 'EEH', 'OH', 'OOH']
+
+  return (
+    <ul className='flex-center'>
+      {phonemeTags.map((phonemeTag, index) => (
+          <li key={index}>
+            <button
+              className='btn-clear nav-link'
+              style={phonemeTag === selectedPhonemeTag ? {color: phonemeColor} : null}
+              onClick={() => onUpdatePhonemeTag(phonemeTag)}>
+              {phonemeTag}
+            </button>
+          </li>
+        ))}
+    </ul>
+  )
+}
+
+PhonemeNav.propTypes = {
+  selectedPhonemeTag: PropTypes.string.isRequired,
+  phonemeColor: PropTypes.string.isRequired,
+  onUpdatePhonemeTag: PropTypes.func.isRequired
+}
 
 export default class TagNav extends React.Component {
   constructor (props) {
@@ -27,21 +53,16 @@ export default class TagNav extends React.Component {
     })
   }
   render() {
-    const phonemeTags = ['All','AH', 'EH', 'EEH', 'OH', 'OOH']
-
+    const { selectedPhonemeTag,
+            phonemeColor } = this.state
     return (
-      <ul className='flex-center'>
-        {phonemeTags.map((phonemeTag, index) => (
-            <li key={index}>
-              <button
-                className='btn-clear nav-link'
-                style={phonemeTag === this.state.selectedPhonemeTag ? {color: this.state.phonemeColor} : null}
-                onClick={() => this.updatePhonemeTag(phonemeTag)}>
-                {phonemeTag}
-              </button>
-            </li>
-          ))}
-      </ul>
-      )
+      <React.Fragment>
+        <PhonemeNav
+          selectedPhonemeTag={selectedPhonemeTag}
+          phonemeColor={phonemeColor}
+          onUpdatePhonemeTag={this.updatePhonemeTag}
+        />
+      </React.Fragment>
+    )
   }
 }
