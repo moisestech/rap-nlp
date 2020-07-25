@@ -22,8 +22,42 @@ function LanguagesNav ({ selected, onUpdateLanguage }) {
 }
 
 LanguagesNav.propTypes = {
-  selected: PropTypes.isRequired,
-  onUpdateLanguage: PropTypes.isRequired
+  selected: PropTypes.string.isRequired,
+  onUpdateLanguage: PropTypes.func.isRequired
+}
+
+
+function ReposGrid ({ repos }) {
+  return (
+    <ul className='gird space-around'>
+      {repos.map((repo, index) => {
+        const { name, owner, html_url, stargazers_count, forks, open_issues } = repo
+        const { login, avatar_url } = owner
+
+        return (
+          <li key={html_url} className='repo bg-light'>
+            <h4 className='hearder-lg center-text'>
+              #{index + 1}
+            </h4>
+            <img
+              className='avatar'
+              src={avatar_url}
+              alt={`Avatar for ${login}`}
+            />
+            <h2 className='center-text'>
+              <a className='link' href={html_url}>{login}</a>
+            </h2>
+          </li>
+          )
+      })}
+
+    </ul>
+    )
+}
+
+ReposGrid.propTypes = {
+  repos: PropTypes.array.isRequired
+
 }
 
 export default class Popular extends React.Component {
@@ -32,7 +66,7 @@ export default class Popular extends React.Component {
 
     this.state = {
       selectedLanguage: 'All',
-      repos: null,
+      repos: {},
       error: null
     }
 
@@ -48,12 +82,12 @@ export default class Popular extends React.Component {
       error: null
     })
 
-    if (!this.state.repost[selectedLanguage]) {
+    if (!this.state.repos[selectedLanguage]) {
       fetchPopularRepos (selectedLanguage)
         .then((data) => {
           this.setState(({ repos }) => ({
             repos: {
-              repos,
+              ...repos,
               [selectedLanguage]:data
             }
           }))
@@ -89,7 +123,7 @@ export default class Popular extends React.Component {
 
         {error && <p>{error}</p>}
 
-        {repos[selectedLanguage] && <pre>{JSON.stringify(repos[selectedLanguage], null, 2)}</pre>}
+        {repos[selectedLanguage] && <ReposGrid repos={repos[selectedLanguage]} />}
       </React.Fragment>
     )
   }

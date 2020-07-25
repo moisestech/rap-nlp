@@ -22,7 +22,7 @@ function PhonemeNav ({selectedPhonemeTag, phonemeColor, onUpdatePhonemeTag}) {
 
 PhonemeNav.propTypes = {
   selectedPhonemeTag: PropTypes.string.isRequired,
-  phonemeColor: PropTypes.string.isRequired,
+  phonemeColor: PropTypes.string,
   onUpdatePhonemeTag: PropTypes.func.isRequired
 }
 
