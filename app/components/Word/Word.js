@@ -4,7 +4,7 @@ import { textEffectsMap } from '../../fixtures/style/textEffectsMap'
 import { backgroundEffectsMap } from '../../fixtures/style/backgroundEffectsMap'
 // import SVGFilters from '../SVGFilters/SVGFilters'
 
-class Word extends Component {
+export class Word extends React.Component {
   static displayName = 'Word'
 
   static propTypes = {
@@ -83,6 +83,18 @@ class Word extends Component {
         return ''
     }
   }
+
+Word.propTypes = {
+  'setColor': PropTypes.func,
+  'syllableCount': PropTypes.number,
+  'word': PropTypes.string,
+  'vowelsound': PropTypes.array,
+  'phonemes': PropTypes.string,
+  'phonemesArray': PropTypes.array,
+  'posTag': PropTypes.object,
+  'posActive': PropTypes.boolean,
+  'phonemesActive': PropTypes.boolean
+}
 
   // setVowelSoundColor(vowelsound) {
   //   switch (vowelsound) {
