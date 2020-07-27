@@ -5,7 +5,6 @@ import './index.css'
 import TagNav from './components/TagNav/TagNav'
 import Popular from './components/Popular/Popular'
 import Battle from './components/Battle/Battle'
-import CreatePhrase from './components/CreatePhrase/CreatePhrase'
 
 // Component
 // State
@@ -17,7 +16,6 @@ class App extends React.Component {
   return (
    <div>
      <TagNav />
-     <CreatePhrase/>
      <Battle />
      <Popular/>
     </div>
