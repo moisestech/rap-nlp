@@ -5,14 +5,21 @@ Rhythm and Poetry UI powered by natural language processing and react.
 - React.JS
 - Styled Components
 
+**Middleware**
+- Apollo
+- Next.JS
+
 **Back-End** ⚙
 - Node.JS
 - GraphQL
 - Relay
 - [NaturalNode](https://github.com/NaturalNode/natural)
+- [Compromise](https://github.com/spencermountain/compromise)
 
 **Alternative Back-End** ⚙
 - Flask
+
+**Python Packages**
 - NLTK
 - Word2Vec
 
@@ -21,7 +28,7 @@ Rhythm and Poetry UI powered by natural language processing and react.
 
 
 **About:**
-	The interface will suggest bilingual phrases divided by color coded phonemes.
+- The interface will suggest bilingual phrases divided by color coded phonemes.
 
 **Create Mode:**
 - Users can create a batch of phrases.
