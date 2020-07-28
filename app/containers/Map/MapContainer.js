@@ -1,15 +1,10 @@
-import React, { Component } from 'react'
-
+import React from 'react'
+import PropTypes from 'prop-types'
 import Documents from '../../fixtures/documents'
-
 import Document from '../../components/Document/Document'
-
 import SVGFilters from '../../components/SVGFilters/SVGFilters'
-
-// import styles from '../../fixtures/style/'
-
 import textEffectsMap from '../../fixtures/style/textEffectsMap'
-
+// import styles from '../../fixtures/style/'
 // import ReactPlayer from 'react-player'
 // import jsonfile from 'jsonfile'
 
@@ -19,10 +14,9 @@ const { allPhrases,
         currentPhraseIds,
         lyrics_milo_folk_meta_physics } = Documents
 
-class DocumentContainer extends Component {
-  static displayName = 'DocumentContainer'
+export default class DocumentContainer extends React.Component {
 
-  state = {
+  this.state = {
     allDocuments: Documents,
     activeDocuments: {
       allPhrases,
@@ -64,7 +58,6 @@ class DocumentContainer extends Component {
     this.randTextEffect = this.randTextEffect.bind(this)
     this.shuffleArray = this.shuffleArray.bind(this)
   }
-
   componentDidMount() {
     const { RiTa } = window
     const docToParse = lyrics_milo_folk_meta_physics
@@ -76,7 +69,6 @@ class DocumentContainer extends Component {
     if (shouldParseDoc) this.parseDoc(RiTa, docToParse)
       console.log("SHOULD-PARSE-DOC: ", shouldParseDoc)
   }
-
   shouldParseDoc(docToParse) {
     const { allDocuments } = this.state
     let shouldParseDoc
@@ -97,7 +89,6 @@ class DocumentContainer extends Component {
     })
     return shouldParseDoc
   }
-
   parseDoc(RiTa, docToParse) {
     const { allDocuments } = this.state
 
@@ -155,7 +146,6 @@ class DocumentContainer extends Component {
           // console.log("PHRASES-SORTED-PHONEME-VOWEL-IDS: ", phrasesSortedPhonemeVowelIDs)
           // console.log(JSON.stringify(phrasesSortedPhonemeVowelIDs, 0, 2))
   }
-
   setPhrasesParsed(RiTa, phraseArrayObjs) {
     const documentId = phraseArrayObjs.documentId
     const phrasesParsed = {
@@ -251,7 +241,6 @@ class DocumentContainer extends Component {
     // console.log(JSON.stringify(allPhraseIds, 0, 2))
     return phrasesParsed
   }
-
   setPhraseArray(parsedPhrases) {
     const setPhraseArray = []
 
@@ -261,14 +250,12 @@ class DocumentContainer extends Component {
 
     return setPhraseArray
   }
-
   sortPhraseArray(phraseArrayIDs, docObj) {
     return phraseArrayIDs.sort((a, b) => {
       return parseFloat(docObj.phrases[a].phrasePhonemeCount)
         - parseFloat(docObj.phrases[b].phrasePhonemeCount)
     })
   }
-
   // (GET THIS WORKING**)
   sortByPhonemeLength(phraseArraySorted, sortedLengthTemplate, docObj) {
     const phrasesSortedPhonemeLength = sortedLengthTemplate
@@ -281,10 +268,8 @@ class DocumentContainer extends Component {
 
       return null
     })
-
     return phrasesSortedPhonemeLength
   }
-
   // (GET THIS WORKING**)
   sortByPhonemeLengthVowelSound(phraseArraySorted, docParsedTemplate, docObj) {
     const phrasesSortedPhonemeVowel = docParsedTemplate
@@ -301,10 +286,8 @@ class DocumentContainer extends Component {
 
       return null
     })
-
     return phrasesSortedPhonemeVowel
   }
-
   // (GET THIS WORKING**)
   sortPhraseArrayByPhonemeLengthVowelSound(phrasesSortedPhonemeVowel) {
     // Loop through keys and log the phrases
@@ -319,10 +302,8 @@ class DocumentContainer extends Component {
         })
       })
     })
-
     return phrasesParsedIDs
   }
-
   getVowels(phonemesArray) {
     const vowelsArray = []
     for (let i = 0; i < phonemesArray.length; i++) {
@@ -375,7 +356,6 @@ class DocumentContainer extends Component {
         return false
     }
   }
-
   getPhonemeSound(phoneme) {
     switch (phoneme) {
       case 'ey' :
@@ -413,7 +393,6 @@ class DocumentContainer extends Component {
         return false
     }
   }
-
   getPOSName(posTag) {
     switch (posTag) {
       case 'cc' :
@@ -493,7 +472,6 @@ class DocumentContainer extends Component {
         return false
     }
   }
-
   isVowel(phoneme) {
     switch (phoneme) {
       case 'ey' :
@@ -527,13 +505,11 @@ class DocumentContainer extends Component {
         return false
     }
   }
-
   phraseClick(phraseObj, phraseIndex) {
     // console.log("PHRASE-OBJ: ", phraseObj)
     this.addLayer(phraseObj.phraseId)
     this.deletePhrase(phraseObj, phraseIndex)
   }
-
   deletePhrase(phraseObj, phraseIndex) {
     const { currentPhraseIds } = this.state.activeDocuments
     // const { activeDocuments } = this.state
@@ -548,7 +524,6 @@ class DocumentContainer extends Component {
     // this.setState({activeDocuments}, cb)
     this.addPhrase(currentPhraseIds, phraseIndex)
   }
-
   addPhrase(nextPhraseIds, prevPhraseIndex) {
     console.log("ADD-PHRASE")
 
@@ -566,14 +541,12 @@ class DocumentContainer extends Component {
     activeDocuments.currentPhraseIds = nextPhraseIds
     this.setState({activeDocuments})
   }
-
   addLayer(layerId) {
     // const { activePhraseIds } = this.state
     // activePhraseIds.push(layerId)
     this.setState({activePhraseIds: [layerId]})
     // this.setState({activePhraseIds})
   }
-
   removeLayer() {
     // layerId, layerIndex
     const { activePhraseIds } = this.state
@@ -581,11 +554,9 @@ class DocumentContainer extends Component {
     activePhraseIds.splice(0, 1)
     this.setState({activePhraseIds})
   }
-
   randTextEffect() {
     return textEffectsMap.textEffectsMap[Math.floor(Math.random() * 32)]
   }
-
   shuffleArray(array) {
     let arrayClone = []
 
@@ -601,7 +572,6 @@ class DocumentContainer extends Component {
 
     return arrayClone
   }
-
   render() {
     const { allPhrases, currentPhraseIds
           } = this.state.activeDocuments
@@ -698,8 +668,6 @@ class DocumentContainer extends Component {
     )
   }
 }
-
-export default DocumentContainer
 
 
 // <div className={`Render-text ${textEffect}-before`}>

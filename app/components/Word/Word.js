@@ -4,20 +4,7 @@ import { textEffectsMap } from '../../fixtures/style/textEffectsMap'
 import { backgroundEffectsMap } from '../../fixtures/style/backgroundEffectsMap'
 // import SVGFilters from '../SVGFilters/SVGFilters'
 
-export class Word extends React.Component {
-  static displayName = 'Word'
-
-  static propTypes = {
-    'setColor': PropTypes.func,
-    'syllableCount': PropTypes.number,
-    'word': PropTypes.string,
-    'vowelsound': PropTypes.array,
-    'phonemes': PropTypes.string,
-    'phonemesArray': PropTypes.array,
-    'posTag': PropTypes.object,
-    'posActive': PropTypes.boolean,
-    'phonemesActive': PropTypes.boolean
-  }
+export default class Word extends React.Component {
 
   constructor(props) {
     super(props)
@@ -48,7 +35,6 @@ export class Word extends React.Component {
 
     this.setState({layers})
   }
-
   changeBackgroundEffect() {
     const background = backgroundEffectsMap[
       Math.floor(
@@ -60,13 +46,11 @@ export class Word extends React.Component {
 
     this.setState({layers})
   }
-
   changeAllLayers(ev) {
     ev.preventDefault()
     this.changeTextEffect()
     this.changeBackgroundEffect()
   }
-
   setSyllableColor(syllableCount) {
     switch (syllableCount) {
       case 1:
@@ -83,19 +67,6 @@ export class Word extends React.Component {
         return ''
     }
   }
-
-Word.propTypes = {
-  'setColor': PropTypes.func,
-  'syllableCount': PropTypes.number,
-  'word': PropTypes.string,
-  'vowelsound': PropTypes.array,
-  'phonemes': PropTypes.string,
-  'phonemesArray': PropTypes.array,
-  'posTag': PropTypes.object,
-  'posActive': PropTypes.boolean,
-  'phonemesActive': PropTypes.boolean
-}
-
   // setVowelSoundColor(vowelsound) {
   //   switch (vowelsound) {
   //     case 'oʊ':
@@ -132,7 +103,6 @@ Word.propTypes = {
   //       return 'black'
   //   }
   // }
-
   setVowelSoundColor(vowelSound) {
     switch (vowelSound) {
       case 'ey' :
@@ -167,7 +137,6 @@ Word.propTypes = {
         return false
     }
   }
-
   isVowel(phoneme) {
     switch (phoneme) {
       case 'ey' :
@@ -194,7 +163,6 @@ Word.propTypes = {
         return false
     }
   }
-
   getVowels(phonemesArray) {
     const vowelsArray = []
     for (let i = 0; i < phonemesArray.length; i++) {
@@ -204,7 +172,6 @@ Word.propTypes = {
     }
     return vowelsArray
   }
-
   render() {
     // const styles = _.cloneDeep(this.constructor.styles)
     // const { text, background } = this.state
@@ -273,4 +240,14 @@ Word.propTypes = {
   }
 }
 
-export default Word
+Word.propTypes = {
+  'setColor': PropTypes.func,
+  'syllableCount': PropTypes.number,
+  'word': PropTypes.string,
+  'vowelsound': PropTypes.array,
+  'phonemes': PropTypes.string,
+  'phonemesArray': PropTypes.array,
+  'posTag': PropTypes.object,
+  'posActive': PropTypes.boolean,
+  'phonemesActive': PropTypes.boolean
+}

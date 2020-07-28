@@ -1,33 +1,25 @@
-import React, { PropTypes, Component } from 'react'
+import React from 'react'
+import PropTypes from 'prop-types'
 import cn from 'classnames'
 // import { Motion, spring } from 'react-motion'
 
 import Word from '../Word/Word'
+import Phrases from '../fixtures/multilingual-words/multilingual-words'
 
-class Phrase extends Component {
-  static displayName = 'Phrase'
-
-  static propTypes = {
-    'allPhrases': PropTypes.obj,
-    'phraseId': PropTypes.obj,
-    'onClick': PropTypes.func,
-    'bgSoundColor': PropTypes.string
-  }
-
+export default class Phrase extends React.Component {
   constructor(props) {
     super(props)
 
     this.resetAnim = this.resetAnim.bind(this)
   }
 
-  state = {
+  this.state = {
     animIn: true,
     animOut: false,
     animating: true
   }
 
   componentDidMount() {
-    /* eslint-disable react/no-did-mount-set-state */
     this.setState({
       mounted: true
     })
@@ -89,4 +81,10 @@ class Phrase extends Component {
   }
 }
 
-export default Phrase
+Phrase.propTypes = {
+  'allPhrases': PropTypes.obj,
+  'phraseId': PropTypes.obj,
+  'onClick': PropTypes.func,
+  'bgSoundColor': PropTypes.string
+}
+
