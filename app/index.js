@@ -1,10 +1,13 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
 import './index.css'
+import './styles/main.css'
 
 import TagNav from './components/TagNav/TagNav'
 import Popular from './components/Popular/Popular'
 import Battle from './components/Battle/Battle'
+import Batch from './components/Batch/Batch'
+
 
 // Component
 // State
@@ -18,6 +21,7 @@ class App extends React.Component {
      <TagNav />
      <Battle />
      <Popular/>
+     <Batch />
     </div>
    )
   }

@@ -1,0 +1,103 @@
+/* main.css */
+
+.flex-center.batch {
+  flex-direction: column;
+}
+
+
+.batch-wrapper {
+  display: flex;
+  flex-flow: wrap;
+  background: #292929;
+  padding-top: 5px;
+}
+
+.word-wrapper {
+  border-radius: 18px;
+  background: #545454;
+  margin: 4px 4px;
+  /*padding: 8px 15px;*/
+  box-sizing: border-box;
+  display: inline-block;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #828282;
+  max-height: 36px;
+  display: flex;
+  overflow: hidden;
+  color: white;
+}
+
+.word-symbol-wrapper {
+  background: white;
+  padding: 2px 0 5px 5px;
+  margin-right: 10px;
+  display: inline-block;
+
+  &.--off { display: none; }
+}
+
+.word-symbol {
+  font-weight: bold;
+  margin-right: 5px;
+}
+
+.Word-pos-wrapper {
+  background: white;
+  padding: 2px 0 5px 5px;
+  margin-right: 10px;
+  display: inline-block;
+}
+
+.Word-pos {
+  border-radius: 5px;
+  background: rgba(100, 100, 100, 0.3);
+  color: white;
+  font-weight: 'bold';
+  padding: 2px 5px 5px 5px;
+  margin-right: 10px;
+  display: inline-block;
+
+  &.--off { display: none; }
+}
+
+.Word-content {
+  text-align: center;
+  color: white;
+  font-weight: bold;
+  display: inline-block;
+}
+
+
+p {
+    margin: 0;
+    padding: 0px;
+}
+
+.magenta {
+  color: magenta;
+  background: pink;
+}
+.red {
+  color: red;
+  background: pink;
+}
+.green {
+  color: lime;
+  background: green;
+  padding: 4px;
+  border-radius: 18px;
+}
+.gold {
+  color: gold;
+  background: brown;
+  padding: 4px;
+  border-radius: 18px;
+}
+.blue {
+  color: blue;
+  background: cyan;
+}
+
+.null { padding: 2px; }
+
