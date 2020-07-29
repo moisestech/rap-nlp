@@ -18,9 +18,9 @@ class App extends React.Component {
  render () {
   return (
    <div>
-     <TagNav />
      <Battle />
      <Popular/>
+     <TagNav />
      <Batch />
     </div>
    )

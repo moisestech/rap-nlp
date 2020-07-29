@@ -1,14 +1,256 @@
+
+
 export default {
   phonemePhrases: [
-    { "phonemes":
+    { "words":
       [
-        {"lo": "gold"},
-        {"co": "gold"},
-        {"space": "null"},
-        {"por": "gold"},
-        {"ti": "green"}
+        [{"lo": "gold"},
+         {"co": "gold"}],
+        [{"por": "gold"}],
+        [{"ti": "green"}]
       ]
-    }
+    },
+    { "words":
+      [
+        [{"ban": "magenta"},
+         {"di": "green"},
+         {"da": "magenta"}]
+      ]
+    },
+    { "words":
+      [
+        [{"no": "magenta"}],
+        [{"me": "red"}],
+        [{"de": "red"},
+         {"jo": "gold"}]
+      ]
+    },
+    { "words":
+      [
+        [{"sw": "blue"},
+         {"a": "red"},
+         {"y": "green"}]
+      ]
+    },
+    { "words":
+      [
+        [{"ca": "blue"},
+         {"lles": "red"}],
+        [{"y": "green"}],
+        [{"ri": "green"},
+         {"mas": "magenta"}]
+      ]
+    },
+    { "words":
+      [
+        [{"ba": "magenta"},
+         {"i": "green"},
+         {"la": "magenta"}]
+      ]
+    },
+    { "words":
+      [
+        [{"ga": "magenta"},
+         {"nas": "magenta"}]
+      ]
+    },
+    { "words":
+      [
+        [{"les": "red"}],
+        [{"du": "blue"},
+         {"e": "red"},
+         {"le": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"s": "red"},
+         {"l": "gold"},
+         {"ow": "blue"}],
+        [{"gr": "magenta"},
+         {"ind": "green"}]
+      ]
+    },
+    { "words":
+      [
+        [{"i": "green"}],
+        [{"dont": "gold"}],
+        [{"kn": "gold"},
+         {"ow": "blue"}]
+      ]
+    },
+    { "words":
+      [
+        [{"jo": "gold"},
+         {"i": "green"},
+         {"a": "magenta"}]
+      ]
+    },
+    { "words":
+      [
+        [{"di": "green"},
+         {"o": "gold"},
+         {"sa": "magenta"}]
+      ]
+    },
+    { "words":
+      [
+        [{"es": "red"},
+         {"to": "gold"}],
+        [{"es": "magenta"}],
+        [{"ca": "magenta"},
+         {"lle": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"ro": "gold"},
+         {"man": "magenta"},
+         {"ti": "green"},
+         {"co": "gold"}]
+      ]
+    },
+    { "words":
+      [
+        [{"kar": "magenta"},
+         {"ma": "magenta"}]
+      ]
+    },
+    { "words":
+      [
+        [{"tic": "green"},
+         {"toc": "gold"}]
+      ]
+    },
+    { "words":
+      [
+        [{"un": "blue"}],
+        [{"lu": "blue"},
+         {"gar": "magenta"}],
+        [{"a": "magenta"},
+         {"par": "magenta"},
+         {"te": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"ga": "magenta"},
+         {"ti": "green"},
+         {"llo": "gold"}]
+      ]
+    },
+    { "words":
+      [
+        [{"a": "magenta"},
+         {"mi": "green"},
+         {"go": "gold"}]
+      ]
+    },
+    { "words":
+      [
+        [{"ne": "red"},
+         {"ce": "red"},
+         {"si": "green"},
+         {"dad": "magenta"}]
+      ]
+    },
+    { "words":
+      [
+        [{"me": "red"}],
+        [{"su": "blue"},
+         {"pe": "red"},
+         {"re": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"pe": "red"},
+         {"ga": "magenta"},
+         {"te": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"lle": "red"},
+         {"go": "gold"}],
+        [{"su": "blue"}],
+        [{"fi": "green"},
+         {"nal": "magenta"}]
+      ]
+    },
+    { "words":
+      [
+        [{"si": "green"},
+         {"go": "gold"}],
+        [{"de": "red"}],
+        [{"pi": "green"},
+         {"e": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"bur": "blue"},
+         {"la": "magenta"},
+         {"o": "gold"}]
+      ]
+    },
+    { "words":
+      [
+        [{"te": "red"}],
+        [{"vas": "magenta"}]
+      ]
+    },
+    { "words":
+      [
+        [{"no": "gold"}],
+        [{"fe": "green"},
+         {"ar": "magenta"}]
+      ]
+    },
+    { "words":
+      [
+        [{"cruise": "blue"}]
+      ]
+    },
+    { "words":
+      [
+        [{"fee": "green"},
+         {"ling": "green"}]
+      ]
+    },
+    { "words":
+      [
+        [{"pa": "green"},
+         {"si": "green"},
+         {"on": "gold"}]
+      ]
+    },
+    { "words":
+      [
+        [{"mal": "green"},
+         {"cri": "green"},
+         {"a": "gold"},
+         {"do": "gold"}]
+      ]
+    },
+    { "words":
+      [
+        [{"mal": "green"},
+         {"cri": "green"},
+         {"a": "gold"},
+         {"do": "gold"}]
+      ]
+    },
+    { "words":
+      [
+        [{"ya": "green"}],
+        [{"no": "gold"}],
+        [{"ha": "magenta"},
+         {"y": "green"}],
+        [{"na": "magenta"},
+         {"da": "magenta"}]
+      ]
+    },
   ],
   multilingualPhrases: [
     "loco por ti",
@@ -24,11 +266,10 @@ export default {
     "joia",
     "diosa",
     "esto es calle",
-    "romatico",
+    "romantico",
     "karma",
     "tic toc",
     "un lugar aparte",
-    "gatillero,",
     "amigo",
     "necesidad",
     "me supere",

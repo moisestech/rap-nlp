@@ -12,10 +12,10 @@
   padding-top: 5px;
 }
 
-.word-wrapper {
+.phrase-wrapper {
   border-radius: 18px;
   background: #545454;
-  margin: 4px 4px;
+  margin: 5px 10px;
   /*padding: 8px 15px;*/
   box-sizing: border-box;
   display: inline-block;
@@ -27,6 +27,100 @@
   overflow: hidden;
   color: white;
 }
+
+.word-wrapper {
+  display: flex;
+  align-items: center;
+  /*padding: 0 5px;*/
+}
+
+.word-wrapper:first-child {
+  margin: 0 3px 0 0;
+}
+
+.word-wrapper:nth-child(2) {
+  margin: 0 3px 0 3px;
+}
+
+.word-wrapper:last-child {
+  margin: 0 0 0 3px;
+}
+
+.word-wrapper:first-child:last-child {
+  margin: 0;
+}
+
+.word-wrapper p {
+  /*padding: 0 2px;*/
+  padding: 8px 4px;
+}
+
+.word-wrapper p:first-child {
+  padding-left: 14px;
+  padding-right: 4px;
+  border-radius: 20px 0 0 20px;
+}
+
+.word-wrapper p:last-child {
+  padding-right: 14px;
+  padding-left: 4px;
+  border-radius: 0 20px 20px 0;
+}
+
+.word-wrapper:first-child p:first-child {
+  padding-left: 14px;
+}
+
+.word-wrapper:nth-child(2) p:first-child:last-child {
+  padding-left: 14px;
+  padding-right: 14px;
+  border-radius: 18px;
+}
+
+.word-wrapper:last-child p:first-child:last-child {
+  border-radius: 20px;
+  padding-left: 14px;
+}
+
+
+p {
+    margin: 0;
+    padding: 0px;
+}
+
+.phoneme-color {
+  padding: 4px;
+}
+
+.magenta {
+  color: magenta;
+  background: pink;
+}
+.red {
+  color: red;
+  background: pink;
+}
+.green {
+  color: lime;
+  background: green;
+}
+.gold {
+  color: gold;
+  background: brown;
+}
+.blue {
+  color: blue;
+  background: cyan;
+}
+
+.null { padding: 2px; }
+
+
+
+
+
+
+
 
 .word-symbol-wrapper {
   background: white;
@@ -67,37 +161,4 @@
   font-weight: bold;
   display: inline-block;
 }
-
-
-p {
-    margin: 0;
-    padding: 0px;
-}
-
-.magenta {
-  color: magenta;
-  background: pink;
-}
-.red {
-  color: red;
-  background: pink;
-}
-.green {
-  color: lime;
-  background: green;
-  padding: 4px;
-  border-radius: 18px;
-}
-.gold {
-  color: gold;
-  background: brown;
-  padding: 4px;
-  border-radius: 18px;
-}
-.blue {
-  color: blue;
-  background: cyan;
-}
-
-.null { padding: 2px; }
 
