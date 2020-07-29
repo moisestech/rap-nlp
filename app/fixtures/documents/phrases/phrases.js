@@ -251,6 +251,410 @@ export default {
          {"da": "magenta"}]
       ]
     },
+    { "words":
+      [
+        [{"di": "green"},
+         {"a": "magenta"},
+         {"man": "magenta"},
+         {"tes": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"flux": "gold"}]
+      ]
+    },
+    { "words":
+      [
+        [{"tran": "gold"},
+         {"qui": "green"},
+         {"lo": "gold"}]
+      ]
+    },
+    { "words":
+      [
+        [{"m": "magenta"},
+         {"i": "green"},
+         {"a": "magenta"},
+         {"mi": "green"}]
+      ]
+    },
+    { "words":
+      [
+        [{"rit": "green"},
+         {"mo": "gold"}],
+        [{"la": "magenta"},
+         {"ti": "green"},
+         {"no": "gold"}]
+      ]
+    },
+    { "words":
+      [
+        [{"push": "blue"}]
+      ]
+    },
+    { "words":
+      [
+        [{"di": "green"},
+         {"men": "red"},
+         {"sions": "gold"}]
+      ]
+    },
+    { "words":
+      [
+        [{"cu": "blue"},
+         {"ri": "green"},
+         {"o": "gold"},
+         {"si": "green"},
+         {"dad": "magenta"}]
+      ]
+    },
+    { "words":
+      [
+        [{"mi": "blue"},
+         {"a": "green"}]
+      ]
+    },
+    { "words":
+      [
+        [{"an": "blue"},
+         {"da": "green"}],
+        [{"su": "blue"},
+         {"el": "green"},
+         {"ta": "green"}]
+      ]
+    },
+    { "words":
+      [
+        [{"ri": "blue"},
+         {"co": "green"}]
+      ]
+    },
+    { "words":
+      [
+        [{"me": "blue"}],
+        [{"cri": "green"},
+         {"ti": "green"},
+         {"can": "green"}]
+      ]
+    },
+    { "words":
+      [
+        [{"ri": "blue"},
+         {"que": "green"},
+         {"za": "green"}]
+      ]
+    },
+    { "words":
+      [
+        [{"vi": "blue"},
+         {"si": "green"},
+         {"ons": "green"}]
+      ]
+    },
+    { "words":
+      [
+        [{"en": "blue"}],
+        [{"lo": "green"}],
+        [{"mi": "green"},
+         {"o": "green"}]
+      ]
+    },
+    { "words":
+      [
+        [{"a": "blue"},
+         {"ma": "green"},
+         {"ne": "green"},
+         {"cer": "green"}]
+      ]
+    },
+    { "words":
+      [
+        [{"mu": "blue"},
+         {"cha": "green"},
+         {"cho": "green"}]
+      ]
+    },
+    { "words":
+      [
+        [{"cu": "blue"},
+         {"i": "green"},
+         {"da": "green"},
+         {"do": "green"}]
+      ]
+    },
+    { "words":
+      [
+        [{"sex": "blue"},
+         {"y": "green"}]
+      ]
+    },
+    { "words":
+      [
+        [{"el": "blue"}],
+        [{"me": "green"},
+         {"jor": "blue"}]
+      ]
+    },
+    { "words":
+      [
+        [{"na": "blue"}],
+         {"me": "green"},
+        [{"it": "blue"}]
+      ]
+    },
+    { "words":
+      [
+        [{"sen": "blue"},
+         {"su": "green"},
+         {"al": "green"}]
+      ]
+    },
+    { "words":
+      [
+        [{"ve": "blue"},
+         {"nom": "green"}]
+      ]
+    },
+    { "words":
+      [
+        [{"du": "blue"},
+         {"ra": "green"}]
+      ]
+    },
+    { "words":
+      [
+        [{"pren": "blue"},
+         {"de": "green"},
+         {"la": "magenta"}]
+      ]
+    },
+    { "words":
+      [
+        [{"bur": "blue"},
+         {"ning": "green"}]
+      ]
+    },
+    { "words":
+      [
+        [{"de": "blue"},
+         {"se": "green"},
+         {"o": "green"}]
+      ]
+    },
+    { "words":
+      [
+        [{"co": "blue"},
+         {"mo": "green"}],
+        [{"qui": "green"},
+         {"si": "green"},
+         {"e": "green"},
+         {"ra": "green"}]
+      ]
+    },
+    { "words":
+      [
+        [{"de": "blue"},
+         {"men": "green"},
+         {"ted": "green"}]
+      ]
+    },
+    { "words":
+      [
+        [{"le": "blue"},
+         {"al": "green"},
+         {"tad": "green"}]
+      ]
+    },
+    { "words":
+      [
+        [{"for": "blue"},
+         {"give": "green"}]
+      ]
+    },
+    { "words":
+      [
+        [{"re": "blue"},
+         {"pe": "green"},
+         {"tir": "green"}]
+      ]
+    },
+    { "words":
+      [
+        [{"nu": "blue"},
+         {"te": "green"},
+         {"lla": "green"}]
+      ]
+    },
+    { "words":
+      [
+        [{"con": "blue"},
+         {"fun": "green"},
+         {"di": "green"},
+         {"a": "magenta"}]
+      ]
+    },
+    { "words":
+      [
+        [{"bre": "blue"},
+         {"ak": "green"}],
+        [{"up": "green"}]
+      ]
+    },
+    { "words":
+      [
+        [{"bon": "blue"},
+         {"bon": "green"}]
+      ]
+    },
+    { "words":
+      [
+        [{"sin": "blue"}],
+        [{"te": "green"},
+         {"mor": "green"}]
+      ]
+    },
+    { "words":
+      [
+        [{"ma": "blue"},
+         {"la": "green"}]
+      ]
+    },
+    { "words":
+      [
+        [{"beef": "blue"}]
+      ]
+    },
+    { "words":
+      [
+        [{"de": "blue"}],
+        [{"to": "blue"},
+         {"ros": "green"}]
+      ]
+    },
+    { "words":
+      [
+        [{"talk": "blue"}]
+      ]
+    },
+    { "words":
+      [
+        [{"so": "blue"},
+         {"lo": "blue"}],
+        [{"mi": "blue"},
+         {"a": "blue"}],
+      ]
+    },
+    { "words":
+      [
+        [{"gi": "blue"},
+         {"ta": "blue"},
+         {"na": "green"}]
+      ]
+    },
+    { "words":
+      [
+        [{"qui": "blue"},
+         {"mi": "blue"},
+         {"ca": "green"}]
+      ]
+    },
+    { "words":
+      [
+        [{"bad": "blue"}],
+        [{"luv": "gold"}]
+      ]
+    },
+    { "words":
+      [
+        [{"am": "blue"},
+         {"bi": "green"},
+         {"ci": "green"},
+         {"on": "gold"}]
+      ]
+    },
+    { "words":
+      [
+        [{"f": "green"},
+         {"u": "blue"},
+         {"ture": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"me": "red"},
+         {"ren": "red"},
+         {"gue": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"mam": "red"},
+         {"bo": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"su": "red"},
+         {"be": "red"}],
+        [{"la": "red"}],
+        [{"no": "red"},
+         {"ta": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"rum": "blue"},
+         {"ba": "magenta"}]
+      ]
+    },
+    { "words":
+      [
+        [{"rom": "blue"},
+         {"pe": "magenta"}]
+      ]
+    },
+    { "words":
+      [
+        [{"n": "blue"},
+         {"o": "blue"}],
+        [{"cap":"magenta"}]
+      ]
+    },
+    { "words":
+      [
+        [{"has": "blue"},
+         {"ta": "blue"}],
+        [{"lu":"magenta"},
+         {"e":"magenta"},
+         {"go":"magenta"}]
+      ]
+    },
+    { "words":
+      [
+        [{"per": "blue"},
+         {"fec": "blue"},
+         {"ta":"magenta"}]
+      ]
+    },
+    { "words":
+      [
+        [{"ca": "blue"},
+         {"se": "blue"},
+         {"ri":"magenta"},
+         {"o": "gold"}]
+      ]
+    },
+    { "words":
+      [
+        [{"no": "blue"}],
+        [{"me": "blue"}],
+        [{"pre":"magenta"},
+         {"o": "gold"},
+         {"cu": "blue"},
+         {"po": "gold"}]
+      ]
+    }
   ],
   multilingualPhrases: [
     "loco por ti",

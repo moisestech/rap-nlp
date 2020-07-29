@@ -49,11 +49,11 @@ export default class Batch extends React.Component {
       <div className='flex-center batch'>
         <ul className='batch-wrapper'>
           { phonemePhrases.map((phrase, index) => (
-            <li className='phrase-wrapper'>
+            <li className='phrase-wrapper' key={index}>
               { phrase.words.map((wordsArray, index2) => (
-                  <li className='word-wrapper'>
+                  <li className='word-wrapper' key={index+index2}>
                     {wordsArray.map((phoneme, index3) => (
-                      <p className={"phoneme-color " + phoneme[Object.keys(phoneme)[0]]} key={index+index2}>
+                      <p className={"phoneme-color " + phoneme[Object.keys(phoneme)[0]]} key={index+index2+index3}>
                         {this.handlePhoneme(Object.keys(phoneme)[0].toUpperCase())}
                       </p>
                     ))}

@@ -53,6 +53,7 @@
 .word-wrapper p {
   /*padding: 0 2px;*/
   padding: 8px 4px;
+  font-weight: bold;
 }
 
 .word-wrapper p:first-child {
@@ -106,7 +107,7 @@ p {
 }
 .gold {
   color: gold;
-  background: brown;
+  background: #a5792a;
 }
 .blue {
   color: blue;
