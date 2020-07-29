@@ -43,25 +43,26 @@ export default class Batch extends React.Component {
 
 
 
-    {/*console.log(this.handleShuffle(phrases))*/}
+    this.handleShuffle(phonemePhrases)
 
     return (
       <div className='flex-center batch'>
-        <ul className='batch-wrapper'>
+        <div className='batch-wrapper'>
           { phonemePhrases.map((phrase, index) => (
-            <li className='phrase-wrapper' key={index}>
+            <ul className='phrase-wrapper' key={index}>
               { phrase.words.map((wordsArray, index2) => (
-                  <li className='word-wrapper' key={index+index2}>
-                    {wordsArray.map((phoneme, index3) => (
-                      <p className={"phoneme-color " + phoneme[Object.keys(phoneme)[0]]} key={index+index2+index3}>
-                        {this.handlePhoneme(Object.keys(phoneme)[0].toUpperCase())}
-                      </p>
-                    ))}
-                  </li>
+                <li className='word-wrapper' key={index+index2}>
+                  {/*console.log(Array.isArray(wordsArray), index+index2, wordsArray[0])*/}
+                  {wordsArray.map((phoneme, index3) => (
+                    <p className={"phoneme-color " + phoneme[Object.keys(phoneme)[0]]} key={index+index2+index3}>
+                      {Object.keys(phoneme)[0].toUpperCase()}
+                    </p>
+                  ))}
+                </li>
               ))}
-            </li>
+            </ul>
           ))}
-        </ul>
+        </div>
         <ul className='batch-wrapper'>
           { phrases.map((phrase, index) => (
             <li className='phrase-wrapper' key={index}>
@@ -74,9 +75,10 @@ export default class Batch extends React.Component {
   }
 }
 
-// phonemesArray.map((phoneme, index4) => (
-//
-//                     ))
+
+
+
+
 
 // {phrase.phonemes.map((phoneme, index) => (
 //                   JSON.stringify(phoneme, null, 2)
