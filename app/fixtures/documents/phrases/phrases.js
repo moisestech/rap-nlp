@@ -635,7 +635,8 @@ export default {
         [{"per": "red"},
          {"fec": "red"},
          {"ta":"magenta"}]
-      ]
+      ],
+     "lang": "esp"
     },
     { "words":
       [

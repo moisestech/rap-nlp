@@ -8,6 +8,7 @@
 .batch-wrapper {
   display: flex;
   flex-flow: wrap;
+  align-items: center;
   background: #292929;
   padding-top: 5px;
 }

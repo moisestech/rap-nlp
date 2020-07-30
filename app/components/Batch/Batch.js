@@ -14,7 +14,6 @@ export default class Batch extends React.Component {
     }
 
     this.handleShuffle = this.handleShuffle.bind(this)
-    this.handlePhoneme = this.handlePhoneme.bind(this)
   }
   handleShuffle (array) {
     var currentIndex = array.length, temporaryValue, randomIndex;
@@ -33,15 +32,8 @@ export default class Batch extends React.Component {
 
     return array;
   }
-  handlePhoneme (phonemeKey) {
-    console.log(phonemeKey)
-
-    return (phonemeKey === "SPACE" ? null : phonemeKey)
-  }
   render () {
     const { phrases, phonemePhrases } = this.state
-
-
 
     this.handleShuffle(phonemePhrases)
 
