@@ -818,15 +818,68 @@ export default {
     { "words":
       [
         [{"pan": "magenta"},
-         {"da": "red"}]
+         {"da": "magenta"}]
       ]
     },
     { "words":
       [
-        [{"lo": "magenta"}],
+        [{"lo": "gold"}],
         [{"ni": "green"},
          {"e": "red"},
          {"gas": "magenta"}]
+      ]
+    },
+    { "words":
+      [
+        [{"a": "magenta"},
+         {"ho": "gold"},
+         {"ra": "magenta"}]
+      ]
+    },
+    { "words":
+      [
+        [{"chu": "blue"},
+         {"la": "magenta"}]
+      ]
+    },
+    { "words":
+      [
+        [{"pa'": "magenta"},
+         {"lan": "magenta"},
+         {"te": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"pa'": "magenta"},
+         {"lan": "magenta"},
+         {"te": "red"}],
+        [{"y": "green"}],
+        [{"pa'": "magenta"},
+         {"tra": "magenta"}]
+      ]
+    },
+    { "words":
+      [
+        [{"e'": "red"},
+         {"res": "red"}],
+        [{"to": "gold"},
+         {"do": "gold"}]
+      ]
+    },
+    { "words":
+      [
+        [{"sa'": "magenta"},
+         {"vage": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"pa": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
       ]
     }
   ],
