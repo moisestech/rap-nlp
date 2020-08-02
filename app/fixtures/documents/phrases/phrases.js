@@ -875,160 +875,1261 @@ export default {
     },
     { "words":
       [
-        [{"pa": "magenta"},
+        [{"tu tiempo acabo": "magenta"},
          {"sar": "magenta"},
          {"la": "magenta"}],
         [{"bi": "green"},
          {"en": "red"}]
       ]
+    },
+    { "words":
+      [
+        [{"waves": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"entre tus redes": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"killer": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"feliz": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"fenomeno": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"princess": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"entregate": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"apaga el cel": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"grave": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"pesos": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"vente conmigo": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"jungle": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"cuentale": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"gwop": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"distance": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"bandido": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"asesina": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"snapchat": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"sabe": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"sin amor": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"sigo tranquilo": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"crazy story": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"baila baila": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"reflect": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"favors": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"drip": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"sombrero": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"bendecido": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"en secreto": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"llamame": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"free": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"por ti": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"llego mi hora": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"adios amigos": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"hooked": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"i know": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"sigo aqui": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"no accionan": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"in love": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"junto a ti": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"making history": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"humo": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"reasons": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"party": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"caderas": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"pray": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"fresh": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"sin miedo": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"obsesion": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"salvaje": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"feels": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"dile": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"habladores": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"look": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"odisea": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"masacre": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"cuentame": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"seria capaz": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"solita": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"bailame lento": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"last call": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"ice": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"nadie como yo": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"sentimientos": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"meneo": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"enamorarte": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"no better": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"distancia": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"bandida": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"save me": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"proud": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"rico suave": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"flamenco": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"conocer tu cuerpo": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"otro nivel": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"leverage": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"mi tentacion": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"tracata": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"la la la": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"wildness": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"pretexto": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"brindis": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"out of time": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"se nos dio": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"ahora dice": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"alert": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"boom": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"eclipse": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"bandolero": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"si por mi fuera": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"freedom": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"remedy": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"pegadito": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"mirror": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"secreto": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"katana": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"run": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"no reverse": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"slowly": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"que nos paso": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"vibrance": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"power": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"ahora": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"rambo": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"trap n roll": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"hasta luego": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"kryptonita": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"dime la verdad": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"lejos": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"millonario": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"so vibe": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"alkilados": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"traffic": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"safari": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"bumba": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"magico": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"elegante": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"way": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"tango": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"deseos": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"donde": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"memories": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"no sales de mi mente": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"colombia": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"en la oscuridad": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"dystopia": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"sincera": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"clouds": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"recognize": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"culpables": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"una aventura": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"die for this": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"say so": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"peligrosa": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"feelings": "magenta"},
+         {"sar": "magenta"},
+         {"la": "magenta"}],
+        [{"bi": "green"},
+         {"en": "red"}]
+      ]
+    },
+    { "words":
+      [
+        [{"sin": "magenta"}],
+        [{"cen": "magenta"},
+         {"su": "magenta"},
+         {"ra": "green"}]
+      ]
+    },
+    { "words":
+      [
+        [{"temp": "magenta"},
+         {"t": "magenta"},
+         {"a": "magenta"},
+         {"tion": "green"}]
+      ]
+    },
+    { "words":
+      [
+        [{"s": "magenta"},
+         {"igns": "magenta"}],
+      ]
     }
   ],
   multilingualPhrases: [
-    "ahora",
-    "chula",
-    "pa' lante y pa' tra",
-    "eres todo",
-    "savage",
-    "pasarla bien",
-    "tu tiempo acabo",
-    "waves",
-    "entre tus redes",
-    "killer",
-    "feliz",
-    "fenomeno",
-    "princess",
-    "entregate",
-    "apaga el cel",
-    "grave",
-    "pesos",
-    "vente conmigo",
-    "jungle",
-    "cuentale",
-    "gwop",
-    "distance",
-    "bandido",
-    "asesina",
-    "snapchat",
-    "sabe",
-    "sin amor",
-    "sigo tranquilo",
-    "crazy story",
-    "baila baila",
-    "reflect",
-    "favors",
-    "drip",
-    "sombrero",
-    "bendecido",
-    "en secreto",
-    "llamame",
-    "free",
-    "por ti",
-    "llego mi hora",
-    "adios amigos",
-    "hooked",
-    "i know",
-    "sigo aqui",
-    "no accionan",
-    "in love",
-    "junto a ti",
-    "making history",
-    "humo",
-    "reasons",
-    "party",
-    "caderas",
-    "pray",
-    "fresh",
-    "sin miedo",
-    "obsesion",
-    "salvaje",
-    "feels",
-    "dile",
-    "habladores",
-    "look",
-    "odisea",
-    "masacre",
-    "cuentame",
-    "seria capaz",
-    "solita",
-    "bailame lento",
-    "last call",
-    "ice",
-    "nadie como yo",
-    "sentimientos",
-    "meneo",
-    "enamorarte",
-    "no better",
-    "distancia",
-    "bandida",
-    "save me",
-    "proud",
-    "rico suave",
-    "flamenco",
-    "conocer tu cuerpo",
-    "otro nivel",
-    "leverage",
-    "mi tentacion",
-    "tracata",
-    "la la la",
-    "wildness",
-    "pretexto",
-    "brindis",
-    "out of time",
-    "se nos dio",
-    "ahora dice",
-    "alert",
-    "boom",
-    "eclipse",
-    "bandolero",
-    "si por mi fuera",
-    "freedom",
-    "remedy",
-    "pegadito",
-    "mirror",
-    "secreto",
-    "katana",
-    "run ",
-    "no reverse",
-    "slowly",
-    "que nos paso",
-    "vibrance",
-    "power",
-    "ahora",
-    "rambo",
-    "trap n roll",
-    "hasta luego",
-    "kryptonita",
-    "dime la verdad",
-    "lejos",
-    "millonario",
-    "so vibe",
-    "alkilados",
-    "traffic",
-    "safari",
-    "bumba",
-    "magico",
-    "elegante",
-    "way",
-    "tango",
-    "deseos",
-    "donde",
-    "memories",
-    "no sales de mi mente",
-    "colombia",
-    "en la oscuridad",
-    "dystopia",
-    "sincera",
-    "clouds",
-    "recognize",
-    "culpables",
-    "una aventura",
-    "die for this",
-    "say so",
-    "peligrosa",
-    "feelings",
-    "sin censura",
-    "temptation",
-    "signs",
     "kill it",
     "tu decision",
     "endless",
