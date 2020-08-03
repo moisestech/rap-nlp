@@ -875,137 +875,112 @@ export default {
     },
     { "words":
       [
-        [{"tu tiempo acabo": "magenta"},
-         {"sar": "magenta"},
-         {"la": "magenta"}],
-        [{"bi": "green"},
-         {"en": "red"}]
+        [{"tu": "magenta"}],
+        [{"ti": "magenta"},
+         {"em": "magenta"},
+         {"po": "green"}],
+        [{"a": "red"},
+         {"ca": "red"},
+         {"bo": "red"}]
       ]
     },
     { "words":
       [
-        [{"waves": "magenta"},
-         {"sar": "magenta"},
-         {"la": "magenta"}],
-        [{"bi": "green"},
-         {"en": "red"}]
+        [{"wa": "magenta"},
+         {"ves": "magenta"}]
       ]
     },
     { "words":
       [
-        [{"entre tus redes": "magenta"},
-         {"sar": "magenta"},
-         {"la": "magenta"}],
-        [{"bi": "green"},
-         {"en": "red"}]
+        [{"en": "magenta"},
+         {"tre": "magenta"}],
+        [{"tus": "magenta"}],
+        [{"re": "green"},
+         {"des": "red"}]
       ]
     },
     { "words":
       [
-        [{"killer": "magenta"},
-         {"sar": "magenta"},
-         {"la": "magenta"}],
-        [{"bi": "green"},
-         {"en": "red"}]
+        [{"ki": "magenta"},
+         {"ller": "magenta"}]
       ]
     },
     { "words":
       [
-        [{"feliz": "magenta"},
-         {"sar": "magenta"},
-         {"la": "magenta"}],
-        [{"bi": "green"},
-         {"en": "red"}]
+        [{"fe": "magenta"},
+         {"liz": "magenta"}]
       ]
     },
     { "words":
       [
-        [{"fenomeno": "magenta"},
-         {"sar": "magenta"},
-         {"la": "magenta"}],
-        [{"bi": "green"},
-         {"en": "red"}]
+        [{"fe": "magenta"},
+         {"no": "magenta"},
+         {"me": "magenta"},
+         {"no": "green"}]
       ]
     },
     { "words":
       [
-        [{"princess": "magenta"},
-         {"sar": "magenta"},
-         {"la": "magenta"}],
-        [{"bi": "green"},
-         {"en": "red"}]
+        [{"prin": "magenta"},
+         {"cess": "magenta"}]
       ]
     },
     { "words":
       [
-        [{"entregate": "magenta"},
-         {"sar": "magenta"},
-         {"la": "magenta"}],
-        [{"bi": "green"},
-         {"en": "red"}]
+        [{"en": "magenta"},
+         {"tre": "magenta"},
+         {"ga": "magenta"},
+         {"te": "green"}]
       ]
     },
     { "words":
       [
-        [{"apaga el cel": "magenta"},
-         {"sar": "magenta"},
-         {"la": "magenta"}],
-        [{"bi": "green"},
-         {"en": "red"}]
+        [{"a": "magenta"},
+         {"pa": "magenta"},
+         {"ga": "magenta"}],
+        [{"el": "green"}],
+        [{"sol": "red"}]
       ]
     },
     { "words":
       [
-        [{"grave": "magenta"},
-         {"sar": "magenta"},
-         {"la": "magenta"}],
-        [{"bi": "green"},
-         {"en": "red"}]
+        [{"gr": "magenta"},
+         {"ave": "magenta"}]
       ]
     },
     { "words":
       [
-        [{"pesos": "magenta"},
-         {"sar": "magenta"},
-         {"la": "magenta"}],
-        [{"bi": "green"},
-         {"en": "red"}]
+        [{"pe": "magenta"},
+         {"sos": "magenta"}]
       ]
     },
     { "words":
       [
-        [{"vente conmigo": "magenta"},
-         {"sar": "magenta"},
-         {"la": "magenta"}],
-        [{"bi": "green"},
-         {"en": "red"}]
+        [{"ven ": "magenta"},
+         {"te": "magenta"}],
+        [{"con": "magenta"},
+         {"mi": "green"},
+         {"go": "red"}]
       ]
     },
     { "words":
       [
-        [{"jungle": "magenta"},
-         {"sar": "magenta"},
-         {"la": "magenta"}],
-        [{"bi": "green"},
-         {"en": "red"}]
+        [{"jun": "magenta"},
+         {"gle": "magenta"}]
       ]
     },
     { "words":
       [
-        [{"cuentale": "magenta"},
-         {"sar": "magenta"},
-         {"la": "magenta"}],
-        [{"bi": "green"},
-         {"en": "red"}]
+        [{"cu": "magenta"},
+         {"en": "magenta"},
+         {"ta": "magenta"},
+         {"le": "green"}]
       ]
     },
     { "words":
       [
-        [{"gwop": "magenta"},
-         {"sar": "magenta"},
-         {"la": "magenta"}],
-        [{"bi": "green"},
-         {"en": "red"}]
+        [{"gw": "magenta"},
+         {"op": "magenta"}]
       ]
     },
     { "words":
@@ -1785,15 +1760,6 @@ export default {
     { "words":
       [
         [{"vibrance": "magenta"},
-         {"sar": "magenta"},
-         {"la": "magenta"}],
-        [{"bi": "green"},
-         {"en": "red"}]
-      ]
-    },
-    { "words":
-      [
-        [{"": "magenta"},
          {"sar": "magenta"},
          {"la": "magenta"}],
         [{"bi": "green"},
