@@ -985,74 +985,62 @@ export default {
     },
     { "words":
       [
-        [{"distance": "magenta"},
-         {"sar": "magenta"},
-         {"la": "magenta"}],
-        [{"bi": "green"},
-         {"en": "red"}]
+        [{"dis": "magenta"},
+         {"tance": "magenta"}]
       ]
     },
     { "words":
       [
-        [{"bandido": "magenta"},
-         {"sar": "magenta"},
-         {"la": "magenta"}],
-        [{"bi": "green"},
-         {"en": "red"}]
+        [{"ban": "magenta"},
+         {"di": "magenta"},
+         {"do": "magenta"}]
       ]
     },
     { "words":
       [
-        [{"asesina": "magenta"},
-         {"sar": "magenta"},
-         {"la": "magenta"}],
-        [{"bi": "green"},
-         {"en": "red"}]
+        [{"a": "magenta"},
+         {"se": "magenta"},
+         {"si": "magenta"},
+         {"na": "green"}]
       ]
     },
     { "words":
       [
-        [{"snapchat": "magenta"},
-         {"sar": "magenta"},
-         {"la": "magenta"}],
-        [{"bi": "green"},
-         {"en": "red"}]
+        [{"s": "magenta"},
+         {"nap": "magenta"},
+         {"chat": "magenta"}]
       ]
     },
     { "words":
       [
-        [{"sabe": "magenta"},
-         {"sar": "magenta"},
-         {"la": "magenta"}],
-        [{"bi": "green"},
-         {"en": "red"}]
+        [{"sa": "magenta"},
+         {"be": "magenta"}]
       ]
     },
     { "words":
       [
-        [{"sin amor": "magenta"},
-         {"sar": "magenta"},
-         {"la": "magenta"}],
-        [{"bi": "green"},
-         {"en": "red"}]
+        [{"sin": "magenta"}],
+        [{"a": "magenta"},
+         {"mor": "magenta"}]
       ]
     },
     { "words":
       [
-        [{"sigo tranquilo": "magenta"},
-         {"sar": "magenta"},
-         {"la": "magenta"}],
-        [{"bi": "green"},
-         {"en": "red"}]
+        [{"si": "magenta"},
+         {"go": "magenta"}],
+        [{"tran": "magenta"},
+         {"qui": "green"},
+         {"lo": "red"}]
       ]
     },
     { "words":
       [
-        [{"crazy story": "magenta"},
-         {"sar": "magenta"},
-         {"la": "magenta"}],
-        [{"bi": "green"},
-         {"en": "red"}]
+        [{"cr": "magenta"},
+         {"a": "magenta"},
+         {"zy": "magenta"}],
+        [{"s": "green"},
+         {"to": "red"},
+         {"ry": "red"}]
       ]
     },
     { "words":
