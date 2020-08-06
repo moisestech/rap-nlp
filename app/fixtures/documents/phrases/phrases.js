@@ -8,6 +8,9 @@ export default {
          {"co": "gold"}],
         [{"por": "gold"}],
         [{"ti": "green"}]
+      ],
+      "eng": [
+        [{}]
       ]
     },
     { "words":
@@ -15,6 +18,9 @@ export default {
         [{"ban": "magenta"},
          {"di": "green"},
          {"da": "magenta"}]
+      ],
+      "eng": [
+        [{}]
       ]
     },
     { "words":
@@ -23,6 +29,9 @@ export default {
         [{"me": "red"}],
         [{"de": "red"},
          {"jo": "gold"}]
+      ],
+      "eng": [
+        [{}]
       ]
     },
     { "words":
@@ -30,6 +39,9 @@ export default {
         [{"sw": "blue"},
          {"a": "red"},
          {"y": "green"}]
+      ],
+      "eng": [
+        [{}]
       ]
     },
     { "words":
@@ -39,6 +51,9 @@ export default {
         [{"y": "green"}],
         [{"ri": "green"},
          {"mas": "magenta"}]
+      ],
+      "eng": [
+        [{}]
       ]
     },
     { "words":
@@ -46,12 +61,18 @@ export default {
         [{"ba": "magenta"},
          {"i": "green"},
          {"la": "magenta"}]
+      ],
+      "eng": [
+        [{}]
       ]
     },
     { "words":
       [
         [{"ga": "magenta"},
          {"nas": "magenta"}]
+      ],
+      "eng": [
+        [{}]
       ]
     },
     { "words":
@@ -60,6 +81,9 @@ export default {
         [{"du": "blue"},
          {"e": "red"},
          {"le": "red"}]
+      ],
+      "eng": [
+        [{}]
       ]
     },
     { "words":
@@ -77,6 +101,9 @@ export default {
         [{"dont": "gold"}],
         [{"kn": "gold"},
          {"ow": "blue"}]
+      ],
+      "eng": [
+        [{}]
       ]
     },
     { "words":
@@ -84,6 +111,9 @@ export default {
         [{"jo": "gold"},
          {"i": "green"},
          {"a": "magenta"}]
+      ],
+      "eng": [
+        [{}]
       ]
     },
     { "words":
@@ -91,6 +121,9 @@ export default {
         [{"di": "green"},
          {"o": "gold"},
          {"sa": "magenta"}]
+      ],
+      "eng": [
+        [{}]
       ]
     },
     { "words":
@@ -100,6 +133,9 @@ export default {
         [{"es": "magenta"}],
         [{"ca": "magenta"},
          {"lle": "red"}]
+      ],
+      "eng": [
+        [{}]
       ]
     },
     { "words":
@@ -108,18 +144,27 @@ export default {
          {"man": "magenta"},
          {"ti": "green"},
          {"co": "gold"}]
+      ],
+      "eng": [
+        [{}]
       ]
     },
     { "words":
       [
         [{"kar": "magenta"},
          {"ma": "magenta"}]
+      ],
+      "eng": [
+        [{}]
       ]
     },
     { "words":
       [
         [{"tic": "green"},
          {"toc": "gold"}]
+      ],
+      "eng": [
+        [{}]
       ]
     },
     { "words":
@@ -130,6 +175,9 @@ export default {
         [{"a": "magenta"},
          {"par": "magenta"},
          {"te": "red"}]
+      ],
+      "eng": [
+        [{}]
       ]
     },
     { "words":
@@ -137,6 +185,9 @@ export default {
         [{"ga": "magenta"},
          {"ti": "green"},
          {"llo": "gold"}]
+      ],
+      "eng": [
+        [{}]
       ]
     },
     { "words":
@@ -144,6 +195,9 @@ export default {
         [{"a": "magenta"},
          {"mi": "green"},
          {"go": "gold"}]
+      ],
+      "eng": [
+        [{}]
       ]
     },
     { "words":
@@ -152,6 +206,9 @@ export default {
          {"ce": "red"},
          {"si": "green"},
          {"dad": "magenta"}]
+      ],
+      "eng": [
+        [{}]
       ]
     },
     { "words":
@@ -160,6 +217,9 @@ export default {
         [{"su": "blue"},
          {"pe": "red"},
          {"re": "red"}]
+      ],
+      "eng": [
+        [{}]
       ]
     },
     { "words":
@@ -167,6 +227,9 @@ export default {
         [{"pe": "red"},
          {"ga": "magenta"},
          {"te": "red"}]
+      ],
+      "eng": [
+        [{}]
       ]
     },
     { "words":
@@ -176,6 +239,9 @@ export default {
         [{"su": "blue"}],
         [{"fi": "green"},
          {"nal": "magenta"}]
+      ],
+      "eng": [
+        [{}]
       ]
     },
     { "words":
@@ -192,6 +258,9 @@ export default {
         [{"bur": "blue"},
          {"la": "magenta"},
          {"o": "gold"}]
+      ],
+      "eng": [
+        [{}]
       ]
     },
     { "words":
