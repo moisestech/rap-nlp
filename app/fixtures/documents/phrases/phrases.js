@@ -10,7 +10,7 @@ export default {
         [{"ti": "green"}]
       ],
       "eng": [
-        [{}]
+        [{"": ""}]
       ]
     },
     { "words":
@@ -20,7 +20,7 @@ export default {
          {"da": "magenta"}]
       ],
       "eng": [
-        [{}]
+        [{"": ""}]
       ]
     },
     { "words":
@@ -31,7 +31,7 @@ export default {
          {"jo": "gold"}]
       ],
       "eng": [
-        [{}]
+        [{"": ""}]
       ]
     },
     { "words":
@@ -41,7 +41,7 @@ export default {
          {"y": "green"}]
       ],
       "eng": [
-        [{}]
+        [{"": ""}]
       ]
     },
     { "words":
@@ -53,7 +53,7 @@ export default {
          {"mas": "magenta"}]
       ],
       "eng": [
-        [{}]
+        [{"": ""}]
       ]
     },
     { "words":
@@ -63,7 +63,7 @@ export default {
          {"la": "magenta"}]
       ],
       "eng": [
-        [{}]
+        [{"": ""}]
       ]
     },
     { "words":
@@ -72,7 +72,7 @@ export default {
          {"nas": "magenta"}]
       ],
       "eng": [
-        [{}]
+        [{"": ""}]
       ]
     },
     { "words":
@@ -83,7 +83,7 @@ export default {
          {"le": "red"}]
       ],
       "eng": [
-        [{}]
+        [{"": ""}]
       ]
     },
     { "words":
@@ -103,7 +103,7 @@ export default {
          {"ow": "blue"}]
       ],
       "eng": [
-        [{}]
+        [{"": ""}]
       ]
     },
     { "words":
@@ -113,7 +113,7 @@ export default {
          {"a": "magenta"}]
       ],
       "eng": [
-        [{}]
+        [{"": ""}]
       ]
     },
     { "words":
@@ -123,7 +123,7 @@ export default {
          {"sa": "magenta"}]
       ],
       "eng": [
-        [{}]
+        [{"": ""}]
       ]
     },
     { "words":
@@ -135,7 +135,7 @@ export default {
          {"lle": "red"}]
       ],
       "eng": [
-        [{}]
+        [{"": ""}]
       ]
     },
     { "words":
@@ -146,7 +146,7 @@ export default {
          {"co": "gold"}]
       ],
       "eng": [
-        [{}]
+        [{"": ""}]
       ]
     },
     { "words":
@@ -155,7 +155,7 @@ export default {
          {"ma": "magenta"}]
       ],
       "eng": [
-        [{}]
+        [{"": ""}]
       ]
     },
     { "words":
@@ -164,7 +164,7 @@ export default {
          {"toc": "gold"}]
       ],
       "eng": [
-        [{}]
+        [{"clock": "gold"}]
       ]
     },
     { "words":
@@ -177,7 +177,7 @@ export default {
          {"te": "red"}]
       ],
       "eng": [
-        [{}]
+        [{"": ""}]
       ]
     },
     { "words":
@@ -187,7 +187,7 @@ export default {
          {"llo": "gold"}]
       ],
       "eng": [
-        [{}]
+        [{"": ""}]
       ]
     },
     { "words":
@@ -197,7 +197,7 @@ export default {
          {"go": "gold"}]
       ],
       "eng": [
-        [{}]
+        [{"": ""}]
       ]
     },
     { "words":
@@ -208,7 +208,7 @@ export default {
          {"dad": "magenta"}]
       ],
       "eng": [
-        [{}]
+        [{"": ""}]
       ]
     },
     { "words":
@@ -219,7 +219,7 @@ export default {
          {"re": "red"}]
       ],
       "eng": [
-        [{}]
+        [{"": ""}]
       ]
     },
     { "words":
@@ -229,7 +229,7 @@ export default {
          {"te": "red"}]
       ],
       "eng": [
-        [{}]
+        [{"": ""}]
       ]
     },
     { "words":
@@ -241,7 +241,7 @@ export default {
          {"nal": "magenta"}]
       ],
       "eng": [
-        [{}]
+        [{"": ""}]
       ]
     },
     { "words":
@@ -251,6 +251,9 @@ export default {
         [{"de": "red"}],
         [{"pi": "green"},
          {"e": "red"}]
+      ],
+      "eng": [
+        [{"": ""}]
       ]
     },
     { "words":
@@ -260,13 +263,16 @@ export default {
          {"o": "gold"}]
       ],
       "eng": [
-        [{}]
+        [{"": ""}]
       ]
     },
     { "words":
       [
         [{"te": "red"}],
         [{"vas": "magenta"}]
+      ],
+      "eng": [
+        [{"": ""}]
       ]
     },
     { "words":
@@ -274,17 +280,26 @@ export default {
         [{"no": "gold"}],
         [{"fe": "green"},
          {"ar": "magenta"}]
+      ],
+      "eng": [
+        [{"": ""}]
       ]
     },
     { "words":
       [
         [{"cruise": "blue"}]
+      ],
+      "eng": [
+        [{"": ""}]
       ]
     },
     { "words":
       [
         [{"fee": "green"},
          {"ling": "green"}]
+      ],
+      "eng": [
+        [{"": ""}]
       ]
     },
     { "words":
@@ -292,6 +307,9 @@ export default {
         [{"pa": "magenta"},
          {"si": "green"},
          {"on": "gold"}]
+      ],
+      "eng": [
+        [{"": ""}]
       ]
     },
     { "words":
@@ -300,6 +318,9 @@ export default {
          {"cri": "green"},
          {"a": "gold"},
          {"do": "gold"}]
+      ],
+      "eng": [
+        [{"": ""}]
       ]
     },
     { "words":
@@ -308,6 +329,9 @@ export default {
          {"cri": "green"},
          {"a": "magenta"},
          {"do": "gold"}]
+      ],
+      "eng": [
+        [{"": ""}]
       ]
     },
     { "words":
@@ -318,6 +342,9 @@ export default {
          {"y": "green"}],
         [{"na": "magenta"},
          {"da": "magenta"}]
+      ],
+      "eng": [
+        [{"": ""}]
       ]
     },
     { "words":
@@ -326,11 +353,17 @@ export default {
          {"a": "magenta"},
          {"man": "magenta"},
          {"tes": "red"}]
+      ],
+      "eng": [
+        [{"": ""}]
       ]
     },
     { "words":
       [
         [{"flux": "gold"}]
+      ],
+      "eng": [
+        [{"": ""}]
       ]
     },
     { "words":
@@ -338,6 +371,9 @@ export default {
         [{"tran": "gold"},
          {"qui": "green"},
          {"lo": "gold"}]
+      ],
+      "eng": [
+        [{"": ""}]
       ]
     },
     { "words":
@@ -346,6 +382,9 @@ export default {
          {"i": "green"},
          {"a": "magenta"},
          {"mi": "green"}]
+      ],
+      "eng": [
+        [{"": ""}]
       ]
     },
     { "words":
@@ -355,11 +394,17 @@ export default {
         [{"la": "magenta"},
          {"ti": "green"},
          {"no": "gold"}]
+      ],
+      "eng": [
+        [{"": ""}]
       ]
     },
     { "words":
       [
         [{"push": "blue"}]
+      ],
+      "eng": [
+        [{"": ""}]
       ]
     },
     { "words":
@@ -367,6 +412,9 @@ export default {
         [{"di": "green"},
          {"men": "red"},
          {"sions": "gold"}]
+      ],
+      "eng": [
+        [{"": ""}]
       ]
     },
     { "words":
@@ -376,12 +424,18 @@ export default {
          {"o": "gold"},
          {"si": "green"},
          {"dad": "magenta"}]
+      ],
+      "eng": [
+        [{"": ""}]
       ]
     },
     { "words":
       [
         [{"mi": "green"},
          {"a": "magenta"}]
+      ],
+      "eng": [
+        [{"": ""}]
       ]
     },
     { "words":
@@ -391,12 +445,18 @@ export default {
         [{"su": "blue"},
          {"el": "red"},
          {"ta": "magenta"}]
+      ],
+      "eng": [
+        [{"": ""}]
       ]
     },
     { "words":
       [
         [{"ri": "green"},
          {"co": "gold"}]
+      ],
+      "eng": [
+        [{"": ""}]
       ]
     },
     { "words":
@@ -405,6 +465,9 @@ export default {
         [{"cri": "green"},
          {"ti": "green"},
          {"can": "magenta"}]
+      ],
+      "eng": [
+        [{"": ""}]
       ]
     },
     { "words":
