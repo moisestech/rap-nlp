@@ -42,7 +42,7 @@ export default class Batch extends React.Component {
         <div className='batch-wrapper'>
           { phonemePhrases.map((phrase, index) => (
             <ul className='phrase-wrapper' key={index}>
-              { phrase.words.map((wordsArray, index2) => (
+              { phrase.esp.map((wordsArray, index2) => (
                 <li className='word-wrapper' key={index+index2}>
                   {/*console.log(Array.isArray(wordsArray), index+index2, wordsArray[0])*/}
                   {wordsArray.map((phoneme, index3) => (

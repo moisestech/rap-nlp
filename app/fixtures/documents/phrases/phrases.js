@@ -1794,7 +1794,7 @@ export default {
     { "esp":
         [
           [{"in": "green"}],
-          [{"love": "love"}]
+          [{"love": "gold"}]
         ],
       "eng":
         [
@@ -2110,7 +2110,7 @@ export default {
         [
           [{"n": "gold"},
            {"o": "blue"}],
-          [{"be": "red"}],
+          [{"be": "red"},
            {"tter": "red"}]
         ],
       "eng":
@@ -2205,7 +2205,7 @@ export default {
         [
           [{"o": "gold"},
            {"tro": "gold"}],
-          [{"ni": "green"}],
+          [{"ni": "green"},
            {"vel": "red"}]
         ],
       "eng":
@@ -2431,7 +2431,7 @@ export default {
         [
           [{"se": "red"},
            {"cre": "red"},
-           {"to": "gold"}]]
+           {"to": "gold"}]
         ],
       "eng":
         [
@@ -2486,7 +2486,7 @@ export default {
         [
           [{"que": "red"}],
           [{"nos": "gold"}],
-          [{"pa": "magenta"}],
+          [{"pa": "magenta"},
            {"so": "gold"}]
         ],
       "eng":
@@ -2667,7 +2667,7 @@ export default {
         [
           [{"ma": "magenta"},
            {"gi": "green"},
-           {"co": "gold"}]]
+           {"co": "gold"}]
         ],
       "eng":
         [
@@ -2819,7 +2819,7 @@ export default {
            {"co": "gold"},
            {"no": "gold"},
            {"cer": "red"}]
-        ]
+        ],
       "eng":
         [
           [{"re": "red"},
@@ -2843,8 +2843,8 @@ export default {
     { "esp":
         [
           [{"u": "blue"},
-           {"na": "magenta"},
-          [{"a": "magenta"}],
+           {"na": "magenta"}],
+          [{"a": "magenta"},
            {"ven": "red"},
            {"tu": "blue"},
            {"ra": "magenta"}]
@@ -2856,7 +2856,11 @@ export default {
     },
     { "esp":
         [
-          [{"": ""}]
+          [{"mo": "gold"},
+           {"rir": "green"}],
+          [{"por": "gold"}],
+          [{"es": "red"},
+           {"to": "gold"}]
         ],
       "eng":
         [
@@ -2869,8 +2873,8 @@ export default {
     { "esp":
         [
           [{"di": "green"},
-           {"lo": "gold"},]
-        ]
+           {"lo": "gold"}]
+        ],
       "eng":
         [
           [{"s": "red"},
@@ -2893,14 +2897,12 @@ export default {
     },
     { "esp":
         [
-          [
-            [{"sen": "red"},
-             {"ti": "green"},
-             {"mi": "green"},
-             {"en": "red"},
-             {"tos": "gold"}]
-          ]
-        ]
+          [{"sen": "red"},
+           {"ti": "green"},
+           {"mi": "green"},
+           {"en": "red"},
+           {"tos": "gold"}]
+        ],
       "eng":
         [
           [{"fee": "green"},
@@ -2909,7 +2911,7 @@ export default {
     },
     { "esp":
         [
-          [{"sin": "greens"}],
+          [{"sin": "green"}],
           [{"cen": "red"},
            {"su": "blue"},
            {"ra": "magenta"}]
