@@ -1488,8 +1488,8 @@ export default {
     },
     { "esp":
         [
-          [{"jun": "magenta"},
-           {"gle": "magenta"}]
+          [{"jun": "gold"},
+           {"gle": "red"}]
         ],
       "eng":
         [
@@ -1498,10 +1498,10 @@ export default {
     },
     { "esp":
         [
-          [{"cu": "magenta"},
-           {"en": "magenta"},
+          [{"cu": "blue"},
+           {"en": "red"},
            {"ta": "magenta"},
-           {"le": "green"}]
+           {"le": "red"}]
         ],
       "eng":
         [
@@ -1510,8 +1510,8 @@ export default {
     },
     { "esp":
         [
-          [{"gw": "magenta"},
-           {"op": "magenta"}]
+          [{"gw": "blue"},
+           {"op": "gold"}]
         ],
       "eng":
         [
@@ -1520,7 +1520,7 @@ export default {
     },
     { "esp":
         [
-          [{"dis": "magenta"},
+          [{"dis": "green"},
            {"tance": "magenta"}]
         ],
       "eng":
@@ -1531,8 +1531,8 @@ export default {
     { "esp":
         [
           [{"ban": "magenta"},
-           {"di": "magenta"},
-           {"do": "magenta"}]
+           {"di": "green"},
+           {"do": "gold"}]
         ],
       "eng":
         [
@@ -1542,9 +1542,9 @@ export default {
     { "esp":
         [
           [{"a": "magenta"},
-           {"se": "magenta"},
-           {"si": "magenta"},
-           {"na": "green"}]
+           {"se": "red"},
+           {"si": "green"},
+           {"na": "magenta"}]
         ],
       "eng":
         [
@@ -1553,7 +1553,7 @@ export default {
     },
     { "esp":
         [
-          [{"s": "magenta"},
+          [{"s": "red"},
            {"nap": "magenta"},
            {"chat": "magenta"}]
         ],
@@ -1565,7 +1565,7 @@ export default {
     { "esp":
         [
           [{"sa": "magenta"},
-           {"be": "magenta"}]
+           {"be": "red"}]
         ],
       "eng":
         [
@@ -1574,9 +1574,9 @@ export default {
     },
     { "esp":
         [
-          [{"sin": "magenta"}],
+          [{"sin": "green"}],
           [{"a": "magenta"},
-           {"mor": "magenta"}]
+           {"mor": "gold"}]
         ],
       "eng":
         [
@@ -1585,11 +1585,11 @@ export default {
     },
     { "esp":
         [
-          [{"si": "magenta"},
-           {"go": "magenta"}],
+          [{"si": "green"},
+           {"go": "gold"}],
           [{"tran": "magenta"},
            {"qui": "green"},
-           {"lo": "red"}]
+           {"lo": "gold"}]
         ],
       "eng":
         [
@@ -1598,12 +1598,12 @@ export default {
     },
     { "esp":
         [
-          [{"cr": "magenta"},
-           {"a": "magenta"},
-           {"zy": "magenta"}],
-          [{"s": "green"},
-           {"to": "red"},
-           {"ry": "red"}]
+          [{"cr": "red"},
+           {"a": "green"},
+           {"zy": "green"}],
+          [{"s": "red"},
+           {"to": "gold"},
+           {"ry": "green"}]
         ],
       "eng":
         [
@@ -1613,11 +1613,11 @@ export default {
     { "esp":
         [
           [{"ba": "magenta"},
-           {"i": "magenta"},
+           {"i": "green"},
            {"la": "magenta"}],
-          [{"ba": "green"},
-           {"i": "red"},
-           {"la": "green"}]
+          [{"ba": "magenta"},
+           {"i": "green"},
+           {"la": "magenta"}]
         ],
       "eng":
         [
@@ -1626,8 +1626,8 @@ export default {
     },
     { "esp":
         [
-          [{"re": "magenta"},
-           {"flect": "magenta"}]
+          [{"re": "green"},
+           {"flect": "red"}]
         ],
       "eng":
         [
@@ -1636,9 +1636,9 @@ export default {
     },
     { "esp":
         [
-          [{"f": "magenta"},
-           {"a": "magenta"},
-           {"vors": "magenta"}]
+          [{"f": "red"},
+           {"a": "green"},
+           {"vors": "gold"}]
         ],
       "eng":
         [
@@ -1647,7 +1647,7 @@ export default {
     },
     { "esp":
         [
-          [{"drip": "magenta"}]
+          [{"drip": "red"}]
         ],
       "eng":
         [
@@ -1656,9 +1656,9 @@ export default {
     },
     { "esp":
         [
-          [{"som": "magenta"},
-           {"bre": "magenta"},
-           {"ro": "magenta"}]
+          [{"som": "gold"},
+           {"bre": "red"},
+           {"ro": "gold"}]
         ],
       "eng":
         [
@@ -1667,10 +1667,10 @@ export default {
     },
     { "esp":
         [
-          [{"ben": "magenta"},
-           {"de": "magenta"},
-           {"ci": "magenta"},
-           {"do": "green"}]
+          [{"ben": "red"},
+           {"de": "red"},
+           {"ci": "green"},
+           {"do": "gold"}]
         ],
       "eng":
         [
@@ -1679,10 +1679,10 @@ export default {
     },
     { "esp":
         [
-          [{"en": "magenta"}],
-          [{"se": "magenta"},
-           {"cre": "magenta"},
-           {"to": "green"}]
+          [{"en": "red"}],
+          [{"se": "red"},
+           {"cre": "red"},
+           {"to": "gold"}]
         ],
       "eng":
         [
@@ -1693,7 +1693,7 @@ export default {
         [
           [{"lla": "magenta"},
            {"ma": "magenta"},
-           {"me": "magenta"}]
+           {"me": "red"}]
         ],
       "eng":
         [
@@ -1702,7 +1702,7 @@ export default {
     },
     { "esp":
         [
-          [{"free": "magenta"}]
+          [{"free": "green"}]
         ],
       "eng":
         [
@@ -1711,8 +1711,8 @@ export default {
     },
     { "esp":
         [
-          [{"por": "magenta"}],
-          [{"ti": "magenta"}]
+          [{"por": "gold"}],
+          [{"ti": "green"}]
         ],
       "eng":
         [
@@ -1721,11 +1721,11 @@ export default {
     },
     { "esp":
         [
-          [{"lle": "magenta"},
-           {"go": "magenta"}],
-          [{"mi ": "magenta"}],
-          [{"ho": "green"},
-           {"ra": "red"}]
+          [{"lle": "red"},
+           {"go": "gold"}],
+          [{"mi ": "green"}],
+          [{"ho": "gold"},
+           {"ra": "magenta"}]
         ],
       "eng":
         [
@@ -1735,11 +1735,11 @@ export default {
     { "esp":
         [
           [{"a": "magenta"},
-           {"di": "magenta"},
-           {"os ": "magenta"}],
-          [{"a": "green"},
-           {"mi": "red"},
-           {"gos": "red"}]
+           {"di": "green"},
+           {"os ": "gold"}],
+          [{"a": "magenta"},
+           {"mi": "green"},
+           {"gos": "gold"}]
         ],
       "eng":
         [
@@ -1748,7 +1748,7 @@ export default {
     },
     { "esp":
         [
-          [{"hooked": "magenta"}]
+          [{"hooked": "blue"}]
         ],
       "eng":
         [
@@ -1757,9 +1757,9 @@ export default {
     },
     { "esp":
         [
-          [{"i": "magenta"}],
-          [{"kn": "magenta"},
-           {"ow": "magenta"}]
+          [{"i": "green"}],
+          [{"kn": "gold"},
+           {"ow": "blue"}]
         ],
       "eng":
         [
@@ -1768,8 +1768,8 @@ export default {
     },
     { "esp":
         [
-          [{"si": "magenta"},
-           {"go": "magenta"}],
+          [{"si": "green"},
+           {"go": "gold"}],
           [{"a": "magenta"},
            {"qui": "green"}]
         ],
@@ -1780,11 +1780,11 @@ export default {
     },
     { "esp":
         [
-          [{"no": "magenta"}],
-          [{" ac": "magenta"},
-           {"ci": "magenta"},
-           {"o": "green"},
-           {"nan": "red"}]
+          [{"no": "gold"}],
+          [{"ac": "magenta"},
+           {"ci": "green"},
+           {"o": "gold"},
+           {"nan": "magenta"}]
         ],
       "eng":
         [
@@ -1793,8 +1793,8 @@ export default {
     },
     { "esp":
         [
-          [{"in": "magenta"}],
-          [{"love": "magenta"}]
+          [{"in": "green"}],
+          [{"love": "love"}]
         ],
       "eng":
         [
@@ -1803,9 +1803,9 @@ export default {
     },
     { "esp":
         [
-          [{"jun": "magenta"},
-           {"to": "magenta"}],
-          [{" a": "magenta"}],
+          [{"jun": "blue"},
+           {"to": "gold"}],
+          [{"a": "magenta"}],
           [{"ti": "green"}]
         ],
       "eng":
@@ -1815,11 +1815,11 @@ export default {
     },
     { "esp":
         [
-          [{"m": "magenta"},
-           {"a": "magenta"},
-           {"king ": "magenta"}],
+          [{"m": "red"},
+           {"a": "green"},
+           {"king ": "green"}],
           [{"his": "green"},
-           {"to": "red"},
+           {"to": "gold"},
            {"ry": "green"}]
         ],
       "eng":
@@ -1829,8 +1829,8 @@ export default {
     },
     { "esp":
         [
-          [{"hu": "magenta"},
-           {"mo": "magenta"}]
+          [{"hu": "blue"},
+           {"mo": "gold"}]
         ],
       "eng":
         [
@@ -1839,8 +1839,8 @@ export default {
     },
     { "esp":
         [
-          [{"rea": "magenta"},
-           {"sons": "magenta"}]
+          [{"rea": "green"},
+           {"sons": "gold"}]
         ],
       "eng":
         [
@@ -1850,7 +1850,7 @@ export default {
     { "esp":
         [
           [{"par": "magenta"},
-           {"ty": "magenta"}]
+           {"ty": "green"}]
         ],
       "eng":
         [
@@ -1860,7 +1860,7 @@ export default {
     { "esp":
         [
           [{"ca": "magenta"},
-           {"de": "magenta"},
+           {"de": "red"},
            {"ras": "magenta"}]
         ],
       "eng":
@@ -1870,8 +1870,8 @@ export default {
     },
     { "esp":
         [
-          [{"pr": "magenta"},
-           {"ay": "magenta"}]
+          [{"pr": "red"},
+           {"ay": "green"}]
         ],
       "eng":
         [
@@ -1880,7 +1880,7 @@ export default {
     },
     { "esp":
         [
-          [{"fresh": "magenta"}]
+          [{"fresh": "red"}]
         ],
       "eng":
         [
@@ -1889,10 +1889,10 @@ export default {
     },
     { "esp":
         [
-          [{"sin": "magenta"}],
-          [{"mi": "magenta"},
-           {"e": "magenta"},
-           {"do": "green"}]
+          [{"sin": "green"}],
+          [{"mi": "green"},
+           {"e": "red"},
+           {"do": "gold"}]
         ],
       "eng":
         [
@@ -1901,10 +1901,10 @@ export default {
     },
     { "esp":
         [
-          [{"ob": "magenta"},
-           {"se": "magenta"},
-           {"si": "magenta"},
-           {"on": "green"}]
+          [{"ob": "gold"},
+           {"se": "red"},
+           {"si": "green"},
+           {"on": "gold"}]
         ],
       "eng":
         [
@@ -1915,7 +1915,7 @@ export default {
         [
           [{"sal": "magenta"},
            {"va": "magenta"},
-           {"je": "magenta"}]
+           {"je": "red"}]
         ],
       "eng":
         [
@@ -1924,7 +1924,7 @@ export default {
     },
     { "esp":
         [
-          [{"feels": "magenta"}]
+          [{"feels": "green"}]
         ],
       "eng":
         [
@@ -1933,8 +1933,8 @@ export default {
     },
     { "esp":
         [
-          [{"di": "magenta"},
-           {"le": "magenta"}]
+          [{"di": "green"},
+           {"le": "red"}]
         ],
       "eng":
         [
@@ -1945,8 +1945,8 @@ export default {
         [
           [{"ha": "magenta"},
            {"bla": "magenta"},
-           {"do": "magenta"},
-           {"res": "green"}]
+           {"do": "gold"},
+           {"res": "red"}]
         ],
       "eng":
         [
@@ -1955,7 +1955,7 @@ export default {
     },
     { "esp":
         [
-          [{"look": "magenta"}]
+          [{"look": "blue"}]
         ],
       "eng":
         [
@@ -1964,10 +1964,10 @@ export default {
     },
     { "esp":
         [
-          [{"o": "magenta"},
-           {"di": "magenta"},
-           {"se": "magenta"},
-           {"a": "green"}]
+          [{"o": "gold"},
+           {"di": "green"},
+           {"se": "red"},
+           {"a": "magenta"}]
         ],
       "eng":
         [
@@ -1978,7 +1978,7 @@ export default {
         [
           [{"ma": "magenta"},
            {"sa": "magenta"},
-           {"cre": "magenta"}]
+           {"cre": "red"}]
         ],
       "eng":
         [
@@ -1987,10 +1987,10 @@ export default {
     },
     { "esp":
         [
-          [{"cu": "magenta"},
-           {"en": "magenta"},
+          [{"cu": "blue"},
+           {"en": "red"},
            {"ta": "magenta"},
-           {"me": "green"}]
+           {"me": "red"}]
         ],
       "eng":
         [
@@ -1999,11 +1999,11 @@ export default {
     },
     { "esp":
         [
-          [{"se": "magenta"},
-           {"ri": "magenta"},
+          [{"se": "red"},
+           {"ri": "green"},
            {"a": "magenta"}],
-          [{"ca": "green"},
-           {"paz": "red"}]
+          [{"ca": "magenta"},
+           {"paz": "magenta"}]
         ],
       "eng":
         [
@@ -2012,8 +2012,8 @@ export default {
     },
     { "esp":
         [
-          [{"so": "magenta"},
-           {"li": "magenta"},
+          [{"so": "gold"},
+           {"li": "green"},
            {"ta": "magenta"}]
         ],
       "eng":
@@ -2024,11 +2024,11 @@ export default {
     { "esp":
         [
           [{"ba": "magenta"},
-           {"i": "magenta"},
+           {"i": "green"},
            {"la": "magenta"}],
-          [{"me": "green"}],
+          [{"me": "red"}],
           [{"len": "red"},
-           {"to": "red"}]
+           {"to": "gold"}]
         ],
       "eng":
         [
@@ -2048,7 +2048,7 @@ export default {
     { "esp":
         [
           [{"i": "magenta"},
-           {"ce": "magenta"}]
+           {"ce": "green"}]
         ],
       "eng":
         [
@@ -2058,11 +2058,11 @@ export default {
     { "esp":
         [
           [{"na": "magenta"},
-           {"di": "magenta"},
-           {"e": "magenta"}],
-          [{"co": "green"},
-           {"mo": "red"}],
-          [{"yo": "green"}]
+           {"di": "green"},
+           {"e": "red"}],
+          [{"co": "gold"},
+           {"mo": "gold"}],
+          [{"yo": "gold"}]
         ],
       "eng":
         [
@@ -2071,11 +2071,11 @@ export default {
     },
     { "esp":
         [
-          [{"sen": "magenta"},
-           {"ti": "magenta"},
-           {"mi": "magenta"},
-           {"en": "green"},
-           {"tos": "red"}]
+          [{"sen": "red"},
+           {"ti": "green"},
+           {"mi": "green"},
+           {"en": "red"},
+           {"tos": "gold"}]
         ],
       "eng":
         [
@@ -2084,9 +2084,9 @@ export default {
     },
     { "esp":
         [
-          [{"me": "magenta"},
-           {"ne": "magenta"},
-           {"o": "magenta"}]
+          [{"me": "red"},
+           {"ne": "red"},
+           {"o": "gold"}]
         ],
       "eng":
         [
@@ -2095,10 +2095,10 @@ export default {
     },
     { "esp":
         [
-          [{"e": "magenta"},
+          [{"e": "red"},
            {"na": "magenta"},
-           {"mo": "magenta"},
-           {"rar": "green"},
+           {"mo": "gold"},
+           {"rar": "magenta"},
            {"te": "red"}]
         ],
       "eng":
@@ -2108,10 +2108,10 @@ export default {
     },
     { "esp":
         [
-          [{"n": "magenta"},
-           {"o": "magenta"}],
-          [{"be": "magenta"}],
-           {"tter": "green"}]
+          [{"n": "gold"},
+           {"o": "blue"}],
+          [{"be": "red"}],
+           {"tter": "red"}]
         ],
       "eng":
         [
@@ -2120,10 +2120,10 @@ export default {
     },
     { "esp":
         [
-          [{"dis": "magenta"},
+          [{"dis": "green"},
            {"tan": "magenta"},
-           {"ci": "magenta"},
-           {"a": "green"}]
+           {"ci": "green"},
+           {"a": "magenta"}]
         ],
       "eng":
         [
@@ -2133,7 +2133,7 @@ export default {
     { "esp":
         [
           [{"ban": "magenta"},
-           {"di": "magenta"},
+           {"di": "green"},
            {"da": "magenta"}]
         ],
       "eng":
@@ -2143,9 +2143,9 @@ export default {
     },
     { "esp":
         [
-          [{"s": "magenta"},
-           {"ave": "magenta"}],
-          [{"me": "magenta"}]
+          [{"s": "red"},
+           {"ave": "green"}],
+          [{"me": "green"}]
         ],
       "eng":
         [
@@ -2155,7 +2155,7 @@ export default {
     { "esp":
         [
           [{"pr": "magenta"},
-           {"oud": "magenta"}]
+           {"oud": "blue"}]
         ],
       "eng":
         [
@@ -2164,10 +2164,10 @@ export default {
     },
     { "esp":
         [
-          [{"ri": "magenta"},
-           {"co": "magenta"}],
-          [{"su": "magenta"},
-           {"a": "green"},
+          [{"ri": "green"},
+           {"co": "gold"}],
+          [{"su": "blue"},
+           {"a": "magenta"},
            {"ve": "red"}]
         ],
       "eng":
@@ -2178,8 +2178,8 @@ export default {
     { "esp":
         [
           [{"fla": "magenta"},
-           {"men": "magenta"},
-           {"co": "magenta"}]
+           {"men": "red"},
+           {"co": "gold"}]
         ],
       "eng":
         [
@@ -2188,13 +2188,13 @@ export default {
     },
     { "esp":
         [
-          [{"co": "magenta"},
-           {"no": "magenta"},
-           {"cer": "magenta"}],
-          [{"tu": "green"}],
-          [{"cu": "red"},
+          [{"co": "gold"},
+           {"no": "gold"},
+           {"cer": "red"}],
+          [{"tu": "blue"}],
+          [{"cu": "blue"},
            {"er": "red"},
-           {"po": "red"}]
+           {"po": "gold"}]
         ],
       "eng":
         [
@@ -2203,10 +2203,10 @@ export default {
     },
     { "esp":
         [
-          [{"o": "magenta"},
-           {"tro": "magenta"}],
-          [{"ni": "magenta"}],
-           {"vel": "green"}]
+          [{"o": "gold"},
+           {"tro": "gold"}],
+          [{"ni": "green"}],
+           {"vel": "red"}]
         ],
       "eng":
         [
@@ -2215,8 +2215,8 @@ export default {
     },
     { "esp":
         [
-          [{"le": "magenta"},
-           {"ve": "magenta"},
+          [{"le": "red"},
+           {"ve": "red"},
            {"rage": "magenta"}]
         ],
       "eng":
@@ -2226,11 +2226,11 @@ export default {
     },
     { "esp":
         [
-          [{"mi": "magenta"}],
-          [{"ten": "magenta"},
+          [{"mi": "green"}],
+          [{"ten": "red"},
            {"ta": "magenta"},
            {"ci": "green"},
-           {"on": "red"}]
+           {"on": "gold"}]
         ],
       "eng":
         [
@@ -2262,8 +2262,8 @@ export default {
     { "esp":
         [
           [{"w": "magenta"},
-           {"ild": "magenta"},
-           {"ness": "magenta"}]
+           {"ild": "green"},
+           {"ness": "red"}]
         ],
       "eng":
         [
@@ -2272,9 +2272,9 @@ export default {
     },
     { "esp":
         [
-          [{"pre": "magenta"},
-           {"tex": "magenta"},
-           {"to": "magenta"}]
+          [{"pre": "red"},
+           {"tex": "red"},
+           {"to": "gold"}]
         ],
       "eng":
         [
@@ -2283,8 +2283,8 @@ export default {
     },
     { "esp":
         [
-          [{"brin": "magenta"},
-           {"dis": "magenta"}]
+          [{"brin": "green"},
+           {"dis": "green"}]
         ],
       "eng":
         [
@@ -2294,10 +2294,10 @@ export default {
     { "esp":
         [
           [{"o": "magenta"},
-           {"ut": "magenta"}],
-          [{"of": "magenta"}],
-          [{"t": "green"},
-           {"ime": "red"}]
+           {"ut": "blue"}],
+          [{"of": "gold"}],
+          [{"t": "magenta"},
+           {"ime": "green"}]
         ],
       "eng":
         [
@@ -2306,10 +2306,10 @@ export default {
     },
     { "esp":
         [
-          [{"se": "magenta"},
-           {"nos": "magenta"}],
-          [{" di": "magenta"},
-           {"o": "green"}]
+          [{"se": "red"},
+           {"nos": "gold"}],
+          [{"di": "green"},
+           {"o": "gold"}]
         ],
       "eng":
         [
@@ -2319,7 +2319,7 @@ export default {
     { "esp":
         [
           [{"a": "magenta"},
-           {"ho": "magenta"},
+           {"ho": "gold"},
            {"ra": "magenta"}],
           [{"di": "green"},
            {"ce": "red"}]
@@ -2332,7 +2332,7 @@ export default {
     { "esp":
         [
           [{"a": "magenta"},
-           {"lert": "magenta"}]
+           {"lert": "red"}]
         ],
       "eng":
         [
@@ -2341,7 +2341,7 @@ export default {
     },
     { "esp":
         [
-          [{"boom": "magenta"}]
+          [{"boom": "blue"}]
         ],
       "eng":
         [
@@ -2350,8 +2350,8 @@ export default {
     },
     { "esp":
         [
-          [{"e": "magenta"},
-           {"clipse": "magenta"}]
+          [{"e": "red"},
+           {"clipse": "green"}]
         ],
       "eng":
         [
@@ -2361,9 +2361,9 @@ export default {
     { "esp":
         [
           [{"ban": "magenta"},
-           {"do": "magenta"},
-           {"le": "magenta"},
-           {"ro": "green"}]
+           {"do": "gold"},
+           {"le": "red"},
+           {"ro": "gold"}]
         ],
       "eng":
         [
@@ -2372,12 +2372,12 @@ export default {
     },
     { "esp":
         [
-          [{"si": "magenta"}],
-          [{"por": "magenta"}],
-          [{"mi": "magenta"}],
-          [{"fu": "green"},
+          [{"si": "green"}],
+          [{"por": "gold"}],
+          [{"mi": "green"}],
+          [{"fu": "blue"},
            {"e": "red"},
-           {"ra": "red"}]
+           {"ra": "magenta"}]
         ],
       "eng":
         [
@@ -2386,8 +2386,8 @@ export default {
     },
     { "esp":
         [
-          [{"free": "magenta"},
-           {"dom": "magenta"}]
+          [{"free": "green"},
+           {"dom": "gold"}]
         ],
       "eng":
         [
@@ -2396,11 +2396,9 @@ export default {
     },
     { "esp":
         [
-          [{"remedy": "magenta"},
-           {"sar": "magenta"},
-           {"la": "magenta"}],
-          [{"bi": "green"},
-           {"en": "red"}]
+          [{"re": "red"},
+           {"me": "red"},
+           {"dy": "green"}]
         ],
       "eng":
         [
@@ -2409,10 +2407,10 @@ export default {
     },
     { "esp":
         [
-          [{"pe": "magenta"},
+          [{"pe": "red"},
            {"ga": "magenta"},
-           {"di": "magenta"},
-           {"to": "green"}]
+           {"di": "green"},
+           {"to": "gold"}]
         ],
       "eng":
         [
@@ -2421,8 +2419,8 @@ export default {
     },
     { "esp":
         [
-          [{"mi": "magenta"},
-           {"rror": "magenta"}]
+          [{"mi": "green"},
+           {"rror": "gold"}]
         ],
       "eng":
         [
@@ -2431,9 +2429,9 @@ export default {
     },
     { "esp":
         [
-          [{"se": "magenta"},
-           {"cre": "magenta"},
-           {"to": "magenta"}]]
+          [{"se": "red"},
+           {"cre": "red"},
+           {"to": "gold"}]]
         ],
       "eng":
         [
@@ -2453,7 +2451,7 @@ export default {
     },
     { "esp":
         [
-          [{"run": "magenta"}]
+          [{"run": "gold"}]
         ],
       "eng":
         [
@@ -2462,9 +2460,10 @@ export default {
     },
     { "esp":
         [
-          [{"no": "magenta"}],
-          [{"re": "magenta"},
-           {"verse": "magenta"}]
+          [{"n": "gold"},
+           {"o": "blue"}],
+          [{"re": "green"},
+           {"verse": "red"}]
         ],
       "eng":
         [
@@ -2473,9 +2472,9 @@ export default {
     },
     { "esp":
         [
-          [{"s": "magenta"},
-           {"l": "magenta"},
-           {"ow": "magenta"},
+          [{"s": "red"},
+           {"l": "gold"},
+           {"ow": "blue"},
            {"ly": "green"}]
         ],
       "eng":
@@ -2485,10 +2484,10 @@ export default {
     },
     { "esp":
         [
-          [{"que": "magenta"}],
-          [{" nos ": "magenta"}],
+          [{"que": "red"}],
+          [{"nos": "gold"}],
           [{"pa": "magenta"}],
-           {"so": "green"}]
+           {"so": "gold"}]
         ],
       "eng":
         [
@@ -2498,7 +2497,7 @@ export default {
     { "esp":
         [
           [{"v": "magenta"},
-           {"i": "magenta"},
+           {"i": "green"},
            {"brance": "magenta"}]
         ],
       "eng":
@@ -2519,7 +2518,7 @@ export default {
     { "esp":
         [
           [{"a": "magenta"},
-           {"ho": "magenta"},
+           {"ho": "gold"},
            {"ra": "magenta"}]
         ],
       "eng":
@@ -2530,7 +2529,7 @@ export default {
     { "esp":
         [
           [{"ram": "magenta"},
-           {"bo": "magenta"}]
+           {"bo": "gold"}]
         ],
       "eng":
         [
@@ -2540,8 +2539,8 @@ export default {
     { "esp":
         [
           [{"trap": "magenta"}],
-          [{"n": "magenta"}],
-          [{"roll": "magenta"}]
+          [{"n": "red"}],
+          [{"roll": "gold"}]
         ],
       "eng":
         [
@@ -2552,9 +2551,9 @@ export default {
         [
           [{"has": "magenta"},
            {"ta": "magenta"}],
-          [{"lu": "magenta"},
-           {"e": "green"},
-           {"go": "red"}]
+          [{"lu": "blue"},
+           {"e": "red"},
+           {"go": "gold"}]
         ],
       "eng":
         [
@@ -2563,10 +2562,10 @@ export default {
     },
     { "esp":
         [
-          [{"kryp": "magenta"},
-           {"to": "magenta"},
-           {"ni": "magenta"},
-           {"ta": "green"}]
+          [{"kryp": "green"},
+           {"to": "gold"},
+           {"ni": "green"},
+           {"ta": "magenta"}]
         ],
       "eng":
         [
@@ -2575,11 +2574,11 @@ export default {
     },
     { "esp":
         [
-          [{"di": "magenta"},
-           {"me": "magenta"}],
+          [{"di": "green"},
+           {"me": "red"}],
           [{"la": "magenta"}],
-          [{"ver": "green"},
-           {"dad": "red"}]
+          [{"ver": "red"},
+           {"dad": "magenta"}]
         ],
       "eng":
         [
@@ -2588,8 +2587,8 @@ export default {
     },
     { "esp":
         [
-          [{"le": "magenta"},
-           {"jos": "magenta"}]
+          [{"le": "red"},
+           {"jos": "gold"}]
         ],
       "eng":
         [
@@ -2598,11 +2597,11 @@ export default {
     },
     { "esp":
         [
-          [{"mi": "magenta"},
-           {"llo": "magenta"},
+          [{"mi": "green"},
+           {"llo": "gold"},
            {"na": "magenta"},
            {"ri": "green"},
-           {"o": "red"}]
+           {"o": "gold"}]
         ],
       "eng":
         [
@@ -2611,8 +2610,8 @@ export default {
     },
     { "esp":
         [
-          [{"s": "magenta"},
-           {"o": "magenta"}],
+          [{"s": "gold"},
+           {"o": "blue"}],
           [{"v": "magenta"},
            {"ibe": "green"}]
         ],
@@ -2624,10 +2623,9 @@ export default {
     { "esp":
         [
           [{"al": "magenta"},
-           {"ki": "magenta"},
-           {"lados": "magenta"}],
-          [{"bi": "green"},
-           {"en": "red"}]
+           {"ki": "green"},
+           {"la": "magenta"},
+           {"dos": "gold"}]
         ],
       "eng":
         [
@@ -2636,11 +2634,8 @@ export default {
     },
     { "esp":
         [
-          [{"traffic": "magenta"},
-           {"sar": "magenta"},
-           {"la": "magenta"}],
-          [{"bi": "green"},
-           {"en": "red"}]
+          [{"tra": "magenta"},
+           {"ffic": "green"}]
         ],
       "eng":
         [
@@ -2651,7 +2646,7 @@ export default {
         [
           [{"sa": "magenta"},
            {"fa": "magenta"},
-           {"ri": "magenta"}]
+           {"ri": "green"}]
         ],
       "eng":
         [
@@ -2660,7 +2655,7 @@ export default {
     },
     { "esp":
         [
-          [{"rum": "magenta"},
+          [{"rum": "blue"},
            {"ba": "magenta"}]
         ],
       "eng":
@@ -2671,8 +2666,8 @@ export default {
     { "esp":
         [
           [{"ma": "magenta"},
-           {"gi": "magenta"},
-           {"co": "magenta"}]]
+           {"gi": "green"},
+           {"co": "gold"}]]
         ],
       "eng":
         [
@@ -2681,10 +2676,10 @@ export default {
     },
     { "esp":
         [
-          [{"e": "magenta"},
-           {"le": "magenta"},
+          [{"e": "red"},
+           {"le": "red"},
            {"gan": "magenta"},
-           {"te": "green"}]
+           {"te": "red"}]
         ],
       "eng":
         [
@@ -2693,8 +2688,8 @@ export default {
     },
     { "esp":
         [
-          [{"w": "magenta"},
-           {"ay": "magenta"}]
+          [{"w": "red"},
+           {"ay": "green"}]
         ],
       "eng":
         [
@@ -2704,7 +2699,7 @@ export default {
     { "esp":
         [
           [{"tan": "magenta"},
-           {"go": "magenta"}]
+           {"go": "gold"}]
         ],
       "eng":
         [
@@ -2713,9 +2708,9 @@ export default {
     },
     { "esp":
         [
-          [{"de": "magenta"},
-           {"se": "magenta"},
-           {"os": "magenta"}]
+          [{"de": "red"},
+           {"se": "red"},
+           {"os": "gold"}]
         ],
       "eng":
         [
@@ -2724,8 +2719,8 @@ export default {
     },
     { "esp":
         [
-          [{"don": "magenta"},
-           {"de": "magenta"}]
+          [{"don": "gold"},
+           {"de": "red"}]
         ],
       "eng":
         [
@@ -2734,9 +2729,9 @@ export default {
     },
     { "esp":
         [
-          [{"me": "magenta"},
-           {"mo": "magenta"},
-           {"ries": "magenta"}]
+          [{"me": "red"},
+           {"mo": "gold"},
+           {"ries": "green"}]
         ],
       "eng":
         [
@@ -2745,11 +2740,11 @@ export default {
     },
     { "esp":
         [
-          [{"no": "magenta"}],
+          [{"no": "gold"}],
           [{"sa": "magenta"},
-           {"les": "magenta"}],
-          [{"de ": "green"}],
-          [{"mi": "red"}],
+           {"les": "red"}],
+          [{"de ": "red"}],
+          [{"mi": "green"}],
           [{"men": "red"},
            {"te": "red"}]
         ],
@@ -2760,10 +2755,10 @@ export default {
     },
     { "esp":
         [
-          [{"co": "magenta"},
-           {"lom": "magenta"},
-           {"bi": "magenta"},
-           {"a": "green"}]
+          [{"co": "gold"},
+           {"lom": "gold"},
+           {"bi": "green"},
+           {"a": "magenta"}]
         ],
       "eng":
         [
@@ -2772,12 +2767,12 @@ export default {
     },
     { "esp":
         [
-          [{"en": "magenta"}],
+          [{"en": "red"}],
           [{"la ": "magenta"}],
-          [{"os": "green"},
-           {"cu": "red"},
-           {"ri": "red"},
-           {"dad": "red"}]
+          [{"os": "gold"},
+           {"cu": "blue"},
+           {"ri": "green"},
+           {"dad": "magenta"}]
         ],
       "eng":
         [
@@ -2786,10 +2781,10 @@ export default {
     },
     { "esp":
         [
-          [{"dys": "magenta"},
-           {"to": "magenta"},
-           {"pa": "magenta"},
-           {"i": "green"}]
+          [{"dys": "green"},
+           {"to": "gold"},
+           {"pi": "green"},
+           {"a": "magenta"}]
         ],
       "eng":
         [
@@ -2798,8 +2793,8 @@ export default {
     },
     { "esp":
         [
-          [{"sin": "magenta"},
-           {"ce": "magenta"},
+          [{"sin": "green"},
+           {"ce": "red"},
            {"ra": "magenta"}]
         ],
       "eng":
@@ -2827,8 +2822,8 @@ export default {
         ]
       "eng":
         [
-          [{"re": "magenta"},
-           {"cog": "magenta"},
+          [{"re": "red"},
+           {"cog": "gold"},
            {"n": "magenta"},
            {"ize": "green"}]
         ]
@@ -2841,18 +2836,18 @@ export default {
         ],
       "eng":
         [
-          [{"guil": ""},
-           {"ty": ""}]
+          [{"guil": "green"},
+           {"ty": "green"}]
         ]
     },
     { "esp":
         [
-          [{"u": "magenta"},
+          [{"u": "blue"},
            {"na": "magenta"},
-          [{" a": "magenta"}],
-           {"ven": "green"},
-           {"tu": "red"},
-           {"ra": "red"}]
+          [{"a": "magenta"}],
+           {"ven": "red"},
+           {"tu": "blue"},
+           {"ra": "magenta"}]
         ],
       "eng":
         [
@@ -2867,7 +2862,7 @@ export default {
         [
           [{"d": "magenta"},
            {"ie": "green"}],
-          [{" for": "gold"}],
+          [{"for": "gold"}],
           [{"this": "green"}]
         ]
     },
@@ -2880,16 +2875,16 @@ export default {
         [
           [{"s": "red"},
            {"ay": "green"}],
-          [{" s": "gold"},
+          [{"s": "gold"},
            {"o": "blue"}]
         ]
     },
     { "esp":
         [
-          [{"pe": "magenta"},
-           {"li": "magenta"},
-           {"gro": "magenta"},
-           {"sa": "green"}]
+          [{"pe": "red"},
+           {"li": "green"},
+           {"gro": "gold"},
+           {"sa": "magenta"}]
         ],
       "eng":
         [
@@ -2908,8 +2903,8 @@ export default {
         ]
       "eng":
         [
-          [{"fee": "magenta"},
-           {"lings": "magenta"}]
+          [{"fee": "green"},
+           {"lings": "green"}]
         ]
     },
     { "esp":
