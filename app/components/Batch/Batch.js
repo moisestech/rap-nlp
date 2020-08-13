@@ -1,49 +1,91 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import Phrases from '../../fixtures/documents/phrases/phrases'
+import AllPhrases from '../../fixtures/documents/phrases/allPhrases'
 import { handleShuffle } from '../../utils/sorts'
 
-const { multilingualPhrases, phonemePhrases } = Phrases
+const { phonemePhrases } = AllPhrases
+
+
+function Phonemes ({ phoneme, index }) {
+  return (
+    <p
+      className={"phoneme-color " + phoneme[Object.keys(phoneme)[0]]}
+      key={index}>
+      {Object.keys(phoneme)[0].toUpperCase()}
+    </p>
+  )
+}
+
+Phonemes.propTypes = {
+  phoneme: PropTypes.object.isRequired,
+  index: PropTypes.number.isRequired
+}
+
+function Words ({ words, index }) {
+  return (
+    <li className='word-wrapper' key={index}>
+      {/*console.log(Array.isArray(words), index+index2, words[0])*/}
+      {words.map((phoneme, index3) => (
+        <Phonemes
+          phoneme={phoneme}
+          index={index+index3}
+          key={index3}
+        />
+      ))}
+    </li>
+  )
+}
+
+Words.propTypes = {
+  words: PropTypes.array.isRequired,
+  index: PropTypes.number.isRequired
+}
+
+function Phrases ({ phrases, index }) {
+  return (
+    <ul className='phrase-wrapper' key={index}>
+      { phrases.esp.map((espWordsArray, index2) => (
+        <Words
+          words={espWordsArray}
+          index={index+index2}
+          key={index2}
+        />
+      ))}
+    </ul>
+  )
+}
+
+Phrases.propTypes = {
+  phrases: PropTypes.object.isRequired,
+  index: PropTypes.number.isRequired
+}
+
 
 export default class Batch extends React.Component {
   constructor(props) {
     super(props)
 
     this.state = {
-      phrases: multilingualPhrases,
-      phonemePhrases
+      phrases: phonemePhrases
     }
   }
   render () {
-    const { phrases, phonemePhrases } = this.state
+    const { phrases } = this.state
 
+    // shuffles array of phrases
     handleShuffle(phonemePhrases)
 
     return (
       <div className='flex-center batch'>
         <div className='batch-wrapper'>
-          { phonemePhrases.map((phrase, index) => (
-            <ul className='phrase-wrapper' key={index}>
-              { phrase.esp.map((wordsArray, index2) => (
-                <li className='word-wrapper' key={index+index2}>
-                  {/*console.log(Array.isArray(wordsArray), index+index2, wordsArray[0])*/}
-                  {wordsArray.map((phoneme, index3) => (
-                    <p className={"phoneme-color " + phoneme[Object.keys(phoneme)[0]]} key={index+index2+index3}>
-                      {Object.keys(phoneme)[0].toUpperCase()}
-                    </p>
-                  ))}
-                </li>
-              ))}
-            </ul>
+          { phrases.map((phrases, index1) => (
+            <Phrases
+              phrases={phrases}
+              index={index1}
+              key={index1}
+            />
           ))}
         </div>
-        <ul className='batch-wrapper'>
-          { phrases.map((phrase, index) => (
-            <li className='phrase-wrapper' key={index}>
-              {phrase.toUpperCase()}
-            </li>
-          ))}
-        </ul>
       </div>
     )
   }
@@ -52,11 +94,17 @@ export default class Batch extends React.Component {
 
 
 
-
-
 // {phrase.phonemes.map((phoneme, index) => (
 //                   JSON.stringify(phoneme, null, 2)
 //                 ))}
+
+//        <ul className='batch-wrapper'>
+//          { phrases.map((phrase, index) => (
+//            <li className='phrase-wrapper' key={index}>
+//              {phrase.toUpperCase()}
+//            </li>
+//          ))}
+//        </ul>
 
 
     // const phonemeColorType =  (selectedPhonemeTag === 'All') ? phonemeColor = null :
