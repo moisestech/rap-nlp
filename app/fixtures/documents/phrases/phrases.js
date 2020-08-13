@@ -2960,11 +2960,8 @@ export default {
     // {
     //   "esp":
     //     [
-    //       [{"kill it'": "magenta"},
-    //        {"sar": "magenta"},
-    //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
-    //        {"en": "red"}],
+    //       [{"kill'": "magenta"},
+    //        {"it": "magenta"}]
     //     ],
     //   "eng":
     //     [
@@ -2974,11 +2971,11 @@ export default {
     // {
     //   "esp":
     //     [
-    //       [{"tu decision'": "magenta"},
-    //        {"sar": "magenta"},
-    //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
-    //        {"en": "red"}],
+    //       [{"tu": "magenta"}],
+    //       [{"de": "magenta"},
+    //        {"ci": "magenta"},
+    //        {"si": "green"},
+    //        {"on": "red"}],
     //     ],
     //   "eng":
     //     [
@@ -2988,11 +2985,8 @@ export default {
     // {
     //   "esp":
     //     [
-    //       [{"endless'": "magenta"},
-    //        {"sar": "magenta"},
-    //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
-    //        {"en": "red"}],
+    //       [{"end": "magenta"},
+    //        {"less": "magenta"}]
     //     ],
     //   "eng":
     //     [
@@ -3002,11 +2996,12 @@ export default {
     // {
     //   "esp":
     //     [
-    //       [{"donde no da el sol'": "magenta"},
-    //        {"sar": "magenta"},
-    //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
-    //        {"en": "red"}],
+    //       [{"don": "magenta"},
+    //        {"de": "magenta"}],
+    //       [{"no": "magenta"}],
+    //       [{"da": "magenta"}],
+    //       [{"el": "green"}],
+    //       [{"sol": "red"}],
     //     ],
     //   "eng":
     //     [
@@ -3016,11 +3011,9 @@ export default {
     // {
     //   "esp":
     //     [
-    //       [{"detalles'": "magenta"},
-    //        {"sar": "magenta"},
-    //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
-    //        {"en": "red"}],
+    //       [{"de": "magenta"},
+    //        {"ta": "magenta"},
+    //        {"lles": "magenta"}]
     //     ],
     //   "eng":
     //     [
@@ -3030,10 +3023,10 @@ export default {
     // {
     //   "esp":
     //     [
-    //       [{"gang'": "magenta"},
+    //       [{"": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -3047,7 +3040,7 @@ export default {
     //       [{"extraname": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -3061,7 +3054,7 @@ export default {
     //       [{"adiccion": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -3072,10 +3065,10 @@ export default {
     // {
     //   "esp":
     //     [
-    //       [{"pecados'": "magenta"},
+    //       [{"": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -3089,7 +3082,7 @@ export default {
     //       [{"costumbre": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -3103,7 +3096,7 @@ export default {
     //       [{"lost": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -3117,7 +3110,7 @@ export default {
     //       [{"highest": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -3131,7 +3124,7 @@ export default {
     //       [{"controlamos": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -3145,7 +3138,7 @@ export default {
     //       [{"roll the dice": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -3159,7 +3152,7 @@ export default {
     //       [{"changes": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -3173,7 +3166,7 @@ export default {
     //       [{"vitamina": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -3187,7 +3180,7 @@ export default {
     //       [{"placer": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -3201,7 +3194,7 @@ export default {
     //       [{"donde estas": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -3215,7 +3208,7 @@ export default {
     //       [{"fresh": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -3229,7 +3222,7 @@ export default {
     //       [{"control": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -3243,7 +3236,7 @@ export default {
     //       [{"lost": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -3257,7 +3250,7 @@ export default {
     //       [{"promise": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -3271,7 +3264,7 @@ export default {
     //       [{"light it up": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -3285,7 +3278,7 @@ export default {
     //       [{"kilos": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -3299,7 +3292,7 @@ export default {
     //       [{"stormbreaker": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -3313,7 +3306,7 @@ export default {
     //       [{"hustle": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -3327,7 +3320,7 @@ export default {
     //       [{"falling": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -3341,7 +3334,7 @@ export default {
     //       [{"mi baby": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -3355,7 +3348,7 @@ export default {
     //       [{"birds": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -3369,7 +3362,7 @@ export default {
     //       [{"bad mood": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -3383,7 +3376,7 @@ export default {
     //       [{"viaje sensual": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -3397,7 +3390,7 @@ export default {
     //       [{"somebody": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -3411,7 +3404,7 @@ export default {
     //       [{"one time": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -3425,7 +3418,7 @@ export default {
     //       [{"con tu amor": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -3439,7 +3432,7 @@ export default {
     //       [{"suficiente": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -3453,7 +3446,7 @@ export default {
     //       [{"do better": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -3467,7 +3460,7 @@ export default {
     //       [{"bye": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -3481,7 +3474,7 @@ export default {
     //       [{"tu sonrisa": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -3495,7 +3488,7 @@ export default {
     //       [{"rookie": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -3509,7 +3502,7 @@ export default {
     //       [{"flava": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -3523,7 +3516,7 @@ export default {
     //       [{"friday": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -3537,7 +3530,7 @@ export default {
     //       [{"radio": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -3551,7 +3544,7 @@ export default {
     //       [{"silueta": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -3565,7 +3558,7 @@ export default {
     //       [{"blame me": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -3579,7 +3572,7 @@ export default {
     //       [{"energy": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -3593,7 +3586,7 @@ export default {
     //       [{"nocturna": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -3607,7 +3600,7 @@ export default {
     //       [{"drunk love": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -3621,7 +3614,7 @@ export default {
     //       [{"imaginate": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -3635,7 +3628,7 @@ export default {
     //       [{"calor y sudor": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -3649,7 +3642,7 @@ export default {
     //       [{"no pueden": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -3663,7 +3656,7 @@ export default {
     //       [{"criminal": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -3677,7 +3670,7 @@ export default {
     //       [{"on the ride": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -3691,7 +3684,7 @@ export default {
     //       [{"loyalty": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -3733,7 +3726,7 @@ export default {
     //       [{"bad dreams": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -3747,7 +3740,7 @@ export default {
     //       [{"don't stop": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -3761,7 +3754,7 @@ export default {
     //       [{"mil motivos": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -3775,7 +3768,7 @@ export default {
     //       [{"well done": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -3789,7 +3782,7 @@ export default {
     //       [{"contigo": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -3803,7 +3796,7 @@ export default {
     //       [{"neva left": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -3817,7 +3810,7 @@ export default {
     //       [{"patria": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -3831,7 +3824,7 @@ export default {
     //       [{"have faith": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -3845,7 +3838,7 @@ export default {
     //       [{"senorita": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -3859,7 +3852,7 @@ export default {
     //       [{"caribe": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -3873,7 +3866,7 @@ export default {
     //       [{"liar": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -3887,7 +3880,7 @@ export default {
     //       [{"luna": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -3901,7 +3894,7 @@ export default {
     //       [{"me tienes": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -3915,7 +3908,7 @@ export default {
     //       [{"climax": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -3929,7 +3922,7 @@ export default {
     //       [{"status": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -3943,7 +3936,7 @@ export default {
     //       [{"gasolina": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -3957,7 +3950,7 @@ export default {
     //       [{"hold me": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -3971,7 +3964,7 @@ export default {
     //       [{"attracion": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -3985,7 +3978,7 @@ export default {
     //       [{"room": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -3999,7 +3992,7 @@ export default {
     //       [{"tragic": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -4013,7 +4006,7 @@ export default {
     //       [{"rags to riches": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -4027,7 +4020,7 @@ export default {
     //       [{"aquella ves": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -4041,7 +4034,7 @@ export default {
     //       [{"me tiran": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -4055,7 +4048,7 @@ export default {
     //       [{"no fear": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -4069,7 +4062,7 @@ export default {
     //       [{"for you": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -4083,7 +4076,7 @@ export default {
     //       [{"flaca": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -4097,7 +4090,7 @@ export default {
     //       [{"escape": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -4111,7 +4104,7 @@ export default {
     //       [{"miracle": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -4125,7 +4118,7 @@ export default {
     //       [{"para siempre": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -4139,7 +4132,7 @@ export default {
     //       [{"block": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -4153,7 +4146,7 @@ export default {
     //       [{"crash": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -4167,7 +4160,7 @@ export default {
     //       [{"da lo mismo": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -4181,7 +4174,7 @@ export default {
     //       [{"magia": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -4195,7 +4188,7 @@ export default {
     //       [{"": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -4209,7 +4202,7 @@ export default {
     //       [{"noche": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -4223,7 +4216,7 @@ export default {
     //       [{"si te atreves": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -4237,7 +4230,7 @@ export default {
     //       [{"dreams": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -4251,7 +4244,7 @@ export default {
     //       [{"discoteca": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -4265,7 +4258,7 @@ export default {
     //       [{"": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -4279,7 +4272,7 @@ export default {
     //       [{"don't need you": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -4293,7 +4286,7 @@ export default {
     //       [{"fiesta": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -4307,7 +4300,7 @@ export default {
     //       [{"on me": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -4321,7 +4314,7 @@ export default {
     //       [{"forever": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -4335,7 +4328,7 @@ export default {
     //       [{"revival": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -4349,7 +4342,7 @@ export default {
     //       [{"facil": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -4363,7 +4356,7 @@ export default {
     //       [{"distance": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -4377,7 +4370,7 @@ export default {
     //       [{"espinas": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -4391,7 +4384,7 @@ export default {
     //       [{"apollo": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -4405,7 +4398,7 @@ export default {
     //       [{"entity": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -4419,7 +4412,7 @@ export default {
     //       [{"piano": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -4433,7 +4426,7 @@ export default {
     //       [{"fatality": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -4447,7 +4440,7 @@ export default {
     //       [{"way up": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -4461,7 +4454,7 @@ export default {
     //       [{"cranberry": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -4475,7 +4468,7 @@ export default {
     //       [{"permiteme": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -4489,7 +4482,7 @@ export default {
     //       [{"again": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -4503,7 +4496,7 @@ export default {
     //       [{"karma": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -4517,7 +4510,7 @@ export default {
     //       [{"sigo esperandote": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -4531,7 +4524,7 @@ export default {
     //       [{"recuerdo": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -4545,7 +4538,7 @@ export default {
     //       [{"respira": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -4559,7 +4552,7 @@ export default {
     //       [{"dale mami": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -4573,7 +4566,7 @@ export default {
     //       [{"damelo": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -4587,7 +4580,7 @@ export default {
     //       [{"hasta abajo": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -4601,7 +4594,7 @@ export default {
     //       [{"contra la pared": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -4615,7 +4608,7 @@ export default {
     //       [{"tu recuerdo": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -4629,7 +4622,7 @@ export default {
     //       [{"bando": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -4643,7 +4636,7 @@ export default {
     //       [{"stack it up": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -4657,7 +4650,7 @@ export default {
     //       [{"eternal": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -4671,7 +4664,7 @@ export default {
     //       [{"tu supite": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -4685,7 +4678,7 @@ export default {
     //       [{"desire": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -4699,7 +4692,7 @@ export default {
     //       [{"circa": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -4713,7 +4706,7 @@ export default {
     //       [{"cruising": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -4727,7 +4720,7 @@ export default {
     //       [{"live free": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -4741,7 +4734,7 @@ export default {
     //       [{"infiel": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -4755,7 +4748,7 @@ export default {
     //       [{"pursuit": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -4769,7 +4762,7 @@ export default {
     //       [{"baile": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -4783,7 +4776,7 @@ export default {
     //       [{"trayecto": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -4797,7 +4790,7 @@ export default {
     //       [{"for you": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -4811,7 +4804,7 @@ export default {
     //       [{"slime": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -4825,7 +4818,7 @@ export default {
     //       [{"criminal": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -4839,7 +4832,7 @@ export default {
     //       [{"rose": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -4853,7 +4846,7 @@ export default {
     //       [{"basilisk": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -4867,7 +4860,7 @@ export default {
     //       [{"nadie como tu": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -4881,7 +4874,7 @@ export default {
     //       [{"trigger": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -4895,7 +4888,7 @@ export default {
     //       [{"lights": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -4909,7 +4902,7 @@ export default {
     //       [{"pleasures": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -4923,7 +4916,7 @@ export default {
     //       [{"rebbel": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -4937,7 +4930,7 @@ export default {
     //       [{"pensandote": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -4951,7 +4944,7 @@ export default {
     //       [{"deja vu": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -4965,7 +4958,7 @@ export default {
     //       [{"speed": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -4979,7 +4972,7 @@ export default {
     //       [{"madrugada": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -4993,7 +4986,7 @@ export default {
     //       [{"tu juego": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -5007,7 +5000,7 @@ export default {
     //       [{"una ilusion": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -5021,7 +5014,7 @@ export default {
     //       [{"mantra": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -5035,7 +5028,7 @@ export default {
     //       [{"enamorados": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -5049,7 +5042,7 @@ export default {
     //       [{"lento": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -5063,7 +5056,7 @@ export default {
     //       [{"sabrosa": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -5077,7 +5070,7 @@ export default {
     //       [{"spanglish": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -5091,7 +5084,7 @@ export default {
     //       [{"la cultura": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -5105,7 +5098,7 @@ export default {
     //       [{"bullteproof": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -5119,7 +5112,7 @@ export default {
     //       [{"tu piel": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -5133,7 +5126,7 @@ export default {
     //       [{"flow hawaii": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -5147,7 +5140,7 @@ export default {
     //       [{"olvidalo": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -5161,7 +5154,7 @@ export default {
     //       [{"nasty": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -5175,7 +5168,7 @@ export default {
     //       [{"bloodshed": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -5189,7 +5182,7 @@ export default {
     //       [{"mentiras": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -5203,7 +5196,7 @@ export default {
     //       [{"warrior": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -5217,7 +5210,7 @@ export default {
     //       [{"demonia": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -5231,7 +5224,7 @@ export default {
     //       [{"delfino": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -5245,7 +5238,7 @@ export default {
     //       [{"extranandote": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -5259,7 +5252,7 @@ export default {
     //       [{"no te disculpes": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -5273,7 +5266,7 @@ export default {
     //       [{"sensual": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -5287,7 +5280,7 @@ export default {
     //       [{"melody": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -5301,7 +5294,7 @@ export default {
     //       [{"takey away": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -5315,7 +5308,7 @@ export default {
     //       [{"dame un call": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -5329,7 +5322,7 @@ export default {
     //       [{"descontrol": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -5343,7 +5336,7 @@ export default {
     //       [{"sin pena": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -5357,7 +5350,7 @@ export default {
     //       [{"una santa": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -5371,7 +5364,7 @@ export default {
     //       [{"millonarios": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -5385,7 +5378,7 @@ export default {
     //       [{"voodoo": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -5399,7 +5392,7 @@ export default {
     //       [{"medusa": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -5413,7 +5406,7 @@ export default {
     //       [{"labios": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -5427,7 +5420,7 @@ export default {
     //       [{"horas": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -5441,7 +5434,7 @@ export default {
     //       [{"salsa": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -5455,7 +5448,7 @@ export default {
     //       [{"ojala": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -5469,7 +5462,7 @@ export default {
     //       [{"diva": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -5483,7 +5476,7 @@ export default {
     //       [{"naruto": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -5497,7 +5490,7 @@ export default {
     //       [{"latinos": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -5511,7 +5504,7 @@ export default {
     //       [{"solamente tu": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -5525,7 +5518,7 @@ export default {
     //       [{"purple y gold": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -5539,7 +5532,7 @@ export default {
     //       [{"vertigo": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -5553,7 +5546,7 @@ export default {
     //       [{"no vuelvas": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -5567,7 +5560,7 @@ export default {
     //       [{"nosotros": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -5581,7 +5574,7 @@ export default {
     //       [{"vamos": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -5595,7 +5588,7 @@ export default {
     //       [{"prende": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -5609,7 +5602,7 @@ export default {
     //       [{"sold": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -5623,7 +5616,7 @@ export default {
     //       [{"solo tu": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -5637,7 +5630,7 @@ export default {
     //       [{"pasajero": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -5651,7 +5644,7 @@ export default {
     //       [{"glow": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -5665,7 +5658,7 @@ export default {
     //       [{"en la mia": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -5679,7 +5672,7 @@ export default {
     //       [{"marchate": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -5693,7 +5686,7 @@ export default {
     //       [{"andale": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -5707,7 +5700,7 @@ export default {
     //       [{"pecado": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -5721,7 +5714,7 @@ export default {
     //       [{"woes": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -5735,7 +5728,7 @@ export default {
     //       [{"amor y odio": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -5749,7 +5742,7 @@ export default {
     //       [{"ardiente": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -5763,7 +5756,7 @@ export default {
     //       [{"pegao": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -5777,7 +5770,7 @@ export default {
     //       [{"lluvia": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -5791,7 +5784,7 @@ export default {
     //       [{"stay": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -5805,7 +5798,7 @@ export default {
     //       [{"hype": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -5819,7 +5812,7 @@ export default {
     //       [{"flores": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -5833,7 +5826,7 @@ export default {
     //       [{"nombre": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -5847,7 +5840,7 @@ export default {
     //       [{"in the sky": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -5861,7 +5854,7 @@ export default {
     //       [{"chilling": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -5875,7 +5868,7 @@ export default {
     //       [{"bolero": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -5889,7 +5882,7 @@ export default {
     //       [{"perdido": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -5903,7 +5896,7 @@ export default {
     //       [{"pijama": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -5917,7 +5910,7 @@ export default {
     //       [{"lloraras": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -5931,7 +5924,7 @@ export default {
     //       [{"texto": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -5945,7 +5938,7 @@ export default {
     //       [{"clout": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -5959,7 +5952,7 @@ export default {
     //       [{"prepago": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -5973,7 +5966,7 @@ export default {
     //       [{"zone": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -5987,7 +5980,7 @@ export default {
     //       [{"cuando y donde": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -6001,7 +5994,7 @@ export default {
     //       [{"call me": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -6015,7 +6008,7 @@ export default {
     //       [{"mystery": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -6029,7 +6022,7 @@ export default {
     //       [{"dark night": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -6043,7 +6036,7 @@ export default {
     //       [{"tamo gucci": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
@@ -6057,7 +6050,7 @@ export default {
     //       [{"company": "magenta"},
     //        {"sar": "magenta"},
     //        {"la": "magenta"}],
-    //       [{"bi'": "green"},
+    //       [{"bi": "green"},
     //        {"en": "red"}],
     //     ],
     //   "eng":
