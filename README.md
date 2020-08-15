@@ -1,6 +1,8 @@
 # rap-nlp
 Rhythm and Poetry UI powered by natural language processing and react.
 
+![rap-nlp logo](https://raw.githubusercontent.com/Moises404/rapbot/master/rap-nlp_logo.png)
+
 **Front-End** 🎨
 - React.JS
 - Styled Components
