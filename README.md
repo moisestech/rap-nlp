@@ -55,6 +55,8 @@ Interface UI Flow Examples — More Coming Soon!
 
 ![rap-nlp Batch ui](https://raw.githubusercontent.com/Moises404/rapbot/master/rapbot.png)
 
+Bilingual Phoneme phrase mapping
+![rap-nlp Batch ui](https://raw.githubusercontent.com/Moises404/rapbot/master/public/assets/rap-nlp-ui-v1)
 
 ------------------------------------------------------------------------------------
 
