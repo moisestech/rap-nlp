@@ -164,3 +164,31 @@ p {
   display: inline-block;
 }
 
+/*  FORM SUBMISION */
+/* Also user when editing a phrase */
+
+
+.Overlay {}
+
+.ModalBox {}
+
+.PhraseEditor {}
+
+.AddWord {
+  /*  created on initial state */
+  /*  on enter this can trigger as well */
+}
+
+.AddPhoneme {
+  /*  created on initial AddWord */
+  /*  on space-bar this can trigger as well */
+}
+
+.AddLanguage {}
+.AddPhonemeColor {}
+.AddTag {}
+.AddEmoji {}
+
+.AddPhrase {  /*  finalize phrase */  }
+
+
