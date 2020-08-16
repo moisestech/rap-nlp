@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom'
 import './index.css'
 import './styles/main.css'
 
-import TagNav from './components/TagNav/TagNav'
+import TopNav from './components/TopNav/TopNav'
 import Batch from './components/Batch/Batch'
 
 // Component
@@ -15,7 +15,7 @@ class App extends React.Component {
  render () {
   return (
    <div>
-     <TagNav />
+     <TopNav />
      <Batch />
     </div>
    )

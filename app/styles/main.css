@@ -164,9 +164,30 @@ p {
   display: inline-block;
 }
 
+/* TOP NAVIGATION */
+
+.top-nav {
+  background-color: #282828;
+  margin: 0;
+  box-sizing: border-box;
+  height: 44px;
+  top: 0;
+  position: fixed;
+  z-index: 200;
+  display: -webkit-box;
+  display: flex;
+  -webkit-box-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  justify-content: center;
+  width: 100vw;
+  border-bottom: 1px solid transparent;
+  padding-left: 42px;
+  padding-right: 42px;
+}
+
 /*  FORM SUBMISION */
 /* Also user when editing a phrase */
-
 
 .Overlay {}
 
@@ -190,5 +211,32 @@ p {
 .AddEmoji {}
 
 .AddPhrase {  /*  finalize phrase */  }
+
+
+.phoneme-nav {
+  display: flex;
+  flex: 1;
+}
+
+.top_bar_btn {
+  background-color: #282828;
+  margin-left: 10px;
+
+  font-size: 13px;
+  color: #202020;
+  text-decoration: none;
+  cursor: pointer;
+  background-color: transparent;
+  border: none;
+  padding: 0;
+  margin: 0;
+}
+
+
+.top_bar_btn path {
+  color: white;
+}
+
+
 
 

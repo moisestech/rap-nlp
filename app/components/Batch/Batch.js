@@ -93,25 +93,6 @@ export default class Batch extends React.Component {
 
 // console.log(phraseObj, typeof phraseObj === "object")
 // console.log(phraseObj, phraseObj instanceof Object)
-
-
-
 // {phrase.phonemes.map((phoneme, index) => (
 //                   JSON.stringify(phoneme, null, 2)
 //                 ))}
-
-//        <ul className='batch-wrapper'>
-//          { phrases.map((phrase, index) => (
-//            <li className='phrase-wrapper' key={index}>
-//              {phrase.toUpperCase()}
-//            </li>
-//          ))}
-//        </ul>
-
-
-    // const phonemeColorType =  (selectedPhonemeTag === 'All') ? phonemeColor = null :
-    //                       (selectedPhonemeTag === 'AH') ? phonemeColor = 'magenta' :
-    //                       (selectedPhonemeTag === 'EH') ? phonemeColor = 'red' :
-    //                       (selectedPhonemeTag === 'EEH') ? phonemeColor = 'green' :
-    //                       (selectedPhonemeTag === 'OH') ? phonemeColor = 'gold' :
-    //                       (selectedPhonemeTag === 'OOH') ? phonemeColor = 'blue': null
