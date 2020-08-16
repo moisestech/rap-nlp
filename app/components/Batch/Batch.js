@@ -66,21 +66,21 @@ export default class Batch extends React.Component {
     super(props)
 
     this.state = {
-      phrases: phonemePhrases
+      allphrases: phonemePhrases
     }
   }
   render () {
-    const { phrases } = this.state
+    const { allphrases } = this.state
 
     // shuffles array of phrases
-    handleShuffle(phonemePhrases)
+    handleShuffle(allphrases)
 
     return (
       <div className='flex-center batch'>
         <div className='batch-wrapper'>
-          { phrases.map((phrases, index1) => (
+          { allphrases.map((phraseObj, index1) => (
             <Phrases
-              phrases={phrases}
+              phrases={phraseObj}
               index={index1}
               key={index1}
             />
@@ -91,6 +91,8 @@ export default class Batch extends React.Component {
   }
 }
 
+// console.log(phraseObj, typeof phraseObj === "object")
+// console.log(phraseObj, phraseObj instanceof Object)
 
 
 
