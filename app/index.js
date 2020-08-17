@@ -1,9 +1,11 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
 import './index.css'
+import { ThemeProvider } from './contexts/theme'
+import { BrowserRouter as Router, Route, Switch } from 'react-router-dom'
 import './styles/main.css'
 
-import TopNav from './components/TopNav'
+import TopNav from './components/Nav/TopNav'
 import Batch from './components/Batch'
 
 // Component
@@ -12,13 +14,28 @@ import Batch from './components/Batch'
 // UI
 
 class App extends React.Component {
- render () {
-  return (
-   <div>
-     <TopNav />
-     <Batch />
-    </div>
-   )
+  state = {
+    theme: 'light',
+    toggleTheme: () => {
+      this.setState(({ theme }) => ({
+        theme: theme === 'light' ? 'dark' : 'lights'
+      }))
+    }
+  }
+
+  render () {
+    return (
+     <Router>
+        <ThemeProvider value={this.state}>
+          <TopNav />
+
+          <Switch>
+            <Route exact path='/' component={Batch} />
+            <Route render={() => <h1>404</h1>} />
+          </Switch>
+        </ThemeProvider>
+      </Router>
+     )
   }
 }
 

@@ -1,0 +1,14 @@
+.MapList {
+  -webkit-margin-before: 0;
+  overflow: scroll;
+  height: 3500px;
+  padding: 60px 25px 25px 25px;
+  z-index: 10;
+}
+.MapList-wrapper {
+  width: 100%;
+  overflow-y: scroll;
+  max-width: 825px;
+  margin: 0 auto;
+  z-index: 15;
+}
