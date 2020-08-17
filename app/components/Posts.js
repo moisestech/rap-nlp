@@ -1,6 +1,7 @@
-import React from "react";
-import ReactDOM from "react-dom";
-import "./styles.css";
+import React, { useState } from "react";
+import PropTypes from 'prop-types'
+
+
 
 /*
   Instructions:
@@ -9,8 +10,9 @@ import "./styles.css";
     Only one post can be "Open" at a time.
 */
 
-function App ({ posts }) {
-  const [openIndex, setOpenIndex ] = React.useState(0)
+function Posts ({ posts }) {
+  const [openIndex, setOpenIndex ] = useState(0)
+
   return (
     <ul>
       {posts.map(({ id, img, text }, index) => {
@@ -34,9 +36,13 @@ function App ({ posts }) {
   )
 }
 
-const rootElement = document.getElementById("root");
-ReactDOM.render(
-  <App posts={[
+Posts.propTypes = {
+  posts: PropTypes.array.isRequired
+}
+
+export default class PostApp extends React.Component {
+  state = {
+    postsArray: [
     {
       id: 0,
       img: 'https://ui.dev/images/content/code-splitting.png',
@@ -52,6 +58,13 @@ ReactDOM.render(
       img: 'https://ui.dev/images/content/modules.png',
       text: 'I’ve taught JavaScript for a long time to a lot of people. Consistently the most commonly under-learned aspect of the language is the module system. There’s good reason for that. Modules in JavaScript have a strange and erratic history. In this post we’ll walk through that history and you’ll learn modules of the past to better understand how JavaScript modules work today.'
     }
-  ]} />,
-  rootElement
-);
+  ]}
+
+  render() {
+    const { postsArray } = this.state
+
+    return (
+      <Posts posts={postsArray} />
+    )
+  }
+}
