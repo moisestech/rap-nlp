@@ -39,7 +39,7 @@ function Todo () {
       <button onClick={handleSubmit}>Submit</button>
 
       <ul>
-        {todos.map(({ text, id}) => (
+        {todos.map(({ text, id }) => (
           <li key={id}>
             <span>{text}</span>
             <button onClick={() => removeTodo()}>x</button>
