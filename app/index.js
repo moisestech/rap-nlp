@@ -3,8 +3,8 @@ import ReactDOM from 'react-dom'
 import './index.css'
 import './styles/main.css'
 
-import TopNav from './components/TopNav/TopNav'
-import Batch from './components/Batch/Batch'
+import TopNav from './components/TopNav'
+import Batch from './components/Batch'
 
 // Component
 // State
