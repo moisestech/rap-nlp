@@ -68,6 +68,18 @@ export default class TopNav extends React.Component {
       <ThemeConsumer>
         {({ theme, toggleTheme }) => (
           <div className='top-nav'>
+            <NavLink
+              to='/batches'
+              exact
+              className='nav-link'>
+              Posts
+            </NavLink>
+            <NavLink
+              to='/create-phrase'
+              exact
+              className='nav-link'>
+              Create Phrase
+            </NavLink>
             <PhonemeNav
               selectedPhonemeTag={selectedPhonemeTag}
               phonemeColor={phonemeColor}

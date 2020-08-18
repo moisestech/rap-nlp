@@ -8,7 +8,7 @@ import './styles/main.css'
 import TopNav from './components/Nav/TopNav'
 import Batch from './components/Batch'
 import CreatePhrase from './components/CreatePhrase'
-import PostApp from './components/Posts'
+import Batches from './components/Batches'
 
 // Component
 // State
@@ -34,7 +34,7 @@ class App extends React.Component {
           <Switch>
             <Route exact path='/' component={Batch} />
             <Route path='/create-phrase' component={CreatePhrase} />
-            <Route path='/post' component={PostApp} />
+            <Route path='/batches' component={Batches} />
             <Route render={() => <h1>404</h1>} />
           </Switch>
         </ThemeProvider>

@@ -10,7 +10,7 @@ import PropTypes from 'prop-types'
     Only one post can be "Open" at a time.
 */
 
-function Posts ({ posts }) {
+function BatchesList ({ posts }) {
   const [openIndex, setOpenIndex ] = useState(0)
 
   return (
@@ -36,11 +36,11 @@ function Posts ({ posts }) {
   )
 }
 
-Posts.propTypes = {
+BatchesList.propTypes = {
   posts: PropTypes.array.isRequired
 }
 
-export default class PostApp extends React.Component {
+export default class Batches extends React.Component {
   state = {
     postsArray: [
     {
@@ -64,7 +64,7 @@ export default class PostApp extends React.Component {
     const { postsArray } = this.state
 
     return (
-      <Posts posts={postsArray} />
+      <BatchesList posts={postsArray} />
     )
   }
 }
