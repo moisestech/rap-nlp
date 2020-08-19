@@ -7,9 +7,17 @@ import './styles/main.css'
 
 import TopNav from './components/Nav/TopNav'
 import Batch from './components/Batch'
-import CreatePhrase from './components/CreatePhrase'
 import Batches from './components/Batches'
-import Waitdelay from './components/Uidev/Waitdelay'
+
+import CreatePhrase from './components/CreatePhrase'
+
+import NavUidev from './components/Uidev/NavUidev'
+import NavHooks from './components/Uidev/Hooks/NavHooks'
+import NavUseState from './components/Uidev/Hooks/NavUseState'
+import NavUseEffect from './components/Uidev/Hooks/NavUseEffect'
+import WaitDelay from './components/Uidev/Hooks/UseEffect/WaitDelay'
+import CharLimit from './components/Uidev/Hooks/UseEffect/CharLimit'
+
 
 // Component
 // State
@@ -32,11 +40,22 @@ class App extends React.Component {
         <ThemeProvider value={this.state}>
           <TopNav />
 
+           <Route path='/uidev' component={NavUidev} />
+           <Route path='/uidev/hooks' component={NavHooks} />
+           <Route path='/uidev/hooks/useState' component={NavUseState} />
+           <Route path='/uidev/hooks/useEffect' component={NavUseEffect} />
+
+           <Switch>
+              <div className='content'>
+                <Route exact path='/uidev/hooks/useEffect/char-limit' component={CharLimit} />
+                <Route exact path='/uidev/hooks/useEffect/wait-delay' component={WaitDelay} />
+              </div>
+           </Switch>
+
           <Switch>
             <Route exact path='/' component={Batch} />
             <Route path='/create-phrase' component={CreatePhrase} />
             <Route path='/batches' component={Batches} />
-            <Route path='/uidev' component={Waitdelay} />
             <Route render={() => <h1>404</h1>} />
           </Switch>
         </ThemeProvider>
