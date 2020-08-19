@@ -9,6 +9,7 @@ import TopNav from './components/Nav/TopNav'
 import Batch from './components/Batch'
 import CreatePhrase from './components/CreatePhrase'
 import Batches from './components/Batches'
+import Waitdelay from './components/Uidev/Waitdelay'
 
 // Component
 // State
@@ -35,6 +36,7 @@ class App extends React.Component {
             <Route exact path='/' component={Batch} />
             <Route path='/create-phrase' component={CreatePhrase} />
             <Route path='/batches' component={Batches} />
+            <Route path='/uidev' component={Waitdelay} />
             <Route render={() => <h1>404</h1>} />
           </Switch>
         </ThemeProvider>
