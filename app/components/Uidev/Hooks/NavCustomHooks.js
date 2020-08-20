@@ -3,7 +3,7 @@ import { NavLink } from 'react-router-dom'
 
 import styles from '../Uidev.css'
 
-export default function NavUseEffect() {
+export default function NavCustomHooks() {
   return (
     <div className='nav-2'>
       <ul>
@@ -11,35 +11,49 @@ export default function NavUseEffect() {
           <NavLink
             className='link'
             to='/uidev/hooks/useEffect/char-limit'>
-            Quiz Execution Context
+            Quiz Rules of Hooks
           </NavLink>
         </li>
         <li className='button'>
           <NavLink
             className='link'
             to='/uidev/hooks/useEffect/char-limit'>
-            Quiz useEffect
+            Quiz Higher-order Components
           </NavLink>
         </li>
         <li className='button'>
           <NavLink
             className='link'
             to='/uidev/hooks/useEffect/char-limit'>
-            Character Limit
+            Quiz React Render Props
           </NavLink>
         </li>
         <li className='button'>
           <NavLink
             to='/uidev/hooks/useEffect/wait-delay'
             className='link'>
-            Wait Delay
+            Quiz Custom Hooks
           </NavLink>
         </li>
         <li className='button'>
           <NavLink
             to='/uidev/hooks/useEffect/api-request'
             className='link'>
-            API Request
+            useWait
+          </NavLink>
+        </li>
+        <li className='button'>
+          <NavLink
+            to='/uidev/hooks/useEffect/api-request'
+            className='link'>
+            useWindowDimensions
+          </NavLink>
+        </li>
+        <li className='button'>
+          <NavLink
+            to='/uidev/hooks/useEffect/api-request'
+            className='link'>
+            useFetch
           </NavLink>
         </li>
       </ul>
