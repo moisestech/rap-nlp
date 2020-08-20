@@ -15,6 +15,7 @@ import NavUidev from './components/Uidev/NavUidev'
 import NavHooks from './components/Uidev/Hooks/NavHooks'
 import NavUseState from './components/Uidev/Hooks/NavUseState'
 import NavUseEffect from './components/Uidev/Hooks/NavUseEffect'
+import NavCustomHooks from './components/Uidev/Hooks/NavCustomHooks'
 import WaitDelay from './components/Uidev/Hooks/UseEffect/WaitDelay'
 import CharLimit from './components/Uidev/Hooks/UseEffect/CharLimit'
 
@@ -44,13 +45,12 @@ class App extends React.Component {
            <Route path='/uidev/hooks' component={NavHooks} />
            <Route path='/uidev/hooks/useState' component={NavUseState} />
            <Route path='/uidev/hooks/useEffect' component={NavUseEffect} />
+           <Route path='/uidev/hooks/customHook' component={NavCustomHooks} />
 
-           <Switch>
-              <div className='content'>
-                <Route exact path='/uidev/hooks/useEffect/char-limit' component={CharLimit} />
-                <Route exact path='/uidev/hooks/useEffect/wait-delay' component={WaitDelay} />
-              </div>
-           </Switch>
+            <div className='content'>
+              <Route exact path='/uidev/hooks/useEffect/practice/char-limit' component={CharLimit} />
+              <Route exact path='/uidev/hooks/useEffect/practice/wait-delay' component={WaitDelay} />
+            </div>
 
           <Switch>
             <Route exact path='/' component={Batch} />
