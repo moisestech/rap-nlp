@@ -4390,7 +4390,7 @@ export default {
         [
           [{"tu": ""}],
           [{"re": ""},
-           {"cu": ""},
+           {"cu": "blue"},
            {"er": ""},
            {"do": ""}],
         ],
@@ -4438,8 +4438,8 @@ export default {
     {
       "esp":
         [
-          [{"tu": ""}],
-          [{"su": ""},
+          [{"tu": "blue"}],
+          [{"su": "blue"},
            {"pi": ""},
            {"te": ""}],
         ],
@@ -4475,7 +4475,7 @@ export default {
     {
       "esp":
         [
-          [{"crui": ""},
+          [{"crui": "blue"},
            {"sing": ""}],
         ],
       "eng":
@@ -4511,7 +4511,7 @@ export default {
       "esp":
         [
           [{"pur": ""},
-           {"suit": ""}],
+           {"suit": "blue"}],
         ],
       "eng":
         [
@@ -4546,7 +4546,7 @@ export default {
       "esp":
         [
           [{"for": ""}],
-          [{"you": ""}],
+          [{"you": "blue"}],
         ],
       "eng":
         [
@@ -4581,7 +4581,7 @@ export default {
       "esp":
         [
           [{"r": ""},
-           {"ose": ""}],
+           {"ose": "blue"}],
         ],
       "eng":
         [
@@ -4608,7 +4608,7 @@ export default {
            {"e": ""}],
           [{"co": ""},
            {"mo": ""}],
-          [{"tu": ""}],
+          [{"tu": "blue"}],
         ],
       "eng":
         [
@@ -4678,7 +4678,7 @@ export default {
         [
           [{"de": ""},
            {"ja": "magenta"}],
-          [{"vu": ""}],
+          [{"vu": "blue"}],
         ],
       "eng":
         [
@@ -4700,7 +4700,7 @@ export default {
       "esp":
         [
           [{"ma": ""},
-           {"dru": ""},
+           {"dru": "blue"},
            {"ga": "magenta"},
            {"da": "magenta"}],
         ],
@@ -4713,7 +4713,7 @@ export default {
       "esp":
         [
           [{"tu": ""}],
-          [{"ju": ""},
+          [{"ju": "blue"},
            {"e": ""},
            {"go": ""}],
         ],
@@ -4728,7 +4728,7 @@ export default {
           [{"u": ""},
            {"na ": "magenta"}],
           [{"i": ""},
-           {"lu": ""},
+           {"lu": "blue"},
            {"si": ""},
            {"on": ""}],
         ],
@@ -4801,8 +4801,8 @@ export default {
       "esp":
         [
           [{"la": "magenta"},
-           {"cul": ""},
-           {"tu": ""},
+           {"cul": "blue"},
+           {"tu": "blue"},
            {"ra": "magenta"}],
         ],
       "eng":
@@ -4813,9 +4813,9 @@ export default {
     {
       "esp":
         [
-          [{"bu": ""},
+          [{"bu": "blue"},
            {"llet": ""},
-           {"proof": ""}],
+           {"proof": "blue"}],
         ],
       "eng":
         [
@@ -4825,7 +4825,7 @@ export default {
     {
       "esp":
         [
-          [{"tu": ""},
+          [{"tu": "blue"},
            {"pi": ""},
            {"el": ""}],
         ],
@@ -4838,7 +4838,7 @@ export default {
       "esp":
         [
           [{"fl": "magenta"},
-           {"ow": ""}],
+           {"ow": "blue"}],
           [{"ha": "magenta"},
            {"wa": "magenta"},
            {"ii": ""}],
@@ -4952,7 +4952,7 @@ export default {
           [{"no": ""}],
           [{"te": ""}],
           [{"dis": ""},
-           {"cul": ""},
+           {"cul": "blue"},
            {"pes": ""}],
         ],
       "eng":
@@ -4964,7 +4964,7 @@ export default {
       "esp":
         [
           [{"sen": ""},
-           {"su": ""},
+           {"su": "blue"},
            {"al": "magenta"}],
         ],
       "eng":
@@ -5003,7 +5003,7 @@ export default {
         [
           [{"da": "magenta"},
            {"me": ""}],
-          [{"un": ""}],
+          [{"un": "blue"}],
           [{"call": "magenta"}],
         ],
       "eng":
@@ -5038,7 +5038,7 @@ export default {
     {
       "esp":
         [
-          [{"u": ""},
+          [{"u": "blue"},
            {"na": "magenta"}],
           [{"san": "magenta"},
            {"ta": "magenta"}],
@@ -5065,8 +5065,8 @@ export default {
     {
       "esp":
         [
-          [{"voo": ""},
-           {"doo": ""}],
+          [{"voo": "blue"},
+           {"doo": "blue"}],
         ],
       "eng":
         [
@@ -5077,7 +5077,7 @@ export default {
       "esp":
         [
           [{"me": ""},
-           {"du": ""},
+           {"du": "blue"},
            {"sa": "magenta"}],
         ],
       "eng":
@@ -5146,7 +5146,7 @@ export default {
       "esp":
         [
           [{"na": "magenta"},
-           {"ru": ""},
+           {"ru": "blue"},
            {"to": ""}],
         ],
       "eng":
@@ -5173,7 +5173,7 @@ export default {
            {"la": "magenta"},
            {"men": ""},
           {"te ": ""}],
-          [{"tu": ""}],
+          [{"tu": "blue"}],
         ],
       "eng":
         [
@@ -5209,7 +5209,7 @@ export default {
       "esp":
         [
           [{"no": ""},
-           {"vu": ""},
+           {"vu": "blue"},
            {"el": ""},
            {"vas": "magenta"}],
         ],
@@ -5267,7 +5267,7 @@ export default {
         [
           [{"so": ""},
            {"lo": ""}],
-          [{"tu": ""}]
+          [{"tu": "blue"}]
         ],
       "eng":
         [
@@ -5291,7 +5291,7 @@ export default {
       "esp":
         [
           [{"gl": ""},
-           {"ow": ""}],
+           {"ow": "blue"}],
         ],
       "eng":
         [
@@ -5351,7 +5351,7 @@ export default {
       "esp":
         [
           [{"wo": ""},
-           {"es": ""}],
+           {"es": "blue"}],
         ],
       "eng":
         [
@@ -5401,7 +5401,7 @@ export default {
     {
       "esp":
         [
-          [{"llu": ""},
+          [{"llu": "blue"},
            {"vi": ""},
            {"a": "magenta"}],
         ],
@@ -5543,7 +5543,7 @@ export default {
       "esp":
         [
           [{"clo": "magenta"},
-           {"ut": ""}],
+           {"ut": "blue"}],
         ],
       "eng":
         [
@@ -5576,7 +5576,7 @@ export default {
     {
       "esp":
         [
-          [{"cu": ""},
+          [{"cu": "blue"},
            {"an": "magenta"},
            {"do": ""}],
           [{"y": ""}],
@@ -5628,7 +5628,7 @@ export default {
         [
           [{"ta": "magenta"},
            {"mo ": ""}],
-          [{"gu": ""},
+          [{"gu": "blue"},
            {"cci": ""}],
         ],
       "eng":
@@ -5666,7 +5666,7 @@ export default {
       "esp":
         [
           [{"ja": "magenta"},
-           {"cu": ""},
+           {"cu": "blue"},
            {"zzi": ""}],
         ],
       "eng":
@@ -5677,7 +5677,7 @@ export default {
     {
       "esp":
         [
-          [{"hu": ""},
+          [{"hu": "blue"},
            {"me": ""},
            {"da": "magenta"}],
         ],
@@ -5803,7 +5803,7 @@ export default {
         [
           [{"ca": "magenta"},
            {"len": ""},
-           {"tu": ""},
+           {"tu": "blue"},
            {"ra": "magenta"}],
         ],
       "eng":
@@ -5861,7 +5861,7 @@ export default {
     {
       "esp":
         [
-          [{"cu": ""},
+          [{"cu": "blue"},
            {"ri": ""},
            {"o": ""},
            {"si": ""},
@@ -5888,7 +5888,7 @@ export default {
       "esp":
         [
           [{"fl": ""},
-           {"ow ": ""}],
+           {"ow ": "blue"}],
           [{"m": ""},
            {"i": ""},
            {"a": "magenta"},
@@ -5918,7 +5918,7 @@ export default {
         [
           [{"tra": "magenta"},
            {"ve": ""},
-           {"su": ""},
+           {"su": "blue"},
            {"ras": "magenta"}],
         ],
       "eng":
@@ -5940,7 +5940,7 @@ export default {
       "esp":
         [
           [{"con": ""}],
-          [{"tu": "magenta"}],
+          [{"tu": "blue"}],
           [{"a": "magenta"},
            {"mor": ""}],
         ],
@@ -6004,7 +6004,7 @@ export default {
            {"je": ""},
            {"mos": ""}],
           [{"que": ""}],
-          [{"flu": ""},
+          [{"flu": "blue"},
            {"ya": "magenta"}],
         ],
       "eng":
@@ -6018,7 +6018,7 @@ export default {
           [{"let": ""}],
           [{"me": ""}],
           [{"kn": ""},
-           {"ow": ""}],
+           {"ow": "blue"}],
         ],
       "eng":
         [
@@ -6216,7 +6216,7 @@ export default {
     {
       "esp":
         [
-          [{"un": ""}],
+          [{"un": "blue"}],
           [{"di": ""},
            {"a": "magenta"}],
           [{"co": ""},
@@ -6278,7 +6278,7 @@ export default {
       "esp":
         [
           [{"g": ""},
-           {"o ": ""}],
+           {"o ": "blue"}],
           [{"lo": ""},
            {"ko": ""}],
         ],
@@ -6358,7 +6358,7 @@ export default {
     {
       "esp":
         [
-          [{"pu": ""},
+          [{"pu": "blue"},
            {"e": ""},
            {"blo": ""}],
         ],
@@ -6371,7 +6371,7 @@ export default {
       "esp":
         [
           [{"ex": ""},
-           {"clu": ""},
+           {"clu": "blue"},
            {"sive": ""}]
         ],
       "eng":
@@ -6396,7 +6396,7 @@ export default {
         [
           [{"me ": ""}],
           [{"pre": ""},
-           {"gun": ""},
+           {"gun": "blue"},
            {"to": ""}],
         ],
       "eng":
@@ -6421,7 +6421,7 @@ export default {
         [
           [{"mad": "magenta"}],
           [{"ho": ""},
-           {"use": ""}]
+           {"use": "blue"}]
         ],
       "eng":
         [
@@ -6541,7 +6541,7 @@ export default {
     {
       "esp":
         [
-          [{"u": ""},
+          [{"u": "blue"},
            {"na": "magenta"}],
           [{"no": ""},
            {"che": ""}],
@@ -6604,7 +6604,7 @@ export default {
       "esp":
         [
           [{"se": ""},
-           {"duc": ""},
+           {"duc": "blue"},
            {"to": ""},
            {"ra": "magenta"}],
         ],
@@ -6714,7 +6714,7 @@ export default {
       "esp":
         [
           [{"to": ""},
-           {"uch": ""}],
+           {"uch": "blue"}],
         ],
       "eng":
         [
@@ -6724,7 +6724,7 @@ export default {
     {
       "esp":
         [
-          [{"dur": ""},
+          [{"dur": "blue"},
            {"o": ""}],
         ],
       "eng":
@@ -6749,7 +6749,7 @@ export default {
     {
       "esp":
         [
-          [{"mu": ""},
+          [{"mu": "blue"},
            {"cho": ""}],
           [{"cash": "magenta"}],
         ],
@@ -6797,7 +6797,7 @@ export default {
     {
       "esp":
         [
-          [{"moves": ""}]
+          [{"moves": "blue"}]
         ],
       "eng":
         [
@@ -6845,7 +6845,7 @@ export default {
       "esp":
         [
           [{"ho": "magenta"},
-           {"ur ": ""}],
+           {"ur ": "blue"}],
           [{"ze": ""},
            {"ro": ""}],
         ],
@@ -6891,7 +6891,7 @@ export default {
     {
       "esp":
         [
-          [{"fu": ""},
+          [{"fu": "blue"},
            {"e": ""},
            {"go": ""}]
         ],
@@ -6956,7 +6956,7 @@ export default {
         [
           [{"s": ""},
            {"n": ""},
-           {"ow": ""}]
+           {"ow": "blue"}]
         ],
       "eng":
         [
@@ -6981,7 +6981,7 @@ export default {
           [{"ex": ""},
            {"tra": "magenta"}],
           [{"sa": "magenta"},
-           {"uce": ""}],
+           {"uce": "blue"}],
         ],
       "eng":
         [
@@ -7025,7 +7025,7 @@ export default {
     {
       "esp":
         [
-          [{"bu": ""},
+          [{"bu": "blue"},
            {"e": ""},
            {"no": ""}],
         ],
@@ -7075,7 +7075,7 @@ export default {
       "esp":
         [
           [{"me": ""},
-           {"du": ""},
+           {"du": "blue"},
            {"sa": "magenta"}]
         ],
       "eng":
@@ -7087,7 +7087,7 @@ export default {
       "esp":
         [
           [{"per": ""},
-           {"fu": ""},
+           {"fu": "blue"},
            {"me": ""}]
         ],
       "eng":
@@ -7190,7 +7190,7 @@ export default {
     {
       "esp":
         [
-          [{"fu": ""},
+          [{"fu": "blue"},
            {"le": ""},
            {"ta": "magenta"},
            {"zo": ""}],
@@ -7324,7 +7324,7 @@ export default {
     {
       "esp":
         [
-          [{"fu": ""},
+          [{"fu": "blue"},
            {"ri": ""},
            {"o": ""},
            {"sa": "magenta"}],
@@ -7360,7 +7360,7 @@ export default {
     {
       "esp":
         [
-          [{"rum": ""},
+          [{"rum": "blue"},
            {"ba": "magenta"}],
         ],
       "eng":
@@ -7612,7 +7612,7 @@ export default {
     {
       "esp":
         [
-          [{"bu": ""},
+          [{"bu": "blue"},
            {"le": ""},
            {"ri": ""},
            {"a": "magenta"}],
@@ -7651,7 +7651,7 @@ export default {
       "esp":
         [
           [{"vi": ""},
-           {"bo": ""}
+           {"bo": ""},
            {"ra": "magenta"}],
         ],
       "eng":
@@ -7713,10 +7713,10 @@ export default {
       "esp":
         [
           [{"de": ""},
-           {"ja": ""},
+           {"ja": "magenta"},
            {"te ": ""}],
           [{"lle": ""},
-           {"var": ""}],
+           {"var": "magenta"}],
         ],
       "eng":
         [
@@ -7739,7 +7739,7 @@ export default {
       "esp":
         [
           [{"lle": ""},
-           {"ga": ""},
+           {"ga": "magenta"},
            {"le": ""}],
         ],
       "eng":
@@ -7761,9 +7761,9 @@ export default {
     {
       "esp":
         [
-          [{"ca": ""},
+          [{"ca": "magenta"},
            {"ne": ""},
-           {"la": ""}],
+           {"la": "magenta"}],
         ],
       "eng":
         [
@@ -7856,8 +7856,9 @@ export default {
     {
       "esp":
         [
-          [{"vi": ""},
-           {"ral": ""}],
+          [{"v": "magenta"},
+           {"i": "green"},
+           {"ral": "magenta"}],
         ],
       "eng":
         [
@@ -7867,10 +7868,10 @@ export default {
     {
       "esp":
         [
-          [{"nun": ""},
-           {"ca": ""}],
+          [{"nun": "blue"},
+           {"ca": "magenta"}],
           [{"es": ""}],
-          [{"tar": ""},
+          [{"tar": "magenta"},
            {"de": ""}],
         ],
       "eng":
@@ -7881,7 +7882,7 @@ export default {
     {
       "esp":
         [
-          [{"ca": ""},
+          [{"ca": "magenta"},
            {"li": ""},
            {"en": ""},
            {"te": ""}],
@@ -7896,7 +7897,7 @@ export default {
         [
           [{"me": ""}],
           [{"pre": ""},
-           {"gun": ""},
+           {"gun": "blue"},
            {"to": ""}],
         ],
       "eng":
@@ -7909,8 +7910,8 @@ export default {
         [
           [{"o": ""},
            {"ro": ""}],
-          [{"a": ""},
-           {"ma": ""},
+          [{"a": "magenta"},
+           {"ma": "magenta"},
            {"ri": ""},
            {"llo": ""}],
         ],
@@ -7922,11 +7923,11 @@ export default {
     {
       "esp":
         [
-          [{"u": ""},
-           {"na": ""}],
-          [{"vu": ""},
+          [{"u": "blue"},
+           {"na": "magenta"}],
+          [{"vu": "blue"},
            {"el": ""},
-           {"ta": ""}],
+           {"ta": "magenta"}],
         ],
       "eng":
         [
@@ -7936,7 +7937,7 @@ export default {
     {
       "esp":
         [
-          [{"shoo": ""},
+          [{"shoo": "blue"},
            {"ters": ""}],
         ],
       "eng":
@@ -7948,8 +7949,8 @@ export default {
       "esp":
         [
           [{"sin": ""}],
-          [{"cul": ""},
-           {"pa": ""}]
+          [{"cul": "blue"},
+           {"pa": "magenta"}]
         ],
       "eng":
         [
@@ -7960,9 +7961,9 @@ export default {
       "esp":
         [
           [{"di": ""},
-           {"a": ""},
+           {"a": "magenta"},
            {"bli": ""},
-           {"ta": ""}],
+           {"ta": "magenta"}],
         ],
       "eng":
         [
@@ -7975,7 +7976,7 @@ export default {
           [{"o": ""},
            {"ri": ""},
            {"gi": ""},
-           {"nal": ""}],
+           {"nal": "magenta"}],
         ],
       "eng":
         [
@@ -7985,8 +7986,8 @@ export default {
     {
       "esp":
         [
-          [{"tu": ""}],
-          [{"cu": ""},
+          [{"tu": "blue"}],
+          [{"cu": "blue"},
            {"er": ""},
            {"po": ""}],
         ],
@@ -7998,8 +7999,8 @@ export default {
     {
       "esp":
         [
-          [{"sa": ""},
-           {"tur": ""},
+          [{"sa": "magenta"},
+           {"tur": "blue"},
            {"no": ""}]
         ],
       "eng":
@@ -8010,7 +8011,7 @@ export default {
     {
       "esp":
         [
-          [{"r": ""},
+          [{"r": "magenta"},
            {"ight": ""}],
         ],
       "eng":
@@ -8021,7 +8022,7 @@ export default {
     {
       "esp":
         [
-          [{"i": ""},
+          [{"i": "magenta"},
            {"ce": ""}],
         ],
       "eng":
@@ -8032,10 +8033,10 @@ export default {
     {
       "esp":
         [
-          [{"a": ""}],
+          [{"a": "magenta"}],
           [{"os": ""},
-           {"cu": ""},
-           {"ras": ""}],
+           {"cu": "blue"},
+           {"ras": "magenta"}],
         ],
       "eng":
         [
@@ -8058,9 +8059,9 @@ export default {
     {
       "esp":
         [
-          [{"la": ""}],
+          [{"la": "magenta"}],
           [{"zo": ""},
-           {"na": ""}]
+           {"na": "magenta"}]
         ],
       "eng":
         [
@@ -8071,9 +8072,9 @@ export default {
       "esp":
         [
           [{"i": ""},
-           {"ma": ""},
+           {"ma": "magenta"},
            {"gi": ""},
-           {"na": ""},
+           {"na": "magenta"},
            {"te": ""}],
         ],
       "eng":
@@ -8095,8 +8096,8 @@ export default {
     {
       "esp":
         [
-          [{"cha": ""},
-           {"kra": ""}],
+          [{"cha": "magenta"},
+           {"kra": "magenta"}],
         ],
       "eng":
         [
@@ -8106,10 +8107,10 @@ export default {
     {
       "esp":
         [
-          [{"a": ""},
-           {"cu": ""},
+          [{"a": "magenta"},
+           {"cu": "blue"},
            {"er": ""},
-           {"da": ""},
+           {"da": "magenta"},
            {"te": ""}],
         ],
       "eng":
@@ -8123,7 +8124,7 @@ export default {
           [{"no": ""}],
           [{"te": ""}],
           [{"de": ""},
-           {"jas": ""}]
+           {"jas": "magenta"}]
         ],
       "eng":
         [
@@ -8135,7 +8136,7 @@ export default {
         [
           [{"s": ""},
            {"m": ""},
-           {"oke": ""}],
+           {"oke": "blue"}],
         ],
       "eng":
         [
@@ -8145,7 +8146,7 @@ export default {
     {
       "esp":
         [
-          [{"dan": ""},
+          [{"dan": "magenta"},
            {"do": ""},
            {"le": ""}],
         ],
@@ -8158,9 +8159,9 @@ export default {
       "esp":
         [
           [{"re": ""},
-           {"a": ""},
+           {"a": "magenta"},
            {"li": ""},
-           {"dad": ""}],
+           {"dad": "magenta"}],
         ],
       "eng":
         [
@@ -8171,7 +8172,7 @@ export default {
       "esp":
         [
           [{"mo": ""},
-           {"ja": ""}],
+           {"ja": "magenta"}],
         ],
       "eng":
         [
@@ -8183,7 +8184,7 @@ export default {
         [
           [{"glo": ""},
            {"ri": ""},
-           {"a": ""}],
+           {"a": "magenta"}],
         ],
       "eng":
         [
@@ -8194,7 +8195,7 @@ export default {
       "esp":
         [
           [{"e": ""},
-           {"lla": ""}],
+           {"lla": "magenta"}],
         ],
       "eng":
         [
@@ -8204,11 +8205,11 @@ export default {
     {
       "esp":
         [
-          [{"cu": ""},
+          [{"cu": "blue"},
            {"ri": ""},
            {"o": ""},
            {"si": ""},
-           {"dad": ""}],
+           {"dad": "magenta"}],
         ],
       "eng":
         [
@@ -8219,7 +8220,7 @@ export default {
       "esp":
         [
           [{"de": ""},
-           {"a": ""},
+           {"a": "magenta"},
            {"ler": ""}],
         ],
       "eng":
@@ -8240,10 +8241,10 @@ export default {
     {
       "esp":
         [
-          [{"a": ""},
+          [{"a": "magenta"},
            {"mi": ""},
            {"go": ""}],
-          [{"nu": ""},
+          [{"nu": "blue"},
            {"e": ""},
            {"vo": ""}],
         ],
@@ -8257,7 +8258,7 @@ export default {
         [
           [{"ki": ""},
            {"lo": ""},
-           {"gra": ""},
+           {"gra": "magenta"},
            {"mos": ""}],
         ],
       "eng":
@@ -8268,7 +8269,7 @@ export default {
     {
       "esp":
         [
-          [{"b": ""},
+          [{"b": "magenta"},
            {"a": ""},
            {"by": ""}],
           [{"di": ""},
@@ -8283,7 +8284,7 @@ export default {
     {
       "esp":
         [
-          [{"ul": ""},
+          [{"ul": "blue"},
            {"ti": ""},
            {"mo": ""}],
           [{"be": ""},
@@ -8312,8 +8313,8 @@ export default {
       "esp":
         [
           [{"ins": ""},
-           {"ta": ""},
-           {"gram": ""}]
+           {"ta": "magenta"},
+           {"gram": "magenta"}]
         ],
       "eng":
         [
@@ -8360,7 +8361,7 @@ export default {
       "esp":
         [
           [{"que": ""}],
-          [{"pa": ""},
+          [{"pa": "magenta"},
            {"so": ""}],
         ],
       "eng":
@@ -8384,8 +8385,8 @@ export default {
       "esp":
         [
           [{"el": ""}],
-          [{"can": ""},
-           {"tan": ""},
+          [{"can": "magenta"},
+           {"tan": "magenta"},
            {"te": ""}],
         ],
       "eng":
@@ -8409,8 +8410,8 @@ export default {
     {
       "esp":
         [
-          [{"bus": ""},
-           {"can": ""},
+          [{"bus": "blue"},
+           {"can": "magenta"},
            {"do": ""}],
         ],
       "eng":
@@ -8423,8 +8424,8 @@ export default {
         [
           [{"tro": ""},
            {"pi": ""},
-           {"ca": ""},
-           {"na": ""}],
+           {"ca": "magenta"},
+           {"na": "magenta"}],
         ],
       "eng":
         [
@@ -8434,7 +8435,7 @@ export default {
     {
       "esp":
         [
-          [{"tu": ""}],
+          [{"tu": "blue"}],
           [{"boss": ""}],
         ],
       "eng":
@@ -8446,7 +8447,7 @@ export default {
       "esp":
         [
           [{"lo": ""},
-           {"ca": ""}],
+           {"ca": "magenta"}],
         ],
       "eng":
         [
@@ -8459,7 +8460,7 @@ export default {
           [{"de": ""},
            {"li": ""},
            {"ci": ""},
-           {"a": ""}],
+           {"a": "magenta"}],
         ],
       "eng":
         [
@@ -8469,8 +8470,8 @@ export default {
     {
       "esp":
         [
-          [{"man": ""},
-           {"tra": ""}],
+          [{"man": "magenta"},
+           {"tra": "magenta"}],
         ],
       "eng":
         [
@@ -8480,7 +8481,7 @@ export default {
     {
       "esp":
         [
-          [{"tar": ""},
+          [{"tar": "magenta"},
            {"de": ""}],
         ],
       "eng":
@@ -8504,7 +8505,7 @@ export default {
       "esp":
         [
           [{"pi": ""},
-           {"can": ""},
+           {"can": "magenta"},
            {"te": ""}],
         ],
       "eng":
@@ -8517,7 +8518,7 @@ export default {
         [
           [{"es": ""},
            {"qui": ""},
-           {"na": ""}],
+           {"na": "magenta"}],
         ],
       "eng":
         [
@@ -8527,8 +8528,8 @@ export default {
     {
       "esp":
         [
-          [{"ma": ""},
-           {"la": ""}],
+          [{"ma": "magenta"},
+           {"la": "magenta"}],
         ],
       "eng":
         [
@@ -8550,10 +8551,10 @@ export default {
     {
       "esp":
         [
-          [{"a": ""},
+          [{"a": "magenta"},
            {"ven": ""},
-           {"tu": ""},
-           {"ra": ""}],
+           {"tu": "blue"},
+           {"ra": "magenta"}],
         ],
       "eng":
         [
@@ -8564,8 +8565,8 @@ export default {
       "esp":
         [
           [{"mi": ""}],
-          [{"san": ""},
-           {"ta": ""}],
+          [{"san": "magenta"},
+           {"ta": "magenta"}],
         ],
       "eng":
         [
@@ -8590,7 +8591,7 @@ export default {
         [
           [{"don": ""},
            {"de": ""}],
-          [{"va": ""}],
+          [{"va": "magenta"}],
         ],
       "eng":
         [
@@ -8611,8 +8612,8 @@ export default {
     {
       "esp":
         [
-          [{"ca": ""},
-           {"za": ""},
+          [{"ca": "magenta"},
+           {"za": "magenta"},
            {"ri": ""},
            {"o": ""}],
         ],
@@ -8627,7 +8628,7 @@ export default {
           [{"ex": ""},
            {"o": ""},
            {"ti": ""},
-           {"ca": ""}],
+           {"ca": "magenta"}],
         ],
       "eng":
         [
@@ -8639,7 +8640,7 @@ export default {
         [
           [{"so": ""},
            {"le": ""},
-           {"dad": ""}],
+           {"dad": "magenta"}],
         ],
       "eng":
         [
@@ -8660,9 +8661,9 @@ export default {
     {
       "esp":
         [
-          [{"af": ""},
+          [{"af": "magenta"},
            {"ter": ""}],
-          [{"par": ""},
+          [{"par": "magenta"},
            {"ty": ""}],
         ],
       "eng":
@@ -8686,8 +8687,8 @@ export default {
     {
       "esp":
         [
-          [{"ba": ""},
-           {"lance": ""}],
+          [{"ba": "magenta"},
+           {"lance": "magenta"}],
         ],
       "eng":
         [
@@ -8707,7 +8708,7 @@ export default {
     {
       "esp":
         [
-          [{"bank": ""},
+          [{"bank": "magenta"},
            {"roll": ""}],
         ],
       "eng":
@@ -8718,7 +8719,7 @@ export default {
     {
       "esp":
         [
-          [{"n": ""},
+          [{"n": "magenta"},
            {"ights": ""}],
         ],
       "eng":
@@ -8741,8 +8742,8 @@ export default {
     {
       "esp":
         [
-          [{"san": ""},
-           {"ta": ""}],
+          [{"san": "magenta"},
+           {"ta": "magenta"}],
         ],
       "eng":
         [
@@ -8753,7 +8754,7 @@ export default {
       "esp":
         [
           [{"p": ""},
-           {"ure": ""}],
+           {"ure": "blue"}],
         ],
       "eng":
         [
@@ -8775,8 +8776,8 @@ export default {
     {
       "esp":
         [
-          [{"mal": ""},
-           {"da": ""},
+          [{"mal": "magenta"},
+           {"da": "magenta"},
            {"des": ""}],
         ],
       "eng":
@@ -8801,7 +8802,7 @@ export default {
         [
           [{"pro": ""},
            {"me": ""},
-           {"sa": ""}],
+           {"sa": "magenta"}],
         ],
       "eng":
         [
@@ -8811,7 +8812,7 @@ export default {
     {
       "esp":
         [
-          [{"blan": ""},
+          [{"blan": "magenta"},
            {"co": ""}],
         ],
       "eng":
@@ -8822,7 +8823,7 @@ export default {
     {
       "esp":
         [
-          [{"the": ""},
+          [{"the": "magenta"},
            {"world": ""}],
           [{"is": ""}],
           [{"yours": ""}],
@@ -8835,9 +8836,9 @@ export default {
     {
       "esp":
         [
-          [{"gu": ""},
+          [{"gu": "blue"},
            {"a": ""},
-           {"ya": ""}]
+           {"ya": "magenta"}]
         ],
       "eng":
         [
@@ -8847,7 +8848,7 @@ export default {
     {
       "esp":
         [
-          [{"bank": ""}],
+          [{"bank": "magenta"}],
         ],
       "eng":
         [
@@ -8860,7 +8861,7 @@ export default {
           [{"mid": ""},
            {"ni": ""},
            {"ght": ""}],
-          [{"call": ""}],
+          [{"call": "magenta"}],
         ],
       "eng":
         [
@@ -8870,8 +8871,8 @@ export default {
     {
       "esp":
         [
-          [{"la": ""}],
-          [{"ra": ""},
+          [{"la": "magenta"}],
+          [{"ra": "magenta"},
            {"zon": ""}]
         ],
       "eng":
@@ -8883,9 +8884,9 @@ export default {
       "esp":
         [
           [{"i": ""},
-           {"ma": ""},
+           {"ma": "magenta"},
            {"gi": ""},
-           {"na": ""},
+           {"na": "magenta"},
            {"te": ""}],
         ],
       "eng":
@@ -8896,7 +8897,7 @@ export default {
     {
       "esp":
         [
-          [{"a": ""},
+          [{"a": "magenta"},
            {"mor": ""}],
         ],
       "eng":
@@ -8907,7 +8908,7 @@ export default {
     {
       "esp":
         [
-          [{"true": ""}],
+          [{"true": "blue"}],
         ],
       "eng":
         [
@@ -8917,8 +8918,8 @@ export default {
     {
       "esp":
         [
-          [{"ma": ""},
-           {"ma": ""},
+          [{"ma": "magenta"},
+           {"ma": "magenta"},
            {"si": ""},
            {"ta": ""}],
         ],
@@ -8931,7 +8932,7 @@ export default {
       "esp":
         [
           [{"ve": ""},
-           {"ra": ""},
+           {"ra": "magenta"},
            {"no": ""}]
         ],
       "eng":
@@ -8942,8 +8943,8 @@ export default {
     {
       "esp":
         [
-          [{"ta": ""},
-           {"boo": ""}],
+          [{"ta": "magenta"},
+           {"boo": "blue"}],
         ],
       "eng":
         [
@@ -8953,8 +8954,8 @@ export default {
     {
       "esp":
         [
-          [{"un": ""}],
-          [{"su": ""},
+          [{"un": "blue"}],
+          [{"su": "blue"},
            {"e": ""},
            {"no": ""}],
         ],
@@ -8967,7 +8968,7 @@ export default {
       "esp":
         [
           [{"i": ""},
-           {"lu": ""},
+           {"lu": "blue"},
            {"si": ""},
            {"on": ""}],
         ],
@@ -8979,7 +8980,7 @@ export default {
     {
       "esp":
         [
-          [{"damn": ""}],
+          [{"damn": "magenta"}],
         ],
       "eng":
         [
@@ -8989,7 +8990,7 @@ export default {
     {
       "esp":
         [
-          [{"tu": ""}],
+          [{"tu": "blue"}],
           [{"com": ""},
            {"pli": ""},
            {"ce": ""}],
@@ -9004,7 +9005,7 @@ export default {
         [
           [{"ce": ""},
            {"le": ""},
-           {"bra": ""},
+           {"bra": "magenta"},
            {"te": ""}],
         ],
       "eng":
@@ -9028,7 +9029,7 @@ export default {
       "esp":
         [
           [{"mon": ""},
-           {"ta": ""},
+           {"ta": "magenta"},
            {"te": ""}],
         ],
       "eng":
@@ -9061,7 +9062,7 @@ export default {
     {
       "esp":
         [
-          [{"ca": ""},
+          [{"ca": "magenta"},
            {"lle": ""}],
         ],
       "eng":
@@ -9084,7 +9085,7 @@ export default {
     {
       "esp":
         [
-          [{"ca": ""},
+          [{"ca": "magenta"},
            {"mi": ""},
            {"nos": ""}],
         ],
@@ -9107,10 +9108,10 @@ export default {
     {
       "esp":
         [
-          [{"va": ""},
+          [{"va": "magenta"},
            {"len": ""},
            {"ti": ""},
-           {"na": ""}],
+           {"na": "magenta"}],
         ],
       "eng":
         [
@@ -9120,7 +9121,7 @@ export default {
     {
       "esp":
         [
-          [{"d": ""},
+          [{"d": "magenta"},
            {"ia": ""},
            {"monds": ""}],
         ],
@@ -9157,8 +9158,8 @@ export default {
     {
       "esp":
         [
-          [{"ga": ""},
-           {"nas": ""}],
+          [{"ga": "magenta"},
+           {"nas": "magenta"}],
         ],
       "eng":
         [
@@ -9169,7 +9170,7 @@ export default {
       "esp":
         [
           [{"rum": ""},
-           {"ba": ""}],
+           {"ba": "magenta"}],
         ],
       "eng":
         [
@@ -9179,8 +9180,8 @@ export default {
     {
       "esp":
         [
-          [{"na": ""},
-           {"da": ""}],
+          [{"na": "magenta"},
+           {"da": "magenta"}],
         ],
       "eng":
         [
@@ -9226,7 +9227,7 @@ export default {
       "esp":
         [
           [{"por": ""},
-           {"a": ""},
+           {"a": "magenta"},
            {"hi": ""}],
         ],
       "eng":
@@ -9237,9 +9238,9 @@ export default {
     {
       "esp":
         [
-          [{"fan": ""},
-           {"tas": ""},
-           {"ma": ""}],
+          [{"fan": "magenta"},
+           {"tas": "magenta"},
+           {"ma": "magenta"}],
         ],
       "eng":
         [
@@ -9249,7 +9250,7 @@ export default {
     {
       "esp":
         [
-          [{"n": ""},
+          [{"n": "magenta"},
            {"ights": ""}],
         ],
       "eng":
@@ -9260,7 +9261,7 @@ export default {
     {
       "esp":
         [
-          [{"ca": ""},
+          [{"ca": "magenta"},
            {"lor": ""}]
         ],
       "eng":
@@ -9286,7 +9287,7 @@ export default {
         [
           [{"bi": ""},
            {"po": ""},
-           {"lar": ""}],
+           {"lar": "magenta"}],
         ],
       "eng":
         [
@@ -9297,9 +9298,9 @@ export default {
       "esp":
         [
           [{"con": ""}],
-          [{"al": ""},
-           {"tu": ""},
-           {"ra": ""}],
+          [{"al": "magenta"},
+           {"tu": "blue"},
+           {"ra": "magenta"}],
         ],
       "eng":
         [
@@ -9320,10 +9321,10 @@ export default {
     {
       "esp":
         [
-          [{"u": ""},
-           {"na ": ""}],
+          [{"u": "blue"},
+           {"na ": "magenta"}],
           [{"ro": ""},
-           {"sa": ""}],
+           {"sa": "magenta"}],
         ],
       "eng":
         [
@@ -9345,18 +9346,7 @@ export default {
     {
       "esp":
         [
-          [{"sauce": ""}],
-        ],
-      "eng":
-        [
-          [{"": ""}]
-        ]
-    },
-    {
-      "esp":
-        [
-          [{"rum": ""},
-           {"ba": ""}],
+          [{"sauce": "magenta"}],
         ],
       "eng":
         [
@@ -9367,7 +9357,7 @@ export default {
       "esp":
         [
           [{"l": ""},
-           {"ow ": ""}],
+           {"ow ": "blue"}],
           [{"key": ""}],
         ],
       "eng":
@@ -9403,8 +9393,8 @@ export default {
       "esp":
         [
           [{"en": ""}],
-          [{"la": ""}],
-          [{"pa": ""},
+          [{"la": "magenta"}],
+          [{"pa": "magenta"},
            {"red": ""}],
         ],
       "eng":
@@ -9427,7 +9417,7 @@ export default {
     {
       "esp":
         [
-          [{"tus": ""},
+          [{"tus": "blue"},
            {"o": ""},
            {"jos": ""}],
         ],
@@ -9439,7 +9429,7 @@ export default {
     {
       "esp":
         [
-          [{"n": ""},
+          [{"n": "magenta"},
            {"ite": ""}],
         ],
       "eng":
@@ -9450,9 +9440,9 @@ export default {
     {
       "esp":
         [
-          [{"a": ""},
-           {"u": ""},
-           {"ra": ""}],
+          [{"a": "magenta"},
+           {"u": "blue"},
+           {"ra": "magenta"}],
         ],
       "eng":
         [
@@ -9463,7 +9453,7 @@ export default {
       "esp":
         [
           [{"do": ""},
-           {"llar": ""}],
+           {"llar": "magenta"}],
         ],
       "eng":
         [
@@ -9473,7 +9463,7 @@ export default {
     {
       "esp":
         [
-          [{"rou": ""},
+          [{"rou": "blue"},
            {"tine": ""}],
         ],
       "eng":
@@ -9485,7 +9475,7 @@ export default {
       "esp":
         [
           [{"mo": ""},
-           {"ra": ""},
+           {"ra": "magenta"},
            {"do": ""}],
         ],
       "eng":
@@ -9508,7 +9498,7 @@ export default {
     {
       "esp":
         [
-          [{"su": ""},
+          [{"su": "blue"},
            {"er": ""},
            {"te": ""}],
         ],
@@ -9532,7 +9522,7 @@ export default {
     {
       "esp":
         [
-          [{"fast": ""},
+          [{"fast": "magenta"},
            {"la": ""},
            {"ne": ""}],
         ],
@@ -9565,9 +9555,9 @@ export default {
     {
       "esp":
         [
-          [{"a": ""},
+          [{"a": "magenta"},
            {"rri": ""},
-           {"ba": ""}],
+           {"ba": "magenta"}],
         ],
       "eng":
         [
@@ -9588,7 +9578,7 @@ export default {
     {
       "esp":
         [
-          [{"nas": ""},
+          [{"nas": "magenta"},
            {"ty": ""}],
         ],
       "eng":
@@ -9600,7 +9590,7 @@ export default {
       "esp":
         [
           [{"el": ""}],
-          [{"ca": ""},
+          [{"ca": "magenta"},
            {"ri": ""},
            {"be": ""}],
         ],
@@ -9613,9 +9603,9 @@ export default {
       "esp":
         [
           [{"s": ""},
-           {"o": ""}],
+           {"o": "blue"}],
           [{"r": ""},
-           {"eal": ""}],
+           {"eal": "magenta"}],
         ],
       "eng":
         [
@@ -9638,7 +9628,7 @@ export default {
     {
       "esp":
         [
-          [{"va": ""},
+          [{"va": "magenta"},
            {"c": ""},
            {"a": ""},
            {"tion": ""}],
@@ -9651,8 +9641,8 @@ export default {
     {
       "esp":
         [
-          [{"cu": ""},
-           {"be": ""}],
+          [{"cu": "blue"},
+           {"be": "blue"}],
         ],
       "eng":
         [
@@ -9683,7 +9673,7 @@ export default {
     {
       "esp":
         [
-          [{"fast": ""}],
+          [{"fast": "magenta"}],
         ],
       "eng":
         [
@@ -9693,10 +9683,10 @@ export default {
     {
       "esp":
         [
-          [{"tra": ""},
+          [{"tra": "magenta"},
            {"ve": ""},
-           {"su": ""},
-           {"ra": ""}],
+           {"su": "blue"},
+           {"ra": "magenta"}],
         ],
       "eng":
         [
@@ -9706,7 +9696,7 @@ export default {
     {
       "esp":
         [
-          [{"ma": ""},
+          [{"ma": "magenta"},
            {"cho": ""}],
         ],
       "eng":
@@ -9717,9 +9707,9 @@ export default {
     {
       "esp":
         [
-          [{"su": ""},
+          [{"su": "blue"},
            {"el": ""},
-           {"ta": ""}],
+           {"ta": "magenta"}],
         ],
       "eng":
         [
@@ -9729,8 +9719,8 @@ export default {
     {
       "esp":
         [
-          [{"du": ""},
-           {"ba": ""},
+          [{"du": "blue"},
+           {"ba": "magenta"},
            {"i": ""}],
         ],
       "eng":
@@ -9741,9 +9731,9 @@ export default {
     {
       "esp":
         [
-          [{"a": ""},
+          [{"a": "magenta"},
            {"dic": ""},
-           {"ta": ""}],
+           {"ta": "magenta"}],
         ],
       "eng":
         [
@@ -9753,9 +9743,9 @@ export default {
     {
       "esp":
         [
-          [{"cu": ""},
+          [{"cu": "blue"},
            {"li": ""},
-           {"boo": ""},
+           {"boo": "blue"},
            {"ty": ""}],
         ],
       "eng":
@@ -9778,7 +9768,7 @@ export default {
       "esp":
         [
           [{"o": ""},
-           {"ca": ""},
+           {"ca": "magenta"},
            {"si": ""},
            {"on": ""}],
         ],
@@ -9790,7 +9780,7 @@ export default {
     {
       "esp":
         [
-          [{"flash": ""}],
+          [{"flash": "magenta"}],
         ],
       "eng":
         [
@@ -9800,10 +9790,10 @@ export default {
     {
       "esp":
         [
-          [{"ca": ""},
-           {"ta": ""},
+          [{"ca": "magenta"},
+           {"ta": "magenta"},
            {"li": ""},
-           {"na": ""}],
+           {"na": "magenta"}],
         ],
       "eng":
         [
@@ -9824,9 +9814,9 @@ export default {
     {
       "esp":
         [
-          [{"fru": ""},
+          [{"fru": "blue"},
            {"ti": ""},
-           {"lla": ""}],
+           {"lla": "magenta"}],
         ],
       "eng":
         [
@@ -9861,7 +9851,7 @@ export default {
       "esp":
         [
           [{"i": ""}],
-          [{"l": ""},
+          [{"l": "magenta"},
            {"ike": ""}],
           [{"it": ""}],
         ],
@@ -9874,7 +9864,7 @@ export default {
       "esp":
         [
           [{"s": ""},
-           {"tart": ""}],
+           {"tart": "magenta"}],
         ],
       "eng":
         [
@@ -9884,9 +9874,9 @@ export default {
     {
       "esp":
         [
-          [{"sha": ""},
+          [{"sha": "magenta"},
            {"do": ""},
-           {"w": ""}],
+           {"w": "blue"}],
         ],
       "eng":
         [
@@ -9897,8 +9887,8 @@ export default {
       "esp":
         [
           [{"s": ""},
-           {"nap": ""},
-           {"chat": ""}],
+           {"nap": "magenta"},
+           {"chat": "magenta"}],
         ],
       "eng":
         [
@@ -9908,7 +9898,7 @@ export default {
     {
       "esp":
         [
-          [{"ca": ""},
+          [{"ca": "magenta"},
            {"li": ""},
            {"en": ""},
            {"te": ""}],
@@ -9922,7 +9912,7 @@ export default {
       "esp":
         [
           [{"vi": ""},
-           {"da": ""}],
+           {"da": "magenta"}],
         ],
       "eng":
         [
@@ -9932,7 +9922,7 @@ export default {
     {
       "esp":
         [
-          [{"normal": ""},
+          [{"norm": ""},
            {"br": ""},
            {"ea": ""},
            {"ker": ""}],
@@ -9945,11 +9935,7 @@ export default {
     {
       "esp":
         [
-          [{"heart": ""},
-           {"": ""},
-           {"": ""}],
-          [{"": ""},
-           {"": ""}],
+          [{"heart": "magenta"}],
         ],
       "eng":
         [
@@ -9959,7 +9945,7 @@ export default {
     {
       "esp":
         [
-          [{"jui": ""},
+          [{"jui": "blue"},
            {"cy": ""}],
         ],
       "eng":
@@ -9971,7 +9957,7 @@ export default {
       "esp":
         [
           [{"le": ""},
-           {"tal": ""}],
+           {"tal": "magenta"}],
         ],
       "eng":
         [
@@ -9982,7 +9968,7 @@ export default {
       "esp":
         [
           [{"ho": ""},
-           {"r": ""},
+           {"r": "magenta"},
            {"i": ""},
            {"zon": ""}],
         ],
@@ -9995,8 +9981,7 @@ export default {
       "esp":
         [
           [{"mo": ""},
-           {"ments": ""},
-           {"": ""}]
+           {"ments": ""}]
         ],
       "eng":
         [
@@ -10006,9 +9991,9 @@ export default {
     {
       "esp":
         [
-          [{"ba": ""},
+          [{"ba": "magenta"},
            {"i": ""},
-           {"lan": ""},
+           {"lan": "magenta"},
            {"do": ""}]
         ],
       "eng":
@@ -10019,7 +10004,7 @@ export default {
     {
       "esp":
         [
-          [{"walls": ""}],
+          [{"walls": "magenta"}],
         ],
       "eng":
         [
@@ -10029,9 +10014,9 @@ export default {
     {
       "esp":
         [
-          [{"heart": ""},
-           {"a": ""},
-           {"ttack": ""}],
+          [{"heart": "magenta"},
+           {"a": "magenta"},
+           {"ttack": "magenta"}],
         ],
       "eng":
         [
@@ -10043,7 +10028,7 @@ export default {
         [
           [{"es": ""},
            {"tre": ""},
-           {"lla": ""}],
+           {"lla": "magenta"}],
         ],
       "eng":
         [
@@ -10056,7 +10041,7 @@ export default {
           [{"de": ""},
            {"ci": ""},
            {"di": ""},
-           {"da": ""}],
+           {"da": "magenta"}],
         ],
       "eng":
         [
@@ -10077,7 +10062,7 @@ export default {
     {
       "esp":
         [
-          [{"boom": ""}],
+          [{"boom": "blue"}],
         ],
       "eng":
         [
@@ -10089,7 +10074,7 @@ export default {
         [
           [{"di": ""},
            {"a": ""},
-           {"bla": ""}],
+           {"bla": "magenta"}],
         ],
       "eng":
         [
@@ -10099,7 +10084,7 @@ export default {
     {
       "esp":
         [
-          [{"ban": ""},
+          [{"ban": "magenta"},
            {"dit": ""}],
         ],
       "eng":
@@ -10111,7 +10096,7 @@ export default {
       "esp":
         [
           [{"br": ""},
-           {"o": ""},
+           {"o": "blue"},
            {"ken": ""}],
         ],
       "eng":
@@ -10156,7 +10141,7 @@ export default {
     {
       "esp":
         [
-          [{"ja": ""},
+          [{"ja": "magenta"},
            {"le": ""},
            {"o": ""}],
         ],
@@ -10168,10 +10153,10 @@ export default {
     {
       "esp":
         [
-          [{"ul": ""},
+          [{"ul": "blue"},
            {"ti": ""},
            {"mo": ""}],
-          [{"ba": ""},
+          [{"ba": "magenta"},
            {"i": ""},
            {"le": ""}],
         ],
@@ -10183,7 +10168,7 @@ export default {
     {
       "esp":
         [
-          [{"ba": ""},
+          [{"ba": "magenta"},
            {"be": ""}],
         ],
       "eng":
@@ -10243,7 +10228,7 @@ export default {
       "esp":
         [
           [{"tin": ""},
-           {"ta": ""}],
+           {"ta": "magenta"}],
         ],
       "eng":
         [
@@ -10253,8 +10238,8 @@ export default {
     {
       "esp":
         [
-          [{"flash": ""},
-           {"back": ""}],
+          [{"flash": "magenta"},
+           {"back": "magenta"}],
         ],
       "eng":
         [
@@ -10266,7 +10251,7 @@ export default {
         [
           [{"mo": ""},
            {"de": ""},
-           {"la": ""},
+           {"la": "magenta"},
            {"me": ""}],
         ],
       "eng":
@@ -10289,7 +10274,7 @@ export default {
       "esp":
         [
           [{"cli": ""},
-           {"ma": ""}],
+           {"ma": "magenta"}],
         ],
       "eng":
         [
@@ -10299,8 +10284,8 @@ export default {
     {
       "esp":
         [
-          [{"rum": ""},
-           {"ba": ""}],
+          [{"rum": "blue"},
+           {"ba": "magenta"}],
         ],
       "eng":
         [
@@ -10310,9 +10295,9 @@ export default {
     {
       "esp":
         [
-          [{"to": ""}],
+          [{"to": "blue"}],
           [{"hold": ""}],
-          [{"you": ""}],
+          [{"you": "blue"}],
         ],
       "eng":
         [
@@ -10333,8 +10318,8 @@ export default {
       "esp":
         [
           [{"re": ""},
-           {"gu": ""},
-           {"lar": ""}],
+           {"gu": "blue"},
+           {"lar": "magenta"}],
         ],
       "eng":
         [
@@ -10355,7 +10340,7 @@ export default {
       "esp":
         [
           [{"dis": ""},
-           {"tant": ""}],
+           {"tant": "magenta"}],
         ],
       "eng":
         [
@@ -10365,8 +10350,8 @@ export default {
     {
       "esp":
         [
-          [{"moon": ""},
-           {"l": ""},
+          [{"moon": "blue"},
+           {"l": "magenta"},
            {"ight": ""}],
         ],
       "eng":
@@ -10378,8 +10363,8 @@ export default {
       "esp":
         [
           [{"en": ""}],
-          [{"la": ""}],
-          [{"ca": ""},
+          [{"la": "magenta"}],
+          [{"ca": "magenta"},
            {"lle": ""}],
         ],
       "eng":
@@ -10402,7 +10387,7 @@ export default {
     {
       "esp":
         [
-          [{"fu": ""},
+          [{"fu": "blue"},
            {"gi": ""},
            {"ti": ""}],
           [{"ve": ""}],
@@ -10415,9 +10400,9 @@ export default {
     {
       "esp":
         [
-          [{"a": ""},
+          [{"a": "magenta"},
            {"re": ""},
-           {"na": ""}]
+           {"na": "magenta"}]
         ],
       "eng":
         [
@@ -10430,7 +10415,7 @@ export default {
           [{"me": ""},
            {"mo": ""},
            {"ri": ""},
-           {"a": ""}],
+           {"a": "magenta"}],
         ],
       "eng":
         [
@@ -10440,7 +10425,7 @@ export default {
     {
       "esp":
         [
-          [{"you": ""}],
+          [{"you": "blue"}],
         ],
       "eng":
         [
@@ -10472,7 +10457,7 @@ export default {
     {
       "esp":
         [
-          [{"ma": ""},
+          [{"ma": "magenta"},
            {"gic": ""}],
         ],
       "eng":
@@ -10483,8 +10468,8 @@ export default {
     {
       "esp":
         [
-          [{"an": ""},
-           {"da": ""},
+          [{"an": "magenta"},
+           {"da": "magenta"},
            {"le": ""}],
         ],
       "eng":
@@ -10495,7 +10480,7 @@ export default {
     {
       "esp":
         [
-          [{"sal": ""},
+          [{"sal": "magenta"},
            {"to": ""}],
         ],
       "eng":
@@ -10520,7 +10505,7 @@ export default {
           [{"e": ""},
            {"sen": ""},
            {"ci": ""},
-           {"a": ""}],
+           {"a": "magenta"}],
         ],
       "eng":
         [
@@ -10530,7 +10515,7 @@ export default {
     {
       "esp":
         [
-          [{"ca": ""},
+          [{"ca": "magenta"},
            {"fe": ""}]
         ],
       "eng":
@@ -10555,7 +10540,7 @@ export default {
         [
           [{"he": ""},
            {"ri": ""},
-           {"da": ""}]
+           {"da": "magenta"}]
         ],
       "eng":
         [
@@ -10567,7 +10552,7 @@ export default {
         [
           [{"po": ""},
            {"e": ""},
-           {"ma": ""}]
+           {"ma": "magenta"}]
         ],
       "eng":
         [
@@ -10577,9 +10562,9 @@ export default {
     {
       "esp":
         [
-          [{"la": ""}],
-          [{"lu": ""},
-           {"na": ""}]
+          [{"la": "magenta"}],
+          [{"lu": "blue"},
+           {"na": "magenta"}]
         ],
       "eng":
         [
@@ -10589,8 +10574,8 @@ export default {
     {
       "esp":
         [
-          [{"su": ""},
-           {"a": ""},
+          [{"su": "blue"},
+           {"a": "magenta"},
            {"ve": ""}],
         ],
       "eng":
@@ -10602,7 +10587,7 @@ export default {
       "esp":
         [
           [{"be": ""},
-           {"lla": ""}],
+           {"lla": "magenta"}],
         ],
       "eng":
         [
@@ -10612,7 +10597,7 @@ export default {
     {
       "esp":
         [
-          [{"sa": ""},
+          [{"sa": "magenta"},
            {"bro": ""},
            {"so": ""}]
         ],
@@ -10638,7 +10623,7 @@ export default {
         [
           [{"fi": ""},
            {"es": ""},
-           {"ta": ""}]
+           {"ta": "magenta"}]
         ],
       "eng":
         [
@@ -10650,7 +10635,7 @@ export default {
         [
           [{"vi": ""},
            {"bo": ""},
-           {"ra": ""}],
+           {"ra": "magenta"}],
         ],
       "eng":
         [
@@ -10682,7 +10667,7 @@ export default {
     {
       "esp":
         [
-          [{"na": ""},
+          [{"na": "magenta"},
            {"ive": ""}],
         ],
       "eng":
@@ -10693,8 +10678,8 @@ export default {
     {
       "esp":
         [
-          [{"at": ""},
-           {"las": ""}],
+          [{"at": "magenta"},
+           {"las": "magenta"}],
         ],
       "eng":
         [
@@ -10704,8 +10689,8 @@ export default {
     {
       "esp":
         [
-          [{"do": ""},
-           {"wn": ""}],
+          [{"do": "magenta"},
+           {"wn": "blue"}],
         ],
       "eng":
         [
@@ -10716,8 +10701,8 @@ export default {
       "esp":
         [
           [{"burn": ""}],
-          [{"o": ""},
-           {"ut": ""}],
+          [{"o": "magenta"},
+           {"ut": "blue"}],
         ],
       "eng":
         [
@@ -10729,7 +10714,7 @@ export default {
         [
           [{"her": ""},
            {"mo": ""},
-           {"sa": ""}],
+           {"sa": "magenta"}],
         ],
       "eng":
         [
@@ -10741,7 +10726,7 @@ export default {
         [
           [{"el": ""}],
           [{"di": ""},
-           {"a": ""},
+           {"a": "magenta"},
            {"blo": ""}],
         ],
       "eng":
@@ -10764,8 +10749,8 @@ export default {
     {
       "esp":
         [
-          [{"car": ""},
-           {"nal": ""}],
+          [{"car": "magenta"},
+           {"nal": "magenta"}],
         ],
       "eng":
         [
@@ -10777,7 +10762,7 @@ export default {
         [
           [{"sen": ""},
            {"ci": ""},
-           {"lla": ""}],
+           {"lla": "magenta"}],
         ],
       "eng":
         [
@@ -10797,8 +10782,8 @@ export default {
     {
       "esp":
         [
-          [{"su": ""},
-           {"a": ""},
+          [{"su": "blue"},
+           {"a": "magenta"},
            {"ve": ""}],
         ],
       "eng":
@@ -10810,7 +10795,7 @@ export default {
       "esp":
         [
           [{"som": ""},
-           {"bras": ""}],
+           {"bras": "magenta"}],
         ],
       "eng":
         [
@@ -10820,9 +10805,9 @@ export default {
     {
       "esp":
         [
-          [{"mal": ""},
-           {"va": ""},
-           {"da": ""},
+          [{"mal": "magenta"},
+           {"va": "magenta"},
+           {"da": "magenta"},
            {"men": ""},
            {"te": ""}],
         ],
@@ -10834,8 +10819,8 @@ export default {
     {
       "esp":
         [
-          [{"du": ""},
-           {"ra": ""}],
+          [{"du": "blue"},
+           {"ra": "magenta"}],
         ],
       "eng":
         [
@@ -10845,7 +10830,7 @@ export default {
     {
       "esp":
         [
-          [{"cu": ""},
+          [{"cu": "blue"},
            {"rren": ""},
            {"cy": ""}],
         ],
