@@ -1,0 +1,807 @@
+{
+  "filename": "greatestLyrics",
+  "title": "Greatest Lyrics",
+  "documentId": "greatestLyrics",
+  "phrases": [
+    { "phrase": "",
+      "phraseToParse": "Part Of The Plan",
+      "imgData": {"url": ""},
+      "metaData": {
+        "artist": "Dan Fogelberg",
+        "song": "Part Of The Plan",
+        "lyrics": "Love when you can, cry when you have to, be who you must, that's a part of the plan. Await your arrival with simple survival, and one day we'll all understand." }
+    },
+    { "phrase": "",
+      "phraseToParse": "Love Is A Battlefield",
+      "imgData": {"url": ""},
+      "metaData": {
+        "artist": "Pat Benatar",
+        "song": "Love Is A Battlefield",
+        "lyrics": "Love Is A Battlefield" }
+    },
+    { "phrase": "",
+      "phraseToParse": "A World Without Hero's",
+      "imgData": {"url": ""},
+      "metaData": {
+        "artist": "Kiss",
+        "song": "A World Without Hero's",
+        "lyrics": "A world without hero's is like a world without sun, you can't look up to anyone." }
+    },
+    { "phrase": "",
+      "phraseToParse": "Grazing In The Grass",
+      "imgData": {"url": ""},
+      "metaData": {
+        "artist": "Friends of Distinction",
+        "song": "Grazing In The Grass",
+        "lyrics": "I can dig it, he can dig it, she can dig it, we can dig it, they can dig it, you can dig it, oh let's dig it. Can you dig it, baby?" }
+    },
+    { "phrase": "",
+      "phraseToParse": "I Will Follow You Into The Dark",
+      "imgData": {"url": ""},
+      "metaData": {
+        "artist": "Death Cab for Cutie",
+        "song": "I Will Follow You Into The Dark",
+        "lyrics": "If Heaven and Hell decide that they both are satisfied, illuminate the No's on their Vacancy signs, if there's no one to guide you when your soul departs, then I will follow you into the dark." }
+    },
+    { "phrase": "",
+      "phraseToParse": "Great Balls Of Fire",
+      "imgData": {"url": ""},
+      "metaData": {
+        "artist": "Jerry Lee Lewis",
+        "song": "Great Balls Of Fire",
+        "lyrics": "You shake my nerves and you rattle my brain, too much love drives a man insane. You broke my will, but what a thrill. Goodness gracious, great balls of fire." }
+    },
+    { "phrase": "",
+      "phraseToParse": "Private Idaho",
+      "imgData": {"url": ""},
+      "metaData": {
+        "artist": "B-52s",
+        "song": "Private Idaho",
+        "lyrics": "You're living in your own private Idaho." }
+    },
+    { "phrase": "",
+      "phraseToParse": "Come Clarity",
+      "imgData": {"url": ""},
+      "metaData": {
+        "artist": "In Flames",
+        "song": "Come Clarity",
+        "lyrics": "I want you to lead me, take me somewhere... Don't want to live in a dream one more day." }
+    },
+    { "phrase": "",
+      "phraseToParse": "Today Is Yesterdays Tomorrow",
+      "imgData": {"url": ""},
+      "metaData": {
+        "artist": "It Prevails",
+        "song": "Today Is Yesterdays Tomorrow",
+        "lyrics": "It makes me sick to know my life will be represented by the world we're in now." }
+    },
+    { "phrase": "",
+      "phraseToParse": "Salty Grave",
+      "imgData": {"url": ""},
+      "metaData": {
+        "artist": "Life In Your Way",
+        "song": "Salty Grave",
+        "lyrics": "Upon my arrival, I either learned to swim or drowned." }
+    },
+    { "phrase": "",
+      "phraseToParse": "Can't You See",
+      "imgData": {"url": ""},
+      "metaData": {
+        "artist": "The Marshall Tucker Band",
+        "song": "Can't You See",
+        "lyrics": "Can't you see? Oh can't you see, what that woman is doing to me." }
+    },
+    { "phrase": "",
+      "phraseToParse": "Free Bird",
+      "imgData": {"url": ""},
+      "metaData": {
+        "artist": "Lynyrd Skynyrd",
+        "song": "Free Bird",
+        "lyrics": "If I leave here tomorrow, would you still remember me?" }
+    },
+    { "phrase": "",
+      "phraseToParse": "We're Just Friends",
+      "imgData": {"url": ""},
+      "metaData": {
+        "artist": "Wilco",
+        "song": "We're Just Friends",
+        "lyrics": "If love's so easy, why's it hard?" }
+    },
+    { "phrase": "",
+      "phraseToParse": "Fields Of Athenry",
+      "imgData": {"url": ""},
+      "metaData": {
+        "artist": "Pete St. John",
+        "song": "Fields Of Athenry",
+        "lyrics": "Low lie the fields of Athenry, where once we watched, the small free-birds fly." }
+    },
+    { "phrase": "",
+      "phraseToParse": "Who's Gonna Ride Your Wild Horses",
+      "imgData": {"url": ""},
+      "metaData": {
+        "artist": "U2",
+        "song": "Who's Gonna Ride Your Wild Horses",
+        "lyrics": "You're dangerous cause your honest, you're dangerous cause you don't know what you want." }
+    },
+    { "phrase": "",
+      "phraseToParse": "Ring Of Fire",
+      "imgData": {"url": ""},
+      "metaData": {
+        "artist": "Johnny Cash",
+        "song": "Ring Of Fire",
+        "lyrics": "I fell into a burning ring of fire, I went down down down and the flames went higher." }
+    },
+    { "phrase": "",
+      "phraseToParse": "Say It Isn't True",
+      "imgData": {"url": ""},
+      "metaData": {
+        "artist": "Jackson Browne",
+        "song": "Say It Isn't True",
+        "lyrics": "You would think with all the genius and the brilliance of these times, we might find a higher purpose and a better use of mind." }
+    },
+    { "phrase": "",
+      "phraseToParse": "Self Esteem",
+      "imgData": {"url": ""},
+      "metaData": {
+        "artist": "The Offspring",
+        "song": "Self Esteem",
+        "lyrics": "May be a loser but I'm not a dweeb. I'm just a sucker with no self-esteem." }
+    },
+    { "phrase": "",
+      "phraseToParse": "It's A Long Way To The Top",
+      "imgData": {"url": ""},
+      "metaData": {
+        "artist": "AC/DC",
+        "song": "It's A Long Way To The Top",
+        "lyrics": "It's a long way to the top, if you wanna rock n roll." }
+    },
+    { "phrase": "",
+      "phraseToParse": "Jungleland",
+      "imgData": {"url": ""},
+      "metaData": {
+        "artist": "Bruce Springsteen",
+        "song": "Jungleland",
+        "lyrics": "There's an opera out on the turnpike, there's a ballet being fought out in the alley." }
+    },
+    { "phrase": "",
+      "phraseToParse": "St. Stephen",
+      "imgData": {"url": ""},
+      "metaData": {
+        "artist": "Grateful Dead",
+        "song": "St. Stephen",
+        "lyrics": "Talk about your plenty, talk about your ills, one man gathers what another man spills." }
+    },
+    { "phrase": "",
+      "phraseToParse": "The Day No One Needed To Know",
+      "imgData": {"url": ""},
+      "metaData": {
+        "artist": "Moneen",
+        "song":"The Day No One Needed To Know",
+        "lyrics": "Sing for choices, sing for everyone, without voices." }
+    },
+    { "phrase": "",
+      "phraseToParse": "40. Oz To Freedom",
+      "imgData": {"url": ""},
+      "metaData": {
+        "artist": "Sublime",
+        "song": "40. Oz To Freedom",
+        "lyrics": "A 40. Oz to freedom is the only chance I have, to feel good even though I feel bad." }
+    },
+    { "phrase": "",
+      "phraseToParse": "Victim Of Love",
+      "imgData": {"url": ""},
+      "metaData": {
+        "artist": "The Eagles",
+        "song": "Victim Of Love",
+        "lyrics": "Some people never come clean, I think you know what I mean. You're walking a wire between pain and desire, and looking for love in-between." }
+    },
+    { "phrase": "",
+      "phraseToParse": "Man's Final Frontier",
+      "imgData": {"url": ""},
+      "metaData": {
+        "artist": "Arrested Development",
+        "song": "Man's Final Frontier",
+        "lyrics": "Space ain't man's final frontier, man's final frontier is the soul." }
+    },
+    { "phrase": "",
+      "phraseToParse": "Say Yes",
+      "imgData": {"url": ""},
+      "metaData": {
+        "artist": "Elliott Smith",
+        "song": "Say Yes",
+        "lyrics": "I'm in love with the world through the eyes of a girl, who's still around the morning after. We broke up a month ago, and I grew up - but didn't know I'd be around the morning after." }
+    },
+    { "phrase": "",
+      "phraseToParse": "Jesus",
+      "imgData": {"url": ""},
+      "metaData": {
+        "artist": "Brand New",
+        "song": "Jesus",
+        "lyrics": "Well Jesus Christ I'm alone again, so what did you do those three days you were dead? Cause this problem's gonna  last, more than a weekend." }
+    },
+    { "phrase": "",
+      "phraseToParse": "California Stars",
+      "imgData": {"url": ""},
+      "metaData": {
+        "artist": "Wilco & Billy Bragg",
+        "song": "California Stars",
+        "lyrics": "So I'd give this world, just to dream a dream with you, on our bed of California stars." }
+    },
+    { "phrase": "",
+      "phraseToParse": "Highway Of Hero's",
+      "imgData": {"url": ""},
+      "metaData": {
+        "artist": "The Trews",
+        "song": "Highway Of Hero's",
+        "lyrics": "Carry me home, down the highway of hero's. People above with their flags flying low." }
+    },
+    { "phrase": "",
+      "phraseToParse": "Fiddler's Green",
+      "imgData": {"url": ""},
+      "metaData": {
+        "artist": "The Tragically Hip",
+        "song": "Fiddler's Green",
+        "lyrics": "Balloons all filled with rain as children's eyes turn sleepy-mean and falstaff sings a sorrowful refrain for a boy in fiddler's green." }
+    },
+    { "phrase": "",
+      "phraseToParse": "Begin The Beguine",
+      "imgData": {"url": ""},
+      "metaData": {
+        "artist": "R.E.M.",
+        "song": "Begin The Beguine",
+        "lyrics": "Silence means security, silence means approval, watch a zenith on the TV. Tiger run around the tree, follow the leader, run and turn to butter." }
+    },
+    { "phrase": "",
+      "phraseToParse": "Hard Day's Night",
+      "imgData": {"url": ""},
+      "metaData": {
+        "artist": "The Beatles",
+        "song": "Hard Day's Night",
+        "lyrics": "It's been a hard days night." }
+    },
+    { "phrase": "",
+      "phraseToParse": "Bloodbuzz Ohio",
+      "imgData": {"url": ""},
+      "metaData": {
+        "artist": "The National",
+        "song": "Bloodbuzz Ohio",
+        "lyrics": "I never thought about love when I thought about home." }
+    },
+    { "phrase": "",
+      "phraseToParse": "Seraphim",
+      "imgData": {"url": ""},
+      "metaData": {
+        "artist": "For Today",
+        "song": "Seraphim",
+        "lyrics": "Take your flame, ignite the world." }
+    },
+    { "phrase": "",
+      "phraseToParse": "The Great Gig In The Sky",
+      "imgData": {"url": ""},
+      "metaData": {
+        "artist": "Pink Floyd",
+        "song": "The Great Gig In The Sky",
+        "lyrics": "And I am not afraid of dying, why should I be? We all gotta go sometime." }
+    },
+    { "phrase": "911 For Peace",
+      "phraseToParse": "Nine Eleven For Peace",
+      "imgData": {"url": ""},
+      "metaData": {
+        "artist": "Anti-Flag",
+        "song": "911 For Peace",
+        "lyrics": "" }
+    },
+    { "phrase": "",
+      "phraseToParse": "Nobody's Hero",
+      "imgData": {"url": ""},
+      "metaData": {
+        "artist": "Rush",
+        "song": "Nobody's Hero",
+        "lyrics": "Hero not the handsome actor who plays a hero's role. Hero not the glamour girl who'd love to sell her soul." }
+    },
+    { "phrase": "",
+      "phraseToParse": "Boiled Frogs",
+      "imgData": {"url": ""},
+      "metaData": {
+        "artist": "Alexisonfire",
+        "song": "Boiled Frogs",
+        "lyrics": "Poor little tin-man, still swinging his axe even though his joints are clubbed with rust." }
+    },
+    { "phrase": "",
+      "phraseToParse": "Everlong",
+      "imgData": {"url": ""},
+      "metaData": {
+        "artist": "Foo Fighters",
+        "song": "Everlong",
+        "lyrics": "And I wonder when I sing along with you, if everything could ever feel this real forever, if anything could ever be this good again. The only thing I'll ever ask of you, you've got to promise not to stop when I say when." }
+    },
+    { "phrase": "",
+      "phraseToParse": "Changes In Latitudes, Changes In Attitudes",
+      "imgData": {"url": ""},
+      "metaData": {
+        "artist": "Jimmy Buffett",
+        "song": "Changes In Latitudes, Changes In Attitudes",
+        "lyrics": "If we weren't all crazy we would go insane." }
+    },
+    { "phrase": "",
+      "phraseToParse": "Fiction",
+      "imgData": {"url": ""},
+      "metaData": {
+        "artist": "Avenged Sevenfold",
+        "song": "Fiction",
+        "lyrics": "Now I think I understand, how the world can overcome a man." }
+    },
+    { "phrase": "",
+      "phraseToParse": "Substitute",
+      "imgData": {"url": ""},
+      "metaData": {
+        "artist": "The Who",
+        "song": "Substitute",
+        "lyrics": "I was born with a plastic spoon in my mouth." }
+    },
+    { "phrase": "",
+      "phraseToParse": "My Girl",
+      "imgData": {"url": ""},
+      "metaData": {
+        "artist": "The Temptations",
+        "song": "My Girl",
+        "lyrics": "I don't need no money, fortune, or fame. I got all the riches baby, one man can claim." }
+    },
+    { "phrase": "",
+      "phraseToParse": "The End",
+      "imgData": {"url": ""},
+      "metaData": {
+        "artist": "The Doors",
+        "song": "The End",
+        "lyrics": "Beautiful friend this is the end. My only friend, the end, It hurts to set you free but you'll never follow me." }
+    },
+    { "phrase": "",
+      "phraseToParse": "The Wall",
+      "imgData": {"url": ""},
+      "metaData": {
+        "artist": "Kansas",
+        "song": "The Wall",
+        "lyrics": "The path that I have chosen now has led me to a wall, and with each passing day I feel a little more like something dear was lost. It rises now before me, a dark and silent barrier between all I am, and all I would ever want to be." }
+    },
+    { "phrase": "",
+      "phraseToParse": "Buffalo Gals",
+      "imgData": {"url": ""},
+      "metaData": {
+        "artist": "Every Time I Die",
+        "song": "Buffalo Gals",
+        "lyrics": "So we hit the town like our parachutes failed." }
+    },
+    { "phrase": "",
+      "phraseToParse": "The Future's So Bright, I Gotta Wear Shades",
+      "imgData": {"url": ""},
+      "metaData": {
+        "artist": "Tibuk 3",
+        "song": "The Future's So Bright, I Gotta Wear Shades",
+        "lyrics": "The future's so bright, I gotta wear shades." }
+    },
+    { "phrase": "",
+      "phraseToParse": "In My Life",
+      "imgData": {"url": ""},
+      "metaData": {
+        "artist": "The Beatles",
+        "song": "In My Life",
+        "lyrics": "There are places I remember all my life, though some have changed. Some forever, not for better, some have gone and some remain." }
+    },
+    { "phrase": "",
+      "phraseToParse": "No Surrender",
+      "imgData": {"url": ""},
+      "metaData": {
+        "artist": "Bruce Springsteen",
+        "song": "No Surrender",
+        "lyrics": "We learned more from a three minute record than we ever learned in school." }
+    },
+    { "phrase": "",
+      "phraseToParse": "Footprints",
+      "imgData": {"url": ""},
+      "metaData": {
+        "artist": "Attack In Black",
+        "song": "Footprints",
+        "lyrics": "What if there's a footprint I left a life ago." }
+    },
+    { "phrase": "",
+      "phraseToParse": "Twilight Zone",
+      "imgData": {"url": ""},
+      "metaData": {
+        "artist": "Golden Earring",
+        "song": "Twilight Zone",
+        "lyrics": "Where am I to go, now that I've gone too far?" }
+    },
+    { "phrase": "",
+      "phraseToParse": "Spoonful",
+      "imgData": {"url": ""},
+      "metaData": {
+        "artist": "The Yardbirds",
+        "song": "Spoonful",
+        "lyrics": "It could be a spoonful of diamonds, could be a spoonful of gold. Just a little spoon of your precious love satisfies my soul." }
+    },
+    { "phrase": "",
+      "phraseToParse": "Baba O'Riley",
+      "imgData": {"url": ""},
+      "metaData": {
+        "artist": "The Who",
+        "song": "",
+        "lyrics": "The exodus is here the happy ones are near, let's get together before we get much older." }
+    },
+    { "phrase": "",
+      "phraseToParse": "Ebb And Flow",
+      "imgData": {"url": ""},
+      "metaData": {
+        "artist": "Misery Signals",
+        "song": "Ebb And Flow",
+        "lyrics": "In dreams, I'll promise you'll never be alone, how much I wish your voice could send me home." }
+    },
+    { "phrase": "",
+      "phraseToParse": "There, There",
+      "imgData": {"url": ""},
+      "metaData": {
+        "artist": "Radiohead",
+        "song": "There, There",
+        "lyrics": "Just because you feel it doesn't mean it's there." }
+    },
+    { "phrase": "",
+      "phraseToParse": "Can't Help Falling In Love",
+      "imgData": {"url": ""},
+      "metaData": {
+        "artist": "Elvis Presley",
+        "song": "Can't Help Falling In Love",
+        "lyrics": "Take my hand, take my whole life too, but I can't help falling in love with you." }
+    },
+    { "phrase": "",
+      "phraseToParse": "Far Away Eyes",
+      "imgData": {"url": ""},
+      "metaData": {
+        "artist": "The Rolling Stones",
+        "song": "Far Away Eyes",
+        "lyrics": "The preacher said, you know you always have the Lord by your side. And I was so pleased to be informed of this that I ran twenty red-lights in his name." }
+    },
+    { "phrase": "",
+      "phraseToParse": "The Sound Of Silence",
+      "imgData": {"url": ""},
+      "metaData": {
+        "artist": "Simon and Garfunkel",
+        "song": "The Sound Of Silence",
+        "lyrics": "The words of the prophets are written on the subway walls." }
+    },
+    { "phrase": "",
+      "phraseToParse": "I And I",
+      "imgData": {"url": ""},
+      "metaData": {
+        "artist": "Bob Dylan",
+        "song": "I And I",
+        "lyrics": "The swift don't win the race. It goes to the worthy, who can divide the word of truth." }
+    },
+    { "phrase": "",
+      "phraseToParse": "Time",
+      "imgData": {"url": ""},
+      "metaData": {
+        "artist": "Pink Floyd",
+        "song": "Time",
+        "lyrics": "Then one day you find, ten years have got behind you. No one told you when to run, you missed the starting gun." }
+    },
+    { "phrase": "",
+      "phraseToParse": "New Storms For Older Lovers",
+      "imgData": {"url": ""},
+      "metaData": {
+        "artist": "La Dispute",
+        "song": "New Storms For Older Lovers",
+        "lyrics": "I guess love's a funny thing, the way it fades away without a warning and when it's gone oh it's gone. It aint ever coming back." }
+    },
+    { "phrase": "",
+      "phraseToParse": "What's Goin' On",
+      "imgData": {"url": ""},
+      "metaData": {
+        "artist": "Marvin Gaye",
+        "song": "What's Goin' On",
+        "lyrics": "War is not the answer, because only love can conquer hate." }
+    },
+    { "phrase": "",
+      "phraseToParse": "The Best Way To Travel",
+      "imgData": {"url": ""},
+      "metaData": {
+        "artist": "The Moody Blues",
+        "song": "The Best Way To Travel",
+        "lyrics": "Thinking is the best way to travel." }
+    },
+    { "phrase": "",
+      "phraseToParse": "Tears In Heaven",
+      "imgData": {"url": ""},
+      "metaData": {
+        "artist": "Eric Clapton",
+        "song": "Tears In Heaven",
+        "lyrics": "Time can bring you down, time can bend your knees." }
+    },
+    { "phrase": "",
+      "phraseToParse": "The Times They Are A Changin",
+      "imgData": {"url": ""},
+      "metaData": {
+        "artist": "Bob Dylan",
+        "song": "The Times They Are A-Changin'",
+        "lyrics": "You better start swimming or sink like a stone, cause the times they are a-changing." }
+    },
+    { "phrase": "",
+      "phraseToParse": "Zooropo",
+      "imgData": {"url": ""},
+      "metaData": {
+        "artist": "U2",
+        "song": "Zooropo",
+        "lyrics": "Get your head out of the mud, baby. Put flowers in the mud, baby." }
+    },
+    { "phrase": "",
+      "phraseToParse": "Me And Bobby McGee",
+      "imgData": {"url": ""},
+      "metaData": {
+        "artist": "Janis Joplin",
+        "song": "Me And Bobby McGee",
+        "lyrics": "Freedom's just another word for nothing left to lose. Nothing ain't nothing, but it's free." }
+    },
+    { "phrase": "",
+      "phraseToParse": "In Summary Of What I Am",
+      "imgData": {"url": ""},
+      "metaData": {
+        "artist": "Misery Signals",
+        "song": "In Summary Of What I Am",
+        "lyrics": "And all the great things that I will never do." }
+    },
+    { "phrase": "",
+      "phraseToParse": "Fortunate Son",
+      "imgData": {"url": ""},
+      "metaData": {
+        "artist": "Creedence Clearwater Revival",
+        "song": "Fortunate Son",
+        "lyrics": "It ain't me, it ain't me, I ain't no Senator's son, son. It ain't me, it ain't me, I ain't no fortunate one." }
+    },
+    { "phrase": "",
+      "phraseToParse": "Rock And Roll Heaven",
+      "imgData": {"url": ""},
+      "metaData": {
+        "artist": "The Righteous Brothers",
+        "song": "Rock And Roll Heaven",
+        "lyrics": "If you believe in forever, then life is just a one night stand. If there's a rock and roll heaven, well, you know they got a hell of a band." }
+    },
+    { "phrase": "",
+      "phraseToParse": "Desperado",
+      "imgData": {"url": ""},
+      "metaData": {
+        "artist": "The Eagles",
+        "song": "Desperado",
+        "lyrics": "Freedom, well, that's just some people talking. Your prison is walking through this world all alone." }
+    },
+    { "phrase": "",
+      "phraseToParse": "Wooden Ships",
+      "imgData": {"url": ""},
+      "metaData": {
+        "artist": "Crosby, Stills, and Nash, Jefferson Airplane",
+        "song": "Wooden Ships",
+        "lyrics": "If you smile at me I will understand, cause that is something everybody everywhere does in the same language." }
+    },
+    { "phrase": "",
+      "phraseToParse": "Wish You Were Here",
+      "imgData": {"url": ""},
+      "metaData": {
+        "artist": "Pink Floyd",
+        "song": "Wish You Were Here",
+        "lyrics": "We're just two lost souls swimming in a fish bowl." }
+    },
+    { "phrase": "",
+      "phraseToParse": "Feel Like A Number",
+      "imgData": {"url": ""},
+      "metaData": {
+        "artist": "Bob Seger",
+        "song": "Feel Like A Number",
+        "lyrics": "Im not a number damnit. I'm a man." }
+    },
+    { "phrase": "",
+      "phraseToParse": "Schism",
+      "imgData": {"url": ""},
+      "metaData": {
+        "artist": "Anthrax",
+        "song": "Schism",
+        "lyrics": "If we were blind and had no choice, would we hate each other by the tone of our voice?" }
+    },
+    { "phrase": "",
+      "phraseToParse": "El Condor Pasa",
+      "imgData": {"url": ""},
+      "metaData": {
+        "artist": "Simon and Garfunkel",
+        "song": "El Condor Pasa",
+        "lyrics": "I'd rather be a hammer than a nail." }
+    },
+    { "phrase": "",
+      "phraseToParse": "My Back Pages",
+      "imgData": {"url": ""},
+      "metaData": {
+        "artist": "Bob Dylan, The Byrds",
+        "song": "My Back Pages",
+        "lyrics": "I was so much older then, I'm younger than that now." }
+    },
+    { "phrase": "",
+      "phraseToParse": "Peace of Mind",
+      "imgData": {"url": ""},
+      "metaData": {
+        "artist": "Boston",
+        "song": "Peace of Mind",
+        "lyrics": "I understand about indecision, but I don't care if I get behind. People living in competition, all I want is to have my peace of mind." }
+    },
+    { "phrase": "",
+      "phraseToParse": "Oh, Porcupine",
+      "imgData": {"url": ""},
+      "metaData": {
+        "artist": "mewithoutyou",
+        "song": "Oh, Porcupine",
+        "lyrics": "And all I ever want to say for the rest of my life, Is how the light is GOD! And through I've been mistaken on this or that point,That light is God." }
+    },
+    { "phrase": "",
+      "phraseToParse": "Got A Lot To Say",
+      "imgData": {"url": ""},
+      "metaData": {
+        "artist": "Ramones",
+        "song": "Got A Lot To Say",
+        "lyrics": "I got a lot to say, I got a lot to say, I got a lot to say. I can't remember now, I can't remember now, I can't remember now." }
+    },
+    { "phrase": "",
+      "phraseToParse": "Freewill",
+      "imgData": {"url": ""},
+      "metaData": {
+        "artist": "Rush",
+        "song": "Freewill",
+        "lyrics": "If you choose not to decide, you still have made a choice." }
+    },
+    { "phrase": "",
+      "phraseToParse": "Ashes Of American Flags",
+      "imgData": {"url": ""},
+      "metaData": {
+        "artist": "Wilco",
+        "song": "Ashes Of American Flags",
+        "lyrics": "All my lies are always wishes." }
+    },
+    { "phrase": "",
+      "phraseToParse": "The Battle Of Evermore",
+      "imgData": {"url": ""},
+      "metaData": {
+        "artist": "Led Zeppelin",
+        "song": "The Battle Of Evermore",
+        "lyrics": "The pain of war cannot exceed the woe of aftermath." }
+    },
+    { "phrase": "",
+      "phraseToParse": "Knowledge Is King",
+      "imgData": {"url": ""},
+      "metaData": {
+        "artist": "Kool Moe Dee",
+        "song": "Knowledge Is King",
+        "lyrics": "Evil feeds off a source of apathy, weak in the mind, and of course you have to be. Less than a man, more like a thing, no knowledge you're nothing, knowledge is king." }
+    },
+    { "phrase": "",
+      "phraseToParse": "Me Against The World",
+      "imgData": {"url": ""},
+      "metaData": {
+        "artist": "2 Pac",
+        "song": "Me Against The World",
+        "lyrics": "Even the genius asks questions." }
+    },
+    { "phrase": "",
+      "phraseToParse": "This Land Is Your Land",
+      "imgData": {"url": ""},
+      "metaData": {
+        "artist": "Woodie Guthrie",
+        "song": "This Land Is Your Land",
+        "lyrics": "This land was made for you and me." }
+    },
+    { "phrase": "",
+      "phraseToParse": "The End",
+      "imgData": {"url": ""},
+      "metaData": {
+        "artist": "The Beatles",
+        "song": "The End",
+        "lyrics": "And in the end, the love you take is equal to the love you make." }
+    },
+    { "phrase": "",
+      "phraseToParse": "The Boxer",
+      "imgData": {"url": ""},
+      "metaData": {
+        "artist": "Simon and Garfunkel",
+        "song": "The Boxer",
+        "lyrics": "All lies and jest, still, a man hears what he wants to hear and disregards the rest." }
+    },
+    { "phrase": "",
+      "phraseToParse": "The Pass",
+      "imgData": {"url": ""},
+      "metaData": {
+        "artist": "Rush",
+        "song": "The Pass",
+        "lyrics": "All of us get lost in the darkness, dreamers learn to steer by the stars." }
+    },
+    { "phrase": "",
+      "phraseToParse": "A Hard Rain's A-Gonna Fall",
+      "imgData": {"url": ""},
+      "metaData": {
+        "artist": "Bob Dylan",
+        "song": "A Hard Rain's A-Gonna Fall",
+        "lyrics": "Heard ten thousand whispering and nobody listening. Heard one person starve, I heard many people laughing. Heard the song of a poet who died in the gutter." }
+    },
+    { "phrase": "",
+      "phraseToParse": "My Way",
+      "imgData": {"url": ""},
+      "metaData": {
+        "artist": "Frank Sinatra",
+        "song": "My Way",
+        "lyrics": "For what is a man? What has he got? If not himself - Then he has naught. To say the things he truly feels And not the words of one who kneels." }
+    },
+    { "phrase": "",
+      "phraseToParse": "Suite Judy Blue Eyes",
+      "imgData": {"url": ""},
+      "metaData": {
+        "artist": "Crosby, Stills, and Nash",
+        "song": "Suite Judy Blue Eyes",
+        "lyrics": "" }
+    },
+    { "phrase": "",
+      "phraseToParse": "Album",
+      "imgData": {"url": ""},
+      "metaData": {
+        "artist": "Semisonic",
+        "song": "Album",
+        "lyrics": "Every new beginning comes from some other beginning's end." }
+    },
+    { "phrase": "",
+      "phraseToParse": "Oh Well",
+      "imgData": {"url": ""},
+      "metaData": {
+        "artist": "Fleetwood Mac",
+        "song": "Oh Well",
+        "lyrics": "Don't ask me what I think of you, I might not give the answer that you want me to." }
+    },
+    { "phrase": "",
+      "phraseToParse": "Its Alright, Ma",
+      "imgData": {"url": ""},
+      "metaData": {
+        "artist": "Bob Dylan",
+        "song": "Its Alright, Ma",
+        "lyrics": "Bent out of shape from society's pliers, cares not to come up any higher, but rather get you down in the hole that he's in." }
+    },
+    { "phrase": "",
+      "phraseToParse": "Before You Accuse Me",
+      "imgData": {"url": ""},
+      "metaData": {
+        "artist": "Bo Diddley, Creedance Clearwater Revival, Eric Clapton",
+        "song": "Before You Accuse Me",
+        "lyrics": "Before you accuse me, take a look at yourself." }
+    },
+    { "phrase": "",
+      "phraseToParse": "Minutes To Memories",
+      "imgData": {"url": ""},
+      "metaData": {
+        "artist": "John Cougar Mellencamp",
+        "song": "Minutes To Memories",
+        "lyrics": "An honest man's pillow is his peace of mind." }
+    },
+    { "phrase": "",
+      "phraseToParse": "All You Need Is Love",
+      "imgData": {"url": ""},
+      "metaData": {
+        "artist": "The Beatles",
+        "song": "All You Need Is Love",
+        "lyrics": "All you need is love, love. Love is all you need." }
+    },
+    { "phrase": "",
+      "phraseToParse": "Blowin' In The Wind",
+      "imgData": {"url": ""},
+      "metaData": {
+        "artist": "Bob Dylan",
+        "song": "Blowin' In The Wind",
+        "lyrics": "How many ears must one man have before he can hear people cry? Yes, and how many deaths will it take 'til he knows that too many people have died?" }
+    },
+    { "phrase": "",
+      "phraseToParse": "My My, Hey Hey",
+      "imgData": {"url": ""},
+      "metaData": {
+        "artist": "Neil Young",
+        "song": "My My, Hey Hey",
+        "lyrics": "It's better to burn out, than to fade away." }
+    }
+  ]
+}

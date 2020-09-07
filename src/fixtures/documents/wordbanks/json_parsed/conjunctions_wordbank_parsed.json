@@ -1,0 +1,4635 @@
+{
+  "title": "Conjunctions Wordbank 2017",
+  "phrases": {
+    "conjunctions_wordbank-0": {
+      "phraseId": "conjunctions_wordbank-0",
+      "phrase": "after",
+      "parsedPhrase": "after",
+      "phrasePhonemes": "ae-f-t-er",
+      "phrasePhonemesArray": [
+        "ae",
+        "f",
+        "t",
+        "er"
+      ],
+      "phraseVowelsArray": [
+        {
+          "vowelPhoneme": "ae",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        },
+        {
+          "vowelPhoneme": "er",
+          "vowelSound": "long",
+          "vowelLetter": "E"
+        }
+      ],
+      "phraseWordCount": 1,
+      "phrasePhonemeCount": 2,
+      "phraseLastPhoneme": {
+        "vowelPhoneme": "er",
+        "vowelSound": "long",
+        "vowelLetter": "E"
+      },
+      "phraseWords": [
+        {
+          "wordId": "conjunctions_wordbank-0-0",
+          "word": "after",
+          "wordPhoneme": "ae-f-t-er",
+          "wordPhonemesArray": [
+            "ae",
+            "f",
+            "t",
+            "er"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ae",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            },
+            {
+              "vowelPhoneme": "er",
+              "vowelSound": "long",
+              "vowelLetter": "E"
+            }
+          ],
+          "wordPhonemeCount": 2,
+          "wordPosTag": {
+            "posTag": "in",
+            "posName": "Preposition or subordinating conjunction"
+          },
+          "wordStresses": "1/0",
+          "documentId": "conjunctions_wordbank",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        }
+      ],
+      "documentId": "conjunctions_wordbank",
+      "phraseCategory": {
+        "phraseCategory1Id": "phraseCategory1",
+        "phraseCategory2Id": "phraseCategory2"
+      },
+      "phraseMetaData": {},
+      "phraseImgData": {
+        "url": ""
+      }
+    },
+    "conjunctions_wordbank-1": {
+      "phraseId": "conjunctions_wordbank-1",
+      "phrase": "although",
+      "parsedPhrase": "although",
+      "phrasePhonemes": "ao-l-dh-ow",
+      "phrasePhonemesArray": [
+        "ao",
+        "l",
+        "dh",
+        "ow"
+      ],
+      "phraseVowelsArray": [
+        {
+          "vowelPhoneme": "ao",
+          "vowelSound": "short",
+          "vowelLetter": "O"
+        },
+        {
+          "vowelPhoneme": "ow",
+          "vowelSound": "long",
+          "vowelLetter": "O"
+        }
+      ],
+      "phraseWordCount": 1,
+      "phrasePhonemeCount": 2,
+      "phraseLastPhoneme": {
+        "vowelPhoneme": "ow",
+        "vowelSound": "long",
+        "vowelLetter": "O"
+      },
+      "phraseWords": [
+        {
+          "wordId": "conjunctions_wordbank-1-0",
+          "word": "although",
+          "wordPhoneme": "ao-l-dh-ow",
+          "wordPhonemesArray": [
+            "ao",
+            "l",
+            "dh",
+            "ow"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ao",
+              "vowelSound": "short",
+              "vowelLetter": "O"
+            },
+            {
+              "vowelPhoneme": "ow",
+              "vowelSound": "long",
+              "vowelLetter": "O"
+            }
+          ],
+          "wordPhonemeCount": 2,
+          "wordPosTag": {
+            "posTag": "in",
+            "posName": "Preposition or subordinating conjunction"
+          },
+          "wordStresses": "0/1",
+          "documentId": "conjunctions_wordbank",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        }
+      ],
+      "documentId": "conjunctions_wordbank",
+      "phraseCategory": {
+        "phraseCategory1Id": "phraseCategory1",
+        "phraseCategory2Id": "phraseCategory2"
+      },
+      "phraseMetaData": {},
+      "phraseImgData": {
+        "url": ""
+      }
+    },
+    "conjunctions_wordbank-2": {
+      "phraseId": "conjunctions_wordbank-2",
+      "phrase": "and",
+      "parsedPhrase": "and",
+      "phrasePhonemes": "ae-n-d",
+      "phrasePhonemesArray": [
+        "ae",
+        "n",
+        "d"
+      ],
+      "phraseVowelsArray": [
+        {
+          "vowelPhoneme": "ae",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        }
+      ],
+      "phraseWordCount": 1,
+      "phrasePhonemeCount": 1,
+      "phraseLastPhoneme": {
+        "vowelPhoneme": "ae",
+        "vowelSound": "short",
+        "vowelLetter": "A"
+      },
+      "phraseWords": [
+        {
+          "wordId": "conjunctions_wordbank-2-0",
+          "word": "and",
+          "wordPhoneme": "ae-n-d",
+          "wordPhonemesArray": [
+            "ae",
+            "n",
+            "d"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ae",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "cc",
+            "posName": "Coordinating conjunction"
+          },
+          "wordStresses": "1",
+          "documentId": "conjunctions_wordbank",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        }
+      ],
+      "documentId": "conjunctions_wordbank",
+      "phraseCategory": {
+        "phraseCategory1Id": "phraseCategory1",
+        "phraseCategory2Id": "phraseCategory2"
+      },
+      "phraseMetaData": {},
+      "phraseImgData": {
+        "url": ""
+      }
+    },
+    "conjunctions_wordbank-3": {
+      "phraseId": "conjunctions_wordbank-3",
+      "phrase": "as",
+      "parsedPhrase": "as",
+      "phrasePhonemes": "ae-z",
+      "phrasePhonemesArray": [
+        "ae",
+        "z"
+      ],
+      "phraseVowelsArray": [
+        {
+          "vowelPhoneme": "ae",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        }
+      ],
+      "phraseWordCount": 1,
+      "phrasePhonemeCount": 1,
+      "phraseLastPhoneme": {
+        "vowelPhoneme": "ae",
+        "vowelSound": "short",
+        "vowelLetter": "A"
+      },
+      "phraseWords": [
+        {
+          "wordId": "conjunctions_wordbank-3-0",
+          "word": "as",
+          "wordPhoneme": "ae-z",
+          "wordPhonemesArray": [
+            "ae",
+            "z"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ae",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "in",
+            "posName": "Preposition or subordinating conjunction"
+          },
+          "wordStresses": "1",
+          "documentId": "conjunctions_wordbank",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        }
+      ],
+      "documentId": "conjunctions_wordbank",
+      "phraseCategory": {
+        "phraseCategory1Id": "phraseCategory1",
+        "phraseCategory2Id": "phraseCategory2"
+      },
+      "phraseMetaData": {},
+      "phraseImgData": {
+        "url": ""
+      }
+    },
+    "conjunctions_wordbank-4": {
+      "phraseId": "conjunctions_wordbank-4",
+      "phrase": "as far as",
+      "parsedPhrase": "as far as",
+      "phrasePhonemes": "ae-z f-aa-r ae-z",
+      "phrasePhonemesArray": [
+        "ae",
+        "z",
+        "f",
+        "aa",
+        "r",
+        "ae",
+        "z"
+      ],
+      "phraseVowelsArray": [
+        {
+          "vowelPhoneme": "ae",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        },
+        {
+          "vowelPhoneme": "aa",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        },
+        {
+          "vowelPhoneme": "ae",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        }
+      ],
+      "phraseWordCount": 3,
+      "phrasePhonemeCount": 3,
+      "phraseLastPhoneme": {
+        "vowelPhoneme": "ae",
+        "vowelSound": "short",
+        "vowelLetter": "A"
+      },
+      "phraseWords": [
+        {
+          "wordId": "conjunctions_wordbank-4-0",
+          "word": "as",
+          "wordPhoneme": "ae-z",
+          "wordPhonemesArray": [
+            "ae",
+            "z"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ae",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "in",
+            "posName": "Preposition or subordinating conjunction"
+          },
+          "wordStresses": "1",
+          "documentId": "conjunctions_wordbank",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        },
+        {
+          "wordId": "conjunctions_wordbank-4-1",
+          "word": "far",
+          "wordPhoneme": "f-aa-r",
+          "wordPhonemesArray": [
+            "f",
+            "aa",
+            "r"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "aa",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "rb",
+            "posName": "Adverb"
+          },
+          "wordStresses": "1",
+          "documentId": "conjunctions_wordbank",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        },
+        {
+          "wordId": "conjunctions_wordbank-4-2",
+          "word": "as",
+          "wordPhoneme": "ae-z",
+          "wordPhonemesArray": [
+            "ae",
+            "z"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ae",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "in",
+            "posName": "Preposition or subordinating conjunction"
+          },
+          "wordStresses": "1",
+          "documentId": "conjunctions_wordbank",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        }
+      ],
+      "documentId": "conjunctions_wordbank",
+      "phraseCategory": {
+        "phraseCategory1Id": "phraseCategory1",
+        "phraseCategory2Id": "phraseCategory2"
+      },
+      "phraseMetaData": {},
+      "phraseImgData": {
+        "url": ""
+      }
+    },
+    "conjunctions_wordbank-5": {
+      "phraseId": "conjunctions_wordbank-5",
+      "phrase": "as if",
+      "parsedPhrase": "as if",
+      "phrasePhonemes": "ae-z ih-f",
+      "phrasePhonemesArray": [
+        "ae",
+        "z",
+        "ih",
+        "f"
+      ],
+      "phraseVowelsArray": [
+        {
+          "vowelPhoneme": "ae",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        },
+        {
+          "vowelPhoneme": "ih",
+          "vowelSound": "long",
+          "vowelLetter": "E"
+        }
+      ],
+      "phraseWordCount": 2,
+      "phrasePhonemeCount": 2,
+      "phraseLastPhoneme": {
+        "vowelPhoneme": "ih",
+        "vowelSound": "long",
+        "vowelLetter": "E"
+      },
+      "phraseWords": [
+        {
+          "wordId": "conjunctions_wordbank-5-0",
+          "word": "as",
+          "wordPhoneme": "ae-z",
+          "wordPhonemesArray": [
+            "ae",
+            "z"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ae",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "in",
+            "posName": "Preposition or subordinating conjunction"
+          },
+          "wordStresses": "1",
+          "documentId": "conjunctions_wordbank",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        },
+        {
+          "wordId": "conjunctions_wordbank-5-1",
+          "word": "if",
+          "wordPhoneme": "ih-f",
+          "wordPhonemesArray": [
+            "ih",
+            "f"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ih",
+              "vowelSound": "long",
+              "vowelLetter": "E"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "in",
+            "posName": "Preposition or subordinating conjunction"
+          },
+          "wordStresses": "1",
+          "documentId": "conjunctions_wordbank",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        }
+      ],
+      "documentId": "conjunctions_wordbank",
+      "phraseCategory": {
+        "phraseCategory1Id": "phraseCategory1",
+        "phraseCategory2Id": "phraseCategory2"
+      },
+      "phraseMetaData": {},
+      "phraseImgData": {
+        "url": ""
+      }
+    },
+    "conjunctions_wordbank-6": {
+      "phraseId": "conjunctions_wordbank-6",
+      "phrase": "as long as",
+      "parsedPhrase": "as long as",
+      "phrasePhonemes": "ae-z l-ao-ng ae-z",
+      "phrasePhonemesArray": [
+        "ae",
+        "z",
+        "l",
+        "ao",
+        "ng",
+        "ae",
+        "z"
+      ],
+      "phraseVowelsArray": [
+        {
+          "vowelPhoneme": "ae",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        },
+        {
+          "vowelPhoneme": "ao",
+          "vowelSound": "short",
+          "vowelLetter": "O"
+        },
+        {
+          "vowelPhoneme": "ae",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        }
+      ],
+      "phraseWordCount": 3,
+      "phrasePhonemeCount": 3,
+      "phraseLastPhoneme": {
+        "vowelPhoneme": "ae",
+        "vowelSound": "short",
+        "vowelLetter": "A"
+      },
+      "phraseWords": [
+        {
+          "wordId": "conjunctions_wordbank-6-0",
+          "word": "as",
+          "wordPhoneme": "ae-z",
+          "wordPhonemesArray": [
+            "ae",
+            "z"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ae",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "in",
+            "posName": "Preposition or subordinating conjunction"
+          },
+          "wordStresses": "1",
+          "documentId": "conjunctions_wordbank",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        },
+        {
+          "wordId": "conjunctions_wordbank-6-1",
+          "word": "long",
+          "wordPhoneme": "l-ao-ng",
+          "wordPhonemesArray": [
+            "l",
+            "ao",
+            "ng"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ao",
+              "vowelSound": "short",
+              "vowelLetter": "O"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "jj",
+            "posName": "Adjective"
+          },
+          "wordStresses": "1",
+          "documentId": "conjunctions_wordbank",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        },
+        {
+          "wordId": "conjunctions_wordbank-6-2",
+          "word": "as",
+          "wordPhoneme": "ae-z",
+          "wordPhonemesArray": [
+            "ae",
+            "z"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ae",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "in",
+            "posName": "Preposition or subordinating conjunction"
+          },
+          "wordStresses": "1",
+          "documentId": "conjunctions_wordbank",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        }
+      ],
+      "documentId": "conjunctions_wordbank",
+      "phraseCategory": {
+        "phraseCategory1Id": "phraseCategory1",
+        "phraseCategory2Id": "phraseCategory2"
+      },
+      "phraseMetaData": {},
+      "phraseImgData": {
+        "url": ""
+      }
+    },
+    "conjunctions_wordbank-7": {
+      "phraseId": "conjunctions_wordbank-7",
+      "phrase": "as soon as",
+      "parsedPhrase": "as soon as",
+      "phrasePhonemes": "ae-z s-uw-n ae-z",
+      "phrasePhonemesArray": [
+        "ae",
+        "z",
+        "s",
+        "uw",
+        "n",
+        "ae",
+        "z"
+      ],
+      "phraseVowelsArray": [
+        {
+          "vowelPhoneme": "ae",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        },
+        {
+          "vowelPhoneme": "uw",
+          "vowelSound": "short",
+          "vowelLetter": "U"
+        },
+        {
+          "vowelPhoneme": "ae",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        }
+      ],
+      "phraseWordCount": 3,
+      "phrasePhonemeCount": 3,
+      "phraseLastPhoneme": {
+        "vowelPhoneme": "ae",
+        "vowelSound": "short",
+        "vowelLetter": "A"
+      },
+      "phraseWords": [
+        {
+          "wordId": "conjunctions_wordbank-7-0",
+          "word": "as",
+          "wordPhoneme": "ae-z",
+          "wordPhonemesArray": [
+            "ae",
+            "z"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ae",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "in",
+            "posName": "Preposition or subordinating conjunction"
+          },
+          "wordStresses": "1",
+          "documentId": "conjunctions_wordbank",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        },
+        {
+          "wordId": "conjunctions_wordbank-7-1",
+          "word": "soon",
+          "wordPhoneme": "s-uw-n",
+          "wordPhonemesArray": [
+            "s",
+            "uw",
+            "n"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "uw",
+              "vowelSound": "short",
+              "vowelLetter": "U"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "rb",
+            "posName": "Adverb"
+          },
+          "wordStresses": "1",
+          "documentId": "conjunctions_wordbank",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        },
+        {
+          "wordId": "conjunctions_wordbank-7-2",
+          "word": "as",
+          "wordPhoneme": "ae-z",
+          "wordPhonemesArray": [
+            "ae",
+            "z"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ae",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "in",
+            "posName": "Preposition or subordinating conjunction"
+          },
+          "wordStresses": "1",
+          "documentId": "conjunctions_wordbank",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        }
+      ],
+      "documentId": "conjunctions_wordbank",
+      "phraseCategory": {
+        "phraseCategory1Id": "phraseCategory1",
+        "phraseCategory2Id": "phraseCategory2"
+      },
+      "phraseMetaData": {},
+      "phraseImgData": {
+        "url": ""
+      }
+    },
+    "conjunctions_wordbank-8": {
+      "phraseId": "conjunctions_wordbank-8",
+      "phrase": "as though",
+      "parsedPhrase": "as though",
+      "phrasePhonemes": "ae-z dh-ow",
+      "phrasePhonemesArray": [
+        "ae",
+        "z",
+        "dh",
+        "ow"
+      ],
+      "phraseVowelsArray": [
+        {
+          "vowelPhoneme": "ae",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        },
+        {
+          "vowelPhoneme": "ow",
+          "vowelSound": "long",
+          "vowelLetter": "O"
+        }
+      ],
+      "phraseWordCount": 2,
+      "phrasePhonemeCount": 2,
+      "phraseLastPhoneme": {
+        "vowelPhoneme": "ow",
+        "vowelSound": "long",
+        "vowelLetter": "O"
+      },
+      "phraseWords": [
+        {
+          "wordId": "conjunctions_wordbank-8-0",
+          "word": "as",
+          "wordPhoneme": "ae-z",
+          "wordPhonemesArray": [
+            "ae",
+            "z"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ae",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "in",
+            "posName": "Preposition or subordinating conjunction"
+          },
+          "wordStresses": "1",
+          "documentId": "conjunctions_wordbank",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        },
+        {
+          "wordId": "conjunctions_wordbank-8-1",
+          "word": "though",
+          "wordPhoneme": "dh-ow",
+          "wordPhonemesArray": [
+            "dh",
+            "ow"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ow",
+              "vowelSound": "long",
+              "vowelLetter": "O"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "in",
+            "posName": "Preposition or subordinating conjunction"
+          },
+          "wordStresses": "1",
+          "documentId": "conjunctions_wordbank",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        }
+      ],
+      "documentId": "conjunctions_wordbank",
+      "phraseCategory": {
+        "phraseCategory1Id": "phraseCategory1",
+        "phraseCategory2Id": "phraseCategory2"
+      },
+      "phraseMetaData": {},
+      "phraseImgData": {
+        "url": ""
+      }
+    },
+    "conjunctions_wordbank-9": {
+      "phraseId": "conjunctions_wordbank-9",
+      "phrase": "as well as",
+      "parsedPhrase": "as well as",
+      "phrasePhonemes": "ae-z w-eh-l ae-z",
+      "phrasePhonemesArray": [
+        "ae",
+        "z",
+        "w",
+        "eh",
+        "l",
+        "ae",
+        "z"
+      ],
+      "phraseVowelsArray": [
+        {
+          "vowelPhoneme": "ae",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        },
+        {
+          "vowelPhoneme": "eh",
+          "vowelSound": "short",
+          "vowelLetter": "E"
+        },
+        {
+          "vowelPhoneme": "ae",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        }
+      ],
+      "phraseWordCount": 3,
+      "phrasePhonemeCount": 3,
+      "phraseLastPhoneme": {
+        "vowelPhoneme": "ae",
+        "vowelSound": "short",
+        "vowelLetter": "A"
+      },
+      "phraseWords": [
+        {
+          "wordId": "conjunctions_wordbank-9-0",
+          "word": "as",
+          "wordPhoneme": "ae-z",
+          "wordPhonemesArray": [
+            "ae",
+            "z"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ae",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "in",
+            "posName": "Preposition or subordinating conjunction"
+          },
+          "wordStresses": "1",
+          "documentId": "conjunctions_wordbank",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        },
+        {
+          "wordId": "conjunctions_wordbank-9-1",
+          "word": "well",
+          "wordPhoneme": "w-eh-l",
+          "wordPhonemesArray": [
+            "w",
+            "eh",
+            "l"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "eh",
+              "vowelSound": "short",
+              "vowelLetter": "E"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "rb",
+            "posName": "Adverb"
+          },
+          "wordStresses": "1",
+          "documentId": "conjunctions_wordbank",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        },
+        {
+          "wordId": "conjunctions_wordbank-9-2",
+          "word": "as",
+          "wordPhoneme": "ae-z",
+          "wordPhonemesArray": [
+            "ae",
+            "z"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ae",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "in",
+            "posName": "Preposition or subordinating conjunction"
+          },
+          "wordStresses": "1",
+          "documentId": "conjunctions_wordbank",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        }
+      ],
+      "documentId": "conjunctions_wordbank",
+      "phraseCategory": {
+        "phraseCategory1Id": "phraseCategory1",
+        "phraseCategory2Id": "phraseCategory2"
+      },
+      "phraseMetaData": {},
+      "phraseImgData": {
+        "url": ""
+      }
+    },
+    "conjunctions_wordbank-10": {
+      "phraseId": "conjunctions_wordbank-10",
+      "phrase": "because",
+      "parsedPhrase": "because",
+      "phrasePhonemes": "b-ih-k-ao-z",
+      "phrasePhonemesArray": [
+        "b",
+        "ih",
+        "k",
+        "ao",
+        "z"
+      ],
+      "phraseVowelsArray": [
+        {
+          "vowelPhoneme": "ih",
+          "vowelSound": "long",
+          "vowelLetter": "E"
+        },
+        {
+          "vowelPhoneme": "ao",
+          "vowelSound": "short",
+          "vowelLetter": "O"
+        }
+      ],
+      "phraseWordCount": 1,
+      "phrasePhonemeCount": 2,
+      "phraseLastPhoneme": {
+        "vowelPhoneme": "ao",
+        "vowelSound": "short",
+        "vowelLetter": "O"
+      },
+      "phraseWords": [
+        {
+          "wordId": "conjunctions_wordbank-10-0",
+          "word": "because",
+          "wordPhoneme": "b-ih-k-ao-z",
+          "wordPhonemesArray": [
+            "b",
+            "ih",
+            "k",
+            "ao",
+            "z"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ih",
+              "vowelSound": "long",
+              "vowelLetter": "E"
+            },
+            {
+              "vowelPhoneme": "ao",
+              "vowelSound": "short",
+              "vowelLetter": "O"
+            }
+          ],
+          "wordPhonemeCount": 2,
+          "wordPosTag": {
+            "posTag": "in",
+            "posName": "Preposition or subordinating conjunction"
+          },
+          "wordStresses": "0/1",
+          "documentId": "conjunctions_wordbank",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        }
+      ],
+      "documentId": "conjunctions_wordbank",
+      "phraseCategory": {
+        "phraseCategory1Id": "phraseCategory1",
+        "phraseCategory2Id": "phraseCategory2"
+      },
+      "phraseMetaData": {},
+      "phraseImgData": {
+        "url": ""
+      }
+    },
+    "conjunctions_wordbank-11": {
+      "phraseId": "conjunctions_wordbank-11",
+      "phrase": "before",
+      "parsedPhrase": "before",
+      "phrasePhonemes": "b-ih-f-ao-r",
+      "phrasePhonemesArray": [
+        "b",
+        "ih",
+        "f",
+        "ao",
+        "r"
+      ],
+      "phraseVowelsArray": [
+        {
+          "vowelPhoneme": "ih",
+          "vowelSound": "long",
+          "vowelLetter": "E"
+        },
+        {
+          "vowelPhoneme": "ao",
+          "vowelSound": "short",
+          "vowelLetter": "O"
+        }
+      ],
+      "phraseWordCount": 1,
+      "phrasePhonemeCount": 2,
+      "phraseLastPhoneme": {
+        "vowelPhoneme": "ao",
+        "vowelSound": "short",
+        "vowelLetter": "O"
+      },
+      "phraseWords": [
+        {
+          "wordId": "conjunctions_wordbank-11-0",
+          "word": "before",
+          "wordPhoneme": "b-ih-f-ao-r",
+          "wordPhonemesArray": [
+            "b",
+            "ih",
+            "f",
+            "ao",
+            "r"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ih",
+              "vowelSound": "long",
+              "vowelLetter": "E"
+            },
+            {
+              "vowelPhoneme": "ao",
+              "vowelSound": "short",
+              "vowelLetter": "O"
+            }
+          ],
+          "wordPhonemeCount": 2,
+          "wordPosTag": {
+            "posTag": "in",
+            "posName": "Preposition or subordinating conjunction"
+          },
+          "wordStresses": "0/1",
+          "documentId": "conjunctions_wordbank",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        }
+      ],
+      "documentId": "conjunctions_wordbank",
+      "phraseCategory": {
+        "phraseCategory1Id": "phraseCategory1",
+        "phraseCategory2Id": "phraseCategory2"
+      },
+      "phraseMetaData": {},
+      "phraseImgData": {
+        "url": ""
+      }
+    },
+    "conjunctions_wordbank-12": {
+      "phraseId": "conjunctions_wordbank-12",
+      "phrase": "but",
+      "parsedPhrase": "but",
+      "phrasePhonemes": "b-ah-t",
+      "phrasePhonemesArray": [
+        "b",
+        "ah",
+        "t"
+      ],
+      "phraseVowelsArray": [
+        {
+          "vowelPhoneme": "ah",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        }
+      ],
+      "phraseWordCount": 1,
+      "phrasePhonemeCount": 1,
+      "phraseLastPhoneme": {
+        "vowelPhoneme": "ah",
+        "vowelSound": "short",
+        "vowelLetter": "A"
+      },
+      "phraseWords": [
+        {
+          "wordId": "conjunctions_wordbank-12-0",
+          "word": "but",
+          "wordPhoneme": "b-ah-t",
+          "wordPhonemesArray": [
+            "b",
+            "ah",
+            "t"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ah",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "cc",
+            "posName": "Coordinating conjunction"
+          },
+          "wordStresses": "1",
+          "documentId": "conjunctions_wordbank",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        }
+      ],
+      "documentId": "conjunctions_wordbank",
+      "phraseCategory": {
+        "phraseCategory1Id": "phraseCategory1",
+        "phraseCategory2Id": "phraseCategory2"
+      },
+      "phraseMetaData": {},
+      "phraseImgData": {
+        "url": ""
+      }
+    },
+    "conjunctions_wordbank-13": {
+      "phraseId": "conjunctions_wordbank-13",
+      "phrase": "by the time",
+      "parsedPhrase": "by the time",
+      "phrasePhonemes": "b-ay dh-ah t-ay-m",
+      "phrasePhonemesArray": [
+        "b",
+        "ay",
+        "dh",
+        "ah",
+        "t",
+        "ay",
+        "m"
+      ],
+      "phraseVowelsArray": [
+        {
+          "vowelPhoneme": "ay",
+          "vowelSound": "long",
+          "vowelLetter": "I"
+        },
+        {
+          "vowelPhoneme": "ah",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        },
+        {
+          "vowelPhoneme": "ay",
+          "vowelSound": "long",
+          "vowelLetter": "I"
+        }
+      ],
+      "phraseWordCount": 3,
+      "phrasePhonemeCount": 3,
+      "phraseLastPhoneme": {
+        "vowelPhoneme": "ay",
+        "vowelSound": "long",
+        "vowelLetter": "I"
+      },
+      "phraseWords": [
+        {
+          "wordId": "conjunctions_wordbank-13-0",
+          "word": "by",
+          "wordPhoneme": "b-ay",
+          "wordPhonemesArray": [
+            "b",
+            "ay"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ay",
+              "vowelSound": "long",
+              "vowelLetter": "I"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "in",
+            "posName": "Preposition or subordinating conjunction"
+          },
+          "wordStresses": "1",
+          "documentId": "conjunctions_wordbank",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        },
+        {
+          "wordId": "conjunctions_wordbank-13-1",
+          "word": "the",
+          "wordPhoneme": "dh-ah",
+          "wordPhonemesArray": [
+            "dh",
+            "ah"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ah",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "dt",
+            "posName": "Determiner"
+          },
+          "wordStresses": "0",
+          "documentId": "conjunctions_wordbank",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        },
+        {
+          "wordId": "conjunctions_wordbank-13-2",
+          "word": "time",
+          "wordPhoneme": "t-ay-m",
+          "wordPhonemesArray": [
+            "t",
+            "ay",
+            "m"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ay",
+              "vowelSound": "long",
+              "vowelLetter": "I"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "nn",
+            "posName": "Noun, singular or mass"
+          },
+          "wordStresses": "1",
+          "documentId": "conjunctions_wordbank",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        }
+      ],
+      "documentId": "conjunctions_wordbank",
+      "phraseCategory": {
+        "phraseCategory1Id": "phraseCategory1",
+        "phraseCategory2Id": "phraseCategory2"
+      },
+      "phraseMetaData": {},
+      "phraseImgData": {
+        "url": ""
+      }
+    },
+    "conjunctions_wordbank-14": {
+      "phraseId": "conjunctions_wordbank-14",
+      "phrase": "even if",
+      "parsedPhrase": "even if",
+      "phrasePhonemes": "iy-v-ih-n ih-f",
+      "phrasePhonemesArray": [
+        "iy",
+        "v",
+        "ih",
+        "n",
+        "ih",
+        "f"
+      ],
+      "phraseVowelsArray": [
+        {
+          "vowelPhoneme": "iy",
+          "vowelSound": "short",
+          "vowelLetter": "I"
+        },
+        {
+          "vowelPhoneme": "ih",
+          "vowelSound": "long",
+          "vowelLetter": "E"
+        },
+        {
+          "vowelPhoneme": "ih",
+          "vowelSound": "long",
+          "vowelLetter": "E"
+        }
+      ],
+      "phraseWordCount": 2,
+      "phrasePhonemeCount": 3,
+      "phraseLastPhoneme": {
+        "vowelPhoneme": "ih",
+        "vowelSound": "long",
+        "vowelLetter": "E"
+      },
+      "phraseWords": [
+        {
+          "wordId": "conjunctions_wordbank-14-0",
+          "word": "even",
+          "wordPhoneme": "iy-v-ih-n",
+          "wordPhonemesArray": [
+            "iy",
+            "v",
+            "ih",
+            "n"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "iy",
+              "vowelSound": "short",
+              "vowelLetter": "I"
+            },
+            {
+              "vowelPhoneme": "ih",
+              "vowelSound": "long",
+              "vowelLetter": "E"
+            }
+          ],
+          "wordPhonemeCount": 2,
+          "wordPosTag": {
+            "posTag": "rb",
+            "posName": "Adverb"
+          },
+          "wordStresses": "1/0",
+          "documentId": "conjunctions_wordbank",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        },
+        {
+          "wordId": "conjunctions_wordbank-14-1",
+          "word": "if",
+          "wordPhoneme": "ih-f",
+          "wordPhonemesArray": [
+            "ih",
+            "f"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ih",
+              "vowelSound": "long",
+              "vowelLetter": "E"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "in",
+            "posName": "Preposition or subordinating conjunction"
+          },
+          "wordStresses": "1",
+          "documentId": "conjunctions_wordbank",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        }
+      ],
+      "documentId": "conjunctions_wordbank",
+      "phraseCategory": {
+        "phraseCategory1Id": "phraseCategory1",
+        "phraseCategory2Id": "phraseCategory2"
+      },
+      "phraseMetaData": {},
+      "phraseImgData": {
+        "url": ""
+      }
+    },
+    "conjunctions_wordbank-15": {
+      "phraseId": "conjunctions_wordbank-15",
+      "phrase": "even though",
+      "parsedPhrase": "even though",
+      "phrasePhonemes": "iy-v-ih-n dh-ow",
+      "phrasePhonemesArray": [
+        "iy",
+        "v",
+        "ih",
+        "n",
+        "dh",
+        "ow"
+      ],
+      "phraseVowelsArray": [
+        {
+          "vowelPhoneme": "iy",
+          "vowelSound": "short",
+          "vowelLetter": "I"
+        },
+        {
+          "vowelPhoneme": "ih",
+          "vowelSound": "long",
+          "vowelLetter": "E"
+        },
+        {
+          "vowelPhoneme": "ow",
+          "vowelSound": "long",
+          "vowelLetter": "O"
+        }
+      ],
+      "phraseWordCount": 2,
+      "phrasePhonemeCount": 3,
+      "phraseLastPhoneme": {
+        "vowelPhoneme": "ow",
+        "vowelSound": "long",
+        "vowelLetter": "O"
+      },
+      "phraseWords": [
+        {
+          "wordId": "conjunctions_wordbank-15-0",
+          "word": "even",
+          "wordPhoneme": "iy-v-ih-n",
+          "wordPhonemesArray": [
+            "iy",
+            "v",
+            "ih",
+            "n"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "iy",
+              "vowelSound": "short",
+              "vowelLetter": "I"
+            },
+            {
+              "vowelPhoneme": "ih",
+              "vowelSound": "long",
+              "vowelLetter": "E"
+            }
+          ],
+          "wordPhonemeCount": 2,
+          "wordPosTag": {
+            "posTag": "rb",
+            "posName": "Adverb"
+          },
+          "wordStresses": "1/0",
+          "documentId": "conjunctions_wordbank",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        },
+        {
+          "wordId": "conjunctions_wordbank-15-1",
+          "word": "though",
+          "wordPhoneme": "dh-ow",
+          "wordPhonemesArray": [
+            "dh",
+            "ow"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ow",
+              "vowelSound": "long",
+              "vowelLetter": "O"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "in",
+            "posName": "Preposition or subordinating conjunction"
+          },
+          "wordStresses": "1",
+          "documentId": "conjunctions_wordbank",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        }
+      ],
+      "documentId": "conjunctions_wordbank",
+      "phraseCategory": {
+        "phraseCategory1Id": "phraseCategory1",
+        "phraseCategory2Id": "phraseCategory2"
+      },
+      "phraseMetaData": {},
+      "phraseImgData": {
+        "url": ""
+      }
+    },
+    "conjunctions_wordbank-16": {
+      "phraseId": "conjunctions_wordbank-16",
+      "phrase": "for",
+      "parsedPhrase": "for",
+      "phrasePhonemes": "f-ao-r",
+      "phrasePhonemesArray": [
+        "f",
+        "ao",
+        "r"
+      ],
+      "phraseVowelsArray": [
+        {
+          "vowelPhoneme": "ao",
+          "vowelSound": "short",
+          "vowelLetter": "O"
+        }
+      ],
+      "phraseWordCount": 1,
+      "phrasePhonemeCount": 1,
+      "phraseLastPhoneme": {
+        "vowelPhoneme": "ao",
+        "vowelSound": "short",
+        "vowelLetter": "O"
+      },
+      "phraseWords": [
+        {
+          "wordId": "conjunctions_wordbank-16-0",
+          "word": "for",
+          "wordPhoneme": "f-ao-r",
+          "wordPhonemesArray": [
+            "f",
+            "ao",
+            "r"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ao",
+              "vowelSound": "short",
+              "vowelLetter": "O"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "in",
+            "posName": "Preposition or subordinating conjunction"
+          },
+          "wordStresses": "1",
+          "documentId": "conjunctions_wordbank",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        }
+      ],
+      "documentId": "conjunctions_wordbank",
+      "phraseCategory": {
+        "phraseCategory1Id": "phraseCategory1",
+        "phraseCategory2Id": "phraseCategory2"
+      },
+      "phraseMetaData": {},
+      "phraseImgData": {
+        "url": ""
+      }
+    },
+    "conjunctions_wordbank-17": {
+      "phraseId": "conjunctions_wordbank-17",
+      "phrase": "how",
+      "parsedPhrase": "how",
+      "phrasePhonemes": "hh-aw",
+      "phrasePhonemesArray": [
+        "hh",
+        "aw"
+      ],
+      "phraseVowelsArray": [
+        {
+          "vowelPhoneme": "aw",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        }
+      ],
+      "phraseWordCount": 1,
+      "phrasePhonemeCount": 1,
+      "phraseLastPhoneme": {
+        "vowelPhoneme": "aw",
+        "vowelSound": "short",
+        "vowelLetter": "A"
+      },
+      "phraseWords": [
+        {
+          "wordId": "conjunctions_wordbank-17-0",
+          "word": "how",
+          "wordPhoneme": "hh-aw",
+          "wordPhonemesArray": [
+            "hh",
+            "aw"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "aw",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "wrb",
+            "posName": "Wh-adverb"
+          },
+          "wordStresses": "1",
+          "documentId": "conjunctions_wordbank",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        }
+      ],
+      "documentId": "conjunctions_wordbank",
+      "phraseCategory": {
+        "phraseCategory1Id": "phraseCategory1",
+        "phraseCategory2Id": "phraseCategory2"
+      },
+      "phraseMetaData": {},
+      "phraseImgData": {
+        "url": ""
+      }
+    },
+    "conjunctions_wordbank-18": {
+      "phraseId": "conjunctions_wordbank-18",
+      "phrase": "if",
+      "parsedPhrase": "if",
+      "phrasePhonemes": "ih-f",
+      "phrasePhonemesArray": [
+        "ih",
+        "f"
+      ],
+      "phraseVowelsArray": [
+        {
+          "vowelPhoneme": "ih",
+          "vowelSound": "long",
+          "vowelLetter": "E"
+        }
+      ],
+      "phraseWordCount": 1,
+      "phrasePhonemeCount": 1,
+      "phraseLastPhoneme": {
+        "vowelPhoneme": "ih",
+        "vowelSound": "long",
+        "vowelLetter": "E"
+      },
+      "phraseWords": [
+        {
+          "wordId": "conjunctions_wordbank-18-0",
+          "word": "if",
+          "wordPhoneme": "ih-f",
+          "wordPhonemesArray": [
+            "ih",
+            "f"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ih",
+              "vowelSound": "long",
+              "vowelLetter": "E"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "in",
+            "posName": "Preposition or subordinating conjunction"
+          },
+          "wordStresses": "1",
+          "documentId": "conjunctions_wordbank",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        }
+      ],
+      "documentId": "conjunctions_wordbank",
+      "phraseCategory": {
+        "phraseCategory1Id": "phraseCategory1",
+        "phraseCategory2Id": "phraseCategory2"
+      },
+      "phraseMetaData": {},
+      "phraseImgData": {
+        "url": ""
+      }
+    },
+    "conjunctions_wordbank-19": {
+      "phraseId": "conjunctions_wordbank-19",
+      "phrase": "in as much as",
+      "parsedPhrase": "in as much as",
+      "phrasePhonemes": "ih-n ae-z m-ah-ch ae-z",
+      "phrasePhonemesArray": [
+        "ih",
+        "n",
+        "ae",
+        "z",
+        "m",
+        "ah",
+        "ch",
+        "ae",
+        "z"
+      ],
+      "phraseVowelsArray": [
+        {
+          "vowelPhoneme": "ih",
+          "vowelSound": "long",
+          "vowelLetter": "E"
+        },
+        {
+          "vowelPhoneme": "ae",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        },
+        {
+          "vowelPhoneme": "ah",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        },
+        {
+          "vowelPhoneme": "ae",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        }
+      ],
+      "phraseWordCount": 4,
+      "phrasePhonemeCount": 4,
+      "phraseLastPhoneme": {
+        "vowelPhoneme": "ae",
+        "vowelSound": "short",
+        "vowelLetter": "A"
+      },
+      "phraseWords": [
+        {
+          "wordId": "conjunctions_wordbank-19-0",
+          "word": "in",
+          "wordPhoneme": "ih-n",
+          "wordPhonemesArray": [
+            "ih",
+            "n"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ih",
+              "vowelSound": "long",
+              "vowelLetter": "E"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "in",
+            "posName": "Preposition or subordinating conjunction"
+          },
+          "wordStresses": "0",
+          "documentId": "conjunctions_wordbank",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        },
+        {
+          "wordId": "conjunctions_wordbank-19-1",
+          "word": "as",
+          "wordPhoneme": "ae-z",
+          "wordPhonemesArray": [
+            "ae",
+            "z"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ae",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "in",
+            "posName": "Preposition or subordinating conjunction"
+          },
+          "wordStresses": "1",
+          "documentId": "conjunctions_wordbank",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        },
+        {
+          "wordId": "conjunctions_wordbank-19-2",
+          "word": "much",
+          "wordPhoneme": "m-ah-ch",
+          "wordPhonemesArray": [
+            "m",
+            "ah",
+            "ch"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ah",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "jj",
+            "posName": "Adjective"
+          },
+          "wordStresses": "1",
+          "documentId": "conjunctions_wordbank",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        },
+        {
+          "wordId": "conjunctions_wordbank-19-3",
+          "word": "as",
+          "wordPhoneme": "ae-z",
+          "wordPhonemesArray": [
+            "ae",
+            "z"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ae",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "in",
+            "posName": "Preposition or subordinating conjunction"
+          },
+          "wordStresses": "1",
+          "documentId": "conjunctions_wordbank",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        }
+      ],
+      "documentId": "conjunctions_wordbank",
+      "phraseCategory": {
+        "phraseCategory1Id": "phraseCategory1",
+        "phraseCategory2Id": "phraseCategory2"
+      },
+      "phraseMetaData": {},
+      "phraseImgData": {
+        "url": ""
+      }
+    },
+    "conjunctions_wordbank-20": {
+      "phraseId": "conjunctions_wordbank-20",
+      "phrase": "in case",
+      "parsedPhrase": "in case",
+      "phrasePhonemes": "ih-n k-ey-s",
+      "phrasePhonemesArray": [
+        "ih",
+        "n",
+        "k",
+        "ey",
+        "s"
+      ],
+      "phraseVowelsArray": [
+        {
+          "vowelPhoneme": "ih",
+          "vowelSound": "long",
+          "vowelLetter": "E"
+        },
+        {
+          "vowelPhoneme": "ey",
+          "vowelSound": "long",
+          "vowelLetter": "A"
+        }
+      ],
+      "phraseWordCount": 2,
+      "phrasePhonemeCount": 2,
+      "phraseLastPhoneme": {
+        "vowelPhoneme": "ey",
+        "vowelSound": "long",
+        "vowelLetter": "A"
+      },
+      "phraseWords": [
+        {
+          "wordId": "conjunctions_wordbank-20-0",
+          "word": "in",
+          "wordPhoneme": "ih-n",
+          "wordPhonemesArray": [
+            "ih",
+            "n"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ih",
+              "vowelSound": "long",
+              "vowelLetter": "E"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "in",
+            "posName": "Preposition or subordinating conjunction"
+          },
+          "wordStresses": "0",
+          "documentId": "conjunctions_wordbank",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        },
+        {
+          "wordId": "conjunctions_wordbank-20-1",
+          "word": "case",
+          "wordPhoneme": "k-ey-s",
+          "wordPhonemesArray": [
+            "k",
+            "ey",
+            "s"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ey",
+              "vowelSound": "long",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "nn",
+            "posName": "Noun, singular or mass"
+          },
+          "wordStresses": "1",
+          "documentId": "conjunctions_wordbank",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        }
+      ],
+      "documentId": "conjunctions_wordbank",
+      "phraseCategory": {
+        "phraseCategory1Id": "phraseCategory1",
+        "phraseCategory2Id": "phraseCategory2"
+      },
+      "phraseMetaData": {},
+      "phraseImgData": {
+        "url": ""
+      }
+    },
+    "conjunctions_wordbank-21": {
+      "phraseId": "conjunctions_wordbank-21",
+      "phrase": "if only",
+      "parsedPhrase": "if only",
+      "phrasePhonemes": "ih-f ow-n-l-iy",
+      "phrasePhonemesArray": [
+        "ih",
+        "f",
+        "ow",
+        "n",
+        "l",
+        "iy"
+      ],
+      "phraseVowelsArray": [
+        {
+          "vowelPhoneme": "ih",
+          "vowelSound": "long",
+          "vowelLetter": "E"
+        },
+        {
+          "vowelPhoneme": "ow",
+          "vowelSound": "long",
+          "vowelLetter": "O"
+        },
+        {
+          "vowelPhoneme": "iy",
+          "vowelSound": "short",
+          "vowelLetter": "I"
+        }
+      ],
+      "phraseWordCount": 2,
+      "phrasePhonemeCount": 3,
+      "phraseLastPhoneme": {
+        "vowelPhoneme": "iy",
+        "vowelSound": "short",
+        "vowelLetter": "I"
+      },
+      "phraseWords": [
+        {
+          "wordId": "conjunctions_wordbank-21-0",
+          "word": "if",
+          "wordPhoneme": "ih-f",
+          "wordPhonemesArray": [
+            "ih",
+            "f"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ih",
+              "vowelSound": "long",
+              "vowelLetter": "E"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "in",
+            "posName": "Preposition or subordinating conjunction"
+          },
+          "wordStresses": "1",
+          "documentId": "conjunctions_wordbank",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        },
+        {
+          "wordId": "conjunctions_wordbank-21-1",
+          "word": "only",
+          "wordPhoneme": "ow-n-l-iy",
+          "wordPhonemesArray": [
+            "ow",
+            "n",
+            "l",
+            "iy"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ow",
+              "vowelSound": "long",
+              "vowelLetter": "O"
+            },
+            {
+              "vowelPhoneme": "iy",
+              "vowelSound": "short",
+              "vowelLetter": "I"
+            }
+          ],
+          "wordPhonemeCount": 2,
+          "wordPosTag": {
+            "posTag": "rb",
+            "posName": "Adverb"
+          },
+          "wordStresses": "1/0",
+          "documentId": "conjunctions_wordbank",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        }
+      ],
+      "documentId": "conjunctions_wordbank",
+      "phraseCategory": {
+        "phraseCategory1Id": "phraseCategory1",
+        "phraseCategory2Id": "phraseCategory2"
+      },
+      "phraseMetaData": {},
+      "phraseImgData": {
+        "url": ""
+      }
+    },
+    "conjunctions_wordbank-22": {
+      "phraseId": "conjunctions_wordbank-22",
+      "phrase": "in addition to",
+      "parsedPhrase": "in addition to",
+      "phrasePhonemes": "ih-n ah-d-ih-sh-ah-n t-uw",
+      "phrasePhonemesArray": [
+        "ih",
+        "n",
+        "ah",
+        "d",
+        "ih",
+        "sh",
+        "ah",
+        "n",
+        "t",
+        "uw"
+      ],
+      "phraseVowelsArray": [
+        {
+          "vowelPhoneme": "ih",
+          "vowelSound": "long",
+          "vowelLetter": "E"
+        },
+        {
+          "vowelPhoneme": "ah",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        },
+        {
+          "vowelPhoneme": "ih",
+          "vowelSound": "long",
+          "vowelLetter": "E"
+        },
+        {
+          "vowelPhoneme": "ah",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        },
+        {
+          "vowelPhoneme": "uw",
+          "vowelSound": "short",
+          "vowelLetter": "U"
+        }
+      ],
+      "phraseWordCount": 3,
+      "phrasePhonemeCount": 5,
+      "phraseLastPhoneme": {
+        "vowelPhoneme": "uw",
+        "vowelSound": "short",
+        "vowelLetter": "U"
+      },
+      "phraseWords": [
+        {
+          "wordId": "conjunctions_wordbank-22-0",
+          "word": "in",
+          "wordPhoneme": "ih-n",
+          "wordPhonemesArray": [
+            "ih",
+            "n"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ih",
+              "vowelSound": "long",
+              "vowelLetter": "E"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "in",
+            "posName": "Preposition or subordinating conjunction"
+          },
+          "wordStresses": "0",
+          "documentId": "conjunctions_wordbank",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        },
+        {
+          "wordId": "conjunctions_wordbank-22-1",
+          "word": "addition",
+          "wordPhoneme": "ah-d-ih-sh-ah-n",
+          "wordPhonemesArray": [
+            "ah",
+            "d",
+            "ih",
+            "sh",
+            "ah",
+            "n"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ah",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            },
+            {
+              "vowelPhoneme": "ih",
+              "vowelSound": "long",
+              "vowelLetter": "E"
+            },
+            {
+              "vowelPhoneme": "ah",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 3,
+          "wordPosTag": {
+            "posTag": "nn",
+            "posName": "Noun, singular or mass"
+          },
+          "wordStresses": "0/1/0",
+          "documentId": "conjunctions_wordbank",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        },
+        {
+          "wordId": "conjunctions_wordbank-22-2",
+          "word": "to",
+          "wordPhoneme": "t-uw",
+          "wordPhonemesArray": [
+            "t",
+            "uw"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "uw",
+              "vowelSound": "short",
+              "vowelLetter": "U"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "to",
+            "posName": "to"
+          },
+          "wordStresses": "1",
+          "documentId": "conjunctions_wordbank",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        }
+      ],
+      "documentId": "conjunctions_wordbank",
+      "phraseCategory": {
+        "phraseCategory1Id": "phraseCategory1",
+        "phraseCategory2Id": "phraseCategory2"
+      },
+      "phraseMetaData": {},
+      "phraseImgData": {
+        "url": ""
+      }
+    },
+    "conjunctions_wordbank-23": {
+      "phraseId": "conjunctions_wordbank-23",
+      "phrase": "in order that",
+      "parsedPhrase": "in order that",
+      "phrasePhonemes": "ih-n ao-r-d-er dh-ae-t",
+      "phrasePhonemesArray": [
+        "ih",
+        "n",
+        "ao",
+        "r",
+        "d",
+        "er",
+        "dh",
+        "ae",
+        "t"
+      ],
+      "phraseVowelsArray": [
+        {
+          "vowelPhoneme": "ih",
+          "vowelSound": "long",
+          "vowelLetter": "E"
+        },
+        {
+          "vowelPhoneme": "ao",
+          "vowelSound": "short",
+          "vowelLetter": "O"
+        },
+        {
+          "vowelPhoneme": "er",
+          "vowelSound": "long",
+          "vowelLetter": "E"
+        },
+        {
+          "vowelPhoneme": "ae",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        }
+      ],
+      "phraseWordCount": 3,
+      "phrasePhonemeCount": 4,
+      "phraseLastPhoneme": {
+        "vowelPhoneme": "ae",
+        "vowelSound": "short",
+        "vowelLetter": "A"
+      },
+      "phraseWords": [
+        {
+          "wordId": "conjunctions_wordbank-23-0",
+          "word": "in",
+          "wordPhoneme": "ih-n",
+          "wordPhonemesArray": [
+            "ih",
+            "n"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ih",
+              "vowelSound": "long",
+              "vowelLetter": "E"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "in",
+            "posName": "Preposition or subordinating conjunction"
+          },
+          "wordStresses": "0",
+          "documentId": "conjunctions_wordbank",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        },
+        {
+          "wordId": "conjunctions_wordbank-23-1",
+          "word": "order",
+          "wordPhoneme": "ao-r-d-er",
+          "wordPhonemesArray": [
+            "ao",
+            "r",
+            "d",
+            "er"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ao",
+              "vowelSound": "short",
+              "vowelLetter": "O"
+            },
+            {
+              "vowelPhoneme": "er",
+              "vowelSound": "long",
+              "vowelLetter": "E"
+            }
+          ],
+          "wordPhonemeCount": 2,
+          "wordPosTag": {
+            "posTag": "nn",
+            "posName": "Noun, singular or mass"
+          },
+          "wordStresses": "1/0",
+          "documentId": "conjunctions_wordbank",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        },
+        {
+          "wordId": "conjunctions_wordbank-23-2",
+          "word": "that",
+          "wordPhoneme": "dh-ae-t",
+          "wordPhonemesArray": [
+            "dh",
+            "ae",
+            "t"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ae",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "in",
+            "posName": "Preposition or subordinating conjunction"
+          },
+          "wordStresses": "1",
+          "documentId": "conjunctions_wordbank",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        }
+      ],
+      "documentId": "conjunctions_wordbank",
+      "phraseCategory": {
+        "phraseCategory1Id": "phraseCategory1",
+        "phraseCategory2Id": "phraseCategory2"
+      },
+      "phraseMetaData": {},
+      "phraseImgData": {
+        "url": ""
+      }
+    },
+    "conjunctions_wordbank-24": {
+      "phraseId": "conjunctions_wordbank-24",
+      "phrase": "just as",
+      "parsedPhrase": "just as",
+      "phrasePhonemes": "jh-ah-s-t ae-z",
+      "phrasePhonemesArray": [
+        "jh",
+        "ah",
+        "s",
+        "t",
+        "ae",
+        "z"
+      ],
+      "phraseVowelsArray": [
+        {
+          "vowelPhoneme": "ah",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        },
+        {
+          "vowelPhoneme": "ae",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        }
+      ],
+      "phraseWordCount": 2,
+      "phrasePhonemeCount": 2,
+      "phraseLastPhoneme": {
+        "vowelPhoneme": "ae",
+        "vowelSound": "short",
+        "vowelLetter": "A"
+      },
+      "phraseWords": [
+        {
+          "wordId": "conjunctions_wordbank-24-0",
+          "word": "just",
+          "wordPhoneme": "jh-ah-s-t",
+          "wordPhonemesArray": [
+            "jh",
+            "ah",
+            "s",
+            "t"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ah",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "rb",
+            "posName": "Adverb"
+          },
+          "wordStresses": "1",
+          "documentId": "conjunctions_wordbank",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        },
+        {
+          "wordId": "conjunctions_wordbank-24-1",
+          "word": "as",
+          "wordPhoneme": "ae-z",
+          "wordPhonemesArray": [
+            "ae",
+            "z"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ae",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "in",
+            "posName": "Preposition or subordinating conjunction"
+          },
+          "wordStresses": "1",
+          "documentId": "conjunctions_wordbank",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        }
+      ],
+      "documentId": "conjunctions_wordbank",
+      "phraseCategory": {
+        "phraseCategory1Id": "phraseCategory1",
+        "phraseCategory2Id": "phraseCategory2"
+      },
+      "phraseMetaData": {},
+      "phraseImgData": {
+        "url": ""
+      }
+    },
+    "conjunctions_wordbank-25": {
+      "phraseId": "conjunctions_wordbank-25",
+      "phrase": "lest",
+      "parsedPhrase": "lest",
+      "phrasePhonemes": "l-eh-s-t",
+      "phrasePhonemesArray": [
+        "l",
+        "eh",
+        "s",
+        "t"
+      ],
+      "phraseVowelsArray": [
+        {
+          "vowelPhoneme": "eh",
+          "vowelSound": "short",
+          "vowelLetter": "E"
+        }
+      ],
+      "phraseWordCount": 1,
+      "phrasePhonemeCount": 1,
+      "phraseLastPhoneme": {
+        "vowelPhoneme": "eh",
+        "vowelSound": "short",
+        "vowelLetter": "E"
+      },
+      "phraseWords": [
+        {
+          "wordId": "conjunctions_wordbank-25-0",
+          "word": "lest",
+          "wordPhoneme": "l-eh-s-t",
+          "wordPhonemesArray": [
+            "l",
+            "eh",
+            "s",
+            "t"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "eh",
+              "vowelSound": "short",
+              "vowelLetter": "E"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "in",
+            "posName": "Preposition or subordinating conjunction"
+          },
+          "wordStresses": "1",
+          "documentId": "conjunctions_wordbank",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        }
+      ],
+      "documentId": "conjunctions_wordbank",
+      "phraseCategory": {
+        "phraseCategory1Id": "phraseCategory1",
+        "phraseCategory2Id": "phraseCategory2"
+      },
+      "phraseMetaData": {},
+      "phraseImgData": {
+        "url": ""
+      }
+    },
+    "conjunctions_wordbank-26": {
+      "phraseId": "conjunctions_wordbank-26",
+      "phrase": "no matter how",
+      "parsedPhrase": "no matter how",
+      "phrasePhonemes": "n-ow m-ae-t-er hh-aw",
+      "phrasePhonemesArray": [
+        "n",
+        "ow",
+        "m",
+        "ae",
+        "t",
+        "er",
+        "hh",
+        "aw"
+      ],
+      "phraseVowelsArray": [
+        {
+          "vowelPhoneme": "ow",
+          "vowelSound": "long",
+          "vowelLetter": "O"
+        },
+        {
+          "vowelPhoneme": "ae",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        },
+        {
+          "vowelPhoneme": "er",
+          "vowelSound": "long",
+          "vowelLetter": "E"
+        },
+        {
+          "vowelPhoneme": "aw",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        }
+      ],
+      "phraseWordCount": 3,
+      "phrasePhonemeCount": 4,
+      "phraseLastPhoneme": {
+        "vowelPhoneme": "aw",
+        "vowelSound": "short",
+        "vowelLetter": "A"
+      },
+      "phraseWords": [
+        {
+          "wordId": "conjunctions_wordbank-26-0",
+          "word": "no",
+          "wordPhoneme": "n-ow",
+          "wordPhonemesArray": [
+            "n",
+            "ow"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ow",
+              "vowelSound": "long",
+              "vowelLetter": "O"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "dt",
+            "posName": "Determiner"
+          },
+          "wordStresses": "1",
+          "documentId": "conjunctions_wordbank",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        },
+        {
+          "wordId": "conjunctions_wordbank-26-1",
+          "word": "matter",
+          "wordPhoneme": "m-ae-t-er",
+          "wordPhonemesArray": [
+            "m",
+            "ae",
+            "t",
+            "er"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ae",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            },
+            {
+              "vowelPhoneme": "er",
+              "vowelSound": "long",
+              "vowelLetter": "E"
+            }
+          ],
+          "wordPhonemeCount": 2,
+          "wordPosTag": {
+            "posTag": "nn",
+            "posName": "Noun, singular or mass"
+          },
+          "wordStresses": "1/0",
+          "documentId": "conjunctions_wordbank",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        },
+        {
+          "wordId": "conjunctions_wordbank-26-2",
+          "word": "how",
+          "wordPhoneme": "hh-aw",
+          "wordPhonemesArray": [
+            "hh",
+            "aw"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "aw",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "wrb",
+            "posName": "Wh-adverb"
+          },
+          "wordStresses": "1",
+          "documentId": "conjunctions_wordbank",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        }
+      ],
+      "documentId": "conjunctions_wordbank",
+      "phraseCategory": {
+        "phraseCategory1Id": "phraseCategory1",
+        "phraseCategory2Id": "phraseCategory2"
+      },
+      "phraseMetaData": {},
+      "phraseImgData": {
+        "url": ""
+      }
+    },
+    "conjunctions_wordbank-27": {
+      "phraseId": "conjunctions_wordbank-27",
+      "phrase": "nor",
+      "parsedPhrase": "nor",
+      "phrasePhonemes": "n-ao-r",
+      "phrasePhonemesArray": [
+        "n",
+        "ao",
+        "r"
+      ],
+      "phraseVowelsArray": [
+        {
+          "vowelPhoneme": "ao",
+          "vowelSound": "short",
+          "vowelLetter": "O"
+        }
+      ],
+      "phraseWordCount": 1,
+      "phrasePhonemeCount": 1,
+      "phraseLastPhoneme": {
+        "vowelPhoneme": "ao",
+        "vowelSound": "short",
+        "vowelLetter": "O"
+      },
+      "phraseWords": [
+        {
+          "wordId": "conjunctions_wordbank-27-0",
+          "word": "nor",
+          "wordPhoneme": "n-ao-r",
+          "wordPhonemesArray": [
+            "n",
+            "ao",
+            "r"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ao",
+              "vowelSound": "short",
+              "vowelLetter": "O"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "cc",
+            "posName": "Coordinating conjunction"
+          },
+          "wordStresses": "1",
+          "documentId": "conjunctions_wordbank",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        }
+      ],
+      "documentId": "conjunctions_wordbank",
+      "phraseCategory": {
+        "phraseCategory1Id": "phraseCategory1",
+        "phraseCategory2Id": "phraseCategory2"
+      },
+      "phraseMetaData": {},
+      "phraseImgData": {
+        "url": ""
+      }
+    },
+    "conjunctions_wordbank-28": {
+      "phraseId": "conjunctions_wordbank-28",
+      "phrase": "now that",
+      "parsedPhrase": "now that",
+      "phrasePhonemes": "n-aw dh-ae-t",
+      "phrasePhonemesArray": [
+        "n",
+        "aw",
+        "dh",
+        "ae",
+        "t"
+      ],
+      "phraseVowelsArray": [
+        {
+          "vowelPhoneme": "aw",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        },
+        {
+          "vowelPhoneme": "ae",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        }
+      ],
+      "phraseWordCount": 2,
+      "phrasePhonemeCount": 2,
+      "phraseLastPhoneme": {
+        "vowelPhoneme": "ae",
+        "vowelSound": "short",
+        "vowelLetter": "A"
+      },
+      "phraseWords": [
+        {
+          "wordId": "conjunctions_wordbank-28-0",
+          "word": "now",
+          "wordPhoneme": "n-aw",
+          "wordPhonemesArray": [
+            "n",
+            "aw"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "aw",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "rb",
+            "posName": "Adverb"
+          },
+          "wordStresses": "1",
+          "documentId": "conjunctions_wordbank",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        },
+        {
+          "wordId": "conjunctions_wordbank-28-1",
+          "word": "that",
+          "wordPhoneme": "dh-ae-t",
+          "wordPhonemesArray": [
+            "dh",
+            "ae",
+            "t"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ae",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "in",
+            "posName": "Preposition or subordinating conjunction"
+          },
+          "wordStresses": "1",
+          "documentId": "conjunctions_wordbank",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        }
+      ],
+      "documentId": "conjunctions_wordbank",
+      "phraseCategory": {
+        "phraseCategory1Id": "phraseCategory1",
+        "phraseCategory2Id": "phraseCategory2"
+      },
+      "phraseMetaData": {},
+      "phraseImgData": {
+        "url": ""
+      }
+    },
+    "conjunctions_wordbank-29": {
+      "phraseId": "conjunctions_wordbank-29",
+      "phrase": "once",
+      "parsedPhrase": "once",
+      "phrasePhonemes": "w-ah-n-s",
+      "phrasePhonemesArray": [
+        "w",
+        "ah",
+        "n",
+        "s"
+      ],
+      "phraseVowelsArray": [
+        {
+          "vowelPhoneme": "ah",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        }
+      ],
+      "phraseWordCount": 1,
+      "phrasePhonemeCount": 1,
+      "phraseLastPhoneme": {
+        "vowelPhoneme": "ah",
+        "vowelSound": "short",
+        "vowelLetter": "A"
+      },
+      "phraseWords": [
+        {
+          "wordId": "conjunctions_wordbank-29-0",
+          "word": "once",
+          "wordPhoneme": "w-ah-n-s",
+          "wordPhonemesArray": [
+            "w",
+            "ah",
+            "n",
+            "s"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ah",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "rb",
+            "posName": "Adverb"
+          },
+          "wordStresses": "1",
+          "documentId": "conjunctions_wordbank",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        }
+      ],
+      "documentId": "conjunctions_wordbank",
+      "phraseCategory": {
+        "phraseCategory1Id": "phraseCategory1",
+        "phraseCategory2Id": "phraseCategory2"
+      },
+      "phraseMetaData": {},
+      "phraseImgData": {
+        "url": ""
+      }
+    },
+    "conjunctions_wordbank-30": {
+      "phraseId": "conjunctions_wordbank-30",
+      "phrase": "only if",
+      "parsedPhrase": "only if",
+      "phrasePhonemes": "ow-n-l-iy ih-f",
+      "phrasePhonemesArray": [
+        "ow",
+        "n",
+        "l",
+        "iy",
+        "ih",
+        "f"
+      ],
+      "phraseVowelsArray": [
+        {
+          "vowelPhoneme": "ow",
+          "vowelSound": "long",
+          "vowelLetter": "O"
+        },
+        {
+          "vowelPhoneme": "iy",
+          "vowelSound": "short",
+          "vowelLetter": "I"
+        },
+        {
+          "vowelPhoneme": "ih",
+          "vowelSound": "long",
+          "vowelLetter": "E"
+        }
+      ],
+      "phraseWordCount": 2,
+      "phrasePhonemeCount": 3,
+      "phraseLastPhoneme": {
+        "vowelPhoneme": "ih",
+        "vowelSound": "long",
+        "vowelLetter": "E"
+      },
+      "phraseWords": [
+        {
+          "wordId": "conjunctions_wordbank-30-0",
+          "word": "only",
+          "wordPhoneme": "ow-n-l-iy",
+          "wordPhonemesArray": [
+            "ow",
+            "n",
+            "l",
+            "iy"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ow",
+              "vowelSound": "long",
+              "vowelLetter": "O"
+            },
+            {
+              "vowelPhoneme": "iy",
+              "vowelSound": "short",
+              "vowelLetter": "I"
+            }
+          ],
+          "wordPhonemeCount": 2,
+          "wordPosTag": {
+            "posTag": "rb",
+            "posName": "Adverb"
+          },
+          "wordStresses": "1/0",
+          "documentId": "conjunctions_wordbank",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        },
+        {
+          "wordId": "conjunctions_wordbank-30-1",
+          "word": "if",
+          "wordPhoneme": "ih-f",
+          "wordPhonemesArray": [
+            "ih",
+            "f"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ih",
+              "vowelSound": "long",
+              "vowelLetter": "E"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "in",
+            "posName": "Preposition or subordinating conjunction"
+          },
+          "wordStresses": "1",
+          "documentId": "conjunctions_wordbank",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        }
+      ],
+      "documentId": "conjunctions_wordbank",
+      "phraseCategory": {
+        "phraseCategory1Id": "phraseCategory1",
+        "phraseCategory2Id": "phraseCategory2"
+      },
+      "phraseMetaData": {},
+      "phraseImgData": {
+        "url": ""
+      }
+    },
+    "conjunctions_wordbank-31": {
+      "phraseId": "conjunctions_wordbank-31",
+      "phrase": "or",
+      "parsedPhrase": "or",
+      "phrasePhonemes": "ao-r",
+      "phrasePhonemesArray": [
+        "ao",
+        "r"
+      ],
+      "phraseVowelsArray": [
+        {
+          "vowelPhoneme": "ao",
+          "vowelSound": "short",
+          "vowelLetter": "O"
+        }
+      ],
+      "phraseWordCount": 1,
+      "phrasePhonemeCount": 1,
+      "phraseLastPhoneme": {
+        "vowelPhoneme": "ao",
+        "vowelSound": "short",
+        "vowelLetter": "O"
+      },
+      "phraseWords": [
+        {
+          "wordId": "conjunctions_wordbank-31-0",
+          "word": "or",
+          "wordPhoneme": "ao-r",
+          "wordPhonemesArray": [
+            "ao",
+            "r"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ao",
+              "vowelSound": "short",
+              "vowelLetter": "O"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "cc",
+            "posName": "Coordinating conjunction"
+          },
+          "wordStresses": "1",
+          "documentId": "conjunctions_wordbank",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        }
+      ],
+      "documentId": "conjunctions_wordbank",
+      "phraseCategory": {
+        "phraseCategory1Id": "phraseCategory1",
+        "phraseCategory2Id": "phraseCategory2"
+      },
+      "phraseMetaData": {},
+      "phraseImgData": {
+        "url": ""
+      }
+    },
+    "conjunctions_wordbank-32": {
+      "phraseId": "conjunctions_wordbank-32",
+      "phrase": "provided that",
+      "parsedPhrase": "provided that",
+      "phrasePhonemes": "p-r-ah-v-ay-d-ah-d dh-ae-t",
+      "phrasePhonemesArray": [
+        "p",
+        "r",
+        "ah",
+        "v",
+        "ay",
+        "d",
+        "ah",
+        "d",
+        "dh",
+        "ae",
+        "t"
+      ],
+      "phraseVowelsArray": [
+        {
+          "vowelPhoneme": "ah",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        },
+        {
+          "vowelPhoneme": "ay",
+          "vowelSound": "long",
+          "vowelLetter": "I"
+        },
+        {
+          "vowelPhoneme": "ah",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        },
+        {
+          "vowelPhoneme": "ae",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        }
+      ],
+      "phraseWordCount": 2,
+      "phrasePhonemeCount": 4,
+      "phraseLastPhoneme": {
+        "vowelPhoneme": "ae",
+        "vowelSound": "short",
+        "vowelLetter": "A"
+      },
+      "phraseWords": [
+        {
+          "wordId": "conjunctions_wordbank-32-0",
+          "word": "provided",
+          "wordPhoneme": "p-r-ah-v-ay-d-ah-d",
+          "wordPhonemesArray": [
+            "p",
+            "r",
+            "ah",
+            "v",
+            "ay",
+            "d",
+            "ah",
+            "d"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ah",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            },
+            {
+              "vowelPhoneme": "ay",
+              "vowelSound": "long",
+              "vowelLetter": "I"
+            },
+            {
+              "vowelPhoneme": "ah",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 3,
+          "wordPosTag": {
+            "posTag": "vbn",
+            "posName": "Verb, past participle"
+          },
+          "wordStresses": "0/1/0",
+          "documentId": "conjunctions_wordbank",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        },
+        {
+          "wordId": "conjunctions_wordbank-32-1",
+          "word": "that",
+          "wordPhoneme": "dh-ae-t",
+          "wordPhonemesArray": [
+            "dh",
+            "ae",
+            "t"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ae",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "in",
+            "posName": "Preposition or subordinating conjunction"
+          },
+          "wordStresses": "1",
+          "documentId": "conjunctions_wordbank",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        }
+      ],
+      "documentId": "conjunctions_wordbank",
+      "phraseCategory": {
+        "phraseCategory1Id": "phraseCategory1",
+        "phraseCategory2Id": "phraseCategory2"
+      },
+      "phraseMetaData": {},
+      "phraseImgData": {
+        "url": ""
+      }
+    },
+    "conjunctions_wordbank-33": {
+      "phraseId": "conjunctions_wordbank-33",
+      "phrase": "since",
+      "parsedPhrase": "since",
+      "phrasePhonemes": "s-ih-n-s",
+      "phrasePhonemesArray": [
+        "s",
+        "ih",
+        "n",
+        "s"
+      ],
+      "phraseVowelsArray": [
+        {
+          "vowelPhoneme": "ih",
+          "vowelSound": "long",
+          "vowelLetter": "E"
+        }
+      ],
+      "phraseWordCount": 1,
+      "phrasePhonemeCount": 1,
+      "phraseLastPhoneme": {
+        "vowelPhoneme": "ih",
+        "vowelSound": "long",
+        "vowelLetter": "E"
+      },
+      "phraseWords": [
+        {
+          "wordId": "conjunctions_wordbank-33-0",
+          "word": "since",
+          "wordPhoneme": "s-ih-n-s",
+          "wordPhonemesArray": [
+            "s",
+            "ih",
+            "n",
+            "s"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ih",
+              "vowelSound": "long",
+              "vowelLetter": "E"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "in",
+            "posName": "Preposition or subordinating conjunction"
+          },
+          "wordStresses": "1",
+          "documentId": "conjunctions_wordbank",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        }
+      ],
+      "documentId": "conjunctions_wordbank",
+      "phraseCategory": {
+        "phraseCategory1Id": "phraseCategory1",
+        "phraseCategory2Id": "phraseCategory2"
+      },
+      "phraseMetaData": {},
+      "phraseImgData": {
+        "url": ""
+      }
+    },
+    "conjunctions_wordbank-34": {
+      "phraseId": "conjunctions_wordbank-34",
+      "phrase": "so",
+      "parsedPhrase": "so",
+      "phrasePhonemes": "s-ow",
+      "phrasePhonemesArray": [
+        "s",
+        "ow"
+      ],
+      "phraseVowelsArray": [
+        {
+          "vowelPhoneme": "ow",
+          "vowelSound": "long",
+          "vowelLetter": "O"
+        }
+      ],
+      "phraseWordCount": 1,
+      "phrasePhonemeCount": 1,
+      "phraseLastPhoneme": {
+        "vowelPhoneme": "ow",
+        "vowelSound": "long",
+        "vowelLetter": "O"
+      },
+      "phraseWords": [
+        {
+          "wordId": "conjunctions_wordbank-34-0",
+          "word": "so",
+          "wordPhoneme": "s-ow",
+          "wordPhonemesArray": [
+            "s",
+            "ow"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ow",
+              "vowelSound": "long",
+              "vowelLetter": "O"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "rb",
+            "posName": "Adverb"
+          },
+          "wordStresses": "1",
+          "documentId": "conjunctions_wordbank",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        }
+      ],
+      "documentId": "conjunctions_wordbank",
+      "phraseCategory": {
+        "phraseCategory1Id": "phraseCategory1",
+        "phraseCategory2Id": "phraseCategory2"
+      },
+      "phraseMetaData": {},
+      "phraseImgData": {
+        "url": ""
+      }
+    },
+    "conjunctions_wordbank-35": {
+      "phraseId": "conjunctions_wordbank-35",
+      "phrase": "so that",
+      "parsedPhrase": "so that",
+      "phrasePhonemes": "s-ow dh-ae-t",
+      "phrasePhonemesArray": [
+        "s",
+        "ow",
+        "dh",
+        "ae",
+        "t"
+      ],
+      "phraseVowelsArray": [
+        {
+          "vowelPhoneme": "ow",
+          "vowelSound": "long",
+          "vowelLetter": "O"
+        },
+        {
+          "vowelPhoneme": "ae",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        }
+      ],
+      "phraseWordCount": 2,
+      "phrasePhonemeCount": 2,
+      "phraseLastPhoneme": {
+        "vowelPhoneme": "ae",
+        "vowelSound": "short",
+        "vowelLetter": "A"
+      },
+      "phraseWords": [
+        {
+          "wordId": "conjunctions_wordbank-35-0",
+          "word": "so",
+          "wordPhoneme": "s-ow",
+          "wordPhonemesArray": [
+            "s",
+            "ow"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ow",
+              "vowelSound": "long",
+              "vowelLetter": "O"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "rb",
+            "posName": "Adverb"
+          },
+          "wordStresses": "1",
+          "documentId": "conjunctions_wordbank",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        },
+        {
+          "wordId": "conjunctions_wordbank-35-1",
+          "word": "that",
+          "wordPhoneme": "dh-ae-t",
+          "wordPhonemesArray": [
+            "dh",
+            "ae",
+            "t"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ae",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "in",
+            "posName": "Preposition or subordinating conjunction"
+          },
+          "wordStresses": "1",
+          "documentId": "conjunctions_wordbank",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        }
+      ],
+      "documentId": "conjunctions_wordbank",
+      "phraseCategory": {
+        "phraseCategory1Id": "phraseCategory1",
+        "phraseCategory2Id": "phraseCategory2"
+      },
+      "phraseMetaData": {},
+      "phraseImgData": {
+        "url": ""
+      }
+    },
+    "conjunctions_wordbank-36": {
+      "phraseId": "conjunctions_wordbank-36",
+      "phrase": "supposing that",
+      "parsedPhrase": "supposing that",
+      "phrasePhonemes": "s-ah-p-ow-z-ih-ng dh-ae-t",
+      "phrasePhonemesArray": [
+        "s",
+        "ah",
+        "p",
+        "ow",
+        "z",
+        "ih",
+        "ng",
+        "dh",
+        "ae",
+        "t"
+      ],
+      "phraseVowelsArray": [
+        {
+          "vowelPhoneme": "ah",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        },
+        {
+          "vowelPhoneme": "ow",
+          "vowelSound": "long",
+          "vowelLetter": "O"
+        },
+        {
+          "vowelPhoneme": "ih",
+          "vowelSound": "long",
+          "vowelLetter": "E"
+        },
+        {
+          "vowelPhoneme": "ae",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        }
+      ],
+      "phraseWordCount": 2,
+      "phrasePhonemeCount": 4,
+      "phraseLastPhoneme": {
+        "vowelPhoneme": "ae",
+        "vowelSound": "short",
+        "vowelLetter": "A"
+      },
+      "phraseWords": [
+        {
+          "wordId": "conjunctions_wordbank-36-0",
+          "word": "supposing",
+          "wordPhoneme": "s-ah-p-ow-z-ih-ng",
+          "wordPhonemesArray": [
+            "s",
+            "ah",
+            "p",
+            "ow",
+            "z",
+            "ih",
+            "ng"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ah",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            },
+            {
+              "vowelPhoneme": "ow",
+              "vowelSound": "long",
+              "vowelLetter": "O"
+            },
+            {
+              "vowelPhoneme": "ih",
+              "vowelSound": "long",
+              "vowelLetter": "E"
+            }
+          ],
+          "wordPhonemeCount": 3,
+          "wordPosTag": {
+            "posTag": "vbg",
+            "posName": "Verb, gerund or present participle"
+          },
+          "wordStresses": "0/1/0",
+          "documentId": "conjunctions_wordbank",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        },
+        {
+          "wordId": "conjunctions_wordbank-36-1",
+          "word": "that",
+          "wordPhoneme": "dh-ae-t",
+          "wordPhonemesArray": [
+            "dh",
+            "ae",
+            "t"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ae",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "in",
+            "posName": "Preposition or subordinating conjunction"
+          },
+          "wordStresses": "1",
+          "documentId": "conjunctions_wordbank",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        }
+      ],
+      "documentId": "conjunctions_wordbank",
+      "phraseCategory": {
+        "phraseCategory1Id": "phraseCategory1",
+        "phraseCategory2Id": "phraseCategory2"
+      },
+      "phraseMetaData": {},
+      "phraseImgData": {
+        "url": ""
+      }
+    },
+    "conjunctions_wordbank-37": {
+      "phraseId": "conjunctions_wordbank-37",
+      "phrase": "than",
+      "parsedPhrase": "than",
+      "phrasePhonemes": "dh-ae-n",
+      "phrasePhonemesArray": [
+        "dh",
+        "ae",
+        "n"
+      ],
+      "phraseVowelsArray": [
+        {
+          "vowelPhoneme": "ae",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        }
+      ],
+      "phraseWordCount": 1,
+      "phrasePhonemeCount": 1,
+      "phraseLastPhoneme": {
+        "vowelPhoneme": "ae",
+        "vowelSound": "short",
+        "vowelLetter": "A"
+      },
+      "phraseWords": [
+        {
+          "wordId": "conjunctions_wordbank-37-0",
+          "word": "than",
+          "wordPhoneme": "dh-ae-n",
+          "wordPhonemesArray": [
+            "dh",
+            "ae",
+            "n"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ae",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "in",
+            "posName": "Preposition or subordinating conjunction"
+          },
+          "wordStresses": "1",
+          "documentId": "conjunctions_wordbank",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        }
+      ],
+      "documentId": "conjunctions_wordbank",
+      "phraseCategory": {
+        "phraseCategory1Id": "phraseCategory1",
+        "phraseCategory2Id": "phraseCategory2"
+      },
+      "phraseMetaData": {},
+      "phraseImgData": {
+        "url": ""
+      }
+    },
+    "conjunctions_wordbank-38": {
+      "phraseId": "conjunctions_wordbank-38",
+      "phrase": "that",
+      "parsedPhrase": "that",
+      "phrasePhonemes": "dh-ae-t",
+      "phrasePhonemesArray": [
+        "dh",
+        "ae",
+        "t"
+      ],
+      "phraseVowelsArray": [
+        {
+          "vowelPhoneme": "ae",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        }
+      ],
+      "phraseWordCount": 1,
+      "phrasePhonemeCount": 1,
+      "phraseLastPhoneme": {
+        "vowelPhoneme": "ae",
+        "vowelSound": "short",
+        "vowelLetter": "A"
+      },
+      "phraseWords": [
+        {
+          "wordId": "conjunctions_wordbank-38-0",
+          "word": "that",
+          "wordPhoneme": "dh-ae-t",
+          "wordPhonemesArray": [
+            "dh",
+            "ae",
+            "t"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ae",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "in",
+            "posName": "Preposition or subordinating conjunction"
+          },
+          "wordStresses": "1",
+          "documentId": "conjunctions_wordbank",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        }
+      ],
+      "documentId": "conjunctions_wordbank",
+      "phraseCategory": {
+        "phraseCategory1Id": "phraseCategory1",
+        "phraseCategory2Id": "phraseCategory2"
+      },
+      "phraseMetaData": {},
+      "phraseImgData": {
+        "url": ""
+      }
+    },
+    "conjunctions_wordbank-39": {
+      "phraseId": "conjunctions_wordbank-39",
+      "phrase": "though",
+      "parsedPhrase": "though",
+      "phrasePhonemes": "dh-ow",
+      "phrasePhonemesArray": [
+        "dh",
+        "ow"
+      ],
+      "phraseVowelsArray": [
+        {
+          "vowelPhoneme": "ow",
+          "vowelSound": "long",
+          "vowelLetter": "O"
+        }
+      ],
+      "phraseWordCount": 1,
+      "phrasePhonemeCount": 1,
+      "phraseLastPhoneme": {
+        "vowelPhoneme": "ow",
+        "vowelSound": "long",
+        "vowelLetter": "O"
+      },
+      "phraseWords": [
+        {
+          "wordId": "conjunctions_wordbank-39-0",
+          "word": "though",
+          "wordPhoneme": "dh-ow",
+          "wordPhonemesArray": [
+            "dh",
+            "ow"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ow",
+              "vowelSound": "long",
+              "vowelLetter": "O"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "in",
+            "posName": "Preposition or subordinating conjunction"
+          },
+          "wordStresses": "1",
+          "documentId": "conjunctions_wordbank",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        }
+      ],
+      "documentId": "conjunctions_wordbank",
+      "phraseCategory": {
+        "phraseCategory1Id": "phraseCategory1",
+        "phraseCategory2Id": "phraseCategory2"
+      },
+      "phraseMetaData": {},
+      "phraseImgData": {
+        "url": ""
+      }
+    },
+    "conjunctions_wordbank-40": {
+      "phraseId": "conjunctions_wordbank-40",
+      "phrase": "till",
+      "parsedPhrase": "till",
+      "phrasePhonemes": "t-ih-l",
+      "phrasePhonemesArray": [
+        "t",
+        "ih",
+        "l"
+      ],
+      "phraseVowelsArray": [
+        {
+          "vowelPhoneme": "ih",
+          "vowelSound": "long",
+          "vowelLetter": "E"
+        }
+      ],
+      "phraseWordCount": 1,
+      "phrasePhonemeCount": 1,
+      "phraseLastPhoneme": {
+        "vowelPhoneme": "ih",
+        "vowelSound": "long",
+        "vowelLetter": "E"
+      },
+      "phraseWords": [
+        {
+          "wordId": "conjunctions_wordbank-40-0",
+          "word": "till",
+          "wordPhoneme": "t-ih-l",
+          "wordPhonemesArray": [
+            "t",
+            "ih",
+            "l"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ih",
+              "vowelSound": "long",
+              "vowelLetter": "E"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "in",
+            "posName": "Preposition or subordinating conjunction"
+          },
+          "wordStresses": "1",
+          "documentId": "conjunctions_wordbank",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        }
+      ],
+      "documentId": "conjunctions_wordbank",
+      "phraseCategory": {
+        "phraseCategory1Id": "phraseCategory1",
+        "phraseCategory2Id": "phraseCategory2"
+      },
+      "phraseMetaData": {},
+      "phraseImgData": {
+        "url": ""
+      }
+    },
+    "conjunctions_wordbank-41": {
+      "phraseId": "conjunctions_wordbank-41",
+      "phrase": "unless",
+      "parsedPhrase": "unless",
+      "phrasePhonemes": "ah-n-l-eh-s",
+      "phrasePhonemesArray": [
+        "ah",
+        "n",
+        "l",
+        "eh",
+        "s"
+      ],
+      "phraseVowelsArray": [
+        {
+          "vowelPhoneme": "ah",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        },
+        {
+          "vowelPhoneme": "eh",
+          "vowelSound": "short",
+          "vowelLetter": "E"
+        }
+      ],
+      "phraseWordCount": 1,
+      "phrasePhonemeCount": 2,
+      "phraseLastPhoneme": {
+        "vowelPhoneme": "eh",
+        "vowelSound": "short",
+        "vowelLetter": "E"
+      },
+      "phraseWords": [
+        {
+          "wordId": "conjunctions_wordbank-41-0",
+          "word": "unless",
+          "wordPhoneme": "ah-n-l-eh-s",
+          "wordPhonemesArray": [
+            "ah",
+            "n",
+            "l",
+            "eh",
+            "s"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ah",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            },
+            {
+              "vowelPhoneme": "eh",
+              "vowelSound": "short",
+              "vowelLetter": "E"
+            }
+          ],
+          "wordPhonemeCount": 2,
+          "wordPosTag": {
+            "posTag": "in",
+            "posName": "Preposition or subordinating conjunction"
+          },
+          "wordStresses": "0/1",
+          "documentId": "conjunctions_wordbank",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        }
+      ],
+      "documentId": "conjunctions_wordbank",
+      "phraseCategory": {
+        "phraseCategory1Id": "phraseCategory1",
+        "phraseCategory2Id": "phraseCategory2"
+      },
+      "phraseMetaData": {},
+      "phraseImgData": {
+        "url": ""
+      }
+    },
+    "conjunctions_wordbank-42": {
+      "phraseId": "conjunctions_wordbank-42",
+      "phrase": "until",
+      "parsedPhrase": "until",
+      "phrasePhonemes": "ah-n-t-ih-l",
+      "phrasePhonemesArray": [
+        "ah",
+        "n",
+        "t",
+        "ih",
+        "l"
+      ],
+      "phraseVowelsArray": [
+        {
+          "vowelPhoneme": "ah",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        },
+        {
+          "vowelPhoneme": "ih",
+          "vowelSound": "long",
+          "vowelLetter": "E"
+        }
+      ],
+      "phraseWordCount": 1,
+      "phrasePhonemeCount": 2,
+      "phraseLastPhoneme": {
+        "vowelPhoneme": "ih",
+        "vowelSound": "long",
+        "vowelLetter": "E"
+      },
+      "phraseWords": [
+        {
+          "wordId": "conjunctions_wordbank-42-0",
+          "word": "until",
+          "wordPhoneme": "ah-n-t-ih-l",
+          "wordPhonemesArray": [
+            "ah",
+            "n",
+            "t",
+            "ih",
+            "l"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ah",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            },
+            {
+              "vowelPhoneme": "ih",
+              "vowelSound": "long",
+              "vowelLetter": "E"
+            }
+          ],
+          "wordPhonemeCount": 2,
+          "wordPosTag": {
+            "posTag": "in",
+            "posName": "Preposition or subordinating conjunction"
+          },
+          "wordStresses": "0/1",
+          "documentId": "conjunctions_wordbank",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        }
+      ],
+      "documentId": "conjunctions_wordbank",
+      "phraseCategory": {
+        "phraseCategory1Id": "phraseCategory1",
+        "phraseCategory2Id": "phraseCategory2"
+      },
+      "phraseMetaData": {},
+      "phraseImgData": {
+        "url": ""
+      }
+    },
+    "conjunctions_wordbank-43": {
+      "phraseId": "conjunctions_wordbank-43",
+      "phrase": "when",
+      "parsedPhrase": "when",
+      "phrasePhonemes": "w-eh-n",
+      "phrasePhonemesArray": [
+        "w",
+        "eh",
+        "n"
+      ],
+      "phraseVowelsArray": [
+        {
+          "vowelPhoneme": "eh",
+          "vowelSound": "short",
+          "vowelLetter": "E"
+        }
+      ],
+      "phraseWordCount": 1,
+      "phrasePhonemeCount": 1,
+      "phraseLastPhoneme": {
+        "vowelPhoneme": "eh",
+        "vowelSound": "short",
+        "vowelLetter": "E"
+      },
+      "phraseWords": [
+        {
+          "wordId": "conjunctions_wordbank-43-0",
+          "word": "when",
+          "wordPhoneme": "w-eh-n",
+          "wordPhonemesArray": [
+            "w",
+            "eh",
+            "n"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "eh",
+              "vowelSound": "short",
+              "vowelLetter": "E"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "wrb",
+            "posName": "Wh-adverb"
+          },
+          "wordStresses": "1",
+          "documentId": "conjunctions_wordbank",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        }
+      ],
+      "documentId": "conjunctions_wordbank",
+      "phraseCategory": {
+        "phraseCategory1Id": "phraseCategory1",
+        "phraseCategory2Id": "phraseCategory2"
+      },
+      "phraseMetaData": {},
+      "phraseImgData": {
+        "url": ""
+      }
+    },
+    "conjunctions_wordbank-44": {
+      "phraseId": "conjunctions_wordbank-44",
+      "phrase": "whenever",
+      "parsedPhrase": "whenever",
+      "phrasePhonemes": "w-eh-n-eh-v-er",
+      "phrasePhonemesArray": [
+        "w",
+        "eh",
+        "n",
+        "eh",
+        "v",
+        "er"
+      ],
+      "phraseVowelsArray": [
+        {
+          "vowelPhoneme": "eh",
+          "vowelSound": "short",
+          "vowelLetter": "E"
+        },
+        {
+          "vowelPhoneme": "eh",
+          "vowelSound": "short",
+          "vowelLetter": "E"
+        },
+        {
+          "vowelPhoneme": "er",
+          "vowelSound": "long",
+          "vowelLetter": "E"
+        }
+      ],
+      "phraseWordCount": 1,
+      "phrasePhonemeCount": 3,
+      "phraseLastPhoneme": {
+        "vowelPhoneme": "er",
+        "vowelSound": "long",
+        "vowelLetter": "E"
+      },
+      "phraseWords": [
+        {
+          "wordId": "conjunctions_wordbank-44-0",
+          "word": "whenever",
+          "wordPhoneme": "w-eh-n-eh-v-er",
+          "wordPhonemesArray": [
+            "w",
+            "eh",
+            "n",
+            "eh",
+            "v",
+            "er"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "eh",
+              "vowelSound": "short",
+              "vowelLetter": "E"
+            },
+            {
+              "vowelPhoneme": "eh",
+              "vowelSound": "short",
+              "vowelLetter": "E"
+            },
+            {
+              "vowelPhoneme": "er",
+              "vowelSound": "long",
+              "vowelLetter": "E"
+            }
+          ],
+          "wordPhonemeCount": 3,
+          "wordPosTag": {
+            "posTag": "wrb",
+            "posName": "Wh-adverb"
+          },
+          "wordStresses": "0/1/0",
+          "documentId": "conjunctions_wordbank",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        }
+      ],
+      "documentId": "conjunctions_wordbank",
+      "phraseCategory": {
+        "phraseCategory1Id": "phraseCategory1",
+        "phraseCategory2Id": "phraseCategory2"
+      },
+      "phraseMetaData": {},
+      "phraseImgData": {
+        "url": ""
+      }
+    },
+    "conjunctions_wordbank-45": {
+      "phraseId": "conjunctions_wordbank-45",
+      "phrase": "where",
+      "parsedPhrase": "where",
+      "phrasePhonemes": "w-eh-r",
+      "phrasePhonemesArray": [
+        "w",
+        "eh",
+        "r"
+      ],
+      "phraseVowelsArray": [
+        {
+          "vowelPhoneme": "eh",
+          "vowelSound": "short",
+          "vowelLetter": "E"
+        }
+      ],
+      "phraseWordCount": 1,
+      "phrasePhonemeCount": 1,
+      "phraseLastPhoneme": {
+        "vowelPhoneme": "eh",
+        "vowelSound": "short",
+        "vowelLetter": "E"
+      },
+      "phraseWords": [
+        {
+          "wordId": "conjunctions_wordbank-45-0",
+          "word": "where",
+          "wordPhoneme": "w-eh-r",
+          "wordPhonemesArray": [
+            "w",
+            "eh",
+            "r"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "eh",
+              "vowelSound": "short",
+              "vowelLetter": "E"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "wrb",
+            "posName": "Wh-adverb"
+          },
+          "wordStresses": "1",
+          "documentId": "conjunctions_wordbank",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        }
+      ],
+      "documentId": "conjunctions_wordbank",
+      "phraseCategory": {
+        "phraseCategory1Id": "phraseCategory1",
+        "phraseCategory2Id": "phraseCategory2"
+      },
+      "phraseMetaData": {},
+      "phraseImgData": {
+        "url": ""
+      }
+    },
+    "conjunctions_wordbank-46": {
+      "phraseId": "conjunctions_wordbank-46",
+      "phrase": "whereas",
+      "parsedPhrase": "whereas",
+      "phrasePhonemes": "w-eh-r-ae-z",
+      "phrasePhonemesArray": [
+        "w",
+        "eh",
+        "r",
+        "ae",
+        "z"
+      ],
+      "phraseVowelsArray": [
+        {
+          "vowelPhoneme": "eh",
+          "vowelSound": "short",
+          "vowelLetter": "E"
+        },
+        {
+          "vowelPhoneme": "ae",
+          "vowelSound": "short",
+          "vowelLetter": "A"
+        }
+      ],
+      "phraseWordCount": 1,
+      "phrasePhonemeCount": 2,
+      "phraseLastPhoneme": {
+        "vowelPhoneme": "ae",
+        "vowelSound": "short",
+        "vowelLetter": "A"
+      },
+      "phraseWords": [
+        {
+          "wordId": "conjunctions_wordbank-46-0",
+          "word": "whereas",
+          "wordPhoneme": "w-eh-r-ae-z",
+          "wordPhonemesArray": [
+            "w",
+            "eh",
+            "r",
+            "ae",
+            "z"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "eh",
+              "vowelSound": "short",
+              "vowelLetter": "E"
+            },
+            {
+              "vowelPhoneme": "ae",
+              "vowelSound": "short",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 2,
+          "wordPosTag": {
+            "posTag": "in",
+            "posName": "Preposition or subordinating conjunction"
+          },
+          "wordStresses": "0/1",
+          "documentId": "conjunctions_wordbank",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        }
+      ],
+      "documentId": "conjunctions_wordbank",
+      "phraseCategory": {
+        "phraseCategory1Id": "phraseCategory1",
+        "phraseCategory2Id": "phraseCategory2"
+      },
+      "phraseMetaData": {},
+      "phraseImgData": {
+        "url": ""
+      }
+    },
+    "conjunctions_wordbank-47": {
+      "phraseId": "conjunctions_wordbank-47",
+      "phrase": "wherever",
+      "parsedPhrase": "wherever",
+      "phrasePhonemes": "w-eh-r-eh-v-er",
+      "phrasePhonemesArray": [
+        "w",
+        "eh",
+        "r",
+        "eh",
+        "v",
+        "er"
+      ],
+      "phraseVowelsArray": [
+        {
+          "vowelPhoneme": "eh",
+          "vowelSound": "short",
+          "vowelLetter": "E"
+        },
+        {
+          "vowelPhoneme": "eh",
+          "vowelSound": "short",
+          "vowelLetter": "E"
+        },
+        {
+          "vowelPhoneme": "er",
+          "vowelSound": "long",
+          "vowelLetter": "E"
+        }
+      ],
+      "phraseWordCount": 1,
+      "phrasePhonemeCount": 3,
+      "phraseLastPhoneme": {
+        "vowelPhoneme": "er",
+        "vowelSound": "long",
+        "vowelLetter": "E"
+      },
+      "phraseWords": [
+        {
+          "wordId": "conjunctions_wordbank-47-0",
+          "word": "wherever",
+          "wordPhoneme": "w-eh-r-eh-v-er",
+          "wordPhonemesArray": [
+            "w",
+            "eh",
+            "r",
+            "eh",
+            "v",
+            "er"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "eh",
+              "vowelSound": "short",
+              "vowelLetter": "E"
+            },
+            {
+              "vowelPhoneme": "eh",
+              "vowelSound": "short",
+              "vowelLetter": "E"
+            },
+            {
+              "vowelPhoneme": "er",
+              "vowelSound": "long",
+              "vowelLetter": "E"
+            }
+          ],
+          "wordPhonemeCount": 3,
+          "wordPosTag": {
+            "posTag": "wrb",
+            "posName": "Wh-adverb"
+          },
+          "wordStresses": "0/1/0",
+          "documentId": "conjunctions_wordbank",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        }
+      ],
+      "documentId": "conjunctions_wordbank",
+      "phraseCategory": {
+        "phraseCategory1Id": "phraseCategory1",
+        "phraseCategory2Id": "phraseCategory2"
+      },
+      "phraseMetaData": {},
+      "phraseImgData": {
+        "url": ""
+      }
+    },
+    "conjunctions_wordbank-48": {
+      "phraseId": "conjunctions_wordbank-48",
+      "phrase": "whether",
+      "parsedPhrase": "whether",
+      "phrasePhonemes": "w-eh-dh-er",
+      "phrasePhonemesArray": [
+        "w",
+        "eh",
+        "dh",
+        "er"
+      ],
+      "phraseVowelsArray": [
+        {
+          "vowelPhoneme": "eh",
+          "vowelSound": "short",
+          "vowelLetter": "E"
+        },
+        {
+          "vowelPhoneme": "er",
+          "vowelSound": "long",
+          "vowelLetter": "E"
+        }
+      ],
+      "phraseWordCount": 1,
+      "phrasePhonemeCount": 2,
+      "phraseLastPhoneme": {
+        "vowelPhoneme": "er",
+        "vowelSound": "long",
+        "vowelLetter": "E"
+      },
+      "phraseWords": [
+        {
+          "wordId": "conjunctions_wordbank-48-0",
+          "word": "whether",
+          "wordPhoneme": "w-eh-dh-er",
+          "wordPhonemesArray": [
+            "w",
+            "eh",
+            "dh",
+            "er"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "eh",
+              "vowelSound": "short",
+              "vowelLetter": "E"
+            },
+            {
+              "vowelPhoneme": "er",
+              "vowelSound": "long",
+              "vowelLetter": "E"
+            }
+          ],
+          "wordPhonemeCount": 2,
+          "wordPosTag": {
+            "posTag": "in",
+            "posName": "Preposition or subordinating conjunction"
+          },
+          "wordStresses": "1/0",
+          "documentId": "conjunctions_wordbank",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        }
+      ],
+      "documentId": "conjunctions_wordbank",
+      "phraseCategory": {
+        "phraseCategory1Id": "phraseCategory1",
+        "phraseCategory2Id": "phraseCategory2"
+      },
+      "phraseMetaData": {},
+      "phraseImgData": {
+        "url": ""
+      }
+    },
+    "conjunctions_wordbank-49": {
+      "phraseId": "conjunctions_wordbank-49",
+      "phrase": "while",
+      "parsedPhrase": "while",
+      "phrasePhonemes": "w-ay-l",
+      "phrasePhonemesArray": [
+        "w",
+        "ay",
+        "l"
+      ],
+      "phraseVowelsArray": [
+        {
+          "vowelPhoneme": "ay",
+          "vowelSound": "long",
+          "vowelLetter": "I"
+        }
+      ],
+      "phraseWordCount": 1,
+      "phrasePhonemeCount": 1,
+      "phraseLastPhoneme": {
+        "vowelPhoneme": "ay",
+        "vowelSound": "long",
+        "vowelLetter": "I"
+      },
+      "phraseWords": [
+        {
+          "wordId": "conjunctions_wordbank-49-0",
+          "word": "while",
+          "wordPhoneme": "w-ay-l",
+          "wordPhonemesArray": [
+            "w",
+            "ay",
+            "l"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ay",
+              "vowelSound": "long",
+              "vowelLetter": "I"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "in",
+            "posName": "Preposition or subordinating conjunction"
+          },
+          "wordStresses": "1",
+          "documentId": "conjunctions_wordbank",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        }
+      ],
+      "documentId": "conjunctions_wordbank",
+      "phraseCategory": {
+        "phraseCategory1Id": "phraseCategory1",
+        "phraseCategory2Id": "phraseCategory2"
+      },
+      "phraseMetaData": {},
+      "phraseImgData": {
+        "url": ""
+      }
+    },
+    "conjunctions_wordbank-50": {
+      "phraseId": "conjunctions_wordbank-50",
+      "phrase": "yet",
+      "parsedPhrase": "yet",
+      "phrasePhonemes": "y-eh-t",
+      "phrasePhonemesArray": [
+        "y",
+        "eh",
+        "t"
+      ],
+      "phraseVowelsArray": [
+        {
+          "vowelPhoneme": "eh",
+          "vowelSound": "short",
+          "vowelLetter": "E"
+        }
+      ],
+      "phraseWordCount": 1,
+      "phrasePhonemeCount": 1,
+      "phraseLastPhoneme": {
+        "vowelPhoneme": "eh",
+        "vowelSound": "short",
+        "vowelLetter": "E"
+      },
+      "phraseWords": [
+        {
+          "wordId": "conjunctions_wordbank-50-0",
+          "word": "yet",
+          "wordPhoneme": "y-eh-t",
+          "wordPhonemesArray": [
+            "y",
+            "eh",
+            "t"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "eh",
+              "vowelSound": "short",
+              "vowelLetter": "E"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "rb",
+            "posName": "Adverb"
+          },
+          "wordStresses": "1",
+          "documentId": "conjunctions_wordbank",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        }
+      ],
+      "documentId": "conjunctions_wordbank",
+      "phraseCategory": {
+        "phraseCategory1Id": "phraseCategory1",
+        "phraseCategory2Id": "phraseCategory2"
+      },
+      "phraseMetaData": {},
+      "phraseImgData": {
+        "url": ""
+      }
+    }
+  }
+}

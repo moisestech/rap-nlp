@@ -1,0 +1,986 @@
+{
+  "filename": "top100_movie_quotes_2016",
+  "title": "Top 100 Movies 2016",
+  "documentId": "top100_Movies_2016",
+  "phrases": [{
+    "phrase": "",
+    "phraseToParse": "Life isn't some cartoon musical where your insipid dreams magically come true",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {
+      "movie": "Zootopia",
+      "rating": "98%"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {
+      "movie": "The Jungle Book",
+      "rating": "95%"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {
+      "movie": "Love and Friendship",
+      "rating": "98%"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {
+      "movie": "Hunt for the Wilder people",
+      "rating": "99%"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {
+      "movie": "Finding Dory",
+      "rating": "94%"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {
+      "movie": "Hell or High Water",
+      "rating": "98%"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {
+      "movie": "Captain America Civil War",
+      "rating": "90%"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {
+      "movie": "Sing Street",
+      "rating": "97%"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {
+      "movie": "Don't Think Twice",
+      "rating": "99%"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {
+      "movie": "Embrace Of The Serpent",
+      "rating": "98%"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {
+      "movie": "Eye In The Sky",
+      "rating": "95%"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {
+      "movie": "Only Yesterday",
+      "rating": "100%"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {
+      "movie": "The Wailing",
+      "rating": "100%"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {
+      "movie": "Kubo and the Two Strings",
+      "rating": "96%"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {
+      "movie": "The Witch",
+      "rating": "91%"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {
+      "movie": "Weiner",
+      "rating": "96%"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {
+      "movie": "The Nice Guys",
+      "rating": "91%"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {
+      "movie": "Ten Cloverfield Lane",
+      "rating": "90%"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {
+      "movie": "Little Men",
+      "rating": "97%"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {
+      "movie": "April and the Extraordinary World",
+      "rating": "98% "
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {
+      "movie": "Marguerite",
+      "rating": "96%"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {
+      "movie": "Cemetery of Splendor",
+      "rating": "97%"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {
+      "movie": "Dark Horse",
+      "rating": "97%"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {
+      "movie": "Aferim",
+      "rating": "98%"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {
+      "movie": "Almost Holy",
+      "rating": "98%"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {
+      "movie": "The Dark Horse",
+      "rating": "97%"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {
+      "movie": "The Fits",
+      "rating": "97%"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {
+      "movie": "Krisha",
+      "rating": "97%"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {
+      "movie": "Green Room",
+      "rating": "91%"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {
+      "movie": "Rams",
+      "rating": "95%"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {
+      "movie": "Tickled",
+      "rating": "95%"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {
+      "movie": "De Palma",
+      "rating": "95%"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {
+      "movie": "Gleason",
+      "rating": "96%"
+    }
+  }, {
+    "phrase": "The Lobster",
+    "phraseToParse": "The Lobster",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {
+      "movie": "",
+      "rating": "90%"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {
+      "movie": "Hail, Caesar",
+      "rating": "85%"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {
+      "movie": "Nuts",
+      "rating": "95%"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {
+      "movie": "Southside With You",
+      "rating": "92%"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {
+      "movie": "The Little Prince",
+      "rating": "93%"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {
+      "movie": "Lo and Behold, Reveries of the Connected World",
+      "rating": "93%"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {
+      "movie": "A Bigger Splash",
+      "rating": "90%"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {
+      "movie": "Our Little Sister",
+      "rating": "92% "
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {
+      "movie": "Life Animated",
+      "rating": "93%"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {
+      "movie": "Deadpool",
+      "rating": "84%"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {
+      "movie": "The Innocents",
+      "rating": "93%"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {
+      "movie": "The Last Man On The Moon",
+      "rating": "93%"
+    }
+  }, {
+    "phrase": "",
+    "phraseToParse": "",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {
+      "movie": "Everybody Wants Some",
+      "rating": "87%"
+    }
+  }, {
+    "phrase": "Pete's Dragon",
+    "phraseToParse": "Pete's Dragon",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {
+      "movie": "",
+      "rating": "87%"
+    }
+  }, {
+    "phrase": "The Measure of a Man",
+    "phraseToParse": "The Measure of a Man",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {
+      "movie": "",
+      "rating": "92%"
+    }
+  }, {
+    "phrase": "A War",
+    "phraseToParse": "A War",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {
+      "movie": "",
+      "rating": "91%"
+    }
+  }, {
+    "phrase": "The Witness",
+    "phraseToParse": "The Witness",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {
+      "movie": "",
+      "rating": "92%"
+    }
+  }, {
+    "phrase": "Florence Foster Jenkins",
+    "phraseToParse": "Florence Foster Jenkins",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {
+      "movie": "",
+      "rating": "87%"
+    }
+  }, {
+    "phrase": "Barbershop The Next Cut",
+    "phraseToParse": "Barbershop The Next Cut",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {
+      "movie": "",
+      "rating": "90%"
+    }
+  }, {
+    "phrase": "Eat That Question",
+    "phraseToParse": "Eat That Question",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {
+      "movie": "",
+      "rating": "91%"
+    }
+  }, {
+    "phrase": "Dheepan",
+    "phraseToParse": "Dheepan",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {
+      "movie": "",
+      "rating": "89%"
+    }
+  }, {
+    "phrase": "The Clan",
+    "phraseToParse": "The Clan",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {
+      "movie": "",
+      "rating": "91%"
+    }
+  }, {
+    "phrase": "City Of Gold",
+    "phraseToParse": "City Of Gold",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {
+      "movie": "",
+      "rating": "91%"
+    }
+  }, {
+    "phrase": "Kung Fu Panda",
+    "phraseToParse": "Kung Fu Panda",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {
+      "movie": "",
+      "rating": "87%"
+    }
+  }, {
+    "phrase": "Morris from America",
+    "phraseToParse": "Morris from America",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {
+      "movie": "",
+      "rating": "90%"
+    }
+  }, {
+    "phrase": "Summertime",
+    "phraseToParse": "Summertime",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {
+      "movie": "",
+      "rating": "83%"
+    }
+  }, {
+    "phrase": "Star Trek Beyond",
+    "phraseToParse": "Star Trek Beyond",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {
+      "movie": "",
+      "rating": "90%"
+    }
+  }, {
+    "phrase": "Microbe and Gasoline",
+    "phraseToParse": "Microbe and Gasoline",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {
+      "movie": "",
+      "rating": "88%"
+    }
+  }, {
+    "phrase": "Born To Be Blue",
+    "phraseToParse": "Born To Be Blue",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {
+      "movie": "",
+      "rating": "84%"
+    }
+  }, {
+    "phrase": "Midnight Special",
+    "phraseToParse": "Midnight Special",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {
+      "movie": "",
+      "rating": "86%"
+    }
+  }, {
+    "phrase": "Don't Breathe",
+    "phraseToParse": "Don't Breathe",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {
+      "movie": "",
+      "rating": "86%"
+    }
+  }, {
+    "phrase": "Maggie's Plan",
+    "phraseToParse": "Maggie's Plan",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {
+      "movie": "",
+      "rating": "88%"
+    }
+  }, {
+    "phrase": "The Invitation",
+    "phraseToParse": "The Invitation",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {
+      "movie": "",
+      "rating": "89%"
+    }
+  }, {
+    "phrase": "The Boy And The Beast",
+    "phraseToParse": "The Boy And The Beast",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {
+      "movie": "",
+      "rating": "89%"
+    }
+  }, {
+    "phrase": "Mountains May Depart",
+    "phraseToParse": "Mountains May Depart",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {
+      "movie": "",
+      "rating": "88%"
+    }
+  }, {
+    "phrase": "Mia Madre",
+    "phraseToParse": "Mia Madre",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {
+      "movie": "",
+      "rating": ""
+    }
+  }, {
+    "phrase": "The Club",
+    "phraseToParse": "The Club",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {
+      "movie": "",
+      "rating": "87%"
+    }
+  }, {
+    "phrase": "The Childhood of a Leader",
+    "phraseToParse": "The Childhood of a Leader",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {
+      "movie": "",
+      "rating": "88%"
+    }
+  }, {
+    "phrase": "My Golden Days",
+    "phraseToParse": "My Golden Days",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {
+      "movie": "",
+      "rating": "88%"
+    }
+  }, {
+    "phrase": "Zero Days",
+    "phraseToParse": "Zero Days",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {
+      "movie": "",
+      "rating": "88%"
+    }
+  }, {
+    "phrase": "Francofonia",
+    "phraseToParse": "Francofonia",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {
+      "movie": "",
+      "rating": "88%"
+    }
+  }, {
+    "phrase": "Raiders",
+    "phraseToParse": "Raiders",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {
+      "movie": "",
+      "rating": "88%"
+    }
+  }, {
+    "phrase": "Sweet Bean",
+    "phraseToParse": "Sweet Bean",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {
+      "movie": "",
+      "rating": "88%"
+    }
+  }, {
+    "phrase": "The Meddler",
+    "phraseToParse": "The Meddler",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {
+      "movie": "",
+      "rating": "84%"
+    }
+  }, {
+    "phrase": "In Order of Disappearance",
+    "phraseToParse": "In Order of Disappearance",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {
+      "movie": "",
+      "rating": "87%"
+    }
+  }, {
+    "phrase": "The Conjuring",
+    "phraseToParse": "The Conjuring",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {
+      "movie": "",
+      "rating": "80%"
+    }
+  }, {
+    "phrase": "Sausage Party",
+    "phraseToParse": "Sausage Party",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {
+      "movie": "",
+      "rating": "82%"
+    }
+  }, {
+    "phrase": "Blood Father",
+    "phraseToParse": "Blood Father",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {
+      "movie": "",
+      "rating": "86%"
+    }
+  }, {
+    "phrase": "Eddie The Eagle",
+    "phraseToParse": "Eddie The Eagle",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {
+      "movie": "",
+      "rating": "80%"
+    }
+  }, {
+    "phrase": "Hello, My Name is Doris",
+    "phraseToParse": "Hello, My Name is Doris",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {
+      "movie": "",
+      "rating": "83%"
+    }
+  }, {
+    "phrase": "Tallulah",
+    "phraseToParse": "Tallulah",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {
+      "movie": "",
+      "rating": "84%"
+    }
+  }, {
+    "phrase": "The Wave",
+    "phraseToParse": "The Wave",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {
+      "movie": "",
+      "rating": "82%"
+    }
+  }, {
+    "phrase": "Tale of Tales",
+    "phraseToParse": "Tale of Tales",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {
+      "movie": "",
+      "rating": "82%"
+    }
+  }, {
+    "phrase": "Ghostbusters",
+    "phraseToParse": "Ghostbusters",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {
+      "movie": "",
+      "rating": "73%"
+    }
+  }, {
+    "phrase": "Where to Invade Next",
+    "phraseToParse": "Where to Invade Next",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {
+      "movie": "",
+      "rating": "78%"
+    }
+  }, {
+    "phrase": "Hockney",
+    "phraseToParse": "Hockney",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {
+      "movie": "",
+      "rating": "83%"
+    }
+  }, {
+    "phrase": "Chevalier",
+    "phraseToParse": "Chevalier",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {
+      "movie": "",
+      "rating": "82%"
+    }
+  }, {
+    "phrase": "The Shallows",
+    "phraseToParse": "The Shallows",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {
+      "movie": "",
+      "rating": "77%"
+    }
+  }, {
+    "phrase": "Captain Fantastic",
+    "phraseToParse": "Captain Fantastic",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {
+      "movie": "",
+      "rating": "79%"
+    }
+  }, {
+    "phrase": "Pee wee's Big Holiday",
+    "phraseToParse": "Pee wee's Big Holiday",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {
+      "movie": "",
+      "rating": "82%"
+    }
+  }, {
+    "phrase": "Indignation",
+    "phraseToParse": "Indignation",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {
+      "movie": "",
+      "rating": "80%"
+    }
+  }, {
+    "phrase": "Equity",
+    "phraseToParse": "Equity",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {
+      "movie": "",
+      "rating": "80%"
+    }
+  }, {
+    "phrase": "Southbound",
+    "phraseToParse": "Southbound",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {
+      "movie": "",
+      "rating": "81%"
+    }
+  }, {
+    "phrase": "Men and Chicken",
+    "phraseToParse": "Men and Chicken",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {
+      "movie": "",
+      "rating": "81%"
+    }
+  }, {
+    "phrase": "Glassland",
+    "phraseToParse": "Glassland",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {
+      "movie": "",
+      "rating": "81%"
+    }
+  }]
+}

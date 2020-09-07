@@ -1,0 +1,863 @@
+{
+  "filename": "geography_wordbank",
+  "title": "Geography Wordbank 2017",
+  "documentId": "geography_wordbank",
+  "phrases": [
+    {
+      "phrase": "",
+      "phraseToParse": "Africa",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "altitude",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "analemma",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "Antarctica",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "Antarctic Circle",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "antipodes",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "Arctic",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "Arctic Circle",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "area",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "Asia",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "atlas",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "Australia",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "azimuth",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "bathymetric map",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "border",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "capital",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "capital city",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "cartographer",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "cartography",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "chart",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "city",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "compass rose",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "continent",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "contour line",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "country",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "degree of latitude",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "degree of longitude",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "Earth",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "east",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "Eastern Hemisphere",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "elevation",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "equator",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "Europe",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "geographic coordinates",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "geography",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "global",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "globe",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "GPS",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "great circle",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "hemisphere",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "IDL",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "International Date Line",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "island",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "key",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "kilometers",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "land",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "landform",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "latitude",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "legend",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "longitude",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "magnetic pole",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "map",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "map maker",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "map making",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "map projection",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "Mercator Projection",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "meridian",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "miles",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "mountain",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "mountain range",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "nation",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "nautical chart",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "north",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "northeast",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "Northern Hemisphere",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "northwest",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "North America",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "North Magnetic Pole",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "North Pole",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "ocean",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "parallel",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "peak",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "pole",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "political map",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "prime meridian",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "projection",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "ratio",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "region",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "relief map",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "river",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "road atlas",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "rose",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "scale",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "scale bar",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "sea",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "sea level",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "south",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "southeast",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "southwest",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "South America",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "Southern Hemisphere",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "South Magnetic Pole",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "South Pole",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "street map",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "territory",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "time zone",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "title",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "topographic map",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "topography",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "tributary",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "Tropic of Cancer",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "Tropic of Capricorn",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "tropics",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "weather map",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "west",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "Western Hemisphere",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "world",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    }
+  ]
+}

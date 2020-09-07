@@ -1,0 +1,1759 @@
+{
+  "filename": "driving_wordbank",
+  "title": "Driving Wordbank 2017",
+  "documentId": "driving_wordbank",
+  "phrases": [
+    {
+      "phrase": "",
+      "phraseToParse": "accelerate",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "accelerator",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "accident",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "airbag",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "alley",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "arterial road",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "asphalt",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "auto",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "automatic transmission",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "automobile",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "avenue",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "back up",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "back seat",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "back seat driver",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "barrier",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "bicycle",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "bike",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "boulevard",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "brakes",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "bridge",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "bus",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "car",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "carpool",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "carpool lane",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "causeway",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "caution",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "chauffeur",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "circle",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "cloverleaf",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "clutch",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "cobblestone",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "construction",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "court",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "crash",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "cruise control",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "cul de sac",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "curve",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "danger",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "dead end",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "defensive driving",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "dent",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "detour",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "diamond lane",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "dirt road",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "do not enter sign",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "double parked",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "drive",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "driver",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "driver's ed",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "driver's education",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "driver's license",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "driveway",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "electric car",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "emergency",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "emission",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "entrance ramp",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "exhaust",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "exit",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "exit ramp",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "expressway",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "fast",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "fast lane",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "fender",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "fill it up",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "flat bed truck",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "flat tire",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "freeway",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "fuel",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "fuel efficiency",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "fuel tank",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "garage",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "gas",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "gasoline",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "gas tank",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "gear",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "gearshift",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "global positioning system",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "go",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "GPS",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "gravel road",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "green light",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "gridlock",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "gutter",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "hairpin curve",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "headlights",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "high beam",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "high occupancy vehicle lane",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "high octane gas",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "highway",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "highway patrol",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "hill",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "HOV lane",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "hybrid",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "idling",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "impact",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "indicator",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "insurance",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "interchange",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "intersection",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "interstate highway",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "jackknifing",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "kilometer",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "kilometers per hour",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "kph",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "lane",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "learner's permit",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "left turn",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "license",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "lights",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "loop",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "low beam",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "manual transmission",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "map",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "mass transit",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "merge",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "mile",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "mile marker",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "miles per gallon",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "miles per hour",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "motor",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "motorcycle",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "motorway",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "mph",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "no parking",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "no stopping",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "oil",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "oncoming traffic",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "one way",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "overpass",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "parallel parking",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "park",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "parking lot",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "parking meter",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "parking spot",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "parking ticket",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "parkway",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "pass",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "pavement",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "pedal",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "pedestrian",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "pedestrian crossing",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "police",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "pot hole",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "railroad crossing",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "ramp",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "red light",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "registration",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "rest area",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "rest stop",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "reverse",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "ride",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "right turn",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "road",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "road closed",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "road crew",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "road rage",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "road trip",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "roadway",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "rollover",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "roundabout",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "rush hour",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "safety",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "scenery",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "scenic route",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "school zone",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "s curve",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "seatbelt",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "semi",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "shoulder",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "sidewalk",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "sign",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "skid",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "slow",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "snow plow",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "speed",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "speed bump",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "speed limit",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "speeding",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "speeding ticket",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "speedometer",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "state patrol",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "steer",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "steering wheel",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "stop",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "stop sign",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "street",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "street sign",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "superhighway",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "SUV",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "switchbacks",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "terrace",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "test drive",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "ticket",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "tire",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "toll",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "toll road",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "tow truck",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "traffic",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "traffic jam",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "traffic light",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "traffic sign",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "transmission",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "transportation",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "truck",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "truck route",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "truck stop",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "tunnel",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "turn",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "turn signal",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "under construction",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "underpass",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "u turn",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "van pool",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "vehicle",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "warning",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "wide load",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "yellow light",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "yield",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "zebra crossing",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    }
+  ]
+}

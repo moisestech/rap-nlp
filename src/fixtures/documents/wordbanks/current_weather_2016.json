@@ -1,0 +1,16 @@
+{
+  "filename": "current_weather_2016",
+  "title": "Current Weather 2016",
+  "documentId": "current_weather_2016",
+  "website": "",
+  "phrases": [{
+    "phrase": "",
+    "phraseToParse": "",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {
+      "": ""
+    }
+  }]
+}

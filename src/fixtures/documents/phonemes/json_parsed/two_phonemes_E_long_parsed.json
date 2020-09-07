@@ -1,0 +1,1027 @@
+{
+  "title": "Two Phonemes E Long",
+  "phrases": {
+    "two_phonemes_E_long-0": {
+      "phraseId": "two_phonemes_E_long-0",
+      "phrase": "Brain freeze",
+      "parsedPhrase": "Brain freeze",
+      "phrasePhonemes": "b-r-ey-n f-r-iy-z",
+      "phrasePhonemesArray": [
+        "b",
+        "r",
+        "ey",
+        "n",
+        "f",
+        "r",
+        "iy",
+        "z"
+      ],
+      "phraseVowelsArray": [
+        {
+          "vowelPhoneme": "ey",
+          "vowelSound": "long",
+          "vowelLetter": "A"
+        },
+        {
+          "vowelPhoneme": "iy",
+          "vowelSound": "short",
+          "vowelLetter": "I"
+        }
+      ],
+      "phraseWordCount": 2,
+      "phrasePhonemeCount": 2,
+      "phraseLastPhoneme": {
+        "vowelPhoneme": "iy",
+        "vowelSound": "short",
+        "vowelLetter": "I"
+      },
+      "phraseWords": [
+        {
+          "wordId": "two_phonemes_E_long-0-0",
+          "word": "Brain",
+          "wordPhoneme": "b-r-ey-n",
+          "wordPhonemesArray": [
+            "b",
+            "r",
+            "ey",
+            "n"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ey",
+              "vowelSound": "long",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "nnp",
+            "posName": "Proper noun, singular"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_E_long",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        },
+        {
+          "wordId": "two_phonemes_E_long-0-1",
+          "word": "freeze",
+          "wordPhoneme": "f-r-iy-z",
+          "wordPhonemesArray": [
+            "f",
+            "r",
+            "iy",
+            "z"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "iy",
+              "vowelSound": "short",
+              "vowelLetter": "I"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "nn",
+            "posName": "Noun, singular or mass"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_E_long",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        }
+      ],
+      "documentId": "two_phonemes_E_long",
+      "phraseCategory": {
+        "phraseCategory1Id": "phraseCategory1",
+        "phraseCategory2Id": "phraseCategory2"
+      },
+      "phraseMetaData": {},
+      "phraseImgData": {
+        "url": ""
+      }
+    },
+    "two_phonemes_E_long-1": {
+      "phraseId": "two_phonemes_E_long-1",
+      "phrase": "Break dreams",
+      "parsedPhrase": "Break dreams",
+      "phrasePhonemes": "b-r-ey-k d-r-iy-m-z",
+      "phrasePhonemesArray": [
+        "b",
+        "r",
+        "ey",
+        "k",
+        "d",
+        "r",
+        "iy",
+        "m",
+        "z"
+      ],
+      "phraseVowelsArray": [
+        {
+          "vowelPhoneme": "ey",
+          "vowelSound": "long",
+          "vowelLetter": "A"
+        },
+        {
+          "vowelPhoneme": "iy",
+          "vowelSound": "short",
+          "vowelLetter": "I"
+        }
+      ],
+      "phraseWordCount": 2,
+      "phrasePhonemeCount": 2,
+      "phraseLastPhoneme": {
+        "vowelPhoneme": "iy",
+        "vowelSound": "short",
+        "vowelLetter": "I"
+      },
+      "phraseWords": [
+        {
+          "wordId": "two_phonemes_E_long-1-0",
+          "word": "Break",
+          "wordPhoneme": "b-r-ey-k",
+          "wordPhonemesArray": [
+            "b",
+            "r",
+            "ey",
+            "k"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ey",
+              "vowelSound": "long",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "vb",
+            "posName": "Verb, base form"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_E_long",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        },
+        {
+          "wordId": "two_phonemes_E_long-1-1",
+          "word": "dreams",
+          "wordPhoneme": "d-r-iy-m-z",
+          "wordPhonemesArray": [
+            "d",
+            "r",
+            "iy",
+            "m",
+            "z"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "iy",
+              "vowelSound": "short",
+              "vowelLetter": "I"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "nns",
+            "posName": "Noun, plural"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_E_long",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        }
+      ],
+      "documentId": "two_phonemes_E_long",
+      "phraseCategory": {
+        "phraseCategory1Id": "phraseCategory1",
+        "phraseCategory2Id": "phraseCategory2"
+      },
+      "phraseMetaData": {},
+      "phraseImgData": {
+        "url": ""
+      }
+    },
+    "two_phonemes_E_long-2": {
+      "phraseId": "two_phonemes_E_long-2",
+      "phrase": "Claim these",
+      "parsedPhrase": "Claim these",
+      "phrasePhonemes": "k-l-ey-m dh-iy-z",
+      "phrasePhonemesArray": [
+        "k",
+        "l",
+        "ey",
+        "m",
+        "dh",
+        "iy",
+        "z"
+      ],
+      "phraseVowelsArray": [
+        {
+          "vowelPhoneme": "ey",
+          "vowelSound": "long",
+          "vowelLetter": "A"
+        },
+        {
+          "vowelPhoneme": "iy",
+          "vowelSound": "short",
+          "vowelLetter": "I"
+        }
+      ],
+      "phraseWordCount": 2,
+      "phrasePhonemeCount": 2,
+      "phraseLastPhoneme": {
+        "vowelPhoneme": "iy",
+        "vowelSound": "short",
+        "vowelLetter": "I"
+      },
+      "phraseWords": [
+        {
+          "wordId": "two_phonemes_E_long-2-0",
+          "word": "Claim",
+          "wordPhoneme": "k-l-ey-m",
+          "wordPhonemesArray": [
+            "k",
+            "l",
+            "ey",
+            "m"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ey",
+              "vowelSound": "long",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "nnp",
+            "posName": "Proper noun, singular"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_E_long",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        },
+        {
+          "wordId": "two_phonemes_E_long-2-1",
+          "word": "these",
+          "wordPhoneme": "dh-iy-z",
+          "wordPhonemesArray": [
+            "dh",
+            "iy",
+            "z"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "iy",
+              "vowelSound": "short",
+              "vowelLetter": "I"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "dt",
+            "posName": "Determiner"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_E_long",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        }
+      ],
+      "documentId": "two_phonemes_E_long",
+      "phraseCategory": {
+        "phraseCategory1Id": "phraseCategory1",
+        "phraseCategory2Id": "phraseCategory2"
+      },
+      "phraseMetaData": {},
+      "phraseImgData": {
+        "url": ""
+      }
+    },
+    "two_phonemes_E_long-3": {
+      "phraseId": "two_phonemes_E_long-3",
+      "phrase": "Lame tease",
+      "parsedPhrase": "Lame tease",
+      "phrasePhonemes": "l-ey-m t-iy-z",
+      "phrasePhonemesArray": [
+        "l",
+        "ey",
+        "m",
+        "t",
+        "iy",
+        "z"
+      ],
+      "phraseVowelsArray": [
+        {
+          "vowelPhoneme": "ey",
+          "vowelSound": "long",
+          "vowelLetter": "A"
+        },
+        {
+          "vowelPhoneme": "iy",
+          "vowelSound": "short",
+          "vowelLetter": "I"
+        }
+      ],
+      "phraseWordCount": 2,
+      "phrasePhonemeCount": 2,
+      "phraseLastPhoneme": {
+        "vowelPhoneme": "iy",
+        "vowelSound": "short",
+        "vowelLetter": "I"
+      },
+      "phraseWords": [
+        {
+          "wordId": "two_phonemes_E_long-3-0",
+          "word": "Lame",
+          "wordPhoneme": "l-ey-m",
+          "wordPhonemesArray": [
+            "l",
+            "ey",
+            "m"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ey",
+              "vowelSound": "long",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "jj",
+            "posName": "Adjective"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_E_long",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        },
+        {
+          "wordId": "two_phonemes_E_long-3-1",
+          "word": "tease",
+          "wordPhoneme": "t-iy-z",
+          "wordPhonemesArray": [
+            "t",
+            "iy",
+            "z"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "iy",
+              "vowelSound": "short",
+              "vowelLetter": "I"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "vb",
+            "posName": "Verb, base form"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_E_long",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        }
+      ],
+      "documentId": "two_phonemes_E_long",
+      "phraseCategory": {
+        "phraseCategory1Id": "phraseCategory1",
+        "phraseCategory2Id": "phraseCategory2"
+      },
+      "phraseMetaData": {},
+      "phraseImgData": {
+        "url": ""
+      }
+    },
+    "two_phonemes_E_long-4": {
+      "phraseId": "two_phonemes_E_long-4",
+      "phrase": "Main squeeze",
+      "parsedPhrase": "Main squeeze",
+      "phrasePhonemes": "m-ey-n s-k-w-iy-z",
+      "phrasePhonemesArray": [
+        "m",
+        "ey",
+        "n",
+        "s",
+        "k",
+        "w",
+        "iy",
+        "z"
+      ],
+      "phraseVowelsArray": [
+        {
+          "vowelPhoneme": "ey",
+          "vowelSound": "long",
+          "vowelLetter": "A"
+        },
+        {
+          "vowelPhoneme": "iy",
+          "vowelSound": "short",
+          "vowelLetter": "I"
+        }
+      ],
+      "phraseWordCount": 2,
+      "phrasePhonemeCount": 2,
+      "phraseLastPhoneme": {
+        "vowelPhoneme": "iy",
+        "vowelSound": "short",
+        "vowelLetter": "I"
+      },
+      "phraseWords": [
+        {
+          "wordId": "two_phonemes_E_long-4-0",
+          "word": "Main",
+          "wordPhoneme": "m-ey-n",
+          "wordPhonemesArray": [
+            "m",
+            "ey",
+            "n"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ey",
+              "vowelSound": "long",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "jj",
+            "posName": "Adjective"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_E_long",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        },
+        {
+          "wordId": "two_phonemes_E_long-4-1",
+          "word": "squeeze",
+          "wordPhoneme": "s-k-w-iy-z",
+          "wordPhonemesArray": [
+            "s",
+            "k",
+            "w",
+            "iy",
+            "z"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "iy",
+              "vowelSound": "short",
+              "vowelLetter": "I"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "nn",
+            "posName": "Noun, singular or mass"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_E_long",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        }
+      ],
+      "documentId": "two_phonemes_E_long",
+      "phraseCategory": {
+        "phraseCategory1Id": "phraseCategory1",
+        "phraseCategory2Id": "phraseCategory2"
+      },
+      "phraseMetaData": {},
+      "phraseImgData": {
+        "url": ""
+      }
+    },
+    "two_phonemes_E_long-5": {
+      "phraseId": "two_phonemes_E_long-5",
+      "phrase": "Make cheese",
+      "parsedPhrase": "Make cheese",
+      "phrasePhonemes": "m-ey-k ch-iy-z",
+      "phrasePhonemesArray": [
+        "m",
+        "ey",
+        "k",
+        "ch",
+        "iy",
+        "z"
+      ],
+      "phraseVowelsArray": [
+        {
+          "vowelPhoneme": "ey",
+          "vowelSound": "long",
+          "vowelLetter": "A"
+        },
+        {
+          "vowelPhoneme": "iy",
+          "vowelSound": "short",
+          "vowelLetter": "I"
+        }
+      ],
+      "phraseWordCount": 2,
+      "phrasePhonemeCount": 2,
+      "phraseLastPhoneme": {
+        "vowelPhoneme": "iy",
+        "vowelSound": "short",
+        "vowelLetter": "I"
+      },
+      "phraseWords": [
+        {
+          "wordId": "two_phonemes_E_long-5-0",
+          "word": "Make",
+          "wordPhoneme": "m-ey-k",
+          "wordPhonemesArray": [
+            "m",
+            "ey",
+            "k"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ey",
+              "vowelSound": "long",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "vb",
+            "posName": "Verb, base form"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_E_long",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        },
+        {
+          "wordId": "two_phonemes_E_long-5-1",
+          "word": "cheese",
+          "wordPhoneme": "ch-iy-z",
+          "wordPhonemesArray": [
+            "ch",
+            "iy",
+            "z"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "iy",
+              "vowelSound": "short",
+              "vowelLetter": "I"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "nn",
+            "posName": "Noun, singular or mass"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_E_long",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        }
+      ],
+      "documentId": "two_phonemes_E_long",
+      "phraseCategory": {
+        "phraseCategory1Id": "phraseCategory1",
+        "phraseCategory2Id": "phraseCategory2"
+      },
+      "phraseMetaData": {},
+      "phraseImgData": {
+        "url": ""
+      }
+    },
+    "two_phonemes_E_long-6": {
+      "phraseId": "two_phonemes_E_long-6",
+      "phrase": "Plain tee's",
+      "parsedPhrase": "Plain tees",
+      "phrasePhonemes": "p-l-ey-n t-iy-z",
+      "phrasePhonemesArray": [
+        "p",
+        "l",
+        "ey",
+        "n",
+        "t",
+        "iy",
+        "z"
+      ],
+      "phraseVowelsArray": [
+        {
+          "vowelPhoneme": "ey",
+          "vowelSound": "long",
+          "vowelLetter": "A"
+        },
+        {
+          "vowelPhoneme": "iy",
+          "vowelSound": "short",
+          "vowelLetter": "I"
+        }
+      ],
+      "phraseWordCount": 2,
+      "phrasePhonemeCount": 2,
+      "phraseLastPhoneme": {
+        "vowelPhoneme": "iy",
+        "vowelSound": "short",
+        "vowelLetter": "I"
+      },
+      "phraseWords": [
+        {
+          "wordId": "two_phonemes_E_long-6-0",
+          "word": "Plain",
+          "wordPhoneme": "p-l-ey-n",
+          "wordPhonemesArray": [
+            "p",
+            "l",
+            "ey",
+            "n"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ey",
+              "vowelSound": "long",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "jj",
+            "posName": "Adjective"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_E_long",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        },
+        {
+          "wordId": "two_phonemes_E_long-6-1",
+          "word": "tees",
+          "wordPhoneme": "t-iy-z",
+          "wordPhonemesArray": [
+            "t",
+            "iy",
+            "z"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "iy",
+              "vowelSound": "short",
+              "vowelLetter": "I"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "nns",
+            "posName": "Noun, plural"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_E_long",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        }
+      ],
+      "documentId": "two_phonemes_E_long",
+      "phraseCategory": {
+        "phraseCategory1Id": "phraseCategory1",
+        "phraseCategory2Id": "phraseCategory2"
+      },
+      "phraseMetaData": {},
+      "phraseImgData": {
+        "url": ""
+      }
+    },
+    "two_phonemes_E_long-7": {
+      "phraseId": "two_phonemes_E_long-7",
+      "phrase": "Say please",
+      "parsedPhrase": "Say please",
+      "phrasePhonemes": "s-ey p-l-iy-z",
+      "phrasePhonemesArray": [
+        "s",
+        "ey",
+        "p",
+        "l",
+        "iy",
+        "z"
+      ],
+      "phraseVowelsArray": [
+        {
+          "vowelPhoneme": "ey",
+          "vowelSound": "long",
+          "vowelLetter": "A"
+        },
+        {
+          "vowelPhoneme": "iy",
+          "vowelSound": "short",
+          "vowelLetter": "I"
+        }
+      ],
+      "phraseWordCount": 2,
+      "phrasePhonemeCount": 2,
+      "phraseLastPhoneme": {
+        "vowelPhoneme": "iy",
+        "vowelSound": "short",
+        "vowelLetter": "I"
+      },
+      "phraseWords": [
+        {
+          "wordId": "two_phonemes_E_long-7-0",
+          "word": "Say",
+          "wordPhoneme": "s-ey",
+          "wordPhonemesArray": [
+            "s",
+            "ey"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ey",
+              "vowelSound": "long",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "vbp",
+            "posName": "Verb, non-3rd person singular present"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_E_long",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        },
+        {
+          "wordId": "two_phonemes_E_long-7-1",
+          "word": "please",
+          "wordPhoneme": "p-l-iy-z",
+          "wordPhonemesArray": [
+            "p",
+            "l",
+            "iy",
+            "z"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "iy",
+              "vowelSound": "short",
+              "vowelLetter": "I"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "vb",
+            "posName": "Verb, base form"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_E_long",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        }
+      ],
+      "documentId": "two_phonemes_E_long",
+      "phraseCategory": {
+        "phraseCategory1Id": "phraseCategory1",
+        "phraseCategory2Id": "phraseCategory2"
+      },
+      "phraseMetaData": {},
+      "phraseImgData": {
+        "url": ""
+      }
+    },
+    "two_phonemes_E_long-8": {
+      "phraseId": "two_phonemes_E_long-8",
+      "phrase": "Spray grease",
+      "parsedPhrase": "Spray grease",
+      "phrasePhonemes": "s-p-r-ey g-r-iy-s",
+      "phrasePhonemesArray": [
+        "s",
+        "p",
+        "r",
+        "ey",
+        "g",
+        "r",
+        "iy",
+        "s"
+      ],
+      "phraseVowelsArray": [
+        {
+          "vowelPhoneme": "ey",
+          "vowelSound": "long",
+          "vowelLetter": "A"
+        },
+        {
+          "vowelPhoneme": "iy",
+          "vowelSound": "short",
+          "vowelLetter": "I"
+        }
+      ],
+      "phraseWordCount": 2,
+      "phrasePhonemeCount": 2,
+      "phraseLastPhoneme": {
+        "vowelPhoneme": "iy",
+        "vowelSound": "short",
+        "vowelLetter": "I"
+      },
+      "phraseWords": [
+        {
+          "wordId": "two_phonemes_E_long-8-0",
+          "word": "Spray",
+          "wordPhoneme": "s-p-r-ey",
+          "wordPhonemesArray": [
+            "s",
+            "p",
+            "r",
+            "ey"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ey",
+              "vowelSound": "long",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "nnp",
+            "posName": "Proper noun, singular"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_E_long",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        },
+        {
+          "wordId": "two_phonemes_E_long-8-1",
+          "word": "grease",
+          "wordPhoneme": "g-r-iy-s",
+          "wordPhonemesArray": [
+            "g",
+            "r",
+            "iy",
+            "s"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "iy",
+              "vowelSound": "short",
+              "vowelLetter": "I"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "nn",
+            "posName": "Noun, singular or mass"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_E_long",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        }
+      ],
+      "documentId": "two_phonemes_E_long",
+      "phraseCategory": {
+        "phraseCategory1Id": "phraseCategory1",
+        "phraseCategory2Id": "phraseCategory2"
+      },
+      "phraseMetaData": {},
+      "phraseImgData": {
+        "url": ""
+      }
+    },
+    "two_phonemes_E_long-9": {
+      "phraseId": "two_phonemes_E_long-9",
+      "phrase": "Take three",
+      "parsedPhrase": "Take three",
+      "phrasePhonemes": "t-ey-k th-r-iy",
+      "phrasePhonemesArray": [
+        "t",
+        "ey",
+        "k",
+        "th",
+        "r",
+        "iy"
+      ],
+      "phraseVowelsArray": [
+        {
+          "vowelPhoneme": "ey",
+          "vowelSound": "long",
+          "vowelLetter": "A"
+        },
+        {
+          "vowelPhoneme": "iy",
+          "vowelSound": "short",
+          "vowelLetter": "I"
+        }
+      ],
+      "phraseWordCount": 2,
+      "phrasePhonemeCount": 2,
+      "phraseLastPhoneme": {
+        "vowelPhoneme": "iy",
+        "vowelSound": "short",
+        "vowelLetter": "I"
+      },
+      "phraseWords": [
+        {
+          "wordId": "two_phonemes_E_long-9-0",
+          "word": "Take",
+          "wordPhoneme": "t-ey-k",
+          "wordPhonemesArray": [
+            "t",
+            "ey",
+            "k"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "ey",
+              "vowelSound": "long",
+              "vowelLetter": "A"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "vb",
+            "posName": "Verb, base form"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_E_long",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        },
+        {
+          "wordId": "two_phonemes_E_long-9-1",
+          "word": "three",
+          "wordPhoneme": "th-r-iy",
+          "wordPhonemesArray": [
+            "th",
+            "r",
+            "iy"
+          ],
+          "wordVowelsArray": [
+            {
+              "vowelPhoneme": "iy",
+              "vowelSound": "short",
+              "vowelLetter": "I"
+            }
+          ],
+          "wordPhonemeCount": 1,
+          "wordPosTag": {
+            "posTag": "cd",
+            "posName": "Cardinal number"
+          },
+          "wordStresses": "1",
+          "documentId": "two_phonemes_E_long",
+          "wordCategory": {
+            "wordCategory1Id": "wordCategory1",
+            "wordCategory2Id": "wordCategory2"
+          }
+        }
+      ],
+      "documentId": "two_phonemes_E_long",
+      "phraseCategory": {
+        "phraseCategory1Id": "phraseCategory1",
+        "phraseCategory2Id": "phraseCategory2"
+      },
+      "phraseMetaData": {},
+      "phraseImgData": {
+        "url": ""
+      }
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "filename": "two_phonemes_E_short",
+  "title": "Two Phonemes E Short",
+  "documentId": "two_phonemes_E_short",
+  "phrases": [{
+    "phrase": "",
+    "phraseToParse": "Blank check",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {}
+  }, {
+    "phrase": "",
+    "phraseToParse": "Band set",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {}
+  }, {
+    "phrase": "",
+    "phraseToParse": "Bank debt",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {}
+  }, {
+    "phrase": "",
+    "phraseToParse": "Can't get",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {}
+  }, {
+    "phrase": "",
+    "phraseToParse": "Grand theft",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {}
+  }, {
+    "phrase": "",
+    "phraseToParse": "Handset",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {}
+  }, {
+    "phrase": "",
+    "phraseToParse": "Tram wreck",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {}
+  }]
+}

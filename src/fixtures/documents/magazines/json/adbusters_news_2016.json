@@ -1,0 +1,84 @@
+{
+  "filename": "ad_busters_news_2016",
+  "title": "Adbusters News 2016",
+  "documentId": "ad_busters_news_2016",
+  "website": "http://www.adbusters.org/",
+  "phrases": [{
+    "phrase": "",
+    "phraseToParse": "cool fascismo",
+    "imgData": {
+      "url": "cool_facismo.jpg"
+    },
+    "metaData": {}
+  }, {
+    "phrase": "",
+    "phraseToParse": "not all are sleeping",
+    "imgData": {
+      "url": "not_all_are_sleeping.jpg"
+    },
+    "metaData": {}
+  }, {
+    "phrase": "",
+    "phraseToParse": "not all are complacent",
+    "imgData": {
+      "url": "not_all_are_sleeping.jpg"
+    },
+    "metaData": {}
+  }, {
+    "phrase": "",
+    "phraseToParse": "Grow the soil and the soil will grow the plants",
+    "imgData": {
+      "url": "grow_the_soil.jpg"
+    },
+    "metaData": {}
+  }, {
+    "phrase": "",
+    "phraseToParse": "crash or smash",
+    "imgData": {
+      "url": "crash_or_smash.jpg"
+    },
+    "metaData": {}
+  }, {
+    "phrase": "",
+    "phraseToParse": "the robin hood myth",
+    "imgData": {
+      "url": "robin_hood_myth.jpg"
+    },
+    "metaData": {}
+  }, {
+    "phrase": "",
+    "phraseToParse": "excessive independence",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {}
+  }, {
+    "phrase": "",
+    "phraseToParse": "a racial democracy",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {}
+  }, {
+    "phrase": "",
+    "phraseToParse": "can we reset modernity",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {}
+  }, {
+    "phrase": "",
+    "phraseToParse": "dare to dance without knowing the next step",
+    "imgData": {
+      "url": "dare_to_dance_without_knowing_the_next_step.png"
+    },
+    "metaData": {}
+  }, {
+    "phrase": "",
+    "phraseToParse": "fear of losing a special moment",
+    "imgData": {
+      "url": "fear_of_losing_a_special_moment.jpg"
+    },
+    "metaData": {}
+  }]
+}

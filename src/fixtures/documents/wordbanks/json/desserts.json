@@ -1,0 +1,1103 @@
+{
+  "filename": "desserts_wordbank",
+  "title": "Desserts Wordbank 2017",
+  "documentId": "desserts_wordbank",
+  "phrases": [
+    {
+      "phrase": "",
+      "phraseToParse": "almond cookie",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "ambrosia",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "angelfood cake",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "apple brown Betty",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "apple crisp",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "apple pie",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "baked Alaska",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "baked apple",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "baklava",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "banana split",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "Belgian waffle",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "biscotti",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "black forest cake",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "blueberry muffin",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "bombe",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "Boston cream pie",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "bread pudding",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "brownie",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "buttercream frosting",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "butterscotch",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "cake",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "cannoli",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "caramel apple",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "carrot cake",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "cheesecake",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "cherry pie",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "chocolate bar",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "chocolate cake",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "chocolate chip cookie",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "chocolate mousse",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "churro",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "cinnamon roll",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "cobbler",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "coconut cake",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "coconut cream pie",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "coffee cake",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "cookie",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "crepe Suzette",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "cupcake",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "custard",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "Danish pastry",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "dessert",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "devils food cake",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "doughnut",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "dumplings",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "eclair",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "flan",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "fortune cookie",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "French toast",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "fritter",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "frosting",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "frozen yogurt",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "fruit cake",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "fruit cocktail",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "fruit salad",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "fudge",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "gelatin",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "gelato",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "gingersnaps",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "gingerbread",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "honey",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "hot fudge sundae",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "ice cream",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "ice cream cake",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "icing",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "jam",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "jelly",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "jellyroll",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "Key lime pie",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "ladyfingers",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "lemon bars",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "lemon meringue pie",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "macaroon",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "marshmallow",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "meringue",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "milkshake",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "molasses",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "mousse",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "muffin",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "neapolitan ice cream",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "nougat",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "nut brittle",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "oatmeal cookie",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "pancakes",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "panna cotta",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "parfait",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "pastry",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "peanut brittle",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "peanutbutter cookie",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "pecan pie",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "pie",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "poached pears",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "popcicle",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "popover",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "pound cake",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "praline",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "pudding",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "pumpkin pie",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "quick bread",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "red velvet cake",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "rhubarb pie",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "raisin bread",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "rice pudding",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "scone",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "sherbet",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "shortbread",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "smores",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "snickerdoodle",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "soda",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "soda bread",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "sorbet",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "souffle",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "sponge cake",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "spumoni",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "strawberry shortcake",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "strudel",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "sugar",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "sugar cookie",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "sundae",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "sweet potato pie",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "sweet roll",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "sweets",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "tapioca pudding",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "tart",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "toasted marshmallow",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "toffee",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "torte",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "trifle",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "truffle",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "turnover",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "upside down cake",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "vanilla cream pie",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "vanilla pudding",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "waffle",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "watermelon ice",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "yellow cake",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "zabiglone",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    }
+  ]
+}

@@ -1,0 +1,619 @@
+Take a sentence and every word in the sentence and give it an id that maps to ending vowels turn into JSON. When you need that ending vowel of a word look it up in the map get the word.
+
+Map sentences to sentiments: style maps, aggresive context etc.
+
+NOUN
+Countable Singular Nouns : Need Determiners
+Proper Nouns
+Plural Nouns
+Mass Nouns
+
+VERB
+verb
+
+SUBJECT
+subject
+
+PREPOSITION
+preposition
+
+ADJECTTIVE
+adjective
+
+NEOLOGISMS
+prefix
+suffic
+nount || verb
+
+SENTENCE BUILDERS
+subject + verb
+adjective + noun
+verb + adjective
+subject + verb + subject
+
+OTHER
+idioms
+verb phrases
+
+
+a:            cat
+shift + a:    qatar
+alt + a:      obama
+meta + a: data beta
+
+Scene
+  phonemeCount: 10,
+  wordCount: 7
+
+idioms
+verb phrases
+
+1, 2, 3, 4 = PhoneCount
+!, @, #, % = SentenceType
+a          = sentence
+shift+a    = neologism
+crtl+a     =
+
+
+
+letters play phoneme word counts
+function setVowelCount
+function setWordCount
+
+functinn playSavedVerse
+function playLastVerse
+function lastRhymingPhrase
+
+function getVerb
+function getAdjectives
+function getPrepositions
+
+function inputText
+function saveInputText
+
+function recordText
+
+function change pitch
+function change amplitude
+function change voice
+
+save array of phonemes in order
+save each verse
+
+play the next line in an array of verses
+http://www.manythings.org/rs/
+
+Subject + Verb
+I swim. Joe swims. They swam.
+Subject + Verb + Object
+I drive a car. Joe plays the guitar. They ate dinner.
+Subject + Verb + Complement
+I am busy. Joe became a doctor. They look sick.
+Subject + Verb + Indirect Object + Direct Object
+I gave her a gift. She teaches us English.
+Subject + Verb + Object + Complement
+I left the door open. We elected him president. They named her Jane .
+
+function getVerse (vowelcount, phoneme) {
+  switch (vowelcount) {
+    case 1 :
+      word(1)
+      var wordArray = getRandPhrasing(vowelcount, phoneme)
+      var verse = getWords(wordArray)
+      return verse
+      break;
+    case 2 :
+      var verse = getWords([{vowelcount: 1, vowel: "*"},
+                            {vowelcount: 1, vowel: phoneme}])
+
+      var verse = getWords([{vowelcount: 2, vowel: phoneme}])
+
+      word(1) + word(1)
+      word(2)
+      return verse3
+      break;
+    case 3 :
+      word(1) + word(1) + word(1)
+      word(1) + word(2)
+      word(2) + word(1)
+      word(3)
+      break;
+    case 4 :
+      word(1) + word(1) + word(1) + word(1)
+      word(1) + word(1) + word(2)
+      word(1) + word(2) + word(1)
+      word(2) + word(1) + word(1)
+      word(2) + word(2)
+      word(1) + word(3)
+      word(3) + word(1)
+      word(4)
+      break;
+  }
+}
+
+
+function getWords(words) {
+  for (i = 0; i < words; i++) {
+    getWord(words[i]["vowelcount"], words[i]["vowel"])
+  }
+}
+
+getVerse(vowelcount)
+
+getWords(words)
+
+getWord(vowelcount, phoneme)
+
+
+const wordPhoneme = getWordPhoneme(letter);
+const wordLetter = getWordLetter(letter);
+const background = getBackground(letter, wordLetter)
+setBgImage(background)
+
+
+var newId = Scene.id = Scene.id + 1
+Scene.lines["lineId_" + newId] = {
+  line: line
+}
+
+speakNspell(line)
+
+///////
+// -- A
+///////
+
+A - 2 Vowel
+  "Just dance",
+  "Yee Haw",
+  "Come back",
+  "Yes, m'am",
+  "God damn!",
+  "Step back",
+
+A - 3 Vowel
+  "Let's just dance",
+  "I'm pregnant",
+  "Got your back",
+  "Hold my hand",
+  "This will pass",
+  "Never look back",
+  "Rain will fall",
+  "Hope trumps all",
+  "Hugs heal all",
+  "Ramble on, man",
+
+A - 4 Vowel
+  "I am pregnant",
+  "Keep it legal",
+  "No strings attached",
+  "Because I can",
+  "I want it all",
+  "Get in the sack",
+  "The whole nine yards",
+  "One life, one chance",
+  "I think I can",
+  "Talk to the hand",
+  "Make love not war",
+  "Just like a man",
+
+A - 5 Vowel
+  "Writing's on the wall",
+  "Just like a woman",
+  "Nice guys finish last",
+
+A - 6 Vowel
+  "Always remain neutral",
+
+
+///////
+// -- E
+///////
+
+
+E - 2 Vowel
+  "Carpe Diem",
+  "I'm blessed",
+  "Bull Shit",
+  "Dear sir",
+  "Not yet",
+  "Yes, sir",
+
+E - 3 Vowel
+  "Shit happens",
+  "It's over",
+  "Oh brother",
+  "What Ever",
+  "Save yourself",
+  "Baby steps",
+  "Bloody Hell",
+  "Move over",
+  "I'll be there",
+  "Lets be friends",
+  "Where's my head",
+
+E - 4 Vowel
+  "Mother fucker",
+  "Now or never",
+  "Nurture your best",
+  "Protect your health",
+  "I call Bullshit'",
+  "Make it happen",
+  "Hearts can mend",
+  "Laughter is best",
+  "Just get naked",
+  "Paint the town red",
+  "Lets just be friends"
+
+E - 5 Vowel
+  "Believe in yourself",
+  "Always be yourself",
+  "Forever my friend",
+  "Always be honest",
+  "Knowledge is power",
+  "Clean as a whistle",
+  "Throw in the towel",
+  "Fit as a fiddle",
+  "He's no spring chicken",
+  "The past is practice",
+  "Lock, stock, and barrel",
+  "Hook, line, and sinker",
+  "Work hard, play harder",
+  "God as my witness",
+
+E - 6 Vowel
+  "Thou shall not surrender",
+
+E - 7 Vowel
+  "Family is forever",
+  "Skeletons in the closet",
+
+
+
+///////
+// -- I
+///////
+
+I - 2 Vowel
+  "You win",
+  "Trust me",
+  "You first",
+  "Dream big",
+  "I see",
+  "God speed",
+  "Bite me",
+  "Call me",
+  "Kiss me",
+  "Tune in",
+  "Watch me",
+  "Suck it",
+  "That's it",
+  "Save it",
+  "Hug me",
+  "Beat me",
+  "Drink me",
+  "Take me",
+  "Why me?",
+  "Do me",
+  "Eat me",
+  "Lets eat",
+  "How sweet",
+
+I - 3 Vowel
+  "I'm sorry",
+  "Believe me",
+  "Let it be",
+  "Forget this",
+  "Respect me",
+  "Ladies, first",
+  "Follow me",
+  "Marry me",
+  "Divorce me",
+  "I'm blushing",
+  "Go for it",
+  "Get lost, creep",
+  "Wake your dreams",
+  "Please help me",
+  "Lets just kiss",
+
+I - 4 Vowel
+  "Please forgive me",
+  "Get enough sleep",
+  "I am sorry",
+  "This is music",
+  "You are kidding",
+  "Lets make babies",
+  "Forgive my sins",
+  "Live life daily",
+  "I have a dream",
+  "Today's a gift",
+  "I am kidding",
+  "Skin of your teeth",
+  "Ride like the wind",
+  "To make ends meet",
+  "See, hear, touch, feel",
+  "God is my shield",
+  "One last drink, please",
+  "Son of a bitch",
+  "Just go for it",
+  "Don't talk just kiss",
+  "Be a good girl",
+  "If you want me",
+
+I - 5 Vowel
+  "Time heals everything",
+  "Save every penny",
+  "Love is everything"
+  "Oh no you didn't",
+  "A stiff upper lip",
+  "Bats in the belfry",
+  "Work the graveyard shift",
+  "It's all about me",
+  "Good guys always win",
+  "Too legit to quit",
+  "A moment like this",
+
+
+I - 6 Vowel
+  "Don't worry, be happy",
+
+
+I - 7 Vowel
+  "Celebrate your victories",
+  "Imperfection is beauty",
+  "Peace, love, and understanding",
+  "Sleep is not mandatory",
+
+I - 8 Vowel
+  "Absent without official leave",
+
+
+///////
+// -- O
+///////
+
+O - 2 Vowel
+  "Fish on",
+  "Don't stop",
+  "That's hot",
+  "I don't",
+  "Hell, no",
+  "Let go",
+  "Of course",
+  "Bug off",
+  "Get some",
+  "Oh, Lord",
+  "Jump off",
+  "Lets roll",
+  "Shut up",
+  "Fire, run",
+
+O - 3 Vowel
+  "You're welcome",
+  "Hello, world",
+  "That's enough",
+  "Lets get drunk",
+  "Let it go",
+  "Thanks so much",
+  "Keep it fun",
+  "Don't drive drunk",
+  "Do not judge",
+  "Words can hurt",
+  "Touch my soul",
+  "Stay the course",
+  "Cancer sucks",
+
+O - 4 Vowel
+  "Move along",
+  "Marry me now",
+  "Against all odds",
+  "No shit, Sherlock",
+  "Be my hero",
+  "I love you so",
+  "I want you so",
+  "Put your dukes up",
+  "I am a rock",
+  "High on the hog",
+  "Pull in the horns",
+  "Live, breathe, laugh, love",
+  "Don't rock the boat",
+  "Live for your word",
+  "Take off your clothes",
+  "Don't fall in love",
+
+O - 5 Vowel
+  "Mistakes make people",
+  "Thank you very much",
+  "Raining cats and dogs",
+  "Bring home the bacon",
+  "Now leave me alone",
+
+O - 6 Vowel
+  "Death before dishonor",
+  "Reveal your true colors",
+  "Always wear a condom",
+
+O - 7 Vowel
+
+O - 8 Vowel
+
+
+// -- U
+
+
+///////
+// -- a
+///////
+
+a - 2 Vowel
+  "Oh wait",
+  "How quaint",
+
+a - 3 Vowel
+  "Seize the day",
+  "Life won't wait",
+
+a - 4 Vowel
+  "God alone saves",
+  "Let's run away",
+  "Don't be afraid",
+  "Rub the wrong way",
+  "Go your own way",
+  "Hearts beat the same",
+  "I'm not afraid",
+  "Go out and play",
+  "For old time's sake",
+
+a - 5 Vowel
+  "Love endures delay",
+  "Only hope remains",
+  "Learn from yesterday",
+  "Dead as a doornail",
+  "I am not afraid",
+
+
+a - 6 Vowel
+
+a - 7 Vowel
+
+a - 8 Vowel
+  "Tomorrow is another day"
+
+
+///////
+// -- e
+///////
+
+e - 2 Vowel
+
+e - 3 Vowel
+
+e - 4 Vowel
+
+e - 5 Vowel
+
+e - 6 Vowel
+
+e - 7 Vowel
+
+e - 8 Vowel
+
+///////
+// -- i
+///////
+
+i - 2 Vowel
+  "Just drive",
+  "That's right",
+  "Be nice",
+  "Think twice",
+
+i - 3 Vowel
+  "Very nice",
+  "Enjoy life",
+  "Patience, child",
+  "Lets get high",
+  "You had time",
+  "Ride or die",
+  "Life is life",
+  "Do not lie",
+
+i - 4 Vowel
+  "Maybe you're right",
+  "Passion, strength, fire",
+  "I want to cry",
+  "Just this one time",
+  "Don't drink and drive",
+
+i - 5 Vowel
+  "Read between the lines",
+  "Money can't buy life",
+  "True love never dies",
+
+i - 6 Vowel
+
+i - 7 Vowel
+
+i - 8 Vowel
+
+
+///////
+// -- o
+///////
+
+o - 2 Vowel
+  "Watch out",
+  "Case closed",
+  "Get out",
+
+o - 3 Vowel
+  "Over and out",
+  "I don't know",
+  "Safe and sound",
+
+o - 4 Vowel
+  "Bros before hoes",
+  "Thank you so",
+  "From the horse's mouth",
+  "I miss you so",
+  "Get the lead out",
+  "I stand my ground",
+  "Shut up, big mouth",
+
+o - 5 Vowel
+  "I only want now",
+
+o - 6 Vowel
+
+o - 7 Vowel
+
+o - 8 Vowel
+
+
+
+
+///////
+// -- u
+///////
+
+u - 2 Vowel
+  "Screw you",
+  "That hurts",
+  "Fuck you",
+  "Thank You",
+  "Love you",
+  "I do",
+  "Oh, you?",
+  "Miss you",
+  "Bless you",
+  "Up yours"
+
+u - 3 Vowel
+  "Forget you",
+  "I Love You",
+  "I trust you",
+  "How are you?",
+  "I want you",
+  "I miss you",
+  "Where are you?",
+  "Who are you?",
+  "Speak the truth",
+  "Change is good",
+  "Shoot the moon",
+
+u - 4 Vowel
+  "I respect you",
+  "Try something new",
+  "Good luck to you",
+  "It's all in you",
+
+u - 5 Vowel
+  "To thyself be true",
+  "It's all about you",
+
+u - 6 Vowel
+  "You are so beautiful",
+
+u - 7 Vowel
+
+u - 8 Vowel
+

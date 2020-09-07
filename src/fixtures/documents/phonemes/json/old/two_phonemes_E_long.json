@@ -1,0 +1,76 @@
+{
+  "filename": "two_phonemes_E_long",
+  "title": "Two Phonemes E Long",
+  "documentId": "two_phonemes_E_long",
+  "phrases": [{
+    "phrase": "",
+    "phraseToParse": "Brain freeze",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {}
+  }, {
+    "phrase": "",
+    "phraseToParse": "Break dreams",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {}
+  }, {
+    "phrase": "",
+    "phraseToParse": "Claim these",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {}
+  }, {
+    "phrase": "",
+    "phraseToParse": "Lame tease",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {}
+  }, {
+    "phrase": "",
+    "phraseToParse": "Main squeeze",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {}
+  }, {
+    "phrase": "",
+    "phraseToParse": "Make cheese",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {}
+  }, {
+    "phrase": "",
+    "phraseToParse": "Plain tee's",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {}
+  }, {
+    "phrase": "",
+    "phraseToParse": "Say please",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {}
+  }, {
+    "phrase": "",
+    "phraseToParse": "Spray grease",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {}
+  }, {
+    "phrase": "",
+    "phraseToParse": "Take three",
+    "imgData": {
+      "url": ""
+    },
+    "metaData": {}
+  }]
+}

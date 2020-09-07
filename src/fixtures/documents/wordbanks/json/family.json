@@ -1,0 +1,1551 @@
+{
+  "filename": "family_wordbank",
+  "title": "Family Wordbank 2017",
+  "documentId": "family_wordbank",
+  "phrases": [
+    {
+      "phrase": "",
+      "phraseToParse": "adoption",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "adoptive father",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "adoptive mother",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "ancestor",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "aunt",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "bachelor",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "birth mother",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "blood relative",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "bride",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "bridegroom",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "brother",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "brotherhood",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "brotherly",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "brother in law",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "care giver",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "child",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "childhood",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "children",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "clan",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "close knit",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "connection",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "cousin",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "dad",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "daddy",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "daughter",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "daughter in law",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "descendant",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "devoted",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "divorce",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "eligible",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "engaged",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "engagement",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "estranged",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "ex",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "ex husband",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "ex wife",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "extended family",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "faithful",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "family",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "family tree",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "father",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "father in law",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "fiancee",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "first born",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "first cousin",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "first cousin once removed",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "flesh and blood",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "folks",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "foster",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "foster child",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "foster father",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "foster mother",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "foster parent",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "fraternal",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "friend",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "F cont",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "foster child",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "foster parent",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "fraternal",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "fraternal twin",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "genealogy",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "grampa",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "gramps",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "grandchild",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "grandchildren",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "granddaughter",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "grandfather",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "grandma",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "grandmother",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "grandpa",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "grandparent",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "grandson",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "granny",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "great granddaughter",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "great grandfather",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "great grandmother",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "great grandparent",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "great grandson",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "great aunt",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "great uncle",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "groom",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "grownup",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "half brother",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "half sister",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "heir",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "heiress",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "helpmate",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "hereditary",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "heritage",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "history",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "home",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "household",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "husband",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "identical twin",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "inherit",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "inheritance",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "infant",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "infancy",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "in law",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "juvenile",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "kin",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "kindred",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "kinfolk",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "kinship",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "kith",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "lineage",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "love",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "loyalty",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "ma",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "maiden name",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "mama",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "marriage",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "mate",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "maternal",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "matriarch",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "matrimony",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "minor",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "Miss",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "mom",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "mommy",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "monogamy",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "mother",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "mother in law",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "Mr",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "Mrs",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "Ms",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "nana",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "natal",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "nephew",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "nest",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "newlywed",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "niece",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "nuclear family",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "nuptial",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "nurture",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "offspring",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "orphan",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "pa",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "papa",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "parent",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "partner",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "paternal",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "patriarch",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "pop",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "posterity",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "progenitor",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "progeny",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "quadruplets",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "quads",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "quints",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "quintuplets",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "related",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "relations",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "relative",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "second cousin",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "senior",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "separation",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "sibling",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "single",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "sister",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "sisterhood",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "sister in law",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "sisterly",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "son",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "son in law",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "spouse",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "stepbrother",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "stepchild",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "stepchildren",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "stepdad",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "stepdaughter",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "stepfather",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "stepmom",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "stepmother",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "stepsister",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "stepson",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "support",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "surrogate mother",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "tribe",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "triplets",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "trust",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "trustworthy",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "twin brother",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "twin sister",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "twins",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "uncle",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "value",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "wed",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "wedding",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "wedlock",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "wife",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "youngster",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    },
+    {
+      "phrase": "",
+      "phraseToParse": "youth",
+      "imgData": {
+        "url": ""
+      },
+      "metaData": {}
+    }
+  ]
+}
