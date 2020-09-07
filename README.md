@@ -65,6 +65,75 @@ Bilingual Phoneme phrase mapping
 Made with [graphqleditor.com ](graphqleditor.com)
 
 
+**App Root**
+``` bash
+├── README.md
+├── _redirects
+├── app
+│   ├── components
+│   │   ├── Batch.js
+│   │   ├── Batches.js
+│   │   ├── Battle.js
+│   │   ├── CreatePhrase.js
+│   │   ├── Document.js
+│   │   ├── MapContainer.js
+│   │   ├── Modal.js
+│   │   ├── Nav
+│   │   │   ├── RightNav.js
+│   │   │   └── TopNav.js
+│   │   ├── Phrase.js
+│   │   ├── Popular.js
+│   │   ├── Results.js
+│   │   ├── Uidev
+│   │   │   ├── AdvJs
+│   │   │   ├── Hooks
+│   │   │   │   ├── CustomHooks
+│   │   │   │   ├── NavCustomHooks.js
+│   │   │   │   ├── NavHooks.js
+│   │   │   │   ├── NavUseEffect.js
+│   │   │   │   ├── NavUseState.js
+│   │   │   │   ├── UseEffect
+│   │   │   │   │   ├── CharLimit.js
+│   │   │   │   │   └── WaitDelay.js
+│   │   │   │   └── UseState
+│   │   │   ├── ModernJs
+│   │   │   ├── NavUidev.js
+│   │   │   ├── React
+│   │   │   ├── ReactRouter
+│   │   │   ├── Redux
+│   │   │   ├── Uidev.css
+│   │   │   └── router-test.js
+│   │   └── Word.js
+│   ├── contexts
+│   │   └── theme.js
+│   ├── fixtures
+│   │   └── phrases
+│   │       └── allphrases.js
+│   ├── index.css
+│   ├── index.html
+│   ├── index.js
+│   ├── styles
+│   │   ├── _Document.scss
+│   │   ├── _MapContainer.scss
+│   │   ├── _Phrase.scss
+│   │   ├── _Word.scss
+│   │   └── main.css
+│   └── utils
+│       └── sorts.js
+├── package-lock.json
+├── public
+│   └── assets
+│       ├── createPhrase_ui_test_1.png
+│       ├── createPhrase_ui_test_2.png
+│       ├── createPhrase_ui_test_3.png
+│       ├── createPhrase_ui_test_4.png
+│       ├── qraphql-schema-flow-v1.png
+│       ├── rap-nlp-ui-v1.png
+│       └── rap-nlp_logo.png
+└── webpack.config.js
+```
+
+
 
 
 
