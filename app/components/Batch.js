@@ -1,6 +1,6 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import AllPhrases from '../fixtures/documents/phrases/allPhrases'
+import AllPhrases from '../fixtures/phrases/allPhrases'
 import { handleShuffle } from '../utils/sorts'
 
 const { phonemePhrases } = AllPhrases
