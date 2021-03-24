@@ -19,12 +19,15 @@ module.exports = {
   plugins: [
     new HtmlWebpackPlugin({
       template: "/src/index.html",
-    }),
-    new CopyPlugin({
-      patterns: [{ from: "/public/_redirects" }],
-    }),
+    })
   ],
   devServer: {
     historyApiFallback: true,
   },
 };
+
+
+// new CopyPlugin({
+//   patterns: [{ from: "/public/_redirects" }],
+// }),
+// ],
