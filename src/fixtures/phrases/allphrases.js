@@ -10,7 +10,9 @@ export default {
         ],
       "eng":
         [
-          [{"": ""}]
+          [{"crazy": ""}],
+          [{"for": ""}],
+          [{"you": ""}]
         ]
     },
     {
@@ -22,7 +24,7 @@ export default {
         ],
       "eng":
         [
-          [{"": ""}]
+          [{"bandit": ""}]
         ]
     },
     {
@@ -35,19 +37,23 @@ export default {
         ],
       "eng":
         [
-          [{"": ""}]
+          [{"don't": ""}],
+          [{"let": ""}],
+          [{"me": ""}],
         ]
     },
     { "esp":
         [
-          [{"sw": "blue"},
-           {"a": "red"},
-           {"y": "green"}]
+          [{"mu": "blue"},
+           {"e": "red"},
+           {"ve": "red"}]
         ],
       "eng":
         [
-          [{"": ""}]
-        ]
+          [{"sw": "blue"},
+          {"a": "red"},
+          {"y": "green"}]
+        ],
     },
     { "esp":
         [
@@ -59,18 +65,18 @@ export default {
         ],
       "eng":
         [
-          [{"": ""}]
+          [{"street": ""}],
+          [{"rhymes": ""}]
         ]
     },
     { "esp":
         [
           [{"ba": "magenta"},
-           {"i": "green"},
-           {"": "magenta"}]
+           {"i": "green"}]
         ],
       "eng":
         [
-          [{"": ""}]
+          [{"bebe": ""}]
         ]
     },
     { "esp":
@@ -80,7 +86,7 @@ export default {
         ],
       "eng":
         [
-          [{"": ""}]
+          [{"hunger": ""}]
         ]
     },
     { "esp":
@@ -92,21 +98,25 @@ export default {
         ],
       "eng":
         [
-          [{"": ""}]
+          [{"hurts": ""}],
+          [{"them": ""}]
         ]
     },
     { "esp":
         [
-          [{"s": "red"},
-           {"l": "gold"},
-           {"ow": "blue"}],
-          [{"gr": "magenta"},
-           {"ind": "green"}]
+          [{"be": "red"}],
+          [{"lla": "magenta"},
+          {"que": "red"},
+          {"o": "gold"}]
         ],
       "eng":
         [
-          [{"": ""}]
-        ]
+          [{"s": "red"},
+          {"l": "gold"},
+          {"ow": "blue"}],
+          [{"gr": "magenta"},
+          {"ind": "green"}]
+        ],
     },
     { "esp":
         [
