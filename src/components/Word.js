@@ -1,70 +1,67 @@
-import React, { PropTypes, Component } from 'react'
-import cn from 'classnames'
-import { textEffectsMap } from '../../fixtures/style/textEffectsMap'
-import { backgroundEffectsMap } from '../../fixtures/style/backgroundEffectsMap'
+import React, { PropTypes, Component } from 'react';
+import cn from 'classnames';
+import { textEffectsMap } from '../../fixtures/style/textEffectsMap';
+import { backgroundEffectsMap } from '../../fixtures/style/backgroundEffectsMap';
 // import SVGFilters from '../SVGFilters/SVGFilters'
 
 export default class Word extends React.Component {
-
   constructor(props) {
-    super(props)
+    super(props);
 
-    this.getVowels = this.getVowels.bind(this)
-    this.isVowel = this.isVowel.bind(this)
-    this.setVowelSoundColor = this.setVowelSoundColor.bind(this)
+    this.getVowels = this.getVowels.bind(this);
+    this.isVowel = this.isVowel.bind(this);
+    this.setVowelSoundColor = this.setVowelSoundColor.bind(this);
 
-    this.changeAllLayers = this.changeAllLayers.bind(this)
-    this.changeBackgroundEffect = this.changeBackgroundEffect.bind(this)
-    this.changeTextEffect = this.changeTextEffect.bind(this)
+    this.changeAllLayers = this.changeAllLayers.bind(this);
+    this.changeBackgroundEffect = this.changeBackgroundEffect.bind(this);
+    this.changeTextEffect = this.changeTextEffect.bind(this);
   }
 
   state = {
-    layerId1: "layerId1",
-    text: "",
-    background: ""
-  }
+    layerId1: 'layerId1',
+    text: '',
+    background: '',
+  };
 
   changeTextEffect() {
-    const text = textEffectsMap[
-      Math.floor(
-        (Math.random() * textEffectsMap.length)
-      )]
+    const text =
+      textEffectsMap[Math.floor(Math.random() * textEffectsMap.length)];
 
-    const { layers } = this.state
-    layers.text = text
+    const { layers } = this.state;
+    layers.text = text;
 
-    this.setState({layers})
+    this.setState({ layers });
   }
   changeBackgroundEffect() {
-    const background = backgroundEffectsMap[
-      Math.floor(
-        (Math.random() * backgroundEffectsMap.length)
-      )]
+    const background =
+      backgroundEffectsMap[
+        Math.floor(Math.random() * backgroundEffectsMap.length)
+      ];
 
-    const { layers } = this.state
-    layers.background = background
+    const { layers } = this.state;
+    layers.background = background;
 
-    this.setState({layers})
+    this.setState({ layers });
   }
   changeAllLayers(ev) {
-    ev.preventDefault()
-    this.changeTextEffect()
-    this.changeBackgroundEffect()
+    ev.preventDefault();
+    this.changeTextEffect();
+    this.changeBackgroundEffect();
   }
   setSyllableColor(syllableCount) {
     switch (syllableCount) {
       case 1:
-        return 'red'
+        return 'red';
       case 2:
-        return 'green'
+        return 'green';
       case 3:
-        return 'blue'
+        return 'blue';
       case 4:
-        return 'orange'
+        return 'orange';
       case 5:
-        return 'magenta'
+        return 'magenta';
       default:
-        return ''
+        return '';
     }
   }
   // setVowelSoundColor(vowelsound) {
@@ -105,72 +102,72 @@ export default class Word extends React.Component {
   // }
   setVowelSoundColor(vowelSound) {
     switch (vowelSound) {
-      case 'ey' :
-        return 'gray' // gray
-      case 'ae' :
-      case 'aa' :
-      case 'aw' :
-      case 'ah' :
-        return 'magenta' // '#222222' black return '#e0bf9e' // almond
-      case 'i' :
-      case 'iy' :
-        return 'green' // green return '#BFBDBD' // silver
-      case 'ih' :
-        return 'pink' // pink
-      case 'er' :
-      case 'eh' :
-        return 'red' // red return 'orange' // orange
-      case 'ai' :
-      case 'ay' :
-      case 'oy' :
-        return '#73c2e0' // cyan ~
-      case 'ow' :
-        return '#87552A' // brown
-      case 'ao' :
-        return 'gold' // '#E488B9' rose
-      case 'u' :
-      case 'yu' :
-      case 'uw' :
-      case 'uh' :
-        return 'blue' // blue return '#ED203C' // scarlet
+      case 'ey':
+        return 'gray'; // gray
+      case 'ae':
+      case 'aa':
+      case 'aw':
+      case 'ah':
+        return 'magenta'; // '#222222' black return '#e0bf9e' // almond
+      case 'i':
+      case 'iy':
+        return 'green'; // green return '#BFBDBD' // silver
+      case 'ih':
+        return 'pink'; // pink
+      case 'er':
+      case 'eh':
+        return 'red'; // red return 'orange' // orange
+      case 'ai':
+      case 'ay':
+      case 'oy':
+        return '#73c2e0'; // cyan ~
+      case 'ow':
+        return '#87552A'; // brown
+      case 'ao':
+        return 'gold'; // '#E488B9' rose
+      case 'u':
+      case 'yu':
+      case 'uw':
+      case 'uh':
+        return 'blue'; // blue return '#ED203C' // scarlet
       default:
-        return false
+        return false;
     }
   }
   isVowel(phoneme) {
     switch (phoneme) {
-      case 'ey' :
-      case 'ae' :
-      case 'aa' :
-      case 'aw' :
-      case 'ah' :
-      case 'i' :
-      case 'ih' :
-      case 'er' :
-      case 'eh' :
-      case 'iy' :
-      case 'ai' :
-      case 'ay' :
-      case 'oy' :
-      case 'ow' :
-      case 'ao' :
-      case 'u' :
-      case 'yu' :
-      case 'uw' :
-      case 'uh' :
-        return true
+      case 'ey':
+      case 'ae':
+      case 'aa':
+      case 'aw':
+      case 'ah':
+      case 'i':
+      case 'ih':
+      case 'er':
+      case 'eh':
+      case 'iy':
+      case 'ai':
+      case 'ay':
+      case 'oy':
+      case 'ow':
+      case 'ao':
+      case 'u':
+      case 'yu':
+      case 'uw':
+      case 'uh':
+        return true;
       default:
-        return false
+        return false;
     }
   }
   getVowels(phonemesArray) {
-    const vowelsArray = []
+    const vowelsArray = [];
     for (let i = 0; i < phonemesArray.length; i++) {
       if (this.isVowel(phonemesArray[i])) {
-        vowelsArray.push(phonemesArray[i])
+        vowelsArray.push(phonemesArray[i]);
       }
     }
-    return vowelsArray
+    return vowelsArray;
   }
   render() {
     // const styles = _.cloneDeep(this.constructor.styles)
@@ -185,69 +182,70 @@ export default class Word extends React.Component {
     // console.log(textStyle)
     // console.log(bgStyle)
 
-    const { word, phonemes, posTag, posActive,
-            phonemesActive } = this.props
+    const { word, phonemes, posTag, posActive, phonemesActive } = this.props;
 
     const WordClasses = cn('Word-wrapper', {
-      'complete': false
-    })
+      complete: false,
+    });
 
     const WordPosClasses = cn('Word-pos', {
-      '--off': !posActive
-    })
+      '--off': !posActive,
+    });
 
     const WordSymbolWrapperClasses = cn('Word-symbol-wrapper', {
-      '--off': !phonemesActive
-    })
+      '--off': !phonemesActive,
+    });
 
-    const phonemesArray = phonemes.split('-')
+    const phonemesArray = phonemes.split('-');
 
-    const vowelsArray = this.getVowels(phonemesArray)
+    const vowelsArray = this.getVowels(phonemesArray);
     // console.log(`${word}: `, vowelsArray)
 
-    const vowelsounds = []
-    const vowelSoundsArray = []
+    const vowelsounds = [];
+    const vowelSoundsArray = [];
 
     for (let i = 0; i < vowelsArray.length; i++) {
-      vowelSoundsArray.push(vowelsArray[i])
+      vowelSoundsArray.push(vowelsArray[i]);
       vowelsounds.push(
-        <span className={"Word-symbol"} id={i} key={i}
-          style={{color: this.setVowelSoundColor(vowelsArray[i])}}>
+        <span
+          className={'Word-symbol'}
+          id={i}
+          key={i}
+          style={{ color: this.setVowelSoundColor(vowelsArray[i]) }}
+        >
           {vowelsArray[i]}
         </span>
-      )
+      );
     }
 
-    const lastVowel = vowelSoundsArray[vowelSoundsArray.length - 1]
+    const lastVowel = vowelSoundsArray[vowelSoundsArray.length - 1];
     // console.log('LAST-VOWEL: ', lastVowel)
     // console.log('PHONEMES-ACTIVE: ', phonemesActive)
 
     return (
-      <div className={WordClasses} style={
-          {background: this.setVowelSoundColor(lastVowel),
-           borderColor: this.setVowelSoundColor(lastVowel)}}>
-        <span className={WordSymbolWrapperClasses}>
-          {vowelsounds}
-        </span>
-        <span className={WordPosClasses}>
-          {posTag.posTag}
-        </span>
-        <span className={"Word-content"}>
-          {word}
-        </span>
+      <div
+        className={WordClasses}
+        style={{
+          background: this.setVowelSoundColor(lastVowel),
+          borderColor: this.setVowelSoundColor(lastVowel),
+        }}
+      >
+        <span className={WordSymbolWrapperClasses}>{vowelsounds}</span>
+        <span className={WordPosClasses}>{posTag.posTag}</span>
+        <span className={'Word-content'}>{word}</span>
       </div>
-    )
+    );
   }
 }
 
 Word.propTypes = {
-  'setColor': PropTypes.func,
-  'syllableCount': PropTypes.number,
-  'word': PropTypes.string,
-  'vowelsound': PropTypes.array,
-  'phonemes': PropTypes.string,
-  'phonemesArray': PropTypes.array,
-  'posTag': PropTypes.object,
-  'posActive': PropTypes.boolean,
-  'phonemesActive': PropTypes.boolean
-}
+  setColor: PropTypes.func,
+  syllableCount: PropTypes.number,
+  word: PropTypes.string,
+  vowelsound: PropTypes.array,
+  phonemes: PropTypes.string,
+  phonemesArray: PropTypes.array,
+  posTag: PropTypes.object,
+  posActive: PropTypes.boolean,
+  phonemesActive: PropTypes.boolean,
+};
