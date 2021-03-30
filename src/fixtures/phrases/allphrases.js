@@ -120,15 +120,17 @@ export default {
     },
     { "esp":
         [
-          [{"i": "green"}],
-          [{"dont": "gold"}],
-          [{"kn": "gold"},
-           {"ow": "blue"}]
+          [{"yo": "green"}],
+          [{"no": "gold"},
+           {"se": "red"}]
         ],
       "eng":
         [
-          [{"": ""}]
-        ]
+          [{"i": "green"}],
+          [{"dont": "gold"}],
+          [{"kn": "gold"},
+          {"ow": "blue"}]
+        ],
     },
     { "esp":
         [
@@ -138,7 +140,7 @@ export default {
         ],
       "eng":
         [
-          [{"": ""}]
+          [{"gem": ""}]
         ]
     },
     { "esp":
@@ -149,7 +151,7 @@ export default {
         ],
       "eng":
         [
-          [{"": ""}]
+          [{"goddes": ""}]
         ]
     },
     { "esp":
@@ -162,7 +164,8 @@ export default {
         ],
       "eng":
         [
-          [{"": ""}]
+          [{"the": ""}],
+          [{"street": ""}]
         ]
     },
     { "esp":
@@ -174,7 +177,7 @@ export default {
         ],
       "eng":
         [
-          [{"": ""}]
+          [{"romantic": ""}]
         ]
     },
     { "esp":
@@ -184,8 +187,9 @@ export default {
         ],
       "eng":
         [
-          [{"": ""}]
-        ]
+          [{"kar": "magenta"},
+          {"ma": "magenta"}]
+        ],
     },
     { "esp":
         [
@@ -208,7 +212,7 @@ export default {
         ],
       "eng":
         [
-          [{"": ""}]
+          [{"some place else": ""}]
         ]
     },
     { "esp":
@@ -219,7 +223,7 @@ export default {
         ],
       "eng":
         [
-          [{"": ""}]
+          [{"trigger": ""}]
         ]
     },
     { "esp":
@@ -230,7 +234,7 @@ export default {
         ],
       "eng":
         [
-          [{"": ""}]
+          [{"friend": ""}]
         ]
     },
     { "esp":
@@ -242,7 +246,7 @@ export default {
         ],
       "eng":
         [
-          [{"": ""}]
+          [{"needs": ""}]
         ]
     },
     { "esp":
@@ -254,7 +258,7 @@ export default {
         ],
       "eng":
         [
-          [{"": ""}]
+          [{"came up": ""}]
         ]
     },
     { "esp":
@@ -265,7 +269,7 @@ export default {
         ],
       "eng":
         [
-          [{"": ""}]
+          [{"come close": ""}]
         ]
     },
     { "esp":
@@ -278,7 +282,7 @@ export default {
         ],
       "eng":
         [
-          [{"": ""}]
+          [{"your end": ""}]
         ]
     },
     { "esp":
@@ -291,7 +295,7 @@ export default {
         ],
       "eng":
         [
-          [{"": ""}]
+          [{"still standing": ""}]
         ]
     },
     { "esp":
@@ -302,7 +306,7 @@ export default {
         ],
       "eng":
         [
-          [{"": ""}]
+          [{"joking": ""}]
         ]
     },
     { "esp":
@@ -312,37 +316,46 @@ export default {
         ],
       "eng":
         [
-          [{"": ""}]
+          [{"leave": ""}]
         ]
     },
     { "esp":
+        [
+          [{"sin": ""}],
+          [{"mi": "green"},
+           {"e": "red"},
+           {"do": "gold"}]
+        ],
+      "eng":
         [
           [{"no": "gold"}],
           [{"fe": "green"},
            {"ar": "magenta"}]
-        ],
-      "eng":
-        [
-          [{"": ""}]
         ]
     },
     { "esp":
+        [
+          [{"cru": "blue"},
+           {"ce": "red"},
+           {"ro": "gold"}]
+        ],
+      "eng":
         [
           [{"cruise": "blue"}]
-        ],
-      "eng":
-        [
-          [{"": ""}]
         ]
     },
     { "esp":
+        [
+          [{"sen": "red"},
+           {"ti": "green"},
+           {"mi": "green"},
+           {"en": "red"},
+           {"to": "gold"}]
+        ],     
+      "eng":
         [
           [{"fee": "green"},
            {"ling": "green"}]
-        ],
-      "eng":
-        [
-          [{"": ""}]
         ]
     },
     { "esp":
@@ -353,7 +366,7 @@ export default {
         ],
       "eng":
         [
-          [{"": ""}]
+          [{"passion": ""}]
         ]
     },
     { "esp":
@@ -365,19 +378,7 @@ export default {
         ],
       "eng":
         [
-          [{"": ""}]
-        ]
-    },
-    { "esp":
-        [
-          [{"mal": "magenta"},
-           {"cri": "green"},
-           {"a": "magenta"},
-           {"do": "gold"}]
-        ],
-      "eng":
-        [
-          [{"": ""}]
+          [{"rude": ""}]
         ]
     },
     { "esp":
@@ -391,7 +392,7 @@ export default {
         ],
       "eng":
         [
-          [{"": ""}]
+          [{"now theres nothing": ""}]
         ]
     },
     { "esp":
@@ -403,7 +404,7 @@ export default {
         ],
       "eng":
         [
-          [{"": ""}]
+          [{"diamonds": ""}]
         ]
     },
     { "esp":
@@ -412,7 +413,7 @@ export default {
         ],
       "eng":
         [
-          [{"": ""}]
+          [{"flow": ""}]
         ]
     },
     { "esp":
@@ -423,7 +424,7 @@ export default {
         ],
       "eng":
         [
-          [{"": ""}]
+          [{"chill": ""}]
         ]
     },
     { "esp":
@@ -435,7 +436,7 @@ export default {
         ],
       "eng":
         [
-          [{"": ""}]
+          [{"miami": ""}]
         ]
     },
     { "esp":
@@ -448,27 +449,33 @@ export default {
         ],
       "eng":
         [
-          [{"": ""}]
+          [{"latin rhythm": ""}]
         ]
     },
     { "esp":
         [
-          [{"push": "blue"}]
+          [{"em": "red"},
+          {"pu": "blue"},
+          {"ja": "black"}]
         ],
       "eng":
         [
-          [{"": ""}]
+          [{"push": "blue"}]
         ]
     },
     { "esp":
         [
           [{"di": "green"},
-           {"men": "red"},
-           {"sions": "gold"}]
+          {"men": "red"},
+          {"si": "green"},
+          {"o": "gold"},
+          {"nes": "red"}]
         ],
       "eng":
         [
-          [{"": ""}]
+          [{"di": "green"},
+           {"men": "red"},
+           {"sions": "gold"}]
         ]
     },
     { "esp":
@@ -481,7 +488,7 @@ export default {
         ],
       "eng":
         [
-          [{"": ""}]
+          [{"curious": ""}]
         ]
     },
     { "esp":
@@ -491,7 +498,7 @@ export default {
         ],
       "eng":
         [
-          [{"": ""}]
+          [{"mine": ""}]
         ]
     },
     { "esp":
@@ -504,7 +511,7 @@ export default {
         ],
       "eng":
         [
-          [{"": ""}]
+          [{"free yourself": ""}]
         ]
     },
     { "esp":
@@ -514,7 +521,7 @@ export default {
         ],
       "eng":
         [
-          [{"": ""}]
+          [{"rich": ""}]
         ]
     },
     { "esp":
@@ -526,7 +533,7 @@ export default {
         ],
       "eng":
         [
-          [{"": ""}]
+          [{"they critique": ""}]
         ]
     },
     { "esp":
@@ -537,18 +544,21 @@ export default {
         ],
       "eng":
         [
-          [{"": ""}]
+          [{"riches": ""}]
         ]
     },
     { "esp":
         [
           [{"vi": "green"},
            {"si": "green"},
-           {"ons": "gold"}]
+           {"o": "gold"},
+           {"nes": "red"}]
         ],
       "eng":
         [
-          [{"": ""}]
+          [{"vi": "green"},
+          {"si": "green"},
+          {"ons": "gold"}]
         ]
     },
     { "esp":
@@ -560,7 +570,7 @@ export default {
         ],
       "eng":
         [
-          [{"": ""}]
+          [{"doing me": ""}]
         ]
     },
     { "esp":
@@ -572,7 +582,7 @@ export default {
         ],
       "eng":
         [
-          [{"": ""}]
+          [{"dawn": ""}]
         ]
     },
     { "esp":
@@ -583,7 +593,7 @@ export default {
         ],
       "eng":
         [
-          [{"": ""}]
+          [{"youngin": ""}]
         ]
     },
     { "esp":
@@ -595,7 +605,7 @@ export default {
         ],
       "eng":
         [
-          [{"": ""}]
+          [{"careful": ""}]
         ]
     },
     { "esp":
@@ -605,7 +615,7 @@ export default {
         ],
       "eng":
         [
-          [{"": ""}]
+          [{"sexy": ""}]
         ]
     },
     { "esp":
