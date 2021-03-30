@@ -1,31 +1,30 @@
-const path = require("path");
-const HtmlWebpackPlugin = require("html-webpack-plugin");
-const CopyPlugin = require("copy-webpack-plugin");
+const path = require('path');
+const HtmlWebpackPlugin = require('html-webpack-plugin');
+const CopyPlugin = require('copy-webpack-plugin');
 
 module.exports = {
-  entry: "./src/index.js",
+  entry: './src/index.js',
   output: {
-    path: path.resolve(__dirname, "dist"),
-    filename: "index_bundle.js",
-    publicPath: "/",
+    path: path.resolve(__dirname, 'dist'),
+    filename: 'index_bundle.js',
+    publicPath: '/',
   },
   module: {
     rules: [
-      { test: /\.(js)$/, use: "babel-loader" },
-      { test: /\.css$/, use: ["style-loader", "css-loader"] },
+      { test: /\.(js)$/, use: 'babel-loader' },
+      { test: /\.css$/, use: ['style-loader', 'css-loader'] },
     ],
   },
-  mode: process.env.NODE_ENV === "production" ? "production" : "development",
+  mode: process.env.NODE_ENV === 'production' ? 'production' : 'development',
   plugins: [
     new HtmlWebpackPlugin({
-      template: "/src/index.html",
-    })
+      template: '/src/index.html',
+    }),
   ],
   devServer: {
     historyApiFallback: true,
   },
 };
-
 
 // new CopyPlugin({
 //   patterns: [{ from: "/public/_redirects" }],
