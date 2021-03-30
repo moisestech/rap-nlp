@@ -1,15 +1,15 @@
-import React from "react";
-import ReactDOM from "react-dom";
-import "./index.css";
-import { ThemeProvider } from "./contexts/theme";
-import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
-import "./styles/main.css";
+import React from 'react';
+import ReactDOM from 'react-dom';
+import './index.css';
+import { ThemeProvider } from './contexts/theme';
+import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
+import './styles/main.css';
 
-import TopNav from "./components/Nav/TopNav";
-import Batch from "./components/Batch";
-import Batches from "./components/Batches";
+import TopNav from './components/Nav/TopNav';
+import Batch from './components/Batch';
+import Batches from './components/Batches';
 
-import CreatePhrase from "./components/CreatePhrase";
+import CreatePhrase from './components/CreatePhrase';
 
 // Component
 // State
@@ -18,10 +18,10 @@ import CreatePhrase from "./components/CreatePhrase";
 
 class App extends React.Component {
   state = {
-    theme: "light",
+    theme: 'light',
     toggleTheme: () => {
       this.setState(({ theme }) => ({
-        theme: theme === "light" ? "dark" : "lights",
+        theme: theme === 'light' ? 'dark' : 'lights',
       }));
     },
   };
@@ -44,4 +44,4 @@ class App extends React.Component {
   }
 }
 
-ReactDOM.render(<App />, document.getElementById("src"));
+ReactDOM.render(<App />, document.getElementById('src'));
