@@ -723,12 +723,14 @@ export default {
         [
           [{"de": "red"},
            {"men": "red"},
-           {"ted": "red"}]
+           {"te": "red"}]
         ],
       "eng":
         [
-          [{"": ""}]
-        ]
+          [{"de": "red"},
+          {"men": "red"},
+          {"ted": "red"}]
+        ],
     },
     { "esp":
         [
@@ -738,18 +740,20 @@ export default {
         ],
       "eng":
         [
-          [{"": ""}]
+          [{"loyalty": ""}]
         ]
     },
     { "esp":
         [
-          [{"for": "gold"},
-           {"give": "green"}]
+          [{"per": "red"},
+           {"do": "gold"},
+           {"nar": "magenta"}]
         ],
       "eng":
         [
-          [{"": ""}]
-        ]
+          [{"for": "gold"},
+           {"give": "green"}]
+        ],
     },
     { "esp":
         [
