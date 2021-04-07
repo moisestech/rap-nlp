@@ -791,13 +791,15 @@ export default {
     },
     { "esp":
         [
-          [{"bre": "red"},
-           {"ak": "green"}],
-          [{"up": "gold"}]
+          [{"rom": "gold"},
+           {"per": "red"},
+           {"la": "magenta"}]
         ],
       "eng":
         [
-          [{"": ""}]
+          [{"bre": "red"},
+           {"ak": "green"}],
+          [{"up": "gold"}]
         ]
     },
     { "esp":
