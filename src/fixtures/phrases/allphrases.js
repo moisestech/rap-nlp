@@ -679,7 +679,7 @@ export default {
         ],
       "eng":
         [
-          [{"": ""}]
+          [{"light it up": ""}]
         ]
     },
     { "esp":
