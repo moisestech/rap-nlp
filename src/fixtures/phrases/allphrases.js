@@ -874,7 +874,7 @@ export default {
         ],
       "eng":
         [
-          [{"": ""}]
+          [{"only mine": ""}]
         ]
     },
     { "esp":
