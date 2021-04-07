@@ -954,7 +954,7 @@ export default {
         ],
       "eng":
         [
-          [{"": ""}]
+          [{"mambo": ""}]
         ]
     },
     { "esp":
