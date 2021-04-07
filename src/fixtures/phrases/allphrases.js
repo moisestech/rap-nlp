@@ -1025,7 +1025,7 @@ export default {
         ],
       "eng":
         [
-          [{"": ""}]
+          [{"perfect": ""}]
         ]
     },
     { "esp":
