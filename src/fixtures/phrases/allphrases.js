@@ -626,7 +626,7 @@ export default {
         ],
       "eng":
         [
-          [{"": ""}]
+          [{"the best": ""}]
         ]
     },
     { "esp":
@@ -637,7 +637,7 @@ export default {
         ],
       "eng":
         [
-          [{"": ""}]
+          [{"dimelo": ""}]
         ]
     },
     { "esp":
@@ -648,7 +648,7 @@ export default {
         ],
       "eng":
         [
-          [{"": ""}]
+          [{"sensual": ""}]
         ]
     },
     { "esp":
@@ -658,7 +658,7 @@ export default {
         ],
       "eng":
         [
-          [{"": ""}]
+          [{"veneno": ""}]
         ]
     },
     { "esp":
@@ -668,7 +668,7 @@ export default {
         ],
       "eng":
         [
-          [{"": ""}]
+          [{"hard": ""}]
         ]
     },
     { "esp":
