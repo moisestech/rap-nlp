@@ -809,7 +809,7 @@ export default {
         ],
       "eng":
         [
-          [{"": ""}]
+          [{"bon bon": ""}]
         ]
     },
     { "esp":
