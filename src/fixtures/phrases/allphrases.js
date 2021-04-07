@@ -835,11 +835,12 @@ export default {
     },
     { "esp":
         [
-          [{"beef": "green"}]
+          [{"car": "magenta"},
+           {"ne": "red"}]
         ],
       "eng":
         [
-          [{"": ""}]
+          [{"beef": "green"}]
         ]
     },
     { "esp":
