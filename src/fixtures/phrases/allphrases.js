@@ -901,13 +901,15 @@ export default {
     },
     { "esp":
         [
-          [{"bad": "magenta"}],
-          [{"luv": "gold"}]
+          [{"mal": ""}],
+          [{"a": ""},
+           {"mor": ""}]
         ],
       "eng":
         [
-          [{"": ""}]
-        ]
+          [{"bad": "magenta"}],
+          [{"luv": "gold"}]
+        ],
     },
     { "esp":
         [
