@@ -856,11 +856,13 @@ export default {
     },
     { "esp":
         [
-          [{"talk": "magenta"}]
+          [{"ha": "magenta"},
+           {"bla": "magenta"},
+           {"me": "red"}]
         ],
       "eng":
         [
-          [{"": ""}]
+          [{"talk": "magenta"}]
         ]
     },
     { "esp":
