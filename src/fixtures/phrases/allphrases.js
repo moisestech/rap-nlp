@@ -763,7 +763,7 @@ export default {
         ],
       "eng":
         [
-          [{"": ""}]
+          [{"repeat": ""}]
         ]
     },
     { "esp":
