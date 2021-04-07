@@ -1014,7 +1014,7 @@ export default {
         ],
       "eng":
         [
-          [{"": ""}]
+          [{"see you later": ""}]
         ]
     },
     { "esp":
