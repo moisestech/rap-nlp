@@ -885,7 +885,7 @@ export default {
         ],
       "eng":
         [
-          [{"": ""}]
+          [{"gypsy": ""}]
         ]
     },
     { "esp":
@@ -896,7 +896,7 @@ export default {
         ],
       "eng":
         [
-          [{"": ""}]
+          [{"chemical": ""}]
         ]
     },
     { "esp":
