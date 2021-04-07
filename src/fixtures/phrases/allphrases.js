@@ -992,14 +992,17 @@ export default {
     },
     { "esp":
         [
+          [{"no": "gold"}],
+          [{"mi": "green"},
+           {"en": "red"},
+           {"to": "gold"}]
+        ],
+      "eng":
+        [
           [{"n": "gold"},
            {"o": "blue"}],
           [{"cap":"magenta"}]
         ],
-      "eng":
-        [
-          [{"": ""}]
-        ]
     },
     { "esp":
         [
