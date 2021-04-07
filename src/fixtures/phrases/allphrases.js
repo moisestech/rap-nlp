@@ -920,19 +920,21 @@ export default {
         ],
       "eng":
         [
-          [{"": ""}]
+          [{"ambition": ""}]
         ]
     },
     { "esp":
         [
-          [{"f": "green"},
-           {"u": "blue"},
-           {"ture": "red"}]
+          [{"fu": "blue"},
+           {"tu": "blue"},
+           {"ro": "gold"}]
         ],
       "eng":
         [
-          [{"": ""}]
-        ]
+          [{"f": "green"},
+          {"u": "blue"},
+          {"ture": "red"}]
+        ],
     },
     { "esp":
         [
@@ -942,7 +944,7 @@ export default {
         ],
       "eng":
         [
-          [{"": ""}]
+          [{"merengue": ""}]
         ]
     },
     { "esp":
