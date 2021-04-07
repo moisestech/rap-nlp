@@ -702,7 +702,7 @@ export default {
         ],
       "eng":
         [
-          [{"": ""}]
+          [{"wish": ""}]
         ]
     },
     { "esp":
