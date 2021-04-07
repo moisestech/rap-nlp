@@ -820,7 +820,7 @@ export default {
         ],
       "eng":
         [
-          [{"": ""}]
+          [{"no fear": ""}]
         ]
     },
     { "esp":
@@ -830,7 +830,7 @@ export default {
         ],
       "eng":
         [
-          [{"": ""}]
+          [{"bad": ""}]
         ]
     },
     { "esp":
