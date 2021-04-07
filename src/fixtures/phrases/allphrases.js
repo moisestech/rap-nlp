@@ -684,13 +684,15 @@ export default {
     },
     { "esp":
         [
-          [{"bur": "gold"},
-           {"ning": "green"}]
+          [{"que": "red"},
+           {"man": "magenta"},
+           {"do": "gold"}]
         ],
       "eng":
         [
-          [{"": ""}]
-        ]
+          [{"bur": "gold"},
+           {"ning": "green"}]
+        ],
     },
     { "esp":
         [
