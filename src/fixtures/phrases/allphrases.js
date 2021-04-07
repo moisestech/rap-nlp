@@ -851,7 +851,7 @@ export default {
         ],
       "eng":
         [
-          [{"": ""}]
+          [{"bullish": ""}]
         ]
     },
     { "esp":
